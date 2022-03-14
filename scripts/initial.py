@@ -1,3 +1,16 @@
+"""
+Dora Akbulut
+
+Dummy experimental code for the NLP pipeline.
+
+Input:
+Input format: 
+
+Output:
+Output format:
+
+"""
+
 from gensim.models import FastText
 from gensim.test.utils import common_texts  # some example sentences
 

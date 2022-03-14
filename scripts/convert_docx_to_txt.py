@@ -1,9 +1,18 @@
-# import pypandoc
+"""
 
-# # Example file:
-# docxFilename = 'files\input\6. SINIF MATEMATİK SESLENDİRME YENİ (2).docx'
-# output = pypandoc.convert_file(docxFilename, 'plain', outputfile= docxFilename[:-5]+".txt")
-# assert output == ""
+Dora Akbulut
+
+Step 0 of the NLP pipeline. Converts .docx files into .txt files.
+
+Input: Texts of MORPA or Wikipedia.
+Input format: .docx
+Read folder: input_docx
+
+Output: Texts of MORPA or Wikipedia.
+Output format: .txt
+Output to: input_txt
+
+"""
 
 import aspose.words as aw
 from os import path

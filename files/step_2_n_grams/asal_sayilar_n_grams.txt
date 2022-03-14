@@ -1,0 +1,414 @@
+ASAL
+SAYILAR
+Yalnızca
+1’e
+ve
+kendisine
+bölünebilen
+1’den
+büyük
+doğal
+sayılara
+asal
+sayılar
+denir
+Erastosthenes
+(Eratostanes)
+Yunanlı
+bir
+matematikçi
+coğrafyacı
+ve
+astronomdur
+Erastosthenes
+(Eratostanes)
+kendi
+adıyla
+anılan
+kalbur
+yardımıyla
+iki
+sayı
+arasındaki
+asal
+sayıları
+bulmak
+için
+bir
+yöntem
+geliştirmiştir
+Şimdi
+Erastosthenes
+(Eratostanes)
+kalburunu
+kullanarak
+1
+ile
+100
+arasındaki
+asal
+sayıları
+belirleyelim1
+sayı
+birimi
+olduğundan
+asal
+sayı
+değildir
+1’e
+çarpı
+işareti
+koyalım
+2
+sayısını
+boyayalım
+ve
+2’nin
+katı
+olan
+sayılara
+çarpı
+işareti
+koyalım
+3
+sayısını
+boyayalım
+ve
+3’ün
+katı
+olan
+sayılara
+çarpı
+işareti
+koyalım
+5
+sayısını
+boyayalım
+ve
+5’in
+katı
+olan
+sayılara
+çarpı
+işareti
+koyalım
+7
+sayısını
+boyayalım
+ve
+7’nin
+katı
+olan
+sayılara
+çarpı
+işareti
+koyalım
+Geriye
+kalan
+tüm
+sayıları
+boyadığımızda
+elde
+ettiğimiz
+boyalı
+sayılar
+asal
+sayılardır
+Asal
+sayıların
+bölenleri
+yalnızca
+1
+ve
+kendisidir
+En
+küçük
+asal
+sayı
+2’dir
+2’nin
+haricindeki
+tüm
+asal
+sayılar
+tektir
+Sadece
+2
+çift
+asal
+sayıdır
+ASAL SAYILAR
+SAYILAR Yalnızca
+Yalnızca 1’e
+1’e ve
+ve kendisine
+kendisine bölünebilen
+bölünebilen 1’den
+1’den büyük
+büyük doğal
+doğal sayılara
+sayılara asal
+asal sayılar
+sayılar denir
+denir Erastosthenes
+Erastosthenes (Eratostanes)
+(Eratostanes) Yunanlı
+Yunanlı bir
+bir matematikçi
+matematikçi coğrafyacı
+coğrafyacı ve
+ve astronomdur
+astronomdur Erastosthenes
+Erastosthenes (Eratostanes)
+(Eratostanes) kendi
+kendi adıyla
+adıyla anılan
+anılan kalbur
+kalbur yardımıyla
+yardımıyla iki
+iki sayı
+sayı arasındaki
+arasındaki asal
+asal sayıları
+sayıları bulmak
+bulmak için
+için bir
+bir yöntem
+yöntem geliştirmiştir
+geliştirmiştir Şimdi
+Şimdi Erastosthenes
+Erastosthenes (Eratostanes)
+(Eratostanes) kalburunu
+kalburunu kullanarak
+kullanarak 1
+1 ile
+ile 100
+100 arasındaki
+arasındaki asal
+asal sayıları
+sayıları belirleyelim1
+belirleyelim1 sayı
+sayı birimi
+birimi olduğundan
+olduğundan asal
+asal sayı
+sayı değildir
+değildir 1’e
+1’e çarpı
+çarpı işareti
+işareti koyalım
+koyalım 2
+2 sayısını
+sayısını boyayalım
+boyayalım ve
+ve 2’nin
+2’nin katı
+katı olan
+olan sayılara
+sayılara çarpı
+çarpı işareti
+işareti koyalım
+koyalım 3
+3 sayısını
+sayısını boyayalım
+boyayalım ve
+ve 3’ün
+3’ün katı
+katı olan
+olan sayılara
+sayılara çarpı
+çarpı işareti
+işareti koyalım
+koyalım 5
+5 sayısını
+sayısını boyayalım
+boyayalım ve
+ve 5’in
+5’in katı
+katı olan
+olan sayılara
+sayılara çarpı
+çarpı işareti
+işareti koyalım
+koyalım 7
+7 sayısını
+sayısını boyayalım
+boyayalım ve
+ve 7’nin
+7’nin katı
+katı olan
+olan sayılara
+sayılara çarpı
+çarpı işareti
+işareti koyalım
+koyalım Geriye
+Geriye kalan
+kalan tüm
+tüm sayıları
+sayıları boyadığımızda
+boyadığımızda elde
+elde ettiğimiz
+ettiğimiz boyalı
+boyalı sayılar
+sayılar asal
+asal sayılardır
+sayılardır Asal
+Asal sayıların
+sayıların bölenleri
+bölenleri yalnızca
+yalnızca 1
+1 ve
+ve kendisidir
+kendisidir En
+En küçük
+küçük asal
+asal sayı
+sayı 2’dir
+2’dir 2’nin
+2’nin haricindeki
+haricindeki tüm
+tüm asal
+asal sayılar
+sayılar tektir
+tektir Sadece
+Sadece 2
+2 çift
+çift asal
+asal sayıdır
+ASAL SAYILAR Yalnızca
+SAYILAR Yalnızca 1’e
+Yalnızca 1’e ve
+1’e ve kendisine
+ve kendisine bölünebilen
+kendisine bölünebilen 1’den
+bölünebilen 1’den büyük
+1’den büyük doğal
+büyük doğal sayılara
+doğal sayılara asal
+sayılara asal sayılar
+asal sayılar denir
+sayılar denir Erastosthenes
+denir Erastosthenes (Eratostanes)
+Erastosthenes (Eratostanes) Yunanlı
+(Eratostanes) Yunanlı bir
+Yunanlı bir matematikçi
+bir matematikçi coğrafyacı
+matematikçi coğrafyacı ve
+coğrafyacı ve astronomdur
+ve astronomdur Erastosthenes
+astronomdur Erastosthenes (Eratostanes)
+Erastosthenes (Eratostanes) kendi
+(Eratostanes) kendi adıyla
+kendi adıyla anılan
+adıyla anılan kalbur
+anılan kalbur yardımıyla
+kalbur yardımıyla iki
+yardımıyla iki sayı
+iki sayı arasındaki
+sayı arasındaki asal
+arasındaki asal sayıları
+asal sayıları bulmak
+sayıları bulmak için
+bulmak için bir
+için bir yöntem
+bir yöntem geliştirmiştir
+yöntem geliştirmiştir Şimdi
+geliştirmiştir Şimdi Erastosthenes
+Şimdi Erastosthenes (Eratostanes)
+Erastosthenes (Eratostanes) kalburunu
+(Eratostanes) kalburunu kullanarak
+kalburunu kullanarak 1
+kullanarak 1 ile
+1 ile 100
+ile 100 arasındaki
+100 arasındaki asal
+arasındaki asal sayıları
+asal sayıları belirleyelim1
+sayıları belirleyelim1 sayı
+belirleyelim1 sayı birimi
+sayı birimi olduğundan
+birimi olduğundan asal
+olduğundan asal sayı
+asal sayı değildir
+sayı değildir 1’e
+değildir 1’e çarpı
+1’e çarpı işareti
+çarpı işareti koyalım
+işareti koyalım 2
+koyalım 2 sayısını
+2 sayısını boyayalım
+sayısını boyayalım ve
+boyayalım ve 2’nin
+ve 2’nin katı
+2’nin katı olan
+katı olan sayılara
+olan sayılara çarpı
+sayılara çarpı işareti
+çarpı işareti koyalım
+işareti koyalım 3
+koyalım 3 sayısını
+3 sayısını boyayalım
+sayısını boyayalım ve
+boyayalım ve 3’ün
+ve 3’ün katı
+3’ün katı olan
+katı olan sayılara
+olan sayılara çarpı
+sayılara çarpı işareti
+çarpı işareti koyalım
+işareti koyalım 5
+koyalım 5 sayısını
+5 sayısını boyayalım
+sayısını boyayalım ve
+boyayalım ve 5’in
+ve 5’in katı
+5’in katı olan
+katı olan sayılara
+olan sayılara çarpı
+sayılara çarpı işareti
+çarpı işareti koyalım
+işareti koyalım 7
+koyalım 7 sayısını
+7 sayısını boyayalım
+sayısını boyayalım ve
+boyayalım ve 7’nin
+ve 7’nin katı
+7’nin katı olan
+katı olan sayılara
+olan sayılara çarpı
+sayılara çarpı işareti
+çarpı işareti koyalım
+işareti koyalım Geriye
+koyalım Geriye kalan
+Geriye kalan tüm
+kalan tüm sayıları
+tüm sayıları boyadığımızda
+sayıları boyadığımızda elde
+boyadığımızda elde ettiğimiz
+elde ettiğimiz boyalı
+ettiğimiz boyalı sayılar
+boyalı sayılar asal
+sayılar asal sayılardır
+asal sayılardır Asal
+sayılardır Asal sayıların
+Asal sayıların bölenleri
+sayıların bölenleri yalnızca
+bölenleri yalnızca 1
+yalnızca 1 ve
+1 ve kendisidir
+ve kendisidir En
+kendisidir En küçük
+En küçük asal
+küçük asal sayı
+asal sayı 2’dir
+sayı 2’dir 2’nin
+2’dir 2’nin haricindeki
+2’nin haricindeki tüm
+haricindeki tüm asal
+tüm asal sayılar
+asal sayılar tektir
+sayılar tektir Sadece
+tektir Sadece 2
+Sadece 2 çift
+2 çift asal
+çift asal sayıdır
