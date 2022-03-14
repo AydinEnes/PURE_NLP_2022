@@ -1,0 +1,175 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
+KADIN SANATÇI
+ERKEK SANATÇI               
+
+                         6. SINIF MATEMATİK SESLENDİRME 
+
+1. ÜNİTE
+3.KONU: ASAL SAYILAR
+       1. EKRAN
+ASAL SAYILAR
+Yalnızca 1’e ve kendisine bölünebilen 1’den büyük doğal sayılara asal sayılar denir. Erastosthenes (Eratostanes) Yunanlı bir matematikçi, coğrafyacı ve astronomdur. Erastosthenes (Eratostanes), kendi adıyla anılan kalbur yardımıyla iki sayı arasındaki asal sayıları bulmak için bir yöntem geliştirmiştir. Şimdi Erastosthenes (Eratostanes) kalburunu kullanarak 1 ile 100 arasındaki asal sayıları belirleyelim.1 sayı birimi olduğundan asal sayı değildir. 1’e çarpı işareti koyalım. 
+2 sayısını boyayalım ve 2’nin katı olan sayılara çarpı işareti koyalım. 
+3 sayısını boyayalım ve 3’ün katı olan sayılara çarpı işareti koyalım.
+5 sayısını boyayalım ve 5’in katı olan sayılara çarpı işareti koyalım. 
+7 sayısını boyayalım ve 7’nin katı olan sayılara çarpı işareti koyalım.
+Geriye kalan tüm sayıları boyadığımızda elde ettiğimiz boyalı sayılar asal sayılardır. 
+UNUTMAYALIM!
+Asal sayıların bölenleri yalnızca 1 ve kendisidir.
+En küçük asal sayı 2’dir. 2’nin haricindeki tüm asal sayılar tektir. Sadece 2 çift asal sayıdır. 
+
+4.KONU: ASAL ÇARPANLAR 
+   1. EKRAN
+ASAL ÇARPANLAR
+Bir sayıyı asal çarpanları şeklinde yazmaya çarpanlara ayırma denir. 72 sayısının asal çarpanlarını bulalım. 72 sayısı, 2 ve 36’nın çarpımına eşittir. Bu çarpanlardan 2 asal sayıdır ama 36 asal sayı değildir. 2’yi 72’nin asal çarpanlarına yazıp devam edelim. 
+36 sayısı 2 ve 18’in çarpımına eşittir. Bu çarpanlardan 2 asal sayıdır ama 18 asal sayı değildir. 2’yi 72’nin asal çarpanlarına yazıp devam edelim. 
+18 sayısı 2 ve 9’un çarpımına eşittir. Bu çarpanlardan 2 asal sayıdır ama 9 asal sayı değildir. 2 sayısını 72’nin asal çarpanlarına yazıp devam edelim. 
+9 sayısı 3 ve 3’ün çarpımına eşittir. Her iki çarpan da asal sayı olduğundan 72’nin asal çarpanlarına yazabiliriz. 
+Görüldüğü gibi 72’nin asal çarpanları 2 ve 3’tür. 72’nin asal çarpanlarına ayrılmış hâli şöyledir: 2 çarpı 2 çarpı 2 çarpı 3 çarpı 3. Üslü sayılarda gördüğümüz şekilde yazmak istersek iki üzeri üç çarpı üç üzeri iki şeklinde yazabiliriz.
+
+2. EKRAN
+72 sayısının asal çarpanlarını farklı bir yöntemle belirleyelim. 
+72 sayısını en küçük asal sayıdan başlayarak tam bölünüp bölünmediğine bakalım. 2 ile bölünmeyene kadar bölme işlemine devam edelim. Daha sonra bu işlemi sırasıyla asal sayılar için devam ettirelim. 72, 2’ye tam bölünür; sonuç 36 olur. 36, 2’ye tam bölünür ve sonuç 18 olur. 18, 2’ye tam bölünür, sonuç 9 olur. 9, 2 ile bölünemez; 2’den sonra gelen asal sayı 3’tür. 9, 3’e tam bölünür; sonuç 3 olur. 3, 3’e bölünür ve sonuç 1 olur. 
+Görüldüğü gibi 72 sayısının asal çarpanlarını bulduk. 72 eşittir 2 çarpı 2 çarpı 2 çarpı 3 çarpı 3 ya da 72 eşittir 2 üzeri 3 çarpı 3 üzeri 2 şeklinde yazılabilir. 
+
+5. KONU: ORTAK BÖLENLER VE KATLAR
+
+1. EKRAN
+ORTAK BÖLENLER VE ORTAK KATLAR
+24 ve 32 sayılarının ortak bölenlerini bulalım. 
+Önce 24 sayısının bölenlerini bulalım. Unutmayalım ki bir sayının çarpanları aynı zamanda o sayının bölenleridir.
+Çarpımları 24 olan sayıları belirleyelim. 1 çarpı 24, 2 çarpı 12, 3 çarpı 8 ve 4 çarpı 6 çarpımı 24 olan sayılardır. 
+1, 2, 3, 4, 6, 8, 12 ve 24 sayıları 24’ün bölenleridir. 
+Şimdi 32 sayısının bölenlerini bulalım. Çarpımı 32 olan sayılar; 1 çarpı 32 eşittir 32, 2 çarpı 16 eşittir 32, 4 çarpı 8 eşittir 32’dir. 
+1, 2, 4, 8, 16, 32 sayıları 32 sayısının bölenleridir. Şimdi iki sayının bölenlerinden ortak olanları işaretleyelim. Görüldüğü gibi her iki sayıya ait bölenler 1, 2, 4 ve 8’dir. Bu sayılara 24 ve 32 sayılarının ortak bölenleri denir. 24 ve 32’nin ortak bölenleri 1, 2, 4 ve 8’dir.
+
+2. EKRAN
+16 ve 24 sayılarının ortak katlarını bulalım. 
+Bir sayının katları o sayının sayma sayılarla çarpılması ile elde edilir.
+16’nın katlarını yazalım. 16, 32, 48, 64, 80, 96, 112, 128, 144 şeklinde devam eder.
+24’ün katlarını yazalım. 24, 48, 72, 96, 120, 144, 186, 192 şeklinde devam eder. 
+Şimdi ortak olan katları işaretleyelim. 
+16 ve 24’ün ortak katları 48, 96 ve 144’tür.
+UNUTMAYALIM!
+Sayma sayıları sonsuza kadar gittiğinden bir sayının sonsuz tane katı vardır. 
+Burada 16 ve 24’ün katlarının, belirli bir sayının katı olarak devam ettiğini fark ettiniz mi?
+
+3. EKRAN
+Bakkal Osman Bey elinde bulunan 32 kilogram ve 40 kilogramlık birbirinden farklı türden pirinç bulunan çuvallardaki pirinçleri birbirine karıştırmadan ve pirinçler hiç artmadan hepsini aynı ağırlıkta paketlemek istiyor. Osman Bey’in kaç kilogramlık paketler yapabileceğini bulalım. Öncelikle Osman Bey’in yapacağı paketler birbirleriyle aynı ağırlıkta olmalı ve pirinçler birbirlerine karıştırılmamalı. O zaman 32 ve 40 sayılarının ortak bölenlerini bulmamız gerekir. Bulduğumuz bu ortak bölenler Osman Bey’in kaçar kilogramlık paketler yapabileceğini gösterecektir. 
+32 sayısının çarpanlarını bulalım ve bir sayının çarpanlarının o sayının aynı zamanda da bölenleri olduğunu da unutmayalım. 32 sayısının çarpanları: 1, 2, 4, 8, 16 ve 32’dir. 40 sayısının çarpanlarını bulalım. 40 sayısının çarpanları: 1, 2, 4, 5, 8, 10, 20 ve 40’tır. 40 ve 32 sayılarının çarpanlarını bulalım. 32 ve 40 sayısının çarpanlarına baktığımızda ortak olan çarpanlar: 1, 2, 4 ve 8’dir. Buna göre Osman Bey, 1, 2, 4 ve 8 kilogramlık paketler yaparsa pirinçler hiç artmayacak ve birbirine karışmayacak şekilde paketler yapmış olur. 
+
+4. EKRAN
+Aynı limanda çalışan iki gemiden birincisi 4 günde bir sefer düzenlemekte, ikinci gemi ise 6 günde bir sefere çıkmaktadır. Bu gemiler aynı anda sefere çıktıktan sonra birlikte çıkacakları üç seferin kaçar gün sonra olacağını bulalım.
+Birinci gemi başlangıçtan sonra 4, 8, 12, 16, 20, 24, 28, 32, 36 gün sonrasında sefere çıkmaktadır. Burada dikkat edilmesi gereken geminin seferlerinin dördün katı olan günlerde yaptığıdır. Buna göre ikinci gemi ise seferlerini altının katları olan günlerde yapacaktır. İkinci gemi seferlerini başlangıçtan 6, 12, 18, 24, 30, 36, 48, 60, 66, 72 gün sonra yapacaktır. Başlangıç ortak olduğuna göre bu gemilerin tekrar sefer çıkacağı günler 4 ve 6’nın katları olacaktır. Buna göre 4 ve 6’nın ortak katları 12, 24 ve 36 olur. Bu iki gemi birlikte yapacakları üç seferi 12, 24 ve 36 gün sonra yapacaklardır.
+
+2.ÜNİTE
+2. KONU: KESİRLERLE TOPLAMA VE ÇIKARMA İŞLEMİ
+1. EKRAN
+Kesirlerde toplama ve çıkarma işlemlerinin yapılabilmesi için kesirlerin birimlerinin aynı olması gerekir. Kesir birimleri eşit olmayan kesirlerde toplama ve çıkarma işleminin yapılabilmesi için kesirler genişletilerek paydaların eşitlenmesi yani kesirlerin aynı birimde yazılması gerekir.
+1 bölü 2 artı 1 bölü 3 işleminin sonucunu bulalım. 1 bölü 2 kesrini 3 ile genişletirsek 3 bölü 6 kesrini elde ederiz. 1 bölü 3 kesrini 2 ile genişletirsek 2 bölü 6 kesrini elde ederiz. Paydalar eşitlendiğinden artık kesirlerde aynı birimdedir. Şimdi toplama işlemini yapabiliriz. Paydaları eşit olan ifadelerde paylar toplanır ve paya yazılır. 3 artı 2 eşittir 5. 5’i paya yazıyoruz. Payda kesir birimini ifade ettiğinden ortak payda 6 ise aynen yazılır. 
+Bu işlemi modellediğimizde 1 bölü 2 ve 1 bölü 3 kesirlerinin paydalarını eşitleyerek 3 bölü 6 ve 2 bölü 6 şeklinde genişletmiştik. Paydalarını eşitlediğimiz kesirlerin modellerini toplarken birinin bittiği noktayla birinin başladığı nokta aynı hizaya getirilir ve daha sonra bu kesirlerin boyalı kısımları birleştirilerek toplamı alınmış olur. Görüldüğü gibi işlemin sonucu 5 bölü 6’dır.
+2.EKRAN
+Kesirlerde çıkarma işlemi modellenirken önce paydalara göre iki kesir modellenir. Daha sonra kesirlerin boyalı kısımlarının bitim noktaları aynı hizaya getirilir. Kesirlerin boyalı kısımlarının bitim noktaları aynı hizaya getirilir. İlk kesirden ikinci kesrin farkı olan boyalı kısım alınır. Kalan boyalı kısmın ifade ettiği kesir farkı verir.
+2 bölü 3 eksi 3 bölü 5 işlemini modelleyerek yapalım. 2 bölü 3 ve 3 bölü 5 kesirlerinin eşit paydalı denkleri sırasıyla 10 bölü 15 ve 9 bölü 15’tir. Modellenerek yapılan işlemde 10 bölü 15 eksi 9 bölü 15 eşittir 1 bölü 15 kesrini elde ederiz. 
+
+3.EKRAN
+
+3 bölü 5 artı 2 bölü 3 işlemini yapalım.
+3 bölü 5 ve 2 bölü 3 kesirleri genişletilerek eşit paydalı denklerinin yazılması gerekir. 
+İlk kesrin pay ve paydasını 3 ile ikinci kesrin paydasını 5 ile genişlettiğimizde 9 bölü 15 ve 10 bölü 15 kesirlerine ulaşırız. 
+Paydaları eşit kesirlerin toplama işleminde paylar toplanarak paya, paydalarsa aynen paydaya yazılır. 9 bölü 15 artı 10 bölü 15 eşittir 19 bölü 15 eder.
+
+4.EKRAN
+1 bölü 2 eksi 3 bölü 7 işlemini yapalım. Kesirlerin paydasını 2 ve 7’nin ortak katlarında eşitleyelim. 2 ve 7’nin en küçük ortak katı 14’tür. İlk kesrin pay ve paydasını 7 ile ikinci kesrin pay ve paydasını 2 ile genişlettiğimizde 7 bölü 14 ve 6 bölü 14 kesirlerin ulaşırız.
+Paydaları eşit olan kesirlerin çıkarma işleminde paylar birbirinden çıkarılır, payda aynen paydaya yazılır. 7 bölü 14 eksi 6 bölü 14 eşittir 1 bölü 14 eder.
+2 tam 1 bölü 3 artı 1 bölü 2 işleminin sonucunu bulalım.
+İşlemin yapılabilmesi için 2 tam 1 bölü 3 tam sayılı kesrinin bileşik kesre çevrilmesi gerekir. 2 tam 1 bölü 3 kesri, bileşik kesre çevrilirken paydası olan 3 ile tamı olan 2 çarpılır. 2 çarpı 3 eşittir 6’dır. Bulunan sonuca pay eklenir, elde edilen değer paya yazılır. 6 artı 1 eşittir 7 olur, pay 7’dir. Payda ise aynen yazılır. 2 tam 1 bölü 3 tam sayılı kesrinin bileşik kesre çevrilmiş hâli 7 bölü 3’e eşittir. İşlemimiz 7 bölü 3 artı 1 bölü 2 olarak yazılır. Verilen kesirlerin toplanabilmesi için kesirlerin genişletilerek eşit paydada olan denklerinin yazılması gerekir. Paydaların eşitlenebilmesi için 7 bölü 3 kesri 2 ile 1 bölü 3 kesri 3 ile genişletilmelidir. Genişletme işlemi yapıldığında işlem 14 bölü 6 artı 3 bölü 6 oldu. Paydalar eşit olduğundan paylar toplanır, 14 artı 3 eşittir 17 olur. Pay 17’dir, payda ise aynen yazılır. 17 bölü 6 işlemin sonucu olur. 
+
+3.KONU: BİR DOĞAL SAYI İLE BİR KESRİ ÇARPMA
+1. EKRAN
+BİR DOĞAL SAYI İLE BİR KESRİN ÇARPIMI
+Günde yarım ekmek tüketen Aslı’nın bir haftada kaç ekmek tüketeceğini bulalım.
+1 ekmek modelleyelim ve yarısını boyayalım. Boyalı kısım 1 bölü 2’lik kesri modellemektedir. 
+Bir hafta 7 gün olduğu için bu modellerden yedi tane çizelim. 
+Tüm boyalı kısımları bulmak için 2’de 1’lik kesirlerden yedi tane olduğundan yedi tane 1 bölü 2’yi toplarız. 1 bölü 2 artı 1 bölü 2 artı 1 bölü 2 artı 1 bölü 2 artı 1 bölü 2 artı 1 bölü 2 artı 1 bölü 2 artı eşittir 7 bölü 2. 
+Bu işlemi 2 ile 1 bölü 2’yi çarparak da yapabiliriz. 7 çarpı 1 bölü 2 eşittir 7 bölü 2 olur.
+
+2.EKRAN 
+10 TL’nin 5’te 3’ünün kaç TL olduğunu bulalım. 10 TL’nin 5’te 3’ünü modelleyelim. 10 TL’yi 1 liralık madenî paralarla gösterelim. 
+10 TL’nin tamamı, 10 TL’nin beşte üçlük kısmı. Her gruba eş miktarda 1 TL düşecek şekilde beş gruba ayıralım. Bu gruplardan üç tanesinde yer alan madenî paraların toplamı, 10 TL’nin beşte üçlük kısmını verir. 10 TL’nin 5’te 3’lük kısmı da 6 TL’dir.
+Bir bütünün belirtilen kesir kadarını bulmak için bütünü gösteren sayı ile kesir çarpılır. 
+10 TL’nin 3 bölü 5’ini 10 çarpı 3 bölü 5 eşittir 10 bölü 1 çarpı 3 bölü 5 eşittir 10 çarpı 3 bölü 1 çarpı 5 eşittir 30 bölü 5 eşittir 6 TL olarak buluruz.
+3.EKRAN 
+75 cevizi olan Koray’ın cevizlerinin 2 tam 3 bölü 5’i kadar cevizi olan Arda’nın kaç cevizi olduğunu bulalım. 
+75 cevizin 2 tam 3 bölü 5’ini bulalım. Bunun için 75 ile 2 tam 3 bölü 5’i çarpalım. İşlemi yapabilmek için tam sayılı kesri, bileşik kesre çevirelim. 2 tam 3 bölü 5 kesri 13 bölü 5 bileşik kesrine eşit olduğundan 75 çarpı 13 bölü 5 olur. 75’le 5’i sadeleştirdiğimizde 15 çarpı 13’ten sonuç 195 olarak bulunur. Demek ki Arda’nın 195 cevizi vardır.
+
+       4.EKRAN 
+6 doğal sayısını 3 bölü 3 kesriyle çarpalım. 6 sayısını paydası 1 olan kesir şeklinde yazabiliriz. Çarpma işlemi yapılırken payları çarpıp paya, paydaları çarpıp paydaya yazarız. 6 çarpı 2 12’ye eşittir. 3 çarpı 1 3’e eşittir. İşlemin sonucu 12 bölü 3 kesrine eşit oldu. 12 bölü 3 sadeleştiğinde 4’e eşittir. 6 doğal sayısını şimdi de 4 bölü 3 kesriyle çarpalım. 6 çarpı 4, 24’e eşittir. 3 çarpı 1, 3’e eşittir. İşlemin sonucu 24 bölü 3 kesrine eşit oldu. 24 bölü 3 sadeleştiğinde 8’e eşittir. 2 bölü 3 kesri 1’den küçük bir kesirdir ve 6’nın 2 bölü 3 ile çarpımı kendisinden küçük olan 4 sayısına eşittir. 4 bölü 3 kesri 1’den büyük bir kesirdir ve 6’nın 4 bölü 3 ile çarpımı kendisinden büyük olan 8 sayısına eşittir. Görüldüğü gibi 0’dan büyük bir doğal sayının 1’den büyük bir kesirle çarpımı, kendinden büyük bir sayıya; 1’den küçük bir kesirle çarpımı, kendisinden küçük bir sayıya eşittir.
+
+4.KONU: KESİRLERLE ÇARPMA İŞLEMİ
+       1. EKRAN 
+KESİRLERLE ÇARPMA İŞLEMİ
+Kesirlerde çarpma işlemi yapılırken paylar çarpılarak paya, paydalar çarpılarak paydaya yazılır ve işlemde varsa sadeleştirme yapılır. Bu işlemi bir eşitlik olarak gösterecek olursak a bölü b çarpı c bölü d eşittir a çarpı c bölü b çarpı d olarak yazılabilir. 3 bölü 5 kesri ile 1 bölü 2 kesrini çarpalım. Verilen işlemde paylar çarpılıp paya yazılır. 3 çarpı 1 eşittir 3. Paydalar çarpılıp paydaya yazılır. 5 çarpı 2 eşittir 10 olarak yazılır. İşlemimizin sonucu 3 bölü 10’a eşittir. 
+
+
+2.EKRAN
+3 bölü 5 ve 1 bölü 4 kesirlerini modelleme yaparak çarpalım. 3 bölü 5 kesrini dikey olarak beş eşit bölgeye ayrılmış, bir bütünün boyalı üç bölgesi şeklinde modelleyelim. 1 bölü 4 kesri için aynı modeli yatay olarak dört eşit bölgeye ayırıp bir bölgesini boyayalım. Çift renkli bölge 3 bölü 5 kesrinin 1 bölü 4 kadarını göstermektedir. 
+Görüldüğü gibi bir bütün dikey olarak beş, yatay olarak dört parçaya bölünerek yirmi parça elde edilmiştir. 3 bölü 5 kesrinin 1 bölü 4 kadarını gösteren çift renkli bölgeyi 3 bölü 20 olarak ifade ederiz. 
+3 bölü 5 ve 1 bölü 4 kesirlerinin çarpma işlemini payları kendi aralarında, paydaları kendi aralarında çarparak yapalım. Önce payları çarparak paya yazalım, 3 çarpı 1 eşittir 3. Sonra paydaları çarparak paydaya yazalım, 5 çarpı 4 eşittir 20. 3 bölü 5 çarpı 1 bölü 4 eşittir 3 bölü 20. 
+
+3.EKRAN
+2 tam 1 bölü 2 tam sayılı kesri ile 3 tam 1 bölü 5 kesrini çarpalım. İşlemlerde tam sayılı kesirler bileşik kesre çevrilmelidir. 2 tam 1 bölü 2 kesri, 5 bölü 2 bileşik kesrine eşittir. 3 tam 1 bölü 5 kesri, 16 bölü 5 bileşik kesrine eşittir. Kesirler arasında sadeleştirme işlemlerini yapalım. Çarpma işleminde sadeleştirme yapılırken kesrin payı, kendi paydası ile ya da çarpıldığı kesrin paydası ile sadeleştirilebilir. 5 sayısı 2 ile sadeleştirilemez, 5 çarpıldığı sayının paydası olan 5 ile sadeleştirilebilir. Her ikisini 5 ile sadeleştirelim, 5’i 5’e böldüğümüzde 1’e eşit olur. 16 sayısı çarpıldığı sayının paydası olan 2 ile sadeleşir. Her iki sayıyı da 2’ye bölelim. 2’yi, 2’ye böldüğümüzde 1; 16’yı, 2’ye böldüğümüzde 8’e eşittir. 1 ile 8’in çarpımı 8’e eşittir, 1 ile 1’in çarpımı 1’dir. İşlemin sonucu 8 bölü 1 yani 8’e eşittir.
+
+5.KONU: KESİRLERLE İŞLEM YAPMAYI GEREKTİREN PROBLEM ÇÖZME 
+1. EKRAN
+KESİRLERLE İŞLEM YAPMAYI GEREKTİREN PROBLEM ÇÖZME
+Dilek, 200 kilometrelik yolun 5’te 3’ünü gittikten sonra kalan yolun da yarısını gidiyor. Dilek’in geriye kaç kilometre yolu kalmıştır?
+Problemimizi çözmek için şerit çizelim. Çizdiğimiz şeridi beş eş parçaya ayıralım ve Dilek’in gittiği 3 bölü 5’lik yolu gösterelim. Yolun tamamı 200 kilometre olduğuna göre 5’te 3’ünü bulmak için 200’ü 3 bölü 5 ile çarpalım. 200 çarpı 3 bölü 5 eşittir 600 bölü 5 eşittir 120 km’dir. Öyleyse ilk durumda Dilek, yolun 120 kilometresini gitmiştir. Geriye 200 eksi 120 eşittir 80 km yolu kalmış. 
+Soruda kalan yolun yarısını da gittiğini belirttiğine göre 80 bölü 2 eşittir 40 kilometresini daha gitmiştir. Toplamda 120 artı 40 eşittir 160 km yol gitmiştir. Geriye kalan yol 200 eksi 160 eşittir 40 km’dir.
+
+2.EKRAN
+Bir başka problemi inceleyelim.
+Zeynep parasının 3 bölü 5’inin, 2 bölü 7’si olan 18 lira ile tişört aldığına göre tişörtü almadan önce Zeynep’in kaç lirası vardı?
+Önce 3 bölü 5’in 2 bölü 7’sinin hangi kesir olduğunu bulalım. 3 bölü 5 çarpı 2 bölü 7 eşittir 6 bölü 35. Zeynep’in parasının 6 bölü 35’i 18 liraya eşit olduğuna göre parasının 1 bölü 35’ini, 18’i 6’ya bölerek bulalım. 18 bölü 6 eşittir 3. 1 bölü 35, 3 lira ise parasının tamamı 3 çarpı 35 eşittir 105 liradır.
+
+3.EKRAN
+Bir manav elindeki elmaların önce 5’te 2’sini, sonra kalan elmaların 1 bölü 3’ünü satıyor. Geriye 10 kg elma kaldığına göre başlangıçta kaç kg elma bulunmaktadır?
+Verilenleri şema ile gösterelim. Elmaları kesir modeli ile gösterelim. Başlangıçta elmaların 5’te 2’si satılıyor. Kalan elmaların 3’te 1’i satılıyor. Geriye 10 kilogram elma kalıyor. İki parça 10 kilogramsa bir parça 10 bölü 2 eşittir 5 kilogramdır. Kesrin tamamı beş parça olduğuna göre 5 çarpı 5 eşittir 25 kilogramdır. Başlangıçtaki elma miktarı 25 kilogramdır.
+
+4.ÜNİTE
+1. KONU: İKİ VERİ GRUBUNU KARŞILAŞTIRMAYI GEREKTİREN ARAŞTIRMA SORULARI OLUŞTURMA VE UYGUN VERİLERİ ELDE ETME
+  1.EKRAN
+İKİ VERİ GRUBUNU KARŞILAŞTIRMAYI GEREKTİREN ARAŞTIRMA SORULARI OLUŞTURMA VE UYGUN VERİLERİ ELDE ETME
+Veri gruplarını karşılaştırmak için araştırma sorusu oluştururken veri toplanacak gruplara ait bilgilerin açıkça belirtilmesi gerekir.
+Soruları inceleyelim ve veri grupların karşılaştırmayı gerektiren araştırma sorusu olup olmadığını belirleyelim. 
+Sınıfımızdaki öğrencilerin en sevdiği meyve hangisidir?
+Sınıfımızdaki kız ve erkek öğrencilerin en sevdikleri meyveler nelerdir?
+Okulumuzdaki kadın ve erkek öğretmenlerin en sevdikleri sporlar hangileridir?
+2014 yılında en çok satılan kitap türü hangisidir?
+Beş büyük ilde 2010 ve 2014 yıllarında hizmet veren kaç tane banka vardır?
+
+Sınıfımızdaki öğrencilerin en sevdiği meyve hangisidir? Sorusunda karşılaştırma yapacağımız grup olmadığı için iki veri grubunu karşılaştırmayı gerektiren bir araştırma sorusu değildir.
+Sınıfımızdaki kız ve erkek öğrencilerin en sevdikleri meyveler nelerdir? Sorusunda kız ve erkek öğrencilerin karşılaştırması yapılacağı için iki veri grubunu karşılaştırmayı gerektiren bir araştırma sorusudur.
+Okulumuzdaki kadın ve erkek öğretmenlerin en sevdikleri sporlar hangileridir? Sorusu okulumuzdaki kadın ve erkek öğretmenlerin karşılaştırması yapılacağı için iki veri grubunu karşılaştırmayı gerektiren bir araştırma sorusudur.
+Beş büyük ilde 2010 ve 2014 yıllarında hizmet veren kaç tane banka vardır? Sorusu 2010 ve 2014 yılları arasında karşılaştırma yapılacağı için iki veri grubunu karşılaştırmayı gerektiren bir araştırma sorusudur.
+2014 yılında en çok satılan kitap türü hangisidir? Sorusunda sadece 2014 yılında en çok satılan kitap türü araştırılmak isteniyor. Karşılaştırma yapacağımız grup olmadığı için iki veri grubunu karşılaştırmayı gerektiren bir araştırma sorusu değildir.
+
+
+2.EKRAN
+ARAŞTIRMA SORUSUNA UYGUN VERİ ELDE ETME
+Belli bir konuda bir grubun görüşünün ne olduğunu belirlemek için anket, görüşme ve tarama gibi veri toplama araçları kullanırız. 
+Sınıfımızdaki öğrencilerin en sevdikleri renkleri araştırmak istiyorsak sınıfımızdaki kız ve erkek öğrencilere en sevdikleri renklerle ilgili bir anket uygulayabiliriz. 
+Araştırma sorularına ait verileri bizzat kendimiz toplayabileceğimiz gibi çeşitli kaynaklardan da faydalanabiliriz. 
+Son beş yılda üretilen buğday ve mısır miktarına ait veriyi elde etmek için Türkiye İstatistik Kurumunun internet sayfasından faydalanabiliriz. Son beş yıla ait buğday ve mısır üretimine ait istatistikler bu sayfada mevcuttur. 
+
+2.KONU: İKİ GRUBA AİT VERİLERİ İKİLİ SIKLIK TABLOSU VE SÜTUN GRAFİĞİ İLE GÖSTERME
+  
+     1.EKRAN
+İKİ GRUBA AİT VERİLERİ İKİLİ SIKLIK TABLOSU VE SÜTUN GRAFİĞİNDE GÖSTERME
+Yerli ve yabancı turistlerin geldiği Ada Otel, turistlerin beslenme alışkanlıkları farklılık gösterdiğinden yemek için alacağı gıdaları düzenlemek istiyor. Yetkililer son üç yılın yaz aylarında gelen yerli ve yabancı turist sayılarını karşılaştırıp hangi ay, hangi turist grubu fazlaysa ona göre alışveriş yapmaya karar vermişlerdir. Yani yaz aylarında hangi ay, hangi turist grubunun fazla olduğunu göz önünde bulundurarak uygun gıdaları alacaklardır. 
+Yaz ayları boyunca yerli ve yabancı turistlerin sayılarını gösteren grafikleri görüyoruz. Bu grafikleri tek bir grafikte toplamak istersek yatay eksende haziran, temmuz ve ağustos aylarının her birinden yukarıya doğru iki dikdörtgensel bölge oluşturmalıyız. Yerli turistleri mavi, yabancı turistleri kırmızı dikdörtgensel bölgelerle gösterelim. 
+Grafiği incelediğimizde haziran ve ağustos aylarında yabancı turist sayısının fazla olduğunu görüyoruz. Temmuz ayında ise yerli turist sayısının fazla olduğunu görüyoruz. Bu durumda Ada Otel işletmecisi, haziran ve ağustos aylarında yabancı turistlerin; temmuz ayında ise yerli turistlerin tükettiği gıdalardan daha fazla almalıdır. 
+İki veri grubuna ait verileri sütun grafiğinde gösterdiğimiz gibi ikili sıklık tablosunda da gösterebiliriz. Okulumuzdaki kadın ve erkek öğretmenlerin yapmayı sevdikleri etkinlikler sorulmuş ve verileri ikili sıklık tablosu kullanılarak düzenlenmiştir. Bunun için üç sütun oluşturulmuş; birinci sütun etkinlik çeşidini, ikinci sütun kadın öğretmenlerin tercihlerini ve üçüncü sütunda da erkek öğretmenlerin tercihlerini yazmak için kullanılmıştır. 
+Sıklık tablosuna göre dans ve müzik etkinliği kadın öğretmenler tarafından, spor ve televizyon izleme erkek öğretmenler tarafından daha çok tercih edilmelidir. Tiyatro ise her iki grup tarafından eşit bir talep görmektedir.
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
