@@ -1,0 +1,9 @@
+ASAL SAYILAR
+Yalnızca 1’e ve kendisine bölünebilen 1’den büyük doğal sayılara asal sayılar denir. Erastosthenes (Eratostanes) Yunanlı bir matematikçi, coğrafyacı ve astronomdur. Erastosthenes (Eratostanes), kendi adıyla anılan kalbur yardımıyla iki sayı arasındaki asal sayıları bulmak için bir yöntem geliştirmiştir. Şimdi Erastosthenes (Eratostanes) kalburunu kullanarak 1 ile 100 arasındaki asal sayıları belirleyelim.1 sayı birimi olduğundan asal sayı değildir. 1’e çarpı işareti koyalım. 
+2 sayısını boyayalım ve 2’nin katı olan sayılara çarpı işareti koyalım. 
+3 sayısını boyayalım ve 3’ün katı olan sayılara çarpı işareti koyalım.
+5 sayısını boyayalım ve 5’in katı olan sayılara çarpı işareti koyalım. 
+7 sayısını boyayalım ve 7’nin katı olan sayılara çarpı işareti koyalım.
+Geriye kalan tüm sayıları boyadığımızda elde ettiğimiz boyalı sayılar asal sayılardır. 
+Asal sayıların bölenleri yalnızca 1 ve kendisidir.
+En küçük asal sayı 2’dir. 2’nin haricindeki tüm asal sayılar tektir. Sadece 2 çift asal sayıdır. 
