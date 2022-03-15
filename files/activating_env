@@ -1,1 +1,3 @@
 source nlp_env/Scripts/activate
+
+for mac --> source venv/bin/activate

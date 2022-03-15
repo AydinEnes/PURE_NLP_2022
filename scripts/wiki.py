@@ -17,12 +17,13 @@ for topic in topic_list:
     page = wiki_wiki.page(topic)
     print(topic, ": " , page.exists())
 
-    full_path = os.path.join(file_path, '../files/input_wiki_txt/{}.txt'.format(topic))
+    full_path = os.path.join(file_path, '../files/input_wiki_txt/{}.txt'.format(topic.replace(' ', '_')))
     if page.exists():
         with open(full_path, 'w', encoding='utf-8') as f:
-            # f.write(''.join(page.text.split()))
             string = " ".join(re.split("\s+", page.text, flags=re.UNICODE))
+            string = string.lower()
             string = re.sub(r'(\\+)[a-z]*', '', string)
+            string = string.split('ayrıca bakınız')[0].split('kaynakça')[0]
             f.write(string)
 
 
