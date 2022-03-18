@@ -175,7 +175,7 @@ for topic in topic_list:
         with open(full_path, "a", encoding="utf-8") as f:
             string = " ".join(re.split("\s+", page.text, flags=re.UNICODE))
             string = string.lower()
-            string = re.sub(r"(\\+)[a-z]*", "", string)
-            string = string.translate(str.maketrans("", "", "()\{\}[]=+-.,?!"))
-            string = string.split("ayrıca bakınız")[0].split("kaynakça")[0]
+            string = re.sub(r'(\\+)[a-z]*', '', string)
+            string = string.translate(str.maketrans('', '', "()\{\}[]=+-.,?!1234567890"))
+            string = string.split('ayrıca bakınız')[0].split('kaynakça')[0]
             f.write(string + "\n")

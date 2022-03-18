@@ -14,6 +14,8 @@ import os
 from os import path
 from base_path import PROJECT_PATH
 from spacy.lang.tr.stop_words import STOP_WORDS
+import time
+start_time = time.time()
 
 def tokenize(sentence):
     return [token for token in sentence.split() if token not in STOP_WORDS]
@@ -40,7 +42,7 @@ sentences=get_sentences(filepath)
 from gensim.models.phrases import Phrases, Phraser
 def build_phrases(sentences):
     phrases = Phrases(sentences,
-                      min_count=5,
+                      min_count=10,
                       threshold=1,
                       progress_per=1000)
     return Phraser(phrases)
@@ -51,7 +53,7 @@ corpus_with_biagrams=biagrams[sentences]
 
 def build_phrases2(sentences):
     phrases = Phrases(biagrams[sentences],
-                      min_count=5,
+                      min_count=10,
                       threshold=1,
                       progress_per=1000)
     return Phraser(phrases)
@@ -64,11 +66,12 @@ corpus_with_trigrams=trigrams[corpus_with_biagrams]
 # trigrams.save('triagram_model_ds.txt')
 #phrases_model= Phraser.load('phrases_model.txt')
 
+from gensim.utils import simple_preprocess
 def create_new_corpus(filename):
     new_corpus= []
     with open(filename, encoding='utf-8') as fi:
       for line in fi:
-        sent=tokenize(line)
+        sent = simple_preprocess(line, min_len = 2)
         recieved=(biagrams[sent])
         recieved2=trigrams[recieved]
         new_corpus.append(recieved2)
@@ -80,6 +83,7 @@ corpus=create_new_corpus(filepath)
 
 from gensim.models import FastText
 # model_ted = FastText(corpus, size=100, window=15, min_count=5,iter=10, workers=10,sg=1)
-model_ted = FastText(corpus,vector_size =100, window=15, min_count=5,epochs=10, workers=10,sg=1)
-
+model_ted = FastText(corpus, vector_size =100, window=15, min_count=5,epochs=10, workers=10,sg=1)
+# model_ted.train(corpus_iterable=corpus, total_examples=len(corpus), epochs=10)
 print(model_ted.wv.most_similar("asal_sayılar",topn=50))
+print("--- %s seconds ---" % (time.time() - start_time))
