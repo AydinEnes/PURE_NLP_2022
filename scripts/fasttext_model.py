@@ -31,10 +31,9 @@ def get_sentences(filename):
       for line in fi:
         row=tokenize(line)
         sentence_list.append(row)
-    
     return sentence_list
       
-filename="wiki_texts.txt"
+filename="wiki_bio_texts.txt"
 filepath = path.join(PROJECT_PATH, "files", "input_wiki_txt", filename)
 sentences=get_sentences(filepath)
 # print(sentences[0])
@@ -83,7 +82,10 @@ corpus=create_new_corpus(filepath)
 
 from gensim.models import FastText
 # model_ted = FastText(corpus, size=100, window=15, min_count=5,iter=10, workers=10,sg=1)
-model_ted = FastText(corpus, vector_size =100, window=15, min_count=5,epochs=10, workers=10,sg=1)
+model_ted = FastText(corpus, vector_size =100, window=15, min_count=10,epochs=10, workers=10,sg=1)
 # model_ted.train(corpus_iterable=corpus, total_examples=len(corpus), epochs=10)
 print(model_ted.wv.most_similar("asal_sayılar",topn=50))
 print("--- %s seconds ---" % (time.time() - start_time))
+
+
+model_ted.save("fasttext_ds.model")
