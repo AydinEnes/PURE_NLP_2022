@@ -14,14 +14,19 @@ wiki_wiki = wikipediaapi.Wikipedia(
 )
 
 file_path = os.path.dirname(__file__)
-full_path = os.path.join(PROJECT_PATH, "files", "input_wiki_txt", "wiki_bio_texts.txt")
+full_path = os.path.join(PROJECT_PATH, "files", "input_wiki_txt", "wiki_bio_texts2.txt")
+full_path_titles = os.path.join(PROJECT_PATH, "files", "input_wiki_txt", "wiki_bio_texts2_titles.txt")
 
 with open(full_path, "w", encoding="utf-8") as f:
+    print("file created")
+with open(full_path_titles, "w", encoding="utf-8") as f:
     print("file created")
 
 def writeToText(topic, full_path):
     page = wiki_wiki.page(topic)
     print(topic, ": ", page.exists())
+    with open(full_path_titles, "a", encoding="utf-8") as f2:
+        f2.write(topic + "\n")
 
     if page.exists():
         with open(full_path, "a", encoding="utf-8") as f:
@@ -32,13 +37,15 @@ def writeToText(topic, full_path):
             string = string.split('ayrıca bakınız')[0].split('kaynakça')[0]
             f.write(string + "\n")
 
-
+name_dict = {}
 def findSubCats(categorymembers, full_path, level=0, max_level=2):
         for c in categorymembers.values():
             #print("%s: %s (ns: %d)" % ("*" * (level + 1), c.title, c.ns))
-            if c.ns == wikipediaapi.Namespace.CATEGORY and level < max_level:
+            if c.title not in name_dict and c.ns == wikipediaapi.Namespace.CATEGORY and level < max_level:
+                name_dict[c.title] = 1
                 findSubCats(c.categorymembers, full_path, level=level + 1, max_level=max_level)
-            elif c.ns == 0: # wikipediaapi.Namespace.PAGE:
+            elif c.title not in name_dict and c.ns == 0: # wikipediaapi.Namespace.PAGE:
+                name_dict[c.title] = 1
                 writeToText(c.title, full_path)
 
 cats = "Biyoloji Terminolojisi,Canlılar,Moleküler biyoloji teknikleri,Biyoloji tarihi,Bilimsel sınıflandırma,Biyoloji sistemleri,Biyoloji kavramları,Biyolojik etkileşimler,Biyolojinin genel alanları"
