@@ -1,0 +1,30 @@
+DIFFICULTY 1 (basic concepts, 5 words)
+yumurta kedi köpek inek tavşan
+araba kulak göz ağız burun
+hava ateş su toprak hava
+ağaç orkide papatya gül karanfil
+kedi orkide papatya gül karanfil
+DIFFICULTY 2 (topic concepts, 5 words)
+dinamik üreme solunum boşaltım beslenme
+tepkime üreme solunum boşaltım beslenme
+bezelye beyin omurilik_soğanı beyincik sinir
+bitkiler beyin omurilik_soğanı beyincik sinir
+hücre hayvan bitki mantar bakteri
+zincir yağ karbonhidrat protein vitamin
+kas yağ karbonhidrat protein vitamin
+hücre kas kemik kıkırdak sinir
+damar kas kemik kıkırdak sinir
+ksilem kas kemik kıkırdak sinir
+insan kas kemik kıkırdak sinir
+vücut kas kemik kıkırdak sinir
+insan memeli kuş sürüngen amfibiyen
+bitki memeli kuş sürüngen amfibiyen
+ağaç memeli kuş sürüngen amfibiyen
+insan memeli kuş sürüngen balık
+ağaç memeli kuş sürüngen balık
+bitki memeli kuş sürüngen balık
+miyop hücre_bölünmesi mitoz mayoz kromozom
+miyoglobin hücre_bölünmesi mitoz mayoz kromozom
+kan hücre_bölünmesi mitoz mayoz kromozom
+sindirim_sistemi hücre_bölünmesi mitoz mayoz üreme
+vücut hücre_bölünmesi mitoz mayoz üreme

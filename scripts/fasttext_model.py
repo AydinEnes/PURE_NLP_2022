@@ -82,7 +82,7 @@ corpus=create_new_corpus(filepath)
 
 from gensim.models import FastText
 # model_ted = FastText(corpus, size=100, window=15, min_count=5,iter=10, workers=10,sg=1)
-model_ted = FastText(corpus, vector_size =300, window=15, min_count=10,epochs=10, workers=10,sg=1)
+model_ted = FastText(corpus, vector_size =100, window=10, min_count=10,epochs=10, workers=10)
 # model_ted.train(corpus_iterable=corpus, total_examples=len(corpus), epochs=10)
 print(model_ted.wv.most_similar("asal_sayılar",topn=50))
 print("--- %s seconds ---" % (time.time() - start_time))

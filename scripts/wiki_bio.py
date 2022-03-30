@@ -24,17 +24,17 @@ with open(full_path_titles, "w", encoding="utf-8") as f:
 
 def writeToText(topic, full_path):
     page = wiki_wiki.page(topic)
-    print(topic, ": ", page.exists())
-    with open(full_path_titles, "a", encoding="utf-8") as f2:
-        f2.write(topic + "\n")
+    string = " ".join(re.split("\s+", page.text, flags=re.UNICODE))
+    string = string.lower()
+    string = re.sub(r'(\\+)[a-z]*', '', string)
+    string = string.translate(str.maketrans('', '', "()\{\}[]=+-.,?!1234567890"))
+    string = string.split('ayrıca bakınız')[0].split('kaynakça')[0]
 
-    if page.exists():
+    if page.exists() and len(string) > 200:
+        print(topic, ": ", page.exists())
+        with open(full_path_titles, "a", encoding="utf-8") as f2:
+            f2.write(topic + "\n")
         with open(full_path, "a", encoding="utf-8") as f:
-            string = " ".join(re.split("\s+", page.text, flags=re.UNICODE))
-            string = string.lower()
-            string = re.sub(r'(\\+)[a-z]*', '', string)
-            string = string.translate(str.maketrans('', '', "()\{\}[]=+-.,?!1234567890"))
-            string = string.split('ayrıca bakınız')[0].split('kaynakça')[0]
             f.write(string + "\n")
 
 name_dict = {}

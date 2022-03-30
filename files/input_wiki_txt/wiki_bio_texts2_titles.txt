@@ -1,5 +1,4 @@
 Canlı
-Bryopsis
 Mikroorganizma
 Adaptasyon
 Beslenme
@@ -68,7 +67,6 @@ NADPH oksidaz
 Oksidatif fosforilasyon
 Pastör etkisi
 Peroksizom
-Sindirim
 Sitokrom P450
 Sülfür Döngüsü
 Yağ asidi metabolizması
@@ -102,10 +100,8 @@ Hermafroditlik
 Kimerizm
 Kuluçka (embriyoloji)
 Mikrokimerizm
-Monospermi
 Ovotestis
 Partenogenez
-Polispermi
 Sporla üreme
 Tek hücrelilerde üreme
 Tüp bebek
@@ -122,7 +118,6 @@ Evelyn Kozak
 Jeanne Calment
 Yasutaro Koide
 Koto Okubo
-Ethel Lang
 Li Ching-Yuen
 Lucile Randon
 Bernice Madigan
@@ -169,7 +164,6 @@ Hazar kaplanı
 Homo antecessor
 Homo gautengensis
 Homo georgicus
-Ipomoea meghalayensis
 Ixobrychus novaezelandiae
 Kaliforniya boz ayısı
 Kuzey Adası dev moası
@@ -196,15 +190,12 @@ Steropodon
 Suriye fili
 Tasmanya kaplanı
 Teinolophos
-Threskiornis solitarius
 Yaban öküzü
-Zangibar parsı
 Karayip keşiş foku
 Keuppia
 Palaeoctopus
 Carolina papağanı
 Çin nehir yunusu
-Huia
 Lophopsittacus mauritianus
 Nübye aslanı
 Asgard (Yıldız Geçidi)
@@ -239,7 +230,6 @@ Thungyai Naresuan Doğal Hayatı Koruma Alanı
 Vahşi yaşam
 Yaban hayatı çiftçiliği
 Yaban Hayatını Araştırma ve Rehabilitasyon Derneği
-Ada cüceleşmesi
 Bergmann kuralı
 Kafadan bacaklı boyutları
 Kiraz karides
@@ -273,8 +263,6 @@ Styletoctopus
 Şemsiye ahtapot
 Taklitçi ahtapot
 Tremoctopus violaceus
-Vitreledonellidae
-Vulcanoctopus hydrothermalis
 Yedi kollu ahtapot
 Ahtapot yemekleri
 Ekosistem
@@ -287,7 +275,6 @@ Serengeti
 Tundra
 Akarsu
 Asılı yük
-Çay (akarsu)
 Hipsometrik eğri
 Kapma olayı
 Nivoplüvyal
@@ -307,12 +294,10 @@ Teton Sıradağları
 Deniz
 Baltık Denizi
 Deniz kirliliği
-İç deniz
 Talasofobi
 Yedi Denizler
 Biyosfer 2
 Otoepürasyon
-Gölet
 Bucuk Göleti
 Gönyeli Göleti
 Kayapınarı göleti
@@ -322,6 +307,7 @@ Kunduz barajı
 Göl
 Gideğen
 Loch
+Mahmudçala Gölü
 Ötrofikasyon
 Paleolimnoloji
 Playa göl
@@ -333,7 +319,6 @@ Minami Torishima
 Ningaloo Sahili
 Okinotorishima
 Tubbataha Resifi
-Wake Adası
 Orman
 Ağaçlık
 Atlantik ekvator kıyı ormanları
@@ -345,7 +330,6 @@ Her dem yeşil orman
 Ilıman geniş yapraklı ve karma ormanlar
 Kaya (Mijikenda)
 Letea Ormanı
-Myrkvidr
 Alpin çayırlar
 Etiyopya Yükseltileri
 Los Llanos (Güney Amerika)
@@ -361,7 +345,6 @@ Batı Antarktika
 Batı Sibirya Ovası
 Doğu Antarktika
 Tundra iklimi
-Scotia Denizi
 Tillo Adaları
 Evrimsel hayat ağacı
 Bilinen en eski yaşam formları
@@ -375,7 +358,6 @@ Onkovirüs
 Orthornavirae
 Pandoravirüs
 Pisoniviricetes
-Pisuviricota
 Pitovirüs
 SARS-CoV-2 Omicron varyantı
 Genetiği değiştirilmiş organizmalar
@@ -401,7 +383,6 @@ Ebola
 Haşere
 Agriotes
 Fitopatoloji
-Aspergillus parasiticus
 Ateş yanıklığı
 Bakteri yaprak lekesi
 Cylindrocladium buxicola
@@ -444,13 +425,11 @@ Pokémon
 Tamagotchi
 Wolpertinger
 Kurgusal bitkiler listesi
-Bowser Jr.
 King Ghidorah
 Mechagodzilla
 Pinhead
 Deoxys
 Doomsday (karakter)
-Judoon
 Kurguda Dünya dışı varlıklar
 Mandalorian
 Marslı
@@ -470,7 +449,6 @@ Loch Ness Canavarı
 Siren
 Şirinler
 Talos
-Armadillomon
 Mûmakil
 Simpsonlar'da hayvan karakterler listesi
 Athoslular (Yıldız Geçidi)
@@ -483,9 +461,7 @@ Teletabiler
 Midi-kloryan
 Osmosis Jones
 Alistair Smythe
-Cyrax
 Misty Knight
-RoboCop (karakter)
 Terminatör (karakter)
 Salyangoz Gary
 Melez (biyoloji)
@@ -521,7 +497,6 @@ Tifon
 Varahi
 Wyvern
 Nanob
-Endüstriyel mikrobiyoloji
 Pelikula
 Pfiesteria
 Pleomorfizm (hücre biyolojisi)
@@ -577,7 +552,6 @@ Konak özgüllüğü
 Aggregata
 Kuluçka paraziti
 Trofozoit
-Adenophorea
 Ascarididae
 Balantidium coli
 Echinococcus granulosus
@@ -593,7 +567,6 @@ Secernentea
 Trichinella spiralis
 Trypanosoma gambiense
 Uyuz
-Uyuz böceği
 Viroid
 Hippobosca equina
 Kuş piresi
@@ -604,8 +577,6 @@ Tepeli guguk
 Gears of War 3
 Göçebe (Stephenie Meyer)
 Metal Gear Solid V: The Phantom Pain
-Metroid
-Plague Inc: Evolved
 Resident Evil 4
 Anti-Venom
 Bad Eggs
@@ -656,12 +627,10 @@ ALH84001
 Birleşmiş Milletler Uzay İşleri Ofisi
 Fermi paradoksu
 Kardaşev ölçeği
-MEMZ
 Ozma Projesi
 Pioneer plağı
 San Marino Ölçeği
 Titan'da yaşam
-Yapay fotosentez
 Yaşanabilir bölge
 Amplification Refractory Mutation System (ARMS-PCR)
 Bağlama (biyoloji)
@@ -760,15 +729,12 @@ Friedrich Miescher
 Thomas Hunt Morgan
 Hermann Joseph Muller
 Christiane Nüsslein-Volhard
-Charles Ernest Overton
 Max Perutz
 Joel Roberts Poinsett
-Randy Schekman
 Richard Synge
 Richard Thompson (deniz biyoloğu)
 Frederick Chapman Robbins
 Robert Huber
-George Shaw
 Jack Szostak
 Howard Martin Temin
 Max Theiler
@@ -789,7 +755,6 @@ Deneysel evrim
 E. coli uzun vadeli evrim deneyi
 Miller-Urey Deneyi
 Eden Projesi
-Ekotoksikoloji
 Kanada vaşağı
 Pleistosen Park
 Hershey-Chase deneyi
@@ -846,7 +811,6 @@ Systema Naturae
 Systema Naturae'nin 10. baskısı
 Tip cins
 Türler sorunu
-Üçlü adlandırma
 Viridiplantae
 Virüs sınıflandırması
 Balıkların evrimi
@@ -935,7 +899,6 @@ Flurbiprofen
 Gabapentin
 Goody's Powder
 İbuprofen
-İndometazin
 Kannabinoid
 Kenevir
 Ketamin
@@ -969,7 +932,6 @@ Anestezik
 Antianjinal
 Pentaeritritol tetranitrat
 Memantin
-Antidiyabetik
 Amilin
 SGLT2 inhibitörü
 Antiemetik
@@ -996,6 +958,7 @@ Prazosin
 Antikonvülzan
 Barbitürat
 Ethosuximide
+Flurazepam
 Karbamazepin
 Lamotrigine
 Primidon
@@ -1006,7 +969,6 @@ Antiseptik
 Alkol
 Asepsi
 Auramin O
-Dettol
 El dezenfektanı
 Fenoksietanol
 Gümüş iyodür
@@ -1020,14 +982,12 @@ Listerine
 Lugol çözeltisi
 Lysol
 Naftalin
-Potasyum hipoklorit
 Salisilik asit
 Savlon
 Setrimid
 Sodyum benzoat
 Sodyum hipoklorit
 Tentürdiyot
-Tıraş sonrası losyon
 Tiyomersal
 Narkotin
 Öksürük ilacı
@@ -1038,10 +998,7 @@ Asenapin
 Brilaroksazin
 Ketiapin
 Klozapin
-Melperon
-Olanzapin
 Paliperidon
-Perospiron
 Risperidon
 Ziprasidon
 Fenobarbital
@@ -1065,10 +1022,8 @@ Kürar
 Poppers
 Alitretinoin
 Arsenik pentoksit
-Arsenik trioksit
 Bleomisin
 Daunorubisin
-Karboplatin
 Sisplatin
 Tamoksifen
 Kortikosteroid
@@ -1145,7 +1100,6 @@ Bernard Germain de Lacépède
 Carl Linnaeus
 Dmitri Logunov
 Yuriy Marusık
-Édouard Ménétries
 Władysław Taczanowski
 Kirill Yeskov
 APG III sistemi
@@ -1159,7 +1113,6 @@ Kardeş grup
 Üst âlem
 Varyete (biyoloji)
 Nephrozoa
-UTC klad
 Bakteri
 Alkalihalobacillus clausii
 Arthrobacter castelli
@@ -1184,7 +1137,6 @@ Cutibacterium acnes
 Deinococcus radiodurans
 Desulforudis audaxviator
 Enterococcus faecalis
-Enterococcus hirae
 Erwinia amylovora
 Escherichia coli O157:H7
 Falsarthrobacter nasiphocae
@@ -1215,7 +1167,6 @@ Paenarthrobacter ureafaciens
 Paeniglutamicibacter cryotolerans
 Pnömokok
 Pseudomonas aeruginosa
-Pseudomonas gelidicola
 Pseudomonas putida
 Rhizobium rhizogenes
 Rhizobium viscosum
@@ -1269,7 +1220,6 @@ Siyanobakteri
 Sterilizasyon
 Su mikrobiyolojisi
 Tıbbi mikrobiyoloji
-Titiz organizma
 Toksik şok sendromu
 Transdüksiyon (genetik)
 Virülans
@@ -1280,19 +1230,13 @@ Zorunlu anaeroblar
 Asparagales
 Peter Hadland Davis
 William Hudson (bitki bilimci)
-Bilimsel isimlerine göre yılanlar listesi
 Eucalyptus türleri
 Galium türleri listesi
 Grevillea türleri
 Organizma takımları listesi
-Protea türleri
-Senecio türleri listesi
-Silene türleri listesi
 Sisyrinchium türleri listesi
-Vernonia türleri listesi
 Banksia türleri
 Trechaleidae türleri listesi
-Schmitziellaceae-taslak
 Aetideopsis
 Aetideus
 Azygokeras
@@ -1326,7 +1270,6 @@ Valdiviella
 Bitki
 Hayvan
 Alkmaria
-Amage
 Amelinna
 Ampharana
 Ampharete
@@ -1346,7 +1289,6 @@ Glyphanostomum
 Grubianella
 Hypania
 Hypaniola
-Irana
 Isolda
 Lysippe
 Lysippides
@@ -1360,14 +1302,12 @@ Melinnopsides
 Melinnopsis
 Mexamage
 Moyanus
-Mugga
 Muggoides
 Neopaiwa
 Neosabellides
 Neosamytha
 Oeorpata
 Pabits
-Paiwa
 Paramage
 Paramphicteis
 Parhypania
@@ -1398,14 +1338,12 @@ Aspidosmia
 Austrostelis
 Aztecanthidium
 Bathanthidium
-Bekilia
 Benanthis
 Cyphanthidium
 Dianthidium
 Duckeanthidium
 Eoanthidium
 Epanthidium
-Euaspis
 Gnathanthidium
 Hoplostelis
 Hypanthidioides
@@ -1426,15 +1364,10 @@ Trachusa
 Trachusoides
 Xenostelis
 Achatodes
-Acrapex
 Amphipoea
-Apamea
 Archanara
 Benjaminiola
-Capsula
-Cobalos
 Eremobina
-Euros
 Franclemontia
 Helotropha
 Hydraecia
@@ -1449,7 +1382,6 @@ Melanapamea
 Meropleon
 Mesapamea
 Neoligia
-Oligia
 Orthomoia
 Papaipema
 Parapamea
@@ -1461,14 +1393,12 @@ Rhizedra
 Selicanis
 Xylomoia
 Acyrthosiphon
-Aphis
 Aulacorthum
 Brachycaudus
 Brevicoryne
 Capitophorus
 Cavariella
 Cerataphis
-Cinara
 Coloradoa
 Dysaphis
 Eriosoma
@@ -1483,11 +1413,9 @@ Macrosiphoniella
 Macrosiphum
 Melanaphis
 Myzaphis
-Myzus
 Nasonovia
 Neophyllaphis
 Neotoxoptera
-Ovatus
 Pentalonia
 Pleotrichophorus
 Reticulaphis
@@ -1497,7 +1425,6 @@ Rhopalosiphum
 Sarucallis
 Schizaphis
 Semiaphis
-Sipha
 Sitobion
 Therioaphis
 Toxoptera
@@ -1537,9 +1464,7 @@ Spinarcturus
 Thermoarcturus
 Tuberarcturus
 Acrotona
-Adota
 Aloconota
-Amischa
 Anatheta
 Asthenesita
 Atheta
@@ -1549,26 +1474,20 @@ Callicerus
 Charoxus
 Clusiota
 Crephalia
-Dalotia
-Dilacra
 Dimetrota
 Dinaraea
 Dochmonota
-Earota
 Emmelostiba
-Gaenima
 Geostiba
 Goniusa
 Halobrecta
 Halobrecthina
-Homia
 Hydrosmecta
 Liogluta
 Lypoglossa
 Micratheta
 Micrearota
 Microlia
-Mocyta
 Nehemitropia
 Paragoniusa
 Paraleptonia
@@ -1576,7 +1495,6 @@ Parameotica
 Philhygra
 Pontomalota
 Psammostiba
-Sableta
 Schistacme
 Schistoglossa
 Seeversiella
@@ -1585,7 +1503,6 @@ Strigota
 Strophogastra
 Tarphiota
 Thamiaraea
-Thinusa
 Tomoglossa
 Trichiusa
 Tropimenelytron
@@ -1667,7 +1584,6 @@ Tepuidessus
 Trogloguignotus
 Tyndallhydrus
 Uvarus
-Yola
 Yolina
 Zimpherus
 Aethalura
@@ -1675,18 +1591,14 @@ Anavinemina
 Anavitrinella
 Antiphoides
 Astalotesia
-Biston
 Carphoides
 Chesiadodes
-Cleora
 Cochisea
 Dasyfidonia
 Ectropis
 Epimecis
-Erannis
 Eubarnesia
 Eufidonia
-Exelis
 Galenara
 Glaucina
 Glena
@@ -1696,7 +1608,6 @@ Hulstina
 Hypagyrtis
 Hypomecis
 Iridopsis
-Lycia
 Melanchroia
 Melanolophia
 Mericisca
@@ -1715,7 +1626,6 @@ Scotorythra
 Stenoporpia
 Synglochis
 Tesiophora
-Tornos
 Tracheops
 Vinemina
 Ancistrolepis
@@ -1731,7 +1641,6 @@ Chauvetea
 Chauvetia
 Clinopegma
 Colubraria
-Colus
 Engina
 Engoniophos
 Habevolutopsius
@@ -1748,7 +1657,6 @@ Nassaria
 Neoberingius
 Neptunea
 Parviphos
-Phos
 Pisania
 Plicifusus
 Pollia
@@ -1847,7 +1755,6 @@ Yoshiobodes
 Ancylodiplosis
 Apagodiplosis
 Blaesodiplosis
-Bremia
 Caryomyia
 Cecidomyia
 Coccidomyia
@@ -1929,7 +1836,6 @@ Zetomimus
 Acalcarella
 Apedilum
 Asheum
-Axarus
 Beardius
 Beckidia
 Chernovskiia
@@ -1955,8 +1861,6 @@ Lipinella
 Microchironomus
 Microtendipes
 Nilothauma
-Omisus
-Oshia
 Pagastiella
 Parachironomus
 Paracladopelma
@@ -2125,7 +2029,6 @@ Halohygia
 Heisshygia
 Heydonhygia
 Homalocolpura
-Hygia
 Kekihygia
 Kerzhnerhygia
 Kinabaluhygia
@@ -2159,7 +2062,6 @@ Ullrihygia
 Vittorius
 Warishygia
 Weirhygia
-Wolfius
 Woodwardhygia
 Wygohygia
 Xanthocolpura
@@ -2181,7 +2083,6 @@ Goniolithon
 Haliptylon
 Heteroderma
 Hydrolithon
-Jania
 Litholepis
 Lithophyllum
 Lithoporella
@@ -2201,11 +2102,9 @@ Serraticardia
 Tenarea
 Titanophora
 Yamadaia
-Alinia
 Arnoldita
 Chimila
 Chimiloides
-Crabro
 Crorhopalum
 Crossocerus
 Dasyproctus
@@ -2213,11 +2112,9 @@ Echucoides
 Ectemnius
 Enoplolindenius
 Eupliloides
-Foxita
 Hingstoniola
 Holcorhopalum
 Huacrabro
-Huavea
 Isorhopalum
 Krombeinictus
 Leclercqia
@@ -2229,16 +2126,13 @@ Moniaecera
 Neodasyproctus
 Notocrabro
 Odontocrabro
-Pae
 Papurus
 Parataruma
 Pericrabro
-Piyuma
 Piyumoides
 Podagritoides
 Podagritus
 Pseudoturneria
-Quexua
 Rhopalum
 Tracheliodes
 Tsunekiola
@@ -2327,7 +2221,6 @@ Cypricercus
 Cypriconcha
 Cypridopsis
 Cyprinotus
-Cypris
 Dolerocypris
 Eucypris
 Eurycypris
@@ -2508,7 +2401,6 @@ Canephorula
 Cemolobus
 Cubitalia
 Dithygater
-Eucera
 Florilegus
 Gaesischia
 Gaesochira
@@ -2592,7 +2484,6 @@ Toxariales
 Allophorocera
 Argyrophylax
 Asseclamyia
-Atacta
 Atactopsis
 Belvosia
 Blepharipa
@@ -2602,19 +2493,14 @@ Chaetocrania
 Chaetogaedia
 Chaetoglossa
 Chrysoexorista
-Cyzenis
 Distichona
 Eleodiphaga
-Erynnia
 Euceromasia
 Eucnephalia
 Euexorista
-Eumea
 Frontiniella
 Gaediopsis
-Gonia
 Hesperomyia
-Houghia
 Hypertrophomma
 Hyphantrophaga
 Leschenaultia
@@ -2635,7 +2521,6 @@ Torosomyia
 Sisyridae
 Afrohister
 Asiaster
-Atholus
 Barbarus
 Campylorhabdus
 Contipus
@@ -2647,7 +2532,6 @@ Eugrammicus
 Exorhabdus
 Geminorhabdus
 Ghanister
-Hister
 Hubenthalia
 Margarinotus
 Megalocraerus
@@ -2712,7 +2596,6 @@ Oculozomus
 Olmecazomus
 Orientzomus
 Ovozomus
-Pacal
 Paradraculoides
 Piaroa
 Pinero
@@ -2726,12 +2609,10 @@ Stenochrus
 Stenoschizomus
 Stewartpeckius
 Surazomus
-Tayos
 Trithyreus
 Troglocubazomus
 Troglostenochrus
 Wayuuzomus
-Zomus
 Amblystegiaceae
 Anomodontaceae
 Brachytheciaceae
@@ -2831,7 +2712,6 @@ Cletopyllus
 Coullia
 Donsiella
 Echinolaophonte
-Esola
 Folioquinpes
 Galapalaophonte
 Harrietella
@@ -2867,7 +2747,6 @@ Tapholeon
 Ambilobea
 Ambrinemesa
 Armstrongula
-Atisne
 Bagauda
 Bagaudella
 Bagaudina
@@ -2883,7 +2762,6 @@ Lutevula
 Mafulemesa
 Millotina
 Monicacoris
-Nesita
 Orianocoris
 Orthunga
 Paraluteva
@@ -2893,7 +2771,6 @@ Ploiaria
 Proguithera
 Pseudobagauda
 Pseudoghiliana
-Tinna
 Tinnatunga
 Tinnunga
 Voloina
@@ -2957,7 +2834,6 @@ Deielia
 Diastatops
 Dythemis
 Elasmothemis
-Elga
 Erythemis
 Erythrodiplax
 Fylgia
@@ -3098,7 +2974,6 @@ Plebeina
 Plectoplebeia
 Ptilotrigona
 Scaptotrigona
-Scaura
 Schwarziana
 Tetragona
 Tetragonisca
@@ -3139,7 +3014,6 @@ Puliciphora
 Rhyncophoromyia
 Stenophorina
 Styletta
-Syneura
 Trophithauma
 Trophodeinus
 Woodiphora
@@ -3241,27 +3115,22 @@ Aurelianus (hayvan)
 Breddinella
 Callichlamydia
 Canungrantmictis
-Cipia
 Cossutia
 Derepteryx
 Dianomictis
-Ditora
 Dollingocoris
 Elasmocnema
 Elasmocniella
 Elasmopoda
-Fumua
 Haglundina
 Helcomeria
 Kennetus
 Kolleriella
 Mercennus
 Mictiopsis
-Mictis
 Molipteryx
 Mygdonia
 Myrrhina
-Neaira
 Neomictis
 Notobitopsis
 Notopteryx
@@ -3275,7 +3144,6 @@ Prionolomiopsis
 Pseudomictis
 Pseudophelaus
 Pternistria
-Puppeia
 Raunothryallis
 Rhamnomia
 Schroederia
@@ -3330,7 +3198,6 @@ Forreria
 Haustellum
 Hexaplex
 Maxwellia
-Murex
 Murexiella
 Murexsul
 Muricopsis
@@ -3351,12 +3218,10 @@ Pterynotus
 Roperia
 Scabrotrophon
 Stramonita
-Thais
 Trachypollia
 Trophon
 Trophonopsis
 Typhinellus
-Typhis
 Urosalpinx
 Adelophis
 Afronatrix
@@ -3651,11 +3516,9 @@ Stenoscinis
 Tricimba
 Acanthotoca
 Antepione
-Besma
 Caripeta
 Cingilia
 Destutia
-Enypia
 Eriplatymetra
 Euaspilates
 Eucaterva
@@ -3664,14 +3527,11 @@ Eusarca
 Eutrapela
 Lambdina
 Melemaea
-Meris
 Nemeris
 Neoterpes
 Nepheloleuca
 Nepytia
-Oxydia
 Patalene
-Pherne
 Philtraea
 Phyllodonta
 Pionenta
@@ -3681,8 +3541,6 @@ Prochoerodes
 Rindgeria
 Sabulodes
 Sericoptera
-Sicya
-Snowia
 Somatolophia
 Tetracis
 Agaricochirus
@@ -3953,7 +3811,6 @@ Coturnicops
 Cyanolimnas
 Dryolimnas
 Eulabeornis
-Fulica
 Gallicrex
 Gallinula
 Gallirallus
@@ -3970,7 +3827,6 @@ Pardirallus
 Porphyrio
 Porzana
 Rallina
-Rallus
 Rougetius
 Sarothrura
 Rattus adustus
@@ -4129,14 +3985,12 @@ Sogatopsis
 Specinervures
 Tropidocephala
 Yuanchia
-Aforia
 Anacithara
 Antiplanes
 Bathybela
 Carinapex
 Carinoturris
 Ceritoturris
-Clavus
 Cochlespira
 Comarmondia
 Compsodrillia
@@ -4151,7 +4005,6 @@ Iredalea
 Irenosyrinx
 Leucosyrinx
 Lienardia
-Lora
 Lusitanops
 Megasurcula
 Microdrillia
@@ -4226,7 +4079,6 @@ Avilaia
 Azulitaia
 Buruquelia
 Carayaca
-Cersa
 Chamaia
 Chirimena
 Cubiria
@@ -4244,7 +4096,6 @@ Minuides
 Mitraia
 Neobabrius
 Neocea
-Oo
 Opilioparamo
 Orituco
 Pachylicus
@@ -4267,7 +4118,6 @@ Stygnoleptes
 Taguaza
 Timoleon
 Traiania
-Unare
 Unicornia
 Urachiche
 Venezuelana
@@ -4278,7 +4128,6 @@ Uluslararası Virüs Taksonomisi Komitesi
 Coronaviridae
 Hepadnaviridae
 Orthomyxoviridae
-Togavirus
 DNA virüsleri
 Hepatitis contagiosa canis
 İnsan papilloma virüsü
@@ -4286,11 +4135,9 @@ JC virüsü
 Parvovirüs B19
 RNA virüsleri
 Batı Nil virüsü
-Hepatit E
 Koronavirüs
 Lale kıran virüs
 Metapneumovirus
-MS2 fajı
 Norwalk virüsü
 Rinovirüs
 SARS-CoV-2
@@ -4363,7 +4210,6 @@ Astrobiyoloji
 Carl Sagan
 Carl Sagan Enstitüsü
 Dünya Dışı Akıllı Yaşam Araştırması
-Gezegensel yaşanabilirlik
 Kepler-22b
 Mars Bilim Laboratuvarı
 Mars Sample Return Mission
@@ -4462,6 +4308,7 @@ Ototomi
 Protokooperasyon
 Avcı
 M20 (İstanbul metrosu)
+M7 (İstanbul metrosu)
 Nil timsahı
 Wyatt Earp
 Ted Nugent
@@ -4518,6 +4365,7 @@ Kuş çarpması
 Pocho
 Temiz olmayan hayvan
 Yılan oynatıcılığı
+Zoofili
 Burrhus Frederic Skinner
 E. O. Wilson
 Karl von Frisch
@@ -4532,11 +4380,9 @@ Atmacacılık
 Av kanunu
 Doğancılık
 Hatıra amaçlı avcılık
-Kapan
 Köpeklerle kurt avı
 Mela şikar
 Retriever
-Sopa (silah)
 Tavşan yahnisi
 Türkiye Atıcılık ve Avcılık Federasyonu
 Çalışan hayvanlar
@@ -4560,10 +4406,8 @@ Zulcenah
 Evcil hayvanlar
 Evcilleştirme
 Alpaka
-Davar
 Dışkaya Koyunu
 Evcil domuz
-Evcil hayvanların listesi
 Evcil keçilerin evrimi
 Evcil yak
 Evcilleştirilmiş gümüş tilki
@@ -4638,7 +4482,6 @@ Kafes
 Köpek kulübesi
 Kuş evi
 Kültür balıkçılığı
-Vivaryum
 Koko (goril)
 Kovboy
 Billy the Kid
@@ -4647,13 +4490,11 @@ Avustralya Koala Vakfı
 Atlı okçuluk
 Deve güreşi
 Deve yarışı
-Yak polo
 Hayvan terbiyecisi
 Ankusa
 At terbiyesi
 Esaret altındaki filler
 Fil ile idam
-Zoofili
 Eşekle cinsel ilişki
 Linda Lovelace
 Zoonoz hastalıklar
@@ -4682,7 +4523,6 @@ Tularemi
 Verem
 Zika virüsü
 Kamuflaj
-Çok ölçekli kamuflaj
 Çok spektral kamuflaj
 Kar kamuflajı
 Mimikri
@@ -4692,7 +4532,6 @@ Uçak kamuflajı
 Denizşakayığı
 Endosimbiyont
 Sakallı solucanlar
-Aerobiyoloji
 Biyoelektromanyetizma
 Biyomühendislik
 Biyospeleoloji
@@ -4764,9 +4603,7 @@ Transpirasyon
 Yaşarma
 Ağaç dalı
 Areole
-Arillus
 Başak
-Boyuncuk (bitki)
 Brakte
 Çalı
 Çanak yaprak
@@ -4785,15 +4622,12 @@ Fasiyasyon
 Gametofit
 Hipantiyum
 Huş kabuğu
-İnternod
 Kaliptra
 Kedicik
 Kozalak
 Gövde (botanik)
-Köksap (bitki)
 Kserofit
 Liana
-Nuks
 Otsu bitki
 Periyant
 Rosette (botanik)
@@ -4805,13 +4639,10 @@ Taç yaprak
 Tallus
 Tepal
 Tepecik (bitki)
-Tohum taslağı
 Trikom
 Yaprak dizilişleri
 Yaprak sapı
-Yaprak türleri
 Yumru
-Yumurtalık (bitki)
 Ormancılık
 Silvikültür
 Ağaç serveti
@@ -4820,10 +4651,8 @@ Amenajman
 Dendrometri
 Erdemli Çamlığı
 Kapalılık
-Karşıateş
 Kültür (biyoloji)
 Kütük (ağaç)
-Meşcere
 Orman formu
 Orman korucusu
 Fosil odun
@@ -4834,7 +4663,6 @@ Aeropalinoloji
 Genç Dryas
 Polen
 Ekolojik genetik
-Kantitatif genetik
 Medikal genetik
 Klasik genetik
 Alel
@@ -4856,7 +4684,6 @@ Niceliksel özellik lokusu
 Pedigre çizelgesi
 Proband
 Segregasyon
-Trihibrit çaprazlama
 X inaktivasyonu
 Moleküler genetik
 Alan hedefli mutajenez
@@ -4886,7 +4713,6 @@ Okazaki parçaları
 Oksotrofi
 Rekombinant DNA
 Rekombinasyon
-Replizom
 Santimorgan
 Santral dogma (moleküler biyoloji)
 Sinaptonemal kompleks
@@ -4953,7 +4779,6 @@ Podoloji
 Profilaksi
 Psikiyatri
 Radyoloji
-Simptomatoloji
 Şok (dolaşım)
 Tıp dalları
 Travmatoloji
@@ -4996,7 +4821,6 @@ Anatomik varyasyon
 Ductus arteriosus
 Hipoglossal sinir
 İlye
-Kasık
 Konfluens sinuum
 Kortikobulbar Yol
 Lob
@@ -5020,10 +4844,8 @@ Troklear sinir
 Üretral sfinkter
 Vajina
 Vestibülokoklear sinir
-Anatomopatoloji
 Anevrizma
 Başkalaşım kümesi
-Doku bozukluğu
 Elektron mikroskobu
 Granülomatozis
 Hiperplazi
@@ -5051,17 +4873,14 @@ Penis boyu
 Sertleşme
 Y Kromozomu
 Kritik acil tıp
-Anjiyoloji
 Anjiyogenez
 Anjiyoplasti
 Anjiyotensin
-Arterit
 Arteriyol
 Arteriyoskleroz
 Aterom
 Ateroskleroz
 Dev hücreli arterit
-Endotel
 Flebit
 HEV
 İskemi
@@ -5076,7 +4895,6 @@ Sistemik dolaşım
 Varikosel
 Vasküler endotelyal büyüme faktörü
 Vazospazm
-Venül
 Tıbbi antropoloji
 Adia Benton
 Ataque de nervios
@@ -5124,7 +4942,6 @@ Kan gazı analizi
 Kanser tanısı
 Karbonhidrat
 Katran (sigara)
-Kemofosforilasyon
 Kemosinyal
 Organotrof
 P cisimciği
@@ -5161,7 +4978,6 @@ Greft (cerrahi)
 Kafa nakli
 Küret
 Laparoskopi
-Lazer cerrahisi
 Lenf nodu diseksiyonu
 Lobektomi
 Mediastinoskopi
@@ -5190,11 +5006,9 @@ Hulusi Behçet
 Cantu sendromu
 Cowden sendromu
 Çil
-Dermateskop
 Dermis
 Dermokozmetik
 Epidermis
-Eritem
 Fièvre Boutonneuse
 Frambezi
 Gebelik maskesi
@@ -5366,7 +5180,6 @@ Amniyon sıvısı
 Asimetrik hücre bölünmesi
 Blastokist
 Blastomer
-Blastula
 Embriyo
 Fetus
 Gastrulasyon
@@ -5388,7 +5201,6 @@ Thomas Addison
 Âdet
 Amenore
 Aşırı büyüme sendromları
-Çocuk endokrinolojisi
 Endokrin hastalıkları
 Endokrinoloji
 Feromon
@@ -5409,7 +5221,6 @@ Bulaşıcılık
 Epizotiyoloji
 HIV İlaç Direnci Veritabanı
 HIV/AIDS pandemisi
-İnsan hastalıkları ölümcüllük oranları listesi
 Koch postülatları
 Kuluçka (epidemiyoloji)
 Salgınlar listesi
@@ -5419,7 +5230,6 @@ Temel çoğalma sayısı
 Agonist
 Antagonist (farmakoloji)
 Bikalutamidin farmakolojisi
-Biyofarmasötik
 Biyolojik yarı ömür
 Biyoyararlanım
 Enjeksiyon
@@ -5460,6 +5270,7 @@ Karın Ağrısı
 Laksatif
 Peptik ülser hastalığı ve Helicobacter pylori'nin zaman çizelgesi
 Proton pompa inhibitörü
+Rotavirüs
 Viral hepatitler
 Yellenme
 Gerontoloji
@@ -5475,7 +5286,6 @@ Göz muayenesi
 Gözlük
 Güneş görüntüleyici
 Lazer koagülasyon
-Oftalmoskop
 Pupiller ışık refleksi
 Terson sendromu
 Havacılık tıbbı
@@ -5490,7 +5300,6 @@ Jet lag
 Kinetozis
 Kontrolsüz dekompresyon
 Uçuş muayenesi
-Valsalva manevrası
 Vurgun
 Hematoloji
 Aglütinasyon
@@ -5505,19 +5314,15 @@ Kan grubu
 Kan nakli
 Kan uyuşmazlığı
 Kök hücre tedavisi
-Pıhtı
 Sekonder hemosideroz
-Trombüs
 Venöz trombüs
 Zeta potansiyeli
 Hemşirelik
-Kızılay Hemşire Okulu
 Uluslararası Hemşireler Günü
 Yardımcı veteriner sağlık çalışanları
 Hemşirelik yemini
 Ana safra kanalı
 Calot üçgeni
-Gama amanitin
 Glikojen
 Hepatektomi
 Hepatotoksin
@@ -5547,7 +5352,6 @@ Aşılama
 Aşırı duyarlılık
 Bağışıklık
 Bağışıklık Uyarıcılar
-Bruce Beutler
 Churg Strauss sendromu
 Dendritik hücre
 Fırsatçı enfeksiyon
@@ -5638,7 +5442,6 @@ Beyin-omurilik sıvısı
 Binarual ritmler
 Dandy-Walker malformasyonu
 Derin beyin stimülasyonu
-Dermatom
 Descartes'ın Yanılgısı: Duygu, Akıl ve İnsan Beyni
 Dikkat
 Elektroensefalografi
@@ -5680,7 +5483,6 @@ PET-MRI
 Radyoaktif atık
 Tıbbi görüntüleme
 Türkiye Nükleer Tıp Derneği
-Foramen ovale (kalp)
 Dikotik dinleme
 Kulak çınlaması
 Orta kulak iltihabı
@@ -5714,14 +5516,12 @@ Schinzel-Giedion sendromu
 Sotos sendromu
 Superior vena kava sendromu
 Temozolomide
-Tıbbi onkoloji
 Tümörü infiltre eden lenfositler
 Boğaz (organ)
 Difteri
 Efüzyonlu Otit Media
 Gırtlak
 Horlama
-Laringoskopi
 Ritidektomi
 Ses teli disfonksiyonu
 SMAS
@@ -5769,7 +5569,6 @@ Kapiller hemangioma
 Kavern
 Kavernöz hemangioma
 Koroner
-Lenfangioma
 Lenfatik hastalık
 Likefaksiyon nekrozu
 Lipofuscin
@@ -5915,13 +5714,12 @@ Ergoterapi
 Romatoloji
 Ailevi Akdeniz ateşi
 Ankiloz
-Kondrit
 Nöropatik osteoartropati
 Polimiyozit
 Psöriatik artrit
 Purpura
 Romatoid artrit
-Seronegatif
+Raynaud fenomeni
 Eklem şırıngası
 Vaskülit
 Beyin sarsıntısı
@@ -5954,7 +5752,6 @@ Toksik ağır metal
 Toksisite
 Toxicofera
 Trikloroetilen
-Türkiye'nin zehirli mantarları listesi
 Graft-versus-host hastalığı
 Hücresel bellek
 Otolog kök hücre nakli
@@ -5976,9 +5773,6 @@ Testis torbası
 Yaşlılık hekimliği
 Geriatrik psikiyatri
 Aubrey de Grey
-Huzurevi
-Alkaloz
-Asidoz
 CRP
 Deliriyum
 Hasta başı monitörü
@@ -6060,7 +5854,6 @@ Hayvanlarda alet kullanımı
 Hayvanlarda dinî davranışlar
 İçgüdü
 Köpeklere Fısıldayan Adam
-Ortak çalışma
 Psödokopulasyon
 Sismik iletişim
 Suda hareket
@@ -6081,11 +5874,9 @@ Gözyaşı
 Hayvan zehri
 Homeotermi
 Kış uykusu
-Sıcakkanlı hayvanlar
 Süt verme
 Herpetoloji
 İhtiyoloji
-Balık boyu
 Columnaris
 Fekondite
 Göçmen balıklar
@@ -6110,7 +5901,6 @@ Palaz
 Papa (zooloji)
 Pfeilstorch
 Ürohidroz
-Paleozooloji
 Dinozor
 İz fosili
 Primatoloji
@@ -6219,7 +6009,6 @@ Nearktik bölge
 Neotropik
 Atacama Çölü
 Palearktik bölge
-Akdeniz Havzası
 Arabistan Çölü
 Emin Vadisi
 Gobi Çölü
@@ -6228,7 +6017,6 @@ Biyoetik
 Antinatalizm
 Biyoiktidar
 Biyolojik savaş
-Biyosiyaset
 Etienne Vermeersch
 Ezekiel Emanuel
 Bernard Rollin
@@ -6239,9 +6027,7 @@ Ayna evresi
 Cinsel Devrim
 Cinsel nesneleştirme
 Cinsellik felsefesi
-Deus Ex: Invisible War
 Sağlık hukuku
-Bildirimi zorunlu insan hastalıkları listesi
 İhbarı mecburi hastalıklar
 İşlevsellik, Yetiyitimi ve Sağlığın Uluslararası Sınıflandırması
 Soy tükenmesi
@@ -6265,9 +6051,9 @@ Tıp felsefesi
 Veteriner hekim andı
 Astrobiyofizik
 Biyofizik
-Biyomimetik
 DNA'nın yapısı
 Hidrofobi
+Kuantum biyolojisi
 Magnetozom
 Moleküler motor
 Oja kuralı
@@ -6280,7 +6066,6 @@ John Desmond Bernal
 Rosalind Franklin
 Luigi Galvani
 Hermann von Helmholtz
-Archibald Hill
 Manfred Eigen
 Linus Pauling
 Venkatraman Ramakrishnan
@@ -6316,7 +6101,6 @@ Poliakrilamid jel elektroforez
 Polihistidin etiketi
 Polinükleotit
 Proteinoit
-Rekombinaz
 Restriksiyon enzimi
 Restriksiyon modifikasyon sistemi
 Retrovirüs
@@ -6349,7 +6133,6 @@ Aşırı kullanma
 Birincil üretim
 Bitki örtüsü
 Biyotik faktör
-Çevre ekolojisi
 Çevre felsefesi
 Doğal Hayatı Koruma Derneği
 Ekolojik mültecilik
@@ -6400,7 +6183,6 @@ Biyoremediasyon
 Biyoteknik mücadele
 Biyoteknoloji riski
 Çevre biyoteknolojisi
-Doku mühendisliği
 İçecek teknolojisi
 İnsan klonlama
 Kolostrum sütü
@@ -6408,11 +6190,9 @@ Protein saflaştırması
 Siborg
 Transfer DNA
 Yapay seçilim
-Kary Mullis
 Robert S. Langer
 Antibiyotik
 Amikasin
-Antimisin A
 Capreomycin
 Dapsone
 Daptomisin
@@ -6430,7 +6210,6 @@ Aşıların zaman çizelgesi
 BBV152
 COVAX-19
 COVIran Bereket
-DBT
 Grip aşısı
 Hayvanlarda aşılanma
 İnaktif aşı
@@ -6447,7 +6226,6 @@ Bayer Türkiye
 Biyosensör
 Biyoenformatik
 Gen bulma
-Biyoenformatik dergileri listesi
 Çoklu dizi hizalaması
 Dizi analizi
 Dizi hizalaması
@@ -6457,7 +6235,6 @@ Hastalık Veri Tabanı
 Hesaplamalı biyoloji
 Kütle spektrometrisi veri formatı
 Medical Subject Headings
-National Center for Biotechnology Information
 Nöroinformatik
 Oligomer
 Peptid kütle parmak izi
@@ -6499,7 +6276,6 @@ Kımız
 Kvas
 Lassi
 Rakı
-Sikhye
 Şarap
 Şartröz
 Monoklonal antikor
@@ -6518,7 +6294,6 @@ MikroRNA
 Nükleobaz
 PiRNA
 RNA polimeraz
-Primer transkript
 RasiRNA
 Riboşalter
 Ribozomal RNA
@@ -6541,7 +6316,6 @@ Lesitin
 Sodyum dodesil sülfat
 Botanik
 Ağaç
-Balsam
 Botanik sözlüğü
 Ek kök
 Ex situ
@@ -6568,10 +6342,8 @@ Bakka
 Batum Botanik Bahçesi
 Bitkisel hormonlar
 Botanik bahçesi
-Buğdaysı meyve
 Canario Viera y Clavijo Botanik Bahçesi
 Çenek
-Drupa
 Ephedra sinica
 Epigeal çimlenme
 Erbaa Üzüm Yaprağı
@@ -6583,24 +6355,19 @@ Hipogeal çimlenme
 Hortus Botanicus Leiden
 Index Herbariorum
 Kabuk
-Kapsül (bitki)
-Kokarbaldıran
 Kromoplast
 Lentisel
 Psödomaki
 Tahta
-Tentür
 Tomurcuk
 Umbelliferon
 Vejetatif üreme
 Yem
-Yeşil yem
 Alismales
 Backster etkisi
 Bahar (bitki)
 Bitki bilim kütüphanesi
 Convolvulaceae
-Helicia amplifolia
 Kapalı tohumlular
 Tracheophyta
 Takson yazarı botanikçiler listesi
@@ -6678,8 +6445,6 @@ Zhang Zhongjing
 Bitki ıslahı
 Kendileme
 Klonal seleksiyon
-Deniz biyolojisi
-Abisal bölge
 Balina ve Yunus Koruma Merkezi
 Deniz eriştesi
 Deniz rezervleri
@@ -6689,9 +6454,7 @@ Humboldt Akıntısı
 Nekton
 Pristiophorus japonicus
 Psammon
-Pseudostaurastrum
 Saban balığı
-Spongin
 Ulusal Deniz Memelileri Laboratuvarı
 Balık kılçığı
 Balık pulu
@@ -6790,8 +6553,6 @@ Körelmiş yapılar
 Makro evrim
 Evrimsel nörobilim
 Ortak köken
-Paralel evrim
-Popülasyona göre etçiller listesi
 Reptiliomorpha
 Seçilim
 Evrimsel silahlanma yarışı
@@ -6844,7 +6605,6 @@ Confuciusornis
 Darwinius
 Darwinopterus
 Eosimias
-Eotragus
 Guiyu oneiros
 Heteroprox
 Homo erectus
@@ -6891,7 +6651,7 @@ Sivapithecus
 Sphenacodon
 Sphenacodontia
 Spicomellus
-Terapsid
+Terapsit
 Tseajaia
 Vetulicolia
 Westlothiana
@@ -6981,10 +6741,8 @@ Lamellipodia
 Miyofilament
 Motor protein
 Sarkomer
-Sil
 Yalancı ayak
 İnsular lob
-Le Chatelier ilkesi
 Endositoz
 Osmoregülasyon
 Osmotik basınç
@@ -7040,7 +6798,6 @@ Yenilenme
 Anne sütü
 Efüzyon
 Gastrik asit
-İnterstisyel sıvı
 Kan plazması
 Kilüs
 Safra
@@ -7069,7 +6826,6 @@ Ernst Wolfgang Caspari
 Chondrocranium
 Ergen
 İndüklenmiş pluripotent kök hücre
-Ontojeni
 Ovovivipar
 Yaşlanma
 Yenidoğan
@@ -7103,7 +6859,6 @@ Ekivalentlik
 Fenotip
 Gen aktarım maddesi
 Genetik danışma
-Genetik determinizm
 Genetik hastalıkların kökeni
 Genetik sürüklenme
 Genetik tanı merkezi
@@ -7122,7 +6877,6 @@ Markör destekli seleksiyon
 Memetik
 Mikrosatelit
 Modifikasyon
-Pangenez
 Pleiotropi
 Ploitlik
 Psödogen
@@ -7132,7 +6886,6 @@ Soy içi üreme
 Telomeraz
 A-DNA
 Anöplodi
-Barr cisimciği
 Çaprazlama (genetik algoritma)
 Çaprazlama (genetik)
 DNA yanlış eşleşme tamiri
@@ -7150,7 +6903,6 @@ Homolog kromozom
 İmmünogenetik
 İnterferon gama
 Mitotik krosover
-Monoamin oksidaz A
 Northern blot
 Otozomlar
 Ökaryotlarda DNA replikasyonu
@@ -7159,12 +6911,10 @@ Politen kromozom
 Pribnow kutusu
 Promotör
 Replikasyon orijini
-Ring kromozom
 Ruslarla ilgili genetik çalışmalar
 Tetrat
 Yarı korunumlu çoğalma
 Z-DNA
-David Reich
 Akıllı tasarım
 Darwin'in Kara Kutusu
 Akıllı tasarım davası
@@ -7195,7 +6945,6 @@ Metilasyon
 Filogenetik
 Afroinsectiphilia
 Catalogue of Life
-Jacques Gauthier
 Kladogram
 Moleküler filojeni
 Monofili
@@ -7284,7 +7033,6 @@ Araknoid kist
 Ataksi-Telanjiektazi
 Atriyal septal defekt
 Brachio-oto sendrom (BOS sendromu)
-Clawhand
 Düztabanlık
 Dyskeratosis congenita
 Ehlers-Danlos sendromu
@@ -7316,7 +7064,6 @@ Karyotip
 Kromatit
 Shelterin
 Vajinoplasti
-Genom Araştırma Enstitüsü
 Mayoz
 Krosover
 Mitoz
@@ -7441,12 +7188,10 @@ Kreatin
 Kupffer hücresi
 Lenfosit
 Mikrozom
-Miyeloblast
 Organel
 Osteoblast
 Osteosit
 Otoliz
-Pineolasit
 Pinositoz
 Plazma hücresi
 Por
@@ -7463,7 +7208,6 @@ Sperm
 Yağ hücresi
 Otto Heinrich Warburg
 Peter J. Ratcliffe
-James Rothman
 Yoshinori Ohsumi
 Çekirdek zarı
 Ergastik madde
@@ -7538,10 +7282,8 @@ Granülosit makrofaj koloni uyarıcı faktör
 Tümör nekroz faktörü alfa
 Telomer
 Homolog olmayan uç birleştirme
-Kadherin
 Majör histokompatibilite kompleksi
 Permeaz
-Protokadherin
 El tercihi
 İnsan biyolojisi
 İnsan gelişimi (biyoloji)
@@ -7549,11 +7291,9 @@ Bazal vücut ısısı
 Fizyolojik psikoloji
 İnsan vücut sıcaklığı
 Kinesiyoloji
-Asetilkolinesteraz
 Bax
 Betatrofin
 CD2
-CD200
 CD58
 CD80
 Elastin
@@ -7564,9 +7304,6 @@ Ghrelin
 Hormona duyarlı lipaz
 ICAM-1
 Insulin degludec
-KCNS2
-Laktoferrin
-LAMP3
 Leptin
 Lesitin kolesterol asiltransferaz
 LRP1
@@ -7605,7 +7342,6 @@ Asklı mantarlar
 Bazitli mantarlar
 Mantar öldürücüler
 Parentezom
-Hubertus Antonius van der Aa
 Mikologların listesi
 Fungusit
 Bordo bulamacı
@@ -7614,7 +7350,6 @@ Burgonya bulamacı
 Pentaklorofenol
 Mantar hastalığı
 Akut pulmoner histoplazmozis
-Aspergillosis
 Beyaz burun sendromu
 Kandidiyaz
 Kasık mantarı
@@ -7653,11 +7388,8 @@ George Wald
 Horace Barlow
 Davranışsal nörobilim
 Fünikülüs
-Hücresel nörobilim
-Nöromühendislik
 Nörotemezis
 Sinir fasikülü
-Somatotopi
 Uzanım lifleri
 BRAIN Initiative
 Neuralink
@@ -7707,10 +7439,10 @@ Gliozis
 Glossofaringeal sinir
 Kafa içi basıncı
 Kraniyal sinir
-Kraniyal sinirler tablosu
 Lemnisküs
 Maksiler sinir
 Miyelin
+Motor öğrenme
 Nevralji
 Nöroendokrin hücresi
 Serebellar tonsil
@@ -7760,11 +7492,9 @@ Günümüzden Önce
 Kozmojenik nüklitler
 Maotianshan Şeylleri
 Pelikozor
-Sinapsid
-Radyobiyoloji
+Sinapsit
 Çevrede aktinit
 Gıda ışınlama
-İrradyasyon
 Nükleer serpinti
 Potasyum iyodür
 Radyasyon dozu
@@ -7774,7 +7504,6 @@ Radyolojik silah
 Sievert
 Teknesyum
 Ultraviyole mikrop öldürücü ışınlama
-İyot-131
 KBRN savunma
 Kızıl Orman
 Ludwig von Bertalanffy
@@ -7849,7 +7578,6 @@ Aile planlaması
 Akut
 Altın periyot
 Altın standart
-Alyuvar çökelme hızı
 Anamnez
 Anatomical Therapeutic Chemical Classification System
 Anerji
@@ -7865,12 +7593,10 @@ Asfiksi
 Aşırı tanı
 Ataksi
 Atatürk Üniversitesi Tıp Fakültesi
-Aterektomi
 Aulus Cornelius Celsus
 Auriculocondylar sendrom
 Avellis sendromu
 Ayırıcı tanı
-Baş kesme
 Bell paralizisi
 Besin grubu
 Besin takviyesi
@@ -7882,7 +7608,6 @@ Boyun
 Böbrek yetmezliği
 Brodmann alanı
 Bulgu
-Burun spreyi
 Büyüme hormonu
 Caput medusae
 Cluster ağrıları
@@ -7900,13 +7625,10 @@ Elastik fibril
 ELISA
 Embriyo kalitesi
 EMedicine
-Endokrin
 Endoskopi
 Endoskopik retrograd kolanjiyopankreatografi
-Epanşman
 Epitez
 Erotik asfiksi
-Eşcinsel bağırsak sendromu
 Fizik muayene
 Fizyoterapist
 Floroskopi
@@ -7914,7 +7636,6 @@ Foliküler ünite ekstraksiyonu
 Foliküler ünite nakli
 Forseps
 Galloway-Mowat sendromu
-Gaspare Tagliacozzi
 Gazlı bez
 Gerstmann-Straussman-Scheinker hastalığı
 Geschwind-Galaburda hipotezi
@@ -7930,14 +7651,12 @@ Hâlsizlik
 Hassas tıp
 Hastalık çığırtkanlığı
 Hematospermia
-Hemikorporektomi
 Hemipleji
 Hemodiyaliz
 Henle kulpu
 Hidroterapi
 Hiperkalemi
 Hipoaktivite
-Hipokalemi
 Holoprosensefali
 Hutchinson triadı
 İdiot
@@ -7962,7 +7681,6 @@ Koagülasyon
 Komorbidite
 Kontrast madde
 Kozmetoloji
-Kronik
 Kuron
 Kusma
 Künt travma
@@ -7973,19 +7691,15 @@ Lenf bezi tüberkülozu
 Lissensefali
 Locked-in sendromu
 Lohusalık
-Lokal anestezi
-Louise Brown
 Malokluzyon
 Mani (tıp)
 Mantar zehirleri
 Menoraji
 Miyom
-MLPA
 Moksibüsyon
 Narkoz
 Nefrostomi
 Neşter
-Nobel Fizyoloji veya Tıp Ödülü
 Nozoloji
 Nöral terapi
 Nörogelişimsel bozukluk
@@ -7993,18 +7707,15 @@ Nöropati
 Nöropsikoloji
 Nötron tomografisi
 Nükleotom
-Obstetrik
 OMIM
 Optik nörit
 Ortodonti
 Ortodontist
 Öksürük
-Ön beyin sakatlığı
 Paratiroid hormon
 Parenteral
 Patient UK
 Pcr24 antijen
-Penektomi
 Periost
 Pitozis
 Pozitron emisyon tomografisi
@@ -8015,12 +7726,9 @@ Protrombin zamanı
 Psikiyatr
 QT uzaması
 Rapunzel sendromu
-Rebound etkisi
 Reçete
 Remisyon
 Renal medulla
-Reperfüzyon
-Retroperitoneal kanama
 Revir
 Rinne testi
 Sağ kalma suçluluğu
@@ -8030,7 +7738,6 @@ Salin
 Seçici serotonin geri alım inhibitörü
 Sefalosel
 Seroloji
-Sıhhiyeci
 Sinoatriyal düğüm
 Sinyatür teorisi
 Skafosefali
@@ -8060,7 +7767,6 @@ Ultrasonografi
 Uzman hekim
 Üst solunum yolları
 Weber testi
-Yakın Doğu Üniversitesi Hastanesi
 Yo (antikor)
 Yumurtalık kisti
 Z-plasti
@@ -8079,7 +7785,6 @@ Bedenişi
 Allan Çumak
 Beki İkala Erikli
 Hacamat
-Hirudo sulukii
 Homeopati
 Kaplıca
 Kiropraktik
@@ -8122,7 +7827,6 @@ Biyomedikal bilimler
 Çene cerrahı
 Doktor (tıp)
 Eczacı
-Eczane teknisyeni
 Feldşer
 Hastabakıcı
 Hemşire yardımcısı
@@ -8157,12 +7861,10 @@ De Humani Corporis Fabrica Libri Septem
 El-Kanun fi't-Tıb
 Feyyaz Berkay
 Geç Ming Hanedanı veba salgını
-Guido Guglielmi
 Hipokrat
 Kan alma
 Kitabu'l-Müntehab
 Majör depresif bozukluk
-Minör depresif bozukluk
 Notes and Records
 Nöroloji ve nöroşirürji tarihi
 Retrospektif tanı
@@ -8213,7 +7915,6 @@ Araya Parça Giren Yıllar
 Balon fetişizmi
 Bekâret
 Biyoloji ve cinsel yönelim
-Bottom (BDSM)
 Cinsiyet değiştirme ameliyatı
 Cinsiyet Üzerine
 Çevre ve cinsel yönelim
@@ -8240,7 +7941,6 @@ Erkek üreteri
 Gonad
 İki evcikli
 Oosit
-Oviparite
 Antijenik kayma
 Antijenik sapma
 Siğil
@@ -8254,7 +7954,6 @@ Gu Fangzhou
 Luc Montagnier
 Albert Osterhaus
 Robert Malone (biyolog)
-Antiviral ilaç
 Asiklovir
 Molnupiravir
 Ribavirin
@@ -8300,7 +7999,6 @@ Gloger kuralı
 Holozoik
 International Commission on Zoological Nomenclature
 İkiz
-Karasal hayvanlar
 Melanizm
 Saldırganlık
 Uluslararası Zoolojik Adlandırma Kodu
