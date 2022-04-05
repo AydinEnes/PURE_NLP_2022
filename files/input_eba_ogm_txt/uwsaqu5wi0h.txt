@@ -1,0 +1,106 @@
+﻿BİYOLOJİ NÜKLEİK ASİTLER (RNA) VE ATP
+RİBONÜKLEİK ASİT (RNA)
+
+Riboz şekeri içeren nükleotitlerin birbirine
+bağlanması ile meydana gelen tek zincirli
+polimerdir. RNA'da timin yerine urasil
+bazı bulunur. RNA, prokaryot hücrelerde
+sitoplazma ve ribozomlarda bulunur.
+
+Ökaryot hücrelerde çekirdek, çekirdekçik, sitoplazma, ribozom, mitokondri ve
+kloroplastlarda bulunur. RNA molekülü DNA
+gibi kendini eşleyemez ve onaramaz. Tüm
+RNA çeşitleri DNA üzerinden sentezlenir.
+RNA çeşitleri protein sentezinde rol alırlar.
+
+
+
+a) Mesajcı RNA (mRNA)
+mRNA'Iar, protein sentezi
+için gerekli olan genetik bilgiyi
+
+DNA'dan alıp sitoplazmadaki
+
+ribozomlara taşıyan aracı
+moleküllerdir.
+b) Taşıyıcı RNA (tRNA)
+tRNA'Iar, protein sentezi
+için gerekli olan amino asitleri
+
+sitoplazmadan ribozoma taşırlar.
+
+DNA üzerinden sentezlendikten
+sonra kendi üzerinde katlanıp
+zayıf hidrojen bağı ile
+bağlanarak üç boyutlu özel bir
+şekil alır. Her bir tRNA molekülü
+kendine özgü bir amino asidi
+bağlayıp ribozoma taşır.
+
+c) Ribozomal RNA (rRNA)
+
+Ribozomal RNA, proteinlerle
+birlikte ribozomların yapısına
+katılır. Hücrede en fazla bulunan
+RNA çeşididir. Ribozomun
+yapısına katılırken zayıf hidrojen
+bağları ile kendi üzerinde
+katlanıp üç boyutlu yapı kazanır.
+
+ 
+
+Deoksiribonükleik Asit (DNA)
+
+Yapısında adenin, guanin, sitozin
+ve timin organik bazları bulunur.
+
+Yapısında deoksiriboz şekeri vardır.
+Yapısında inorganik fosfat bulunur.
+Çift ipliklidir.
+
+Kendini eşleyebilir ve oranlayabilir.
+
+Yıkılıp yeniden yapılamaz.
+
+Ökaryot hücrelerde çekirdek, çekirdekçik,
+
+mitokondri ve kloroplastlarda; prokaryot
+hücrelerde ise sitoplazmada bulunur.
+
+Protein sentezine dolaylı olarak katılır.
+
+A/T, G/C, Pürin/Pirimidin
+oranları 1'e eşittir
+Ribonükleik Asit (RNA)
+
+ 
+
+Yapısında adenin, guanin, sitozin
+ve urasil organik bazları bulunur.
+
+Yapısında riboz şekeri vardır.
+
+Yapısında inorganik fosfat grubu bulunur.
+
+Tek ipliklidir.
+
+Kendini eşleyemez ve onaramaz.
+
+Yıkılıp yeniden yapılabilir.
+
+Ökaryot hücrelerde çekirdek, çekirdek, çekirdekçik, sitop-
+lazma, mitokondri, kloroplast ve ribozomlarda; prokaryot
+hücrelerde ise sitoplazma ve ribozomlarda bulunur.
+
+Protein sentezine doğrudan katılır.
+
+Böyle bir oran yoktur.
+
+Canlıların tamamında besin
+
+moleküllerinin solunum ile parçalanması
+
+ile üretilir. Fotosentetik canlılarda
+organik besinlerin sentezi için gerekli
+olan enerji güneş ışığı yardımıyla elde edilen ATP'den sağlanır. ADP'ye bir fosfat grubunun
+bağlanması ile gerçekleşen ATP sentezine fosforilasyon adı verilir. ATP'deki fosfat bağlarının koparılmasına defosforilasyon denir.

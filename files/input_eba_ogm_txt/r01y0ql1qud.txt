@@ -1,0 +1,87 @@
+﻿BİYOLOJİ HÜCRE ZARINDAN MADDE GEÇİŞLERİ
+
+PASİF TAŞIMA
+
+Küçük moleküllerin çok yoğun oldukları
+ortamdan az yoğun oldukları ortama doğru
+hücre zarından geçişine pasif taşıma denir. Pasif taşıma hem canlı hem de cansız ortamlarda
+gerçekleşebilir. Pasif taşıma sırasında hücrenin
+ATP harcamasına gerek yoktur.
+
+
+Difüzyon, küçük moleküllerin yüksek yoğunlukta bulundukları ortamdan düşük yoğunlukta bulundukları ortama doğru yaptıkları yer
+değiştirme hareketidir.
+
+'Basit Difüzyon: Moleküller, zarda bulunan
+fosfolipit tabakasından zarın her iki tarafındaki yoğunlukları eşitleninceye kadar geçiş yapar.
+Enerjinin harcanmadığı ve taşıyıcı proteinlerin
+kullanılmadığı bu olayda yağda çözünen ve
+yağı çözen maddeler ile gazlar fosfolipit tabakadan doğrudan geçer. Maddelerin zardan bu
+şekilde geçişine basit difüzyon denir.
+
+oKolaylaştırılmış Difüzyon: Su ve suda çözünen bazı maddeler, hücre zarındaki fosfolipit
+tabakadan genelde geçemez ancak protein
+yapılı özel taşıyıcılar üzerinden veya proteinlerin oluşturduğu kanallardan geçebilir. MolekülIerin bu şekilde zardan geçişine kolaylaştırılmış
+difüzyon denir.
+
+Difüzyon Hızını Etkileyen Faktörler:
+
+0 Sıcaklık artıkça difüzyon hızı artar.
+
+0 Yoğunluk farkı arttıkça difüzyon hızı artar.
+
+0 Difüzyon yüzeyi arttıkça difüzyon hızı artar.
+
+0 Molekül büyüklüğü arttıkça difüzyon hızı
+artar.
+
+
+Diyaliz, bir çözeltideki çözünmüş belirli
+maddelerin, seçici geçirgen zarın diğer tarafına
+konulan farklı bileşime sahip bir çözelti aracılı-ğı ile değiştirilme işlemidir.
+
+
+Osmoz, suyun çok yoğun olduğu ortamdan
+az yoğun olduğu ortama doğru seçici geçirgen
+zardan geçişidir. Osmoz olayında yoğunluğu
+düşük ortamdan yüksek olan ortama doğru
+net su geçişini durdurmak için zara uygulanan
+su basıncına osmotik basınç denir. Osmotik
+basıncın fazla olduğu yerde emme kuvveti oluşur. Hücre içindeki suyun hücre zarına yaptığı
+basınca turgor basıncı denir.
+
+
+Hayvan hücreleri, turgor
+basıncının aşırı artmasına
+dayanamaz ve parçalanır.
+
+hücre zarının turgor basıncı ile
+parçalanmasını engeller.
+
+Bitki hücrelerinde bulunan duvar,
+
+
+Hücreler yoğunluk bakımından üç çeşit çözelti
+ortamında bulunabilir:
+
+1) İzotonik Ortam: Yoğunluğu hücrenin
+sitoplazma yoğunluğuna eşit olan çözeltidir.
+Böyle bir ortamda hücre içi osmotik basınç ile
+turgor basıncı birbirine eşit olduğundan emme
+kuvveti sıfırdır.
+
+2) Hipertonik Ortam: Yoğunluğu hücrenin
+sitoplazma yoğunluğundan fazla olan çözeltidir. Bu tür ortamların osmotik basıncı yüksek
+olduğundan hücreler, su kaybeder ve büzülür;
+bu olaya plazmoliz denir.
+
+3) Hipotonik Ortam: Yoğunluğu hücre yo-
+ğunluğundan az olan ortamlardır. Hipotonik
+ortamlarda bitki hücreleri su alarak şişer ve
+turgor hâline geçer. Su kaybederek plazmoliz durumuna geçmiş bir hücre, hipotonik bir
+ortama konursa su alarak eski hâline döner;
+bu olaya deplazmoliz denir. Hayvan hücreleri,
+hipotonik ortamda su alıp şiştiğinde hücre
+zarı içeri giren suyun basıncına dayanamaz ve
+parçalanır; bu olaya hemoliz denir.
+

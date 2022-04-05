@@ -1,0 +1,66 @@
+﻿BİYOLOJİ
+Enzimlerin Çalışmasına Etki Eden Faktörler
+Sıcaklık, pH Derecesi, Enzim ve Substrat Miktarı, Su, Substrat Yüzeyi
+
+, Aktivatörler
+
+, İnhibitörler
+
+a) Sıcaklık
+
+Enzimler protein yapılı olduğundan yüksek ve
+düşük sıcaklıktan etkilenir. 0 °C gibi düşük sıcaklıklarda genellikle enzimlerin yapısı bozulmaz.
+Ancak enzimler etkinlik gösteremez. Enzimlerin
+en iyi çalıştığı sıcaklık değerine optimum (ideal)
+sıcaklık denir. Optimum sıcaklık değeri aşıldığında tepkimenin hızı düşmeye başlar ve genellikle
+
+
+Her enzimin etkin bir şekilde çalıştığı belirli
+bir pH aralığı ve maksimum hızda çalıştığı belirli
+bir pH değeri vardır. Enzimin maksimum hıza
+
+ulaştığı pH değerine optimum (ideal) pH denir.
+
+1. Enzim ve substrat miktarı sürekli artarsa
+tepkime hızı da sürekli artar (a).
+
+2. Enzim miktarı sabit, substrat miktarı sürekli
+artarsa tepkime hızı belirli bir noktaya kadar
+artar sonra sabit bir hızla ilerler. Çünkü enzim
+substrata doygunluk gösterir (b).
+
+ENZİMLERİN ÇALIŞMASINA ETKİ EDEN FAKTÖRLER
+
+3. Enzim miktarı artarken substrat miktarı
+sabit ise tepkime hızı belirli bir noktaya kadar
+artar. Ortamda substrat kalmadığında tepkime
+durur (c).
+
+ç) Su
+
+Ortamdaki su yoğunluğu %15'in altına düştüğünde enzimler aktivite gösteremez. Bu nedenle
+bal, reçel, kurutulmuş sebze ve meyveler bozulmadan uzun süre saklanabilir.
+
+d) Substrat Yüzeyi
+
+Enzimler dış yüzeylerinden başlayarak substratlara etki eder. Substrat yüzeyi artırılabiliyorsa
+tepkime hızı da artar.
+ 
+
+e) Aktivatörler
+
+Enzimin çalışma hızını artıran madde veya
+faktörlere aktivatör denir. Örnek: Hidroklorik
+asit (HCI), pepsinojeni aktif pepsin durumuna
+getiren bir aktivatör maddedir. Isı, ışık, pH deği-
+şimleri bir noktaya kadar aktivatör etki gösterir.
+Örneğin fotosentezde görev alan bazı enzimler,
+ışık ile aktive olur.
+
+f) İnhibitörler
+
+Enzimlere bağlanarak veya enzimi kararsız
+hâle getirerek etkisizleştiren madde veya fak-
+törlere inhibitör denir. İnhibitörler enzimlerin
+etkinliğini yavaşlatır ya da geri dönüşümsüz
+olarak durdurabilir.

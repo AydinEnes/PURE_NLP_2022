@@ -1,0 +1,65 @@
+﻿BİYOLOJİ
+NÜKLEİK ASİTLER (DNA)
+
+ 
+Nükleik asitler yapısında C, H, 0, N
+ve P atomları bulunduran polimerlerdir.
+Hücrelerde DNA ve RNA olmak üzere 2
+çeşit nükleik asit bulunur. Nükleik asitlerin
+yapısal birimlerine nükleotit denir. Her
+bir nükleotit 3 alt birimden oluşur: Azot/u
+organik baz, 5 karbonlu şeker; İnorganik
+fosfat grubu.
+
+Azotlu organik bazlar 2 gruba ayrılır:
+Pürinler ve pirimidinler. Pürin bazları biri
+altıgen diğeri beşgen şekilli iki halkanın
+birleşmesinden oluşmuştur. Pirimidin
+bazları ise yalnızca altıgen şekilli tek bir
+halkadan ibarettir. Pürin bazları adenin
+(A) ve guanin (G) olmak üzere 2, pirimidin
+bazları ise sitozin (C), timin (T), ve urasil
+(U) olmak üzere 3 çeşittir.
+
+Pentoz şekerler 2 çeşittir: Riboz
+
+ve deoksiriboz. DNA'da deoksiriboz
+bulunurken RNA'da riboz şekeri bulunur.
+
+Bir nükleotidin sentezi sırasında azotlu
+organik baz ile 5 karbonlu şeker birbirine
+glikozit bağıyla bağlanarak nükleozit
+oluşturulur.
+
+DNA ve RNA'da aynı iplik üzerinde
+bulunan bir nükleotidin fosfatı diğer
+nükleotidin şekerine fosfodiester
+bağlarıyla bağlanarak uzun polinükleotit
+zincirleri oluşturur (polimer).
+
+ 
+
+DNA (Deoksiribonükleik Asit)
+
+DNA ökaryot hücrelerde çekirdek,
+mitokondri ve kloroplastta; prokaryot
+hücrelerde ise sitoplazmada bulunur. Tüm
+DNA moleküllerinde bir iplikteki bir pürin
+bazının karşısına karşı iplikte daima bir
+pirimidin bazı gelir. Dolayısıyla hangi canlıya
+ait olursa olsun tüm DNA moleküllerinde
+A/T, G/C, Pürin/Pirimidin oranları 1'e eşittir.
+Canlıların DNA'larındaki A+T/G+C oranı ise
+
+ 
+türe özgüdür. Adeninler ile timinler arasında
+ikili, guaninler ile sitozinler arasında üçlü zayıf
+hidrojen bağları vardır. Hidrojen bağlarının
+oluşumları sırasında su açığa çıkmaz.
+
+Hücre bölüneceği zaman çekirdeğindeki
+tüm DNA molekülleri kendilerinin
+hatasız birer kopyasını çıkarır. Bu olaya
+replikasyon (eşleme) denir. Bir canlının
+vücut hücrelerindeki DNA'ları oluşturan
+nükleotitlerin sırası ve sayısı aynıdır.

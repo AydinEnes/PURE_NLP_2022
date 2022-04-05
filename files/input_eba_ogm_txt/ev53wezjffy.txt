@@ -1,0 +1,99 @@
+﻿BİYOLOJİ BAĞIŞIKLIK SİSTEMİ
+
+ 
+Organizmalara
+karşı özgül olmayan,
+genel bir savunmadır.
+Tüm insanlar,
+herhangi yabancı bir
+etkenle karşılaşmadan
+önce, doğuştan
+gelen, özgül olmayan
+bağışıklığa sahiptir. Doğal bağışıklıkta
+patojenler, iki savunma hattı ile karşılaşır.
+Savunmanın birinci hattında; Vücut
+yüzeyinde mikropların vücuda girişini
+önleyen engeller yer alır. Tükürük, gözyaşı,
+mukus salgılarındaki lizozim, mikropların
+hücre duvarını parçalar. Mikropların
+vücudumuzun açık bölgelerinden
+içimize girmesini önleyen tüm engeller,
+savunmanın birinci hattını oluşturur.
+Savunmanın ikinci hattında; Yangısal
+tepki (iltihaplanma), interferon, fagositoz
+yapan hücreler, doğal katil hücreler ve
+kompleman sistem ile korunma sağlanır.
+
+YANGISAL TEPKİ
+
+Yaralanmalarda deriden giren
+mikroorganizmalar yangısal tepkiye
+neden olur. Yaralı bölge kızarır ve çeşitli
+hücreler buraya toplanır. Yaralı dokuya
+gelen mast hücreleri, histamin salgılar.
+Histaminin etkisiyle kılcal damarlar
+genişler ve bu damarların geçirgenliği
+artar. Böylelikle mikroplara karşı savaşan
+molekülleri içeren sıvı, dokuların arasına
+geçer. Gelen makrofajlar ise sitokinleri
+salgılar. Sitokinler, yaralı dokuya kan
+akışını artırarak yangılarda tipik olarak
+görülen kızarıklık ve deri sıcaklığının
+yükselmesi durumlarına neden olur.
+Bölgeye gelen hücreler tarafından salınan
+sinyaller sonucu buraya ulaşan nötrofiller,
+yangı bölgesindeki patojenleri ve hücre
+kalıntılarını fagositozla yok eder. Geçirgen
+damarlardaki pıhtılaştırıcı faktörlerin
+etkisiyle yara kapanır.
+
+interferon: Virüsten etkilenmiş vücut
+hücreleri, protein yapılı interferon salgılar.
+
+Bu sayede virüslerin vücuda yayılması
+önlenir.
+
+Fagositoz Yapan Hücreler: İnsan
+vücuduna giren patojenler, fagositoz
+yapan hücrelerle (monositler ve
+nötrofillerle) karşılaşır. Fagositoz yapan
+hücreler, patojenleri içindeki kofula alır.
+
+DOĞAL KATİL HÜCRELER (DOĞAL
+
+ÖLDÜRÜCÜ LENFOSİTLER)
+
+Yabancı hücreler, tümör hücresi ve bazı
+enfekte olmuş hücreleri tanıyıp öldürür. Bu
+hücreler vücutta dolaşarak virüsle enfekte
+olmuş ya da kanserleşmiş hücreleri bulurlar
+ve bu hücreleri öldürecek kimyasallar
+salgılayarak bunların yayılmasını önler.
+
+KOMPLEMAN SİSTEM: Kan plazmasında
+inaktif hâlde bulunan çok çeşitli
+proteinlerden oluşmuş tamamlayıcı
+sistemdir.
+
+B.ÖZGÜL (SPESİFİK) BAĞIŞIKLIK
+
+(BAĞIŞIKLIĞIN ÜÇÜNCÜ HATTI)
+
+B ve T Ienfositleri tarafından oluşturulan
+bağışıklığa kazanılmış bağışıklık denir.
+
+0 Humoral (Sıvısal) Bağışıklık: Her toksin
+ya da organizma, kendine özgül protein
+veya polisakkarit yapıda bileşik taşır.
+Vücuda yabancı bu maddelere antijen
+adı verilir. B lenfositleri antijenlere karşı
+antikor adı verilen özel proteinler üretir ve
+bunları plazmaya verir. Bu olaya humoral
+bağışıklık denir.
+
+0 Hücresel Bağışıklık: T Ienfositlerin rol
+aldığı bağışıklığa hücresel bağışıklık denir.
+Antikor salınımına eş zamanlı olarak çok
+sayıda aktif T hücreleri lenf sıvısı yoluyla
+dolaşıma katılır. T Ienfositler antijenlere
+doğrudan temas ederek onları yok eder.

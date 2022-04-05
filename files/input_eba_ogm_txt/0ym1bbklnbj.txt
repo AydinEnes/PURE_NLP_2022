@@ -1,0 +1,81 @@
+BİYOLOJİ BİTKİLERDE HAREKET
+
+NASTİ HAREKETLERİ
+
+Bitkilerde uyaranın yönüne bağlı olmadan gerçekleşen
+hareketlere nasti hareketleri denir. Nasti hareketleri,
+hücrelerdeki turgor basıncındaki değişimler sonrasında
+gerçekleşir.
+
+Başlıca nasti hareketleri;
+
+' fotonasti,
+
+' termonasti,
+
+' sismonastidir.
+
+Fotonasti
+
+Fotonasti, ışık etkisiyle görülen nasti hareketleridir. Birçok
+bitki türünde ışık, çiçeklerin açılmasını sağlarken bazı bitki
+türlerinde çiçeklerin kapanmasına neden olur. Örneğin akşam
+sefası bitkisinin çiçeklerinin gündüz ışık şiddetine bağlı olarak
+kapanması karanlıkta da açılması fotonastidir.
+
+Termonasti
+
+Termonasti, sıcaklık değerlerindeki değişikliklerin neden
+olduğu nasti hareketleridir. Lale çiçeğinin sıcaklık değişimlerine
+yanıt olarak açılıp kapanması, bu duruma örnek verilebilir. Lale
+bitkisi 5 - 10°C'de çiçek açmazken 15 - 20°C'Iik bir ortamda çiçek
+açan
+
+Sismonasti
+
+Sismonasti, bazı bitkilerde dokunma ve sarsıntı ile meydana
+gelen hareketlerdir. Küstüm otuna dokununca yapraklarını
+kapatıp aşağı doğru sarkıtması, bazı bitki türlerinin dokununca
+tohumlarını uzaklara fırlatması, böcek kapan bitkisinin
+yaprağına böcek konunca dokunmanın etkisiyle yapraklarını
+kapatması sismonastiye örnek verilebilir.
+
+ 
+
+Fotoperiyodizm
+
+Bitkilerin, mevsimleri (bahar ya da kış) ve üreme döneminin
+yaklaştığını saptamak için sıklıkla kullandıkları çevresel
+uyarılara fotoperiyot denir. Fotoperiyot, gece ve gündüzün
+uzunluk oranıdır. Çevresel uyarılara karşı çiçek açma, yaprak
+dökümü, tohum ve tomurcuklarda uyku hâlinin başlaması ve
+
+ 
+
+devam etmesi gibi fizyolojik olaylar ise fotoperiyodizm olarak
+adlandırılır.
+
+Üreme olgunluğa erişmek için bitkilerin ihtiyaç duyduğu ışık
+alma süresi "kritik gün uzunluğu", karanlık süresi de "kritik
+gece uzunluğu" olarak ifade edilir.
+
+> Kısa gün bitkileri;
+
+Genel olarak gece süresinin gündüz süresinden daha uzun
+olduğu yaz sonu, sonbahar veya kış mevsimlerinde çiçek açar.
+Bu bitkilerin çiçeklenmesi için gün uzunluğunun kritik değerin
+altına düşmesi, gece uzunluğunun kritik değerin üzerine
+çıkması gerekir.
+
+> Uzun gün bitkileri
+
+Genel olarak ilkbahar sonunda ve yaz başında çiçeklenen
+bitkilerdir. Bu bitkilerin çiçek açması için gün uzunluğunun
+kritik değerin üzerine çıkması, gece uzunluğunun kritik değerin
+altına düşmesi gerekir.
+
+> Nötr gün bitkileri
+
+Bu bitkilerde çiçeklenme, fotoperiyottan ya da gündüz
+süresinin uzunluğundan etkilenmez. Fotoperiyodun dışındaki
+sinyallere tepki olarak çiçek açar.

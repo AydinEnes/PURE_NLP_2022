@@ -1,0 +1,118 @@
+﻿BİYOLOJİ SOLUNUM SİSTEMİ
+
+ 
+
+SOLUNUM GAZLARININ TAŞINMASI
+
+İnsanda solunum gazları, kandaki alyuvarda bulunan solunum
+pigmenti olan Hemoglobin (Hb) yardımıyla taşınır. Alyuvarların
+yapısında bulunan hemoglobin molekülü, merkezinde bir demir
+atomu taşıyan ve hem adlı kofaktöre sahip, dört alt birimden ve
+globülin proteininden oluşmuştur.
+
+0 Oksijenin Taşınması
+
+Kana geçen oksijenin %97'si alyuvarlarda bulunan hemoglobine
+bağlanarak taşınır. Kalan %3'ü plazma sıvısında çözünmüş olarak
+taşınır. Solunumla alınan havadaki Oksijenin büyük çoğunluğu,
+alveollere geldiğinde burada hemoglobine bağlanır. Oksijen bağlanmış
+hemoglobine oksihemoglobin denir. oksihemoglobin şeklinde
+dokulara gelen kandaki oksijenin yoğunluğu, doku sıvısına oranla
+daha yüksektir. Doku kılcallarında hemoglobinden ayrılan oksijen
+difüzyonla plazmaya, plazmadan da doku sıvısına ve hücrelere geçer.
+
+
+Kanda COZ'in kısmi basıncının artması kan pH değerini düşürür. Bu
+durum hemoglobinin bağlı olduğu Ozmoleküllerinin bırakılmasına yol
+açar. Düşük pH, hemoglobinin oksijene ilgisini azalttığı için bu etkiye
+”Bohr etkisi” denir.
+
+0 Karbondioksit Taşınması
+
+COZ'in doku kılcallarından akciğere taşınması üç yolla gerçekleşir:
+1) Yaklaşık olarak %7'si kan plazmasında çözünmüş olarak
+taşınır. 2) %23 'ü alyuvarlarda bulunan hemoglobine bağlanıp
+karbaminohemoglobin (HbCOz) oluşturarak taşınır. 3) %70 kadarı ise
+kan plazmasında bikarbonat iyonları (HCOS) şeklinde taşınır.
+
+Karbondioksit-in Dokulardan Akciğere Taşınması
+
+1. Vücut dokularında üretilen COZdoku sıvısına, oradan kılcal
+damarlara difüzyonla geçer.
+
+2. Alyuvara giren COZ'in %23'ü hemoglobine bağlanarak
+karbaminohemoglobin (HbCOZ) oluşturur.
+
+3. Alyuvarlara giren CO2 alyuvardaki karbonik anhidraz enzimi
+yardımıyla HZO ile birleşerek karbonik asiti (HZCOS) oluşturur.
+
+4. Kararsız olan H2C03, HCOS'(bikarbonat) ve H*iyonuna dönüşür.
+
+5. Hemoglobin, karbonik asitten gelen H+ iyonlarının çoğunu
+bağlayarak kanın asitleşmesini engeller.
+
+6. HC03* iyonları kan plazması ile akciğerlere kadar taşınır.
+
+7. Akciğer kılcallarında HCOs* plazmadan alyuvarlara difüze olur ve
+hemoglobinden ayrılan H+ iyonu ile birleşerek HZCO3'i oluşturur.
+
+8. HZCOSaIyuvardaki karbonik anhidraz enzimi aracılığıyla HZO ve
+
+COZ'e dönüşür.
+
+ 
+0 KOAH (Kronik
+Obstrüktif
+Akciğer Hastalığı)
+
+Hava iletim yollarında hava
+akımının kısıtlandığı bir akciğer
+hastalığıdır. Zamanla öksürük,
+balgam çıkarma, nefes darlığı ve 
+çabuk yorulma, hırıltılı solunum gibi
+belirtiler ortaya çıkar. En önemli 
+ve sık görülen nedeni sigara içmek
+veya sigara dumanından pasif olarak
+etkilenmektir.
+
+0 Astım: Bronşçuklarda mukus
+salgısının çok fazla artması ve düz
+kasların kontrolsüz kasılması (spazm)
+sonucu oluşan bir rahatsızlıktır.
+
+
+Doku
+
+Polenler, mantar sporları, kirli ve lHCOS kılcalları
+tozlu hava, bazı besinler ve çeşitli Akciğere gider
+ılaçlar astıma neden olabılır. HCO Akciğer
+
+0 Zatürre (Akciğer iltihabı):
+Akciğer alveollerinin enfeksiyonu
+sonucu akciğerlerde sıvı ve kan
+toplanmasıdır. En yaygın tipi
+pnömokok bakterilerinin neden
+olduğu enfeksiyondur.
+  
+
+0 Verem (Tüberküloz):
+Mycobacterium tuberculosis
+bakterisi tarafından oluşturulan
+bulaşıcı bir hastalıktır. Tüberküloz
+bakterileri öksürük ve hapşırıkla
+havada asılı kalarak sağlıklı bireylere
+kolayca bulaşabilir. Aşı ile koruma
+sağlanmaktadır.
+
+0 Gırtlak Kanseri: Gırtlağa
+yerleşmiş kanserleşmiş hücrelerin oluşturduğu tümörle, gırtlak
+kanseri rahatsızlığı ortaya çıkar. Ses kısıklığı, yutkunma sırasında
+zorlanma ve ağrı, nefes darlığı gibi belirtiler gösterir.
+
+0 Akciğer Kanseri: Kanserojen etkenlere maruz kalan solunum
+yolları epitel hücreleri kontrol dışı çoğalarak akciğerlerde kitle (tümör)
+oluşturur. Bu rahatsızlığın belirtileri nefes darlığı, göğüs ağrısı, ses
+kısıklığı, kanlı balgam çıkartan öksürük, iştah ve kilo kaybıdır. Akciğer
+rahatsızlığının tedavisinde erken tanı önemlidir. Kemoterapi veya
+radyoterapi uygulanabilir. İyi huylu tümörler ameliyatla yok edilebilir.
+

@@ -1,0 +1,69 @@
+﻿HÜCRE DÖNGÜSÜNÜN KONTROLÜ
+
+ 
+
+Birçok hücrede hücre
+döngüsünün evreleri
+arasındaki ilişkiyi sağlayan
+kontrol noktaları vardır.
+Bunlar G1, G2 ve M kontrol
+noktalarıdır.
+
+G1 kontrol noktası:
+Hücre bölünme
+büyüklüğüne ulaşmışsa
+"Devam et!" sinyali verilir.
+Bu sinyali alan hücre,
+döngünün diğer evresi olan
+S evresine geçer.
+
+G2 kontrol noktası:
+DNA'nın doğru eşlenip
+eşlenmediği ve DNA'da bir
+hasar olup olmadığı kontrol
+edilir.
+
+M kontrol noktası: Tüm
+kromozomların iğ ipliklerine
+bağlanıp bağlanmadığı
+kontrol edilir.
+
+./ Hücre tarafından "Devam
+et!" sinyali alınmazsa döngü
+G1 evresinde durur, S evresine
+geçemez. Bu durumda bazı
+hücreler döngüden çıkarak
+Go evresi olarak adlandırılan
+durgun döneme geçer.
+
+J Örneğin ileri derecede
+özelleşmiş sinir, kas ve karaciğer
+hücreleri G0 evresindedir.
+
+Bir dokudaki anormal hücre
+kütlesine tümör denir.
+/İyi huylu tümör
+./ Kötü huylu tümör
+
+Oluşan tümör hücrelerinin
+bulundukları yerden ayrılarak
+kan ve lenf yoluyla vücudun
+diğer kısımlarına yayılmasına
+
+metastaz denir. Metastaz yapan
+
+ 
+
+tümör hücrelerine kanser adı
+verilir.
+
+Kanser hastalığının
+oluşumunu, nedenlerini,
+kalıtımla ilişkisini, tanısını,
+tedavisini ve kanserden
+korunma yollarını araştıran
+bilim dalı onkolojidir.
+Radyoterapi ve kemoterapi
+kansere karşı kullanılan tedavi
+yöntemlerindendir.
+

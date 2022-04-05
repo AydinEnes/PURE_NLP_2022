@@ -1,0 +1,17 @@
+﻿ENZİMLER
+i Kimyasal tepkimeleri hızlandıran ve tepkimeden etkilenmeden çıkan maddelere katalizör denir. Canlı sistemlerde gerçekleşen tepkimeleri hızlandıran biyolojik katalizörlere enzim denir.
+i Herhangi bir kimyasal tepkimenin başlayabilmesi için gerekli olan en düşük enerji miktarına aktivasyon enerjisi denir. Enzimler aktivasyon enerjisini düşürerek, vücuttaki biyokimyasal reaksiyonların hücrelere zarar vermeyen daha düşük sıcaklık derecesinde meydana gelmesini sağlar. Böylece canlı hücreler daha az enerji harcayarak reaksiyonları gerçekleştirebilir.
+i Bileşik enzimlerin protein olan kısmına apoenzim, yardımcı kısmına kofaktör adı verilir.
+Kofaktör organik yapılı ise koenzim olarak adlandırılır. Yardımcı kısım ile birleşerek aktif hâle geçen apoenzime holoenzim (bileşik enzim) denir.
+i Enzimin etki ettiği maddeye substrat denir. Enzimin substratına geçici olarak bağlandığı ve etki ettiği bölgeye aktif merkez denir. Substrat enzim etkisi ile ürüne dönüşür. Her enzim her substrata etki edemez. Enzim ile substratı arasındaki uyum anahtar-kilit ilişkisine benzer. Enzimler substratlara özgüdür.
+i Enzim substratına bağlanarak enzim-substrat kompleksini oluşturur.
+Substrat enzim etkisi ile ürüne dönüşür.
+Enzim, herhangi bir değişikliğe uğramadan üründen ayrılır.
+H Holoenzimlerde apoenzim, enzimin etki edeceği maddeyi (substratı) tanır. Asıl etkiyi ise yardımcı kısım yapar. 
+Koenzim veya kofaktör kısmı substratı ürüne dönüştürür. Bir apoenzim sadece bir çeşit koenzim veya kofaktörle çalışırken bir koenzim veya kofaktör değişik apoenzimlerle çalışabilir.
+E Bazı enzimler çift yönlü çalışabilir (tersinir). Örneğin kanda gazların taşınmasından sorumlu olan ve alyuvarlarda bulunan enzimin C02 taşınırken gerçekleştirdiği tepkimeler tersinirdir. 
+Karaciğerede hidrojen peroksiti (H202) parçalayan katalaz ile sindirim enzimleri gibi bazı enzimlerin tepkimeleri tek yönlüdür.
+i Enzimler, hem hücre içinde hem de hücre dışında çalışabilir. Örneğin besinleri parçalayan sindirim enzimleri, hücre içinde ve hücre dışında çalışabilmektedir.
+E Enzimler, tepkimelerden değişmeden çıkar. Bu yüzden tekrar tekrar kullanılabilir. Hücrede her enzim, belirli bir genin kontrol ündn sevltzlenir. Enzimler çok hızlı çalışır.
+E Enzimler takımlar hâlinde çalışır, bir enzimin etki ettiği tepkimenin ürünü, kendinden sonraki enzimin substratıdır. E Enzimler, genellikle substrat çeşidi ya da tepkime çeşidi isminin sonuna -az eki getirilerek adlandırılır.
+İsminin sonunda -ojen eki bulunan enzimler ilk salgılandıklarında inaktif durumdadır.

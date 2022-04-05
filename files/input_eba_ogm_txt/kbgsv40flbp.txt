@@ -1,0 +1,58 @@
+BİYOLOJİ 
+
+KONU HÜCRESEL SOLUNUM (OKSİJENLİ SOLUNUM)
+
+Canlının yaşamını devam ettirebilmesi için organik
+maddeleri parçalayarak enerji elde etmesi olayına
+hücresel solunum denir. Hücresel solunumda organik
+besinlerin oksijen varlığında karbondioksit ve suya
+kadar parçalanmasına oksijenli solunum denir.
+Oksijenli solunum prokaryotlarda sitoplazmada, hücre
+zarına yakın zar kıvrımlarında (mezozom) gerçekleşir.
+Ökaryotlarda ise sitoplazmada başlayıp mitokondride
+devam eder ve tamamlanır.
+
+OKSİJENLİ SOLUNUM EVRELERİ
+
+1. Glikoliz: Glikozun pirüvik aside kadar
+parçalanması sırasında bir miktar ATP'nin üretildiği
+enzimsel tepkime dizisidir. Glikoz molekülünün
+solunum tepkimelerine katılabilmesi için 2 ATP
+harcanır ve 2 tane 3C'lu pirüvik asit meydana gelir.
+Tepkimeler sonucu 4 ATP üretilir ve bu sırada bir çeşit
+koenzim olan NAD+ (nikotinamid adenin dinükleotit)
+molekülleri, oluşan organik moleküllerden hidrojen
+alarak NADH oluşturur.
+
+2. Pirüvik Asitten Asetil - CoA Oluşumu: Krebs
+döngüsü başlamadan önce mitokondri matriksine
+geçen 3C'lu pirüvik asitler, CO2 çıkışı ve NADH
+oluşumu ile asetil - CoA (asetil koenzimA) adı verilen
+2C'lu bileşiğe dönüşür.
+
+3. Krebs Döngüsü: 2C'lu asetil - CoA molekülünün
+mitokondri matriksinde hazır bulunan 4C'lu organik
+molekülün enzim kontrolünde bir araya gelerek
+6C'lu sitrik asidi oluşturması ile başlar. Daha sonra
+peş peşe gerçekleşen reaksiyonlarla sitrik asitten
+4 karbonlu organik madde yeniden sentezlenir ve
+krebs döngüsü tamamlanmış olur. Krebs döngüsü ile
+substrat düzeyinde fosforilasyonla 2 ATP sentezlenir.
+Bu sırada 4 CO2 oluşur. Krebs döngüsünde üretilen
+6 NADH ve 2 FADHZ molekülleri ise elektron taşıma
+sistemine aktarılır.
+
+4. Elektron Taşıma Sistemi (ETS) - Oksidatif
+Fosforilasyon: Elektron taşıma sistemi, kristada
+dizilmiş elektron taşıyıcı moleküllerden oluşur. ETS
+molekülleri, oksijenli solunumun önceki evrelerinde
+oluşan NADH ve FADH2 ile gelen yüksek enerjili
+elektronları tutar.
+ 
+
+Oksijenli solunumda tüketilen bir glikoz
+molekülünden substrat düzeyinde fosforilasyonla
+4 ATP, oksidatif fosforilasyon ile NADH'tan gelen
+elektronları ETS'de hangi molekülün aldığına bağlı
+olarak da 26 ya da 28 ATP sentezlenir. Böylece glikoz
+başına 30 ya da 32 ATP üretilir.

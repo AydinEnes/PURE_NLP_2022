@@ -1,0 +1,148 @@
+﻿BİYOLOJİ CANLILARIN SINIFLANDIRILMASI
+
+Doğadaki canlıların benzerlik ve
+farklılıklarına ayrıca akrabalık derecelerine göre
+gruplandırılmasına sınıflandırma (sistematik)
+denir. Canlıları sınıflandırmak için gerekli olan
+bütün kural ve kriterleri belirleyen bilim dalına
+ise taksonomi adı verilir.
+
+SINIFLANDIRMANIN AMACI
+
+0 Canlıları, belirlenmiş bilimsel kurallar
+dâhilinde gruplandırarak doğayı daha kolay
+anlaşılır hâle getirmek.
+
+0 Canlı türlerini birbirinden ayırt edebilecek
+düzenli bir sistem oluşturmak.
+
+0 Benzer özelliklere sahip canlıların farklı
+şekillerde isimlendirilmesi ve gruplandırılması
+sonucu meydana gelebilecek karışıklıkları
+engelleyerek bilim insanları arasında iletişim ve
+dil birliği sağlamak.
+
+0 Canlıların sınıflandırılması sonucu elde edilen
+bilgileri, 0 gruba dâhil bireylerin tamamı için
+geçerli sayarak zaman kaybını en aza indirmek.
+
+0 Biyolojik çeşitliliği ve bunun dünya
+üzerindeki dağılımının nasıl olduğunu anlamak.
+
+0 Ekolojik ve ekonomik kaynakları tespit
+etmek.
+
+CANLILARIN SINIFLANDIRILMASINDA
+
+KULLANILAN ÖLÇÜT, YAKLAŞIM VE MODELLER
+
+Bilimsel anlamda canlıları sınıflandıran ilk
+kişi Aristo'dur. Aristo, yaptığı sınıflandırmada
+canlıları bitkiler ve hayvanlar olarak iki ana
+grup altında toplamıştır. Daha sonra bunları alt
+gruplara ayırarak bitkileri; yapı ve büyüklüklerine
+göre otlar, çalılar ve ağaçlar olarak hayvanları;
+suda ve karada yaşayanlar ile uçanlar şeklinde
+sınıflandırmıştır.
+
+Aristo, canlıları; renk,
+desen gibi dış görü-
+nüşlerini (morfolojik
+özelliklerini), doku
+ve organlarının görev
+benzerliğini (analojik
+benzerlik) ve ayrıca ya-
+şam ortamlarını dikkate
+alarak sınıflandırmıştır.
+
+Filogenetik kökenleri
+
+ 
+
+ARİSTO
+
+farklı, görevleri aynı olan organlara analog organ
+denir. Sistematik bilimi ile uğraşan bilim insanları,
+Aristo'nun doku ve organların görevlerini (ana-
+Iojilerini) dikkate alarak yaptığı bu sınıflandırma
+yöntemini yapay (suni=ampirik) sınıflandırma
+olarak adlandırmaktadır.
+
+John Ray, sınıflandırmada temel ve değişme-
+yen birimin tür olduğunu belirtmiştir. Tür; ortak
+bir atadan gelen, yapı ve işlev bakımından ben-
+zer özellikler taşıyan ve doğal koşullarda çiftleş-
+tiklerinde kısır olmayan yavrular (verimli döller)
+verebilen bireyler topluluğudur.
+
+18. yüzyılda Carolus Linnaeus, o dönemde
+yeni bulunan canlı türlerini de tanımlamak
+için daha kapsamlı bir sınıflandırma yönte-
+mi önermiştir. Linnaeus gruplama yaparken
+John Ray'in geliştirdiği tür kavramını dikkate
+almıştır. 1735 yılında yayınladığı "Doğa Siste-
+mi" adlı eserinde doğanın üç âlemini çeşitli
+kategorilere ayırmış ve türler için ilk defa ikili
+adlandırma yöntemini kullanmıştır.
+
+Sınıflandırma günümüzde, canlıların akrabalık
+derecelerine göre yapılmakta ve canlıların tüm
+biyolojik karakterleri göz önünde bulundurul-
+maktadır. Bu çeşit sınıflandırmaya doğal (filoge-
+netik) sınıflandırma denir.
+
+Filogenetik sınıflandırmada canlıların akraba-
+Iık derecesini tespit etmek için;
+
+./ DNA ve protein benzerliği,
+
+./ Vücut simetrisinin benzerliği,
+
+./ Embriyonel gelişim evrelerinin benzerliği,
+
+./ Biyokimyasal özelliklerin benzerliği,
+
+./ Hücresel yapılarının benzerliği,
+
+./ Anatomik benzerlikler,
+
+./ Fizyolojik benzerlikler,
+
+./ Organların kökeni (homoloji)
+
+gibi taksonomik kriterler kullanılır.
+
+Filogenetik kökeni aynı olan, yapı ve gelişimle-
+ri birbirine benzeyen, aynı veya farklı fonksiyon-
+Iarı yerine getiren organlara homolog organlar
+denir.
+
+SINIFLANDIRMADA KULLANILAN
+
+KATEGORİLER VE BU KATEGORİLER
+
+ARASINDAKİ HİYERARŞİ
+
+Hiyerarşik sınıflandırma birimlerine
+kategori adı verilir. Belirli bir kategoriye
+dâhil olan ortak özelliklere sahip bireylerin
+oluşturduğu topluluğa takson denir. En küçük
+sınıflandırma kategorisi türdür.
+    
+
+Birey sayısı artar.
+
+Sınıf Canlı çeşitliliği artar.
+
+Takım Gen çeşitliliği artar.
+Genetik benzerlik azalır.
+Protein benzerliği azalır.
+
+Cins Ortak özellik azalır.
+
+Linnaeus, her türe iki kelimeden oluşan Latince bir isim vererek binomial adlandırma (ikili
+adlandırma) yöntemini geliştirmiştir. Tanımlayıcı
+ad bir türün özelliğini belirten sıfat olup o türü
+tanımlamak için tek başına yeterli değildir. Çünkü
+birbirinden farklı türlerin tanımlayıcı adı aynı
+olabilir.

@@ -1,0 +1,110 @@
+BİYOLOJİ NÜKLEİK ASİTLER VE REPLİKASYON
+
+RNA; ökaryot hücrelerde,
+çekirdekte, sitoplazmada,
+ribozomun yapısında,
+mitokondride ve kloroplastlarda
+bulunur. Prokaryot hücrelerde
+ise sitoplazmada ve ribozomun
+yapısında bulunur.
+
+DNA'dan farklı olarak RNA'nın
+yapısında deoksiriboz şekeri
+yerine riboz şekeri bulunur. Azotlu
+baz olarak da timin yerine urasil
+bulunur.
+
+RNA, kendini eşleyemez. Bu
+nedenle bütün RNA çeşitleri, DNA
+üzerinde yer alan anlamlı şifrelere
+(gen) göre sentezlenir.
+
+Tüm hücrelerde; mesajcı RNA
+(mRNA), taşıyıcı RNA (tRNA) ve
+ribozomal RNA (rRNA) olmak üzere
+üç çeşit RNA vardır.
+
+Mesajcı RNA (mRNA)
+
+mRNA, genden aldığı bilgiyi
+ribozoma taşır. mRNA'nın taşıdığı
+bilgi, sentezlenecek proteine ait
+amino asitlerin çeşidini ve sırasını
+belirleyen bilgidir.
+
+Taşıyıcı RNA (tRNA)
+
+tRNA, protein sentezinde
+kullanılacak olan amino asitleri
+sitoplazmadan ribozoma taşır.
+
+Çekirdekten tek zincir hâlinde
+sentezlenen tRNA'Iar, sitoplazmada
+kendilerine özgü katlanmalar
+yaparak çift zincirli yonca yaprağına
+benzer şekilde görülür.
+
+Ribozomal RNA (rRNA)
+
+rRNA, ökaryot hücrelerde
+çekirdekçikte sentezlenir.
+Proteinlerle birlikte ribozomların
+yapısında bulunur.
+
+Prokaryotlarda DNA'nın
+Replikasyonu
+
+Prokaryot hücrelerde yer alan
+halkasal DNA'da replikasyon
+için bir başlangıç bir de bitiş
+noktası bulunur. Prokaryotlarda
+replikasyon süreci iki yönlü
+devam eder.
+
+Ökaryotlarda DNA'nın
+Replikasyonu
+
+Ökaryot hücrelerde DNA
+üzerinde çok sayıda replikasyon
+orijini vardır.
+
+DNA Sentezinde Görev Alan
+Enzimler
+
+Helikaz, azotlu organik
+bazlar arasındaki zayıf hidrojen
+bağlarını kopararak sarmal
+zincirleri birbirinden ayırır.
+
+DNA polimeraz, DNA sentezi
+sırasında yeni sentezlenecek
+zincirin ucuna nükleotit eklemesi
+yapan
+
+DNA ligaz, DNA replikasyonu
+sırasında oluşturulan DNA
+parçalarını birleştirir.
+
+DNA, kendisini yarı korunumlu
+olarak eşler. İki zincirli sarmal
+DNA'nın her bir ipliğinin kalıp
+görevi yaparak kendine eş yeni
+bir DNA ipliği oluşturmasına
+yarı korunumlu eşlenme denir.
+DNA'nın yarı korunumlu olarak
+eşlenmesini kanıtlayan deneyler,
+Matthew Meselson (Methiv
+Meselsın) ve Franklin Stahl
+(Franklin Sıtal) tarafından 1958
+yılında yapılmıştır. Meselson ve
+Stahl'ın yaptığı çalışmalar yan
+tarafta özetlenmiştir.
+
+Replikasyon orjini, replikasyonun
+başlangıç noktasıdır. Başlangıç
+noktasından iki zincir ters yönde
+ayrılmaya başladığında kromozom
+üzerinde replikasyon çatalı adı
+verilen bir yapı ortaya çıkar.
+
+ 

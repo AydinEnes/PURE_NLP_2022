@@ -1,0 +1,70 @@
+BİYOLOJİ PROTEİN SENTEZİ
+
+ 
+
+Genetik kod, DNA ya da
+mRNA'da kodon adı verilen
+ve üçlü nükleotit dizilerinden
+oluşan şifrelerle ifade
+edilir. Üç nükleotit içeren
+64 özgül kodon ortaya
+çıkmıştır. mRNA'daki 64 çeşit
+kodondan üç çeşidi amino
+asit kodlamaz, bu kodonlara
+durdurucu ya da sonlandırıcı
+kodon adı verilir. Bu
+kodonlar, protein sentezini
+sonlandıran sinyallerdir.
+Geriye kalan 61 çeşit
+kodon, 20 farklı amino asidi
+şifrelemek için kullanılır.
+
+Kodonlara uygunluk
+gösteren tRNA'daki
+üçlü nükleotit dizisine antikodon adı verilir. Protein
+sentezi, aynı zamanda
+metiyonin amino asidini de
+şifreleyen AUG kodonu ile
+başladığından bu kodona
+başlama kodonu adı
+
+verilir. UAA, UAG, UGA ise
+durdurma kodonu olarak
+ifade edilir.
+
+0 Transkripsiyon, DNA'nın
+bir ipliğinin üzerindeki
+kodonlara uygun olarak
+mRNA sentezlenmesidir.
+Transkripsiyon olayında RNA
+polimeraz enzimi DNA'nın
+ilgili gen bölgesini açarak
+anlamlı zincirin karşıtı
+olarak mRNA'nın sentezini
+
+gerçekleştirir.
+
+O Translasyon, mRNA
+yönetiminde gerçekleşen
+protein sentezidir.
+Translasyon olayında mRNA
+molekülündeki genetik bilgi,
+proteinin amino asit dizisinin
+belirlenmesiyle okunmuş
+olur. Okumanın yapıldığı
+yer ribozom organelidir.
+Aşağıda translasyon olayı
+özetlenmiştir.
+
+Poliribozom (Polizom)
+
+Poliribozom ya da
+polizomlar, bir mRNA
+üzerine birden fazla
+ribozomun tutunmasıyla
+oluşan yapılardır.
+
+
+1. Bazı amino asitler
+farklı kodonlar tarafından
+şifrelenebilmektedir.

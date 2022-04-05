@@ -1,0 +1,53 @@
+BİYOLOJİ FOTOSENTEZ REAKSİYONLARI
+
+Fotosentezin kimyasal denklemi, aşağıdaki gibi yazılabilir.
+
+Fotosentez kloroplastlarda gerçekleşir. Bir kloroplastın yapısı aşağıda verilmiştir.
+
+
+Klorofilden ayrılan elektronlar, indirgenme
+(redüksiyon) ve yükseltgenme (oksidasyon)
+kurallarına göre ETS'yi oluşturan bir
+molekülden diğer moleküle doğru aktarılır.
+Bu aktarım sırasında elektronun kaybettiği
+enerji ile ATP üretilir (fotofosforilasyon).
+Işık enerjisi yardımıyla su moleküllerinin
+elektron (e'), proton (H) ve O 2'e ayrışması
+olayına fotoliz denir. Açığa çıkan hidrojenler
+ve elektronlar NADP+ (Nikotinamid Adenin
+Dinükleotit Fosfat) molekülüne aktarılır ve
+NADPH molekülü üretilir.
+
+Sonuç olarak; fotosentezin ışığa
+bağımlı reaksiyonlarında, ışıktan bağımsız
+reaksiyonlarında kullanılmak üzere ATP ve
+NADPH üretilir. Yan ürün olarak da suyun
+fotolizi sonucu oluşan 02 atmosfere verilir.
+
+Fotosentez Reaksiyonları
+
+- Işığa Bağımlı Reaksiyonlar
+
+Robert Hill, 1937 yılında ortamda ışık,
+su ve uygun bir hidrojen yakalayıcısı
+bulunduğunda kloroplastların CO2
+olmadan O2 oluşturabildiklerini görmüştür.
+Elektron alıcısının sudaki hidrojeni
+tutarak oksijeni serbest bırakmasına bu
+nedenle Hill reaksiyonu adı verilmiştir.
+
+Işığa bağımlı reaksiyonlar, kloroplastların
+granalarında gerçekleşir. Fotosentezde besin
+sentezlenebilmesi için ATP üretilmesi gerekir.
+Klorofilin ışığı soğurarak enerji kazanmasıyla
+ATP sentezi gerçekleşir. Işığı soğuran ve
+kimyasal enerjiye dönüştürülmesini sağlayan
+birimlere fotosistem denir.
+
+Fotosistemler tilakoit zarda bulunur.
+Fotosistemde bulunan klorofil molekülünün
+ışık enerjisini soğurmasıyla elektronlar
+serbest kalır. Serbest kalan bu elektronu tutabilecek 
+ bir sistem gereklidir. Bu sistem,
+kloroplastlardaki granumda bulunan
+elektron taşıma sistemi (ETS)'dir.

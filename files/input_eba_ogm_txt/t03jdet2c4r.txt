@@ -1,0 +1,25 @@
+BİYOLOJİ NÜKLEİKASİTLER
+
+DNA, çift iplikli ve sarmal yapılıdır. Sarmalı oluşturan zincirler
+birbirinin tamamlayıcısıdır. DNA, nükleotit adı verilen
+yapı birimlerinden oluşur. Aşağıda bir nükleotitin yapısı
+gösterilmiştir.
+o Azotlu organik bazlar: Pürinler (adenin, guanin) ve
+pirimidinler (sitozin, timin, urasil) olmak üzere iki çeşittir.
+RNA'da timin bazı yerine urasil bulunur. DNA'nın karşılıklı
+iplikleri arasındaki adenin ve timin bazları arasında iki, guanin
+ve sitozin bazları arasında ise üç hidrojen bağı kurulur.
+
+Pentoz Şeker: DNA'nın yapısına katılan nükleotitlerdeki şeker
+çeşidi deoksiribozdur.
+
+Fosfat Grubu
+
+DNA'daki polinükleotit zincirlerin oluşturduğu çift sarmalın
+dayanıklılığı, GC/AT oranına bağlıdır. Örneğin GC/AT>1 ise üçlü
+bağ sayısı fazladır. Bu da sarmalın fiziksel olarak daha dayanaklı
+olmasını sağlar. DNA'nın iki ipliğini birbirinden ayırmak için
+gerekli olan ısı miktarı daha yüksek olur. GC/AT<1 ise ikili bağ
+sayısı fazladır. Bu da sarmalın açılma olasılığının daha fazla
+olduğunu gösterir. DNA'nın iki ipliğini birbirinden ayırmak için
+gerekli olan ısı miktarı daha düşük olur.

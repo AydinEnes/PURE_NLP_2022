@@ -1,0 +1,118 @@
+﻿BİYOLOJİ 
+KALITIMIN GENEL ESASLARI  (MENDEL İLKELERİ)
+
+
+1860'lı yıllarda bilim insanı Gregor
+Mendel'in bezelyeler üzerinde yaptığı
+melezleme çalışmaları, kalıtım ile
+ilgili yapılan ilk bilimsel çalışmalar
+arasında yer alır. Yaptığı genetik ile
+ilgili araştırmalarında bezelye bitkisini
+kullanmaya karar vermiştir.
+
+Neden Bezelye Bitkisi?
+
+0 Çok çabuk ürer.
+
+0 Her nesilde çok sayıda yavru verir.
+
+0 Yapay döllenmeye uygundur.
+
+o Dişi ve erkek organları aynı çiçek
+üzerinde bulunduğundan kendi
+kendilerini dölleyebilir.
+
+o Gözle görülebilen ve bireyden
+bireye farklılık gösteren çeşitli
+özelliklere sahiptir.
+
+GENEL KAVRAM LAR
+
+Kalıtım: Canlıların sahip oldukları
+özelliklerin dölden döle aktarılmasına
+kalıtım adı verilir.
+
+Genetik: Kalıtsal özelliklerin nasıl
+ortaya çıktığını, oğul döllere nasıl
+aktarıldığını, genlerin yapısını ve
+işleyişini inceleyen bilim dalına genetik
+adı verilir.
+
+Karakter: Canlılar arasında çeşitlilik
+gösteren, dölden döle aktarılabilen ve
+bireylerin sahip olduğu niteliklerin her
+biri karakter olarak adlandırılır.
+
+Özellik: Bir karakterin her bir farklı
+tipine özellik denir.
+
+Gen: DNA üzerinde yer alan, belirli
+bir kalıtsal özellik şifreleyen birimlere
+gen adı verilir.
+
+Alel: Biri anneden biri babadan gelen
+aynı karaktere etki eden genlerden her
+birine alel denir.
+
+Lokus: Genlerin kromozomlar
+üzerinde bulunduğu bölgelere lokus adı
+verilir.
+
+Genotip: Bir canlıda bulunan genlerin
+tamamına genotip denir.
+
+Fenotip: Canlının dış görünüşünde,
+gözlenebilen ya da ölçülebilen özellikler
+fenotip olarak adlandırılır.
+
+Bir karaktere ait baskın ve çekinik
+özelliklerin kalıtımından sorumlu
+genler iki harf ile gösterilir.
+
+Homozigot: Bir karakterle ilgili
+genin aynı alellerine sahip canlılara
+homozigot adı verilir.
+
+Heterozigot: Bir karakterle ilgili
+genin farklı alellerine sahip canlılara
+heterozigot adı verilir.
+
+Baskın Gen: Heterozigot durumda
+canlının fenotipinde etkisini gösteren aleline
+baskın alel denir ve büyük harf ile gösterilir.
+
+Çekinik Gen: Diploit hücrelerde
+sadece homozigot hâlde fenotipte
+etkisini gösteren alele çekinik alel denir
+ve küçük harf ile gösterilir.
+
+OLASILIK ILKELERI
+Mendel'in bezelyelerle yaptığı
+
+çalışmalarda başarılı olmasını sağlayan
+faktörlerden birisi de olasılık ilkelerini
+doğru biçimde kullanmasıdır. Mendel'in
+kullandığı olasılık ilkeleri şunlardır:
+
+1) Şansa bağlı bir olayın bir defa
+denenmesinden elde edilen sonuç,
+daha sonraki denemelerden elde edilen
+sonuçları etkilemez. Bağımsız olayların
+sonuçları da bağımsızdır.
+
+2) Şansa bağlı iki bağımsız olayın aynı
+anda gerçekleşme olasılığı, ayrı ayrı
+olma olasılıklarının çarpımına eşittir.
+
+3) Şansa bağlı bir olay iki ya da
+daha fazla yolla gerçekleşiyorsa bu
+olayın olma olasılığı bağımsız olma
+olasılıklarının toplamıdır.
+
+3.
+
+Bireyler arasında çeşitlilik
+gösteren çiçek rengi gibi kalıtılabilen
+özelliklere "karakter" adı verilir. Bir
+karakterin her bir farklı tipine de
+"özellik" denir.

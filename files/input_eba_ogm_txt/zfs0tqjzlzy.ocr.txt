@@ -1,0 +1,18 @@
+﻿Enzimlerin Çalışmasına Etki Eden Faktörler
+Enzimler protein yapılı olduğundan yüksek ve düşük sıcaklıktan etkilenir. 0 gibi düşük sıcaklıklarda genellikle enzimlerin yapısı bozulmaz. Ancak enzimler etkinlik gösteremez. Enzimlerin en iyi çalıştığı sıcaklık değerine optimum (ideal) sıcaklık denir.
+Optimum sıcaklık değeri aşıldığında tepkimenin hızı düşmeye başlar ve genellikle 55 °C'den sonra tamamen durur.
+ulaştığı pH değerine optimum (ideal) pH denir, c) Enzim ve Substrat Miktarı
+3. Enzim miktarı artarken substrat miktarı sabit ise tepkime hızı belirli bir noktaya kadar artar. Ortamda substrat kalmadığında tepkime durur (c).
+pH Derecesi
+Her enzimin etkin bir şekilde çalıştığı belirli bir pH aralığı ve maksimum hızda çalıştığı belirli bir pH değeri vardır. Enzimin maksimum hıza ulaştığı pH değerine optimum (ideal) pH denir.
+Enzim ve Substrat miktarı
+1. Enzim ve substrat miktarı sürekli artarsa tepkime hızı da sürekli artar.
+2. Enzim miktarı sabit, substrat miktarı sürekli artarsa tepkime hızı belirli bir noktaya kadar artar sonra sabit bir hızla ilerler. Çünkü enzim substrata doygunluk gösterir (b).
+3. Enzim miktarı artarken substrat miktarı sabit ise tepkime hızı belirli bir noktaya kadar artar. Ortamda substrat kalmadığında tepkime durur.
+Su
+Ortamdaki su yoğunluğu %15'in altına düştüğünde enzimler aktivite gösteremez. Bu nedenle bal reçel kurutulmuş sebze ve meyveler bozulmadan uzun süre saklanabilir.
+d) Substrat Yüzeyi Enzimler dış yüzeylerinden başlayarak substratlara etki eder. Substrat yüzeyi artırılabiliyorsa tepkime hızı da artar.
+Aktivatörler Enzimin çalışma hızını artıran madde veya faktörlere aktivatör denir. Örnek: Hipoklorik asit (HCl), pepsinojeni aktif pepsin durumuna getiren bir aktivatör maddedir. Isı ışık pH değişimleri bir noktaya kadar aktivatör etki gösterir. Örneğin fotosentezde görev alan bazı enzimler, ışık ile aktive olur.
+İnhibitörler
+Enzimlere bağlanarak veya enzimi kararsız hale getirerek etkisizleştiren madde veya
+faktörlere inhibitör denir. İnhibitörler enzimlerin etkinliğini yavaşlatır ya da geri dönüşümsüz olarak durdurabilir.

@@ -1,0 +1,21 @@
+﻿BIYOLOJI VE CANLILARIN ORTAK öZELLIKLERI Canlıları inceleyen bilim dalı biyolojidir. 
+Biyoloji, Yunanca â€œhayatâ€  anlamına  gelen bios  ile  â€œbilim=incelemeâ€ anlamına  gelen logos  
+kelimelerinin  birleşmesiyle oluşmuştur.   Varlıkları  canlı  olarak  niteleyebilmek  için;  hücresel yapı, 
+beslenme, solunum, boşaltım, hareket, uyarılara tepki, metabolizma, homeostazi, uyum, organizasyon, üreme, büyüme, 
+gelişme gibi özelliklere sahip olup olmadığına bakılır. 
+Bu özelliklere sahip olan varlıklar canlı, varlıkların canlı olma durumu ise canlılık olarak tanımlanır.  
+Canlıların  ortak  özelliklerinden  bazıları şunlardır: Hücresel Yapıâ€¢ Organizmaların yapısal ve işlevsel birimi hücredir.â€¢ 
+Hücreler  yapısal  olarak prokaryot  ve ökaryotolmak üzere iki çeşittir.â€¢ Ã‡ekirdeği  ve  zarlı  organelleri  bulunmayan hücrelere 
+prokaryot hücre denir.â€¢ Ã‡ekirdeğe ve zarlı organellere sahip olan hücrelere ökaryot hücre denir.â€¢ Canlıların  bazıları  tek  
+hücreli  bazıları  ise  çok hücrelidir.Beslenmeâ€¢ Canlılar, madde ve enerji ihtiyaçlarını karşılamak için beslenmek zorundadır.â€¢ 
+Ihtiyaç  duyduğu  besinleri  kendi  üretebilen canlılara üretici (ototrof) denir. örneğin bitkiler besinlerini kendileri sentezlerler.
+â€¢ Besinlerini dış ortamdan hazır olarak alan canlılara da tüketici (heterotrof) denir. örneğin mantarlar ve hayvanlar heterotrof
+ beslenirler.Solunumâ€¢ Canlılar, yaşamsal faaliyetlerini devam ettirebilmek için enerjiye ihtiyaç duyar. â€¢ Bu enerji ATP 
+ (adenozin trifosfat) molekülünden karşılanır.â€¢ Hücreler  ATPâ€™yi,  besini  parçalayarak  hücresel solunum ile üretir.â€¢ 
+ Solunum  reaksiyonları;  oksijenli  solunum, oksijensiz solunum ve fermantasyon olmak üzere üç çeşittir. oşaltımâ€¢ Canlıların 
+  metabolik  faaliyetleri  sonucunda oluşan atık maddeleri hücre veya vücuttan dışarı atmasına boşaltım denir.â€¢ Canlılarda  
+  boşaltım  olayı  farklı  şekillerde gerçekleşir.  Hareketâ€¢ Canlılar avlanmak, göç etmek, üremek, yavrularını beslemek,  ışık  ve  suya  ulaşmak  gibi  çeşitli nedenlerle hareket eder.â€¢ Tek hücreli canlılar; kamçı, sil ve yalancı ayak gibi yapıları yardımıyla yer değiştirme hareketi yapar.
+â€¢ Hareket bitkilerde durum değiştirme, hayvanlarda çoğunlukla yer değiştirme şeklindedir.  
+Uyarılara Tepkiâ€¢ Canlılar,  iç  ve  dış  ortamdan  gelen  uyaranlara tepki gösterir. 
+Bu durum, canlıların çevreleriyle uyum  içinde  olmaları  ve  yaşamlarını  devam ettirebilmeleri açısından önemlidir.
+

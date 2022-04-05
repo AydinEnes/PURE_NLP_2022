@@ -1,0 +1,178 @@
+﻿BİYOLOJİ BİLİMSEL YÖNTEM
+
+ 
+
+Bilimsel yöntem, bir problemi çözmek
+amacıyla gerçekleştirilen; mantık, ölçme,
+gözlem ve deneylere dayalı, sistemli çalışmaların bütünüdür.
+
+Bilimsel Yöntem Basamakları:
+
+1) Problemin Tespit Edilmesi
+
+Bilimsel bir problem, araştırmacının
+belirli bir durum veya olaya ilişkin yaptığı
+gözlemler ve topladığı veriler sayesinde
+kendisini rahatsız eden durumu net bir
+şekilde tanımlamasıdır.
+
+- Nitel Gözlem: Ölçme araçları kullanılmadan sadece duyu organları ile yapılan
+gözlemlerdir.
+
+0 Nicel Gözlem: Ölçme araçları kullanılarak yapılan ve sonuçları sayısal olarak
+ifade edilebilen gözlemlerdir.
+
+2) Verilerin Toplanması
+
+Özel bir konu ile ilgili kayda alınmış
+bilgiler veri olarak adlandırılır.
+
+3) Hipotez Oluşturulması
+
+Gözlem ve verilere dayanan, sınanabilen
+ve sorgulanabilen önermelere hipotez denir.
+
+4) Hipoteze Dayalı Tahminler Yapılması
+
+Hipotezlerden tahmin adı verilen mantıklı sonuçlar çıkarılır.
+
+Hipotez Oluşturulması
+
+ 
+
+Hipoteze Dayalı
+Tahminler Yapılması
+
+I:
+
+ 
+
+Hipotezin Gerçek Haline
+Gelmesi
+
+Deneylerin
+Tekrarlanması, Sonuçların
+Başka Araştırmacılar
+Tarafından Doğrulanması
+
+5) Kontrollü Deneylerin Tasarlanarak
+Uygulanması
+
+Kontrollü deney, bir olayı etkileyecek
+faktörlerden sadece birinin değiştirilip
+diğerlerinin sabit tutulmasıyla yapılan
+deneydir. Kontrollü deneylerde değişken-
+lerden biri hariç diğerleri sabit tutulur.
+Deneyde değişken olan bu faktöre bağımsız değişken denir. Bağımsız değişkene
+bağlı olarak değişen değişkene ise bağımlı
+değişken denir.
+
+6) Sonuçların Değerlendirilmesi
+
+Sonuçlar hipotezi desteklemiyorsa hipotez oluşturma basamağına geri dönüIür ve diğer hipotezlerin doğruluğu test
+edilir. Eğer sonuçlar hipotezi destekliyorsa
+bir sonraki basamağa geçilir.
+
+7) Deneylerin Tekrarlanması,
+Sonuçların Başka Araştırmacılar
+Tarafından Doğrulanması
+
+Veriler hipotezi destekliyorsa deneyler
+tekrarlanır ve elde edilen sonuçlar diğer
+bilim insanları ile paylaşılır.
+
+8) Hipotezin Gerçek Hâline Gelmesi
+Gerçek, herkes tarafından doğruluğu
+kabul edilen ve aynı şartlarda aynı sonuçlara ulaşılan gözlemlerdir.
+
+
+MİKROSKOP Gözle görülemeyecek büyüklükteki
+yapıların mercek sistemleri yardımıyla büyütülerek
+görülmesini sağlayan araçtır.
+
+ 
+
+LAM VE LAMEL Lam, mikroskopta incelenecek yapıların üzerine konulduğu, lamele göre daha büyük
+olan genellikle dikdörtgen şekilli camdır.
+
+ 
+
+DENEY TÜPLERİ Yapılan deneylerde çeşitli maddeleri karıştırmak ve içerisinde tepkime gerçekleştirmek için kullanılan, ateşe dayanıklı cam malzemedir.
+
+ 
+
+PETRİ KABI Bakteri, maya gibi canlıları çoğaltmak
+için kullanılan; cam veya plastik, kapaklı, yuvarlak
+şekilli kaptır.
+
+ 
+
+BEHERGLAS Değişik boyutlarda olabilen beherglas, sıvıları karıştırmak ve ısıtmak için kullanılan bir
+laboratuvar aracıdır.
+
+ 
+
+ERLENMAYER Ağız kısmı ince, uzun olan; düz bir
+tabanı ve konik bir gövdesi bulunan, silindir şeklinde
+boyunlu, çözeltilerin karıştırılması gibi işlemlerde
+kullanılan cam malzemedir.
+
+ 
+
+CAM BALON Kaynatma işlemi için uygun, altı düz
+veya yuvarlak olan cam laboratuvar malzemesidir.
+
+ 
+
+BALONJOJE Belirli bir hacimde sıvıyı içerecek şekilde tasarlanmış cam laboratuvar malzemesidir.
+
+Genellikle belli miktarlarda çözelti hazırlanması
+için kullanılır.
+
+ 
+
+DERECELİ SİLİNDİR (MEZÜR) Sıvıların hacmini ölçmede kullanılan silindir şekilli laboratuvar aracıdır.
+
+ 
+
+PİPET Pipet, genellikle belli bir miktarda sıvıyı taşımak için kullanılan bir laboratuvar aracıdır.
+
+ 
+
+BÜRET Çözeltinin miktarının ölçümü için kullanılan laboratuvar aracıdır.
+
+ 
+
+ 
+
+BİSTURİ
+Değişik biçim ve boyutlarda olabilen kesici araçtır.
+
+
+ 
+
+1. Laboratuvarlar; cam, porselen,
+plastik, kauçuk ve metallerden yapılmış
+araç ve gereçlerin bulunduğu, bu araç ve
+gereçler kullanılarak deney, araştırma ve
+incelemelerin yapıldığı yerlerdir. Labora-
+tuvarlarda deneyler yapılmadan önce bu-
+rada kullanılan malzemeler ve düzenekler
+hakkında bilgi sahibi olunmalıdır.
+
+
+0 İçerisinde sıvı, katı vb. maddeler ilave
+edilebilen, ısıya dayanıklı, ince ve uzun, bir
+tarafı kapalı bir tarafı açık, camdan yapıl-
+mış deney aracıdır.
+
+0 Saf sıvıların ve çözeltilerin hacmini
+ölçmek için kullanılan üzerinde mililitre
+cinsinden bölmeler bulunan cam kaplardır.
+
+0 Deneylerde kesim işlemlerinde kullanı-
+lan araçtır.
+
+0 Su emme özelliğinden dolayı ihtiyaç
+duyulan deneylerde kullanılır.
+

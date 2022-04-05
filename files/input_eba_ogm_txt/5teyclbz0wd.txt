@@ -1,0 +1,74 @@
+BİYOLOJİ FOTOSENTEZ - HÜCRESEL SOLUNUM
+ 
+
+
+Ökaryot fotosentetik canlılarda
+kloroplast granasında ışığa bağımlı,
+stromasında ışıktan bağımsız
+reaksiyonlar gerçekleşir.
+
+Fotosentezin ışığa bağımlı
+reaksiyonlarında;
+
+1. Suyun fotolizi ile oluşan
+hidrojenler NADP* tarafından
+
+co2
+
+tutulur. NADPH sentezlenir.
+
+2. Elektronlar ETS'ye aktarılır.
+Elektron enerjisi yardımıyla proton
+derişim farkı oluşur. Bu fark ATP
+sentaz tarafından ATP üretiminde
+kullanılır.
+
+3. Işık enerjisi kullanılır.
+
+4. Oksijen açığa çıkar.
+
+
+Fotosentezin ışıktan bağımsız reaksiyonlarında;
+
+1. CO2 tüketilir.
+
+2. ATP tüketilir.
+
+3. NADPH'ın hidrojenleri glikoz sentezinde kullanılır.
+4. Işık enerjisine doğrudan ihtiyaç duyulmaz.
+
+NADH ve FADH2 içinde taşınan
+elektronlar, elektron taşıma
+sistemine aktarılır. Elektronların
+taşınması sırasında enerji açığa çıkar.
+
+Her pirüvik asitr CoA ile
+birleşirken C02 açığa çıkar ve
+Asetil CoA oluşur.
+
+Asetil CoA'nın asetil
+kısmı ATP, NADH, FADHZ,
+COz'nin üretildiği krebs
+döngüsüne girer.
+
+
+Glikoz Glikoz:" Bu evrede glikoz
+molekulu pırıvuk asıt, NADH
+b ve ATP oluşturmak için
+kullanılır.
+
+Bazı bakteri ve omurgalıların çizgili kas hücreleri, pirüvik
+asitli NADH yükseltgenme ile
+Iaktik aside dönüştürür.
+
+Bazı bakteri ve mantarlar,
+pirüvik asiti CO2 çıkışı ve
+NADH yükseltgenmesi ile
+etil alkole dönüştürür.
+
+ 
+
+Açığa çıkan enerji, iç ve dış zarlar arası
+boşlukta, proton derişim farkı oluşturmak
+için kullanılır. Protonların ATP sentaz
+içinden geçişi sırasında ATP üretilir.

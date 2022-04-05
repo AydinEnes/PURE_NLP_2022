@@ -1,0 +1,75 @@
+﻿BİYOLOJİ SİNİR SİSTEMİ
+
+ 
+
+SİNİR SİSTEMİ:
+
+Sinir doku nöron adı verilen sinir hücreleri ile glia denilen
+yardımcı hücrelerden oluşur. Nöron, hücre gövdesi ile
+gövdeden çıkan akson ve dendrit adı verilen uzantılara sahiptir.
+
+
+Aksonların üzeri Schwann hücreleriyle kaplıdır. Schwann
+hücreleri aksonu besler, korur ve onarır. Ayrıca miyelin kılıf
+denilen bir yapıyı oluşturarak nöronda impuls iletiminin
+daha hızlı gerçekleşmesini sağlar. Miyelinin kesintiye uğradığı
+noktalara Ranvier boğumları denir.
+
+Nöron Çeşitleri:
+
+Nöronlar görevlerine göre, duyu, ara ve motor nöronlar olmak
+
+üzere üç kısımda incelenir.
+
+o Duyu nöronları, iç organlarından ve duyu organlarındaki
+reseptörlerden aldığı uyarıları merkezî sinir sistemindeki
+beyin ve omuriliğe iletir.
+
+0 Ara nöronlar, merkezîsinir sisteminde yeralan nöronlardır.
+Merkezi sinir sistemindeki beyin ve omuriliğin yapısında
+ara nöronlar bulunur.
+
+0 Motor nöronlar, işlenmiş bilgi sonucu oluşan yanıtı motor
+çıktı olarak merkezî sinir sisteminden efektör (tepki)
+organına götüren nöronlardır.
+
+Glia Hücreleri:
+Sinir sisteminin destek elemanlarıdır. Başlıca beş çeşit glia
+hücresi vardır.
+
+1. Schwann Hücreleri: Çevresel sinir sistemi nöronlarında
+miyelin kılıfı oluşturur.
+
+2. Oligodendrositler: Merkezî sinir sistemi nöronlarında miyelin
+kılıf'ı oluşturur.
+
+3. Mikroglia: Sinir sisteminde fagositoz yaparak savunmayı
+sağlar.
+
+4. Astrositler: Madde alışverişini düzenler, kan-beyin bariyeri
+oluşturarak zararlı maddelerin girişini engeller.
+
+5. Ependim Hücreleri: Merkezî sinir sisteminin boşluklarını
+örter. BOS sıvısı üretimini ve akışını düzenler.
+
+Bir nöronda impuls oluşturan en küçük uyarı şiddetine
+eşik değer (eşik şiddeti) denir. Nöron, eşik değerden küçük
+şiddetteki uyarılara cevap vermez ve impuls oluşturamaz. Eşik
+değer ve daha büyük şiddetteki uyarılara ise aynı şiddette
+cevap verir ve impuls oluşturur. Buna ya hep ya hiç kuralı denir.
+
+Uyaran şiddeti arttıkça uyarılan nöron sayısı ve impuls sayısı artar
+ve böylece uyarıya daha güçlü yanıt verilir.
+
+Sinapslarda İmpuls iletimi:
+
+Sinaptik uçta bulunan sinaptik keseciklerden nörotransmitter
+madde ekzositozla sinaptik boşluğa verilir ve orada difüzyonla
+yayılır. Görevi biten nörotransmitterler, hidroliz edilir ya da geri
+emilir. Sinapsa gelen her impuls, sinapstan geçemez. Bu olaya
+seçici direnç denir. Akson ucundan salgılanan nörotransmitter
+maddeler, impulsun diğer nörona geçişini engelliyor ise
+durdurucu sinaps; iletilmesini sağlıyor ise kolaylaştırıcı sinaps
+denir.
+
+

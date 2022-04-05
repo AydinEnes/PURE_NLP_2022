@@ -1,0 +1,36 @@
+﻿BİYOLOJİ  KONTROL ÇAPRAZLAMASl-EŞ BASKINLIK-ÇOK
+
+KONTROL ÇAPRAZLAMASI
+
+Fenotipinde çekinik özelliği gösteren bireyin genotipi homozigot (aa), baskın özelliği gösteren bireyin genotipi homozigot
+(AA) ya da heterozigot (Aa) olabilir. Fenotipinde baskın özelliği
+gösteren genotipi bilinmeyen bireyin, genotipini öğrenmek
+amacıyla çekinik homozigot özelliği gösteren bireyle çaprazlanmasına kontrol çaprazlaması denir.
+
+
+Eğer Mm ise yavruların mor
+çiçekli olma olasılığı 1/, beyaz
+çiçekli olma olasılığı 1/ 'dir.
+
+EŞ BASKINLIK (KODOMİNANTLIK)
+
+Heterozigot durumda olan iki alelin etkisini fenotipte birlikte
+göstermesi durumudur. Aleller arasında baskınlık veya çekiniklik
+söz konusu değildir. Bu duruma örnek olarak insandaki AB ve
+MN kan grupları verilebilir. Eş baskınlığın olduğu monohibrit
+çaprazlamalarda fenotip ve genotip ayrışım oranı her zaman
+1:2:1'dir. Fenotip çeşidi sayısı genotip çeşidi sayısına eşittir.
+
+Eğer MM ıse bütün
+yavrular mor çiçeklidir.
+
+
+Bir türde aynı karaktere ait alel sayısının ikiden fazla olması-
+na çok alellilik denir. Alel sayısı kaç olursa olsun diploit bir birey
+bu alellerden sadece ikisini taşır. Bu alellerden biri anneden
+diğeri babadan aktarılır. Örneğin insan kan gruplarının ortaya
+çıkmasından üç farklı alel (A, B ve 0) sorumludur. Çok alelliliğe
+hayvan popülasyonlarında da rastlanır. Tavşanlarda kürk rengi
+dört farklı alel tarafından belirlenir. Çok alellilikte genotip çeşidi
+sayısı n x (n+1) /2 formülü ile hesaplanır (n alel sayısı).
+

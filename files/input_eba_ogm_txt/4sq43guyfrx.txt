@@ -1,0 +1,68 @@
+BİYOLOJİ
+ATP VE FOSFORİLASYON MEKANİZMALARI
+
+
+ENERJİ
+
+Enerji, iş yapabilme kabiliyeti ve gücüdür. Bir hücrede gerçekleşen biyokimyasal
+reaksiyonların tamamlanması için enerji
+kullanmak gerekmektedir. Canlıların kullandığı enerji çeşitlerinin çoğunun kaynağı
+güneş enerjisidir.
+
+
+ATP'NİN ÖZELLİKLERİ:
+
+1. Evrensel enerji kaynağı molekülüdür.
+
+2. Canlılık belirtisidir.
+
+3. ATP molekülü başka bir hücreye aktarılamaz.
+
+4. Hücre zarından geçemez.
+
+5. Depolanamaz.
+
+6. ADP'ye enerji ile birlikte inorganik
+fosfat (Pi) eklenmesi sonucu ATP
+üretilmesine fosforilasyon denir.
+
+7. Hidroliz edilerek yapısındaki enerjinin açığa çıkarılmasına defosforilasyon denir.
+
+8. Üretimi dehidrasyon, tüketimi ise
+hidroliz reaksiyonudur.
+
+9. Üretimi endergonik (enerji alan), tüketimi ise ekzergonik (enerji veren)
+olaydır.
+
+10. Sadece hücre içinde üretilir, tüketimide sadece hücre içinde olur.
+ 
+
+Fosforilasyon Çeşitleri:
+
+a. Substrat Düzeyinde Fosforilasyon
+
+Yapısında fosfat bulunduran bir
+
+substrattan enzimler aracılığı ile bir
+fosfatın, ADP'ye aktarılmasıyla ATP sentezlenmesine, substrat düzeyinde fosforilasyon denir. Substrat düzeyinde fosfo
+
+
+Substrat düzeyinde fosforilasyon, oksijenli ve oksijensiz solunum
+yapan tüm canlı hücrelerde gerçekleşen
+ortak bir olaydır. Görev alan enzimler de
+ortaktır.
+
+b. Oksidatif Fosforilasyon
+
+- Organik moleküllerin yıkımıyla veya
+inorganik moleküllerin oksitlenmesi sonucu açığa çıkan elektronların, elektron
+taşıma sisteminde yükseltgenme ve indirgenme reaksiyonları ile taşınması sırasında
+oluşan enerjiden ATP üretilmesine oksidatif fosforilasyon denir. Oksijenli, oksijensiz
+solunum yapan canlılar ve kemosentez
+yapan canlılarda ATP üretiminin çoğu;
+oksidatif fosforilasyonla elde edilir.
+
+c. Fotofosforilasyon
+
+Klorofil molekülünün ışık enerjisini
+kullanarak ADP'ye inorganik fosfat eklenmesi yoluyla ATP sentezlemesine fotofosforilasyon denir.

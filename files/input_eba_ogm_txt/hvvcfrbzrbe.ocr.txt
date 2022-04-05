@@ -1,0 +1,10 @@
+﻿BİYOLOJİ NÜKLEİK ASİTLER (DNA)
+Nükleik asitler yapısında C, H, O, N ve P atomları bulunduran polimerlerdir. Hücrelerde DNA ve RNA olmak üzere 2 çeşit nükleik asit bulunur. Nükleik asitlerin yapısal birimlerine nükleotit denir. Her bir nükleotit 3 alt birimden oluşur: Azotlu organik baz, 5 karbonlu şeker, İnorganik fosfat grubu.
+Azotlu organik bazlar 2 gruba ayrılır: Pürinler ve pirimidinler. Pürin bazları biri altıgen diğeri beşgen şekilli iki halkanın birleşmesinden oluşmuştur. Pirimidin bazları ise yalnızca altıgen şekilli tek bir halkadan ibarettir. Pürin bazları adenin ve guanin olmak üzere 2, pirimidin bazları ise sitozin, timin ve urasil olmak üzere üç çeşittir.
+Pentoz şekerler iki çeşittir: Riboz ve deoksiriboz. DNA'da deoksiriboz bulunurken RNA'da riboz şekeri bulunur.
+Bir nükleotidin sentezi sırasında azotlu organik baz ile 5 karbonlu şeker birbirine glikozitbağıyla bağlanarak nükleezit oluşturulur.
+DNA ve RNA'da aynı iplik üzerinde bulunan bir nükleotidin fosfatı diğer nükleotidin şekerine fosfodiester bağlarıyla bağlanarak uzun polinükleotit zincirleri oluşturur (polimer).
+ŞEKER DNA (Deokriribonükleik Anit)
+DNA ökaryot hücrelerde çekirdek, mitokondri ve kloroplastta; prokaryot hücrelerde ise sitoplazmada bulunur. Tüm DNA moleküllerinde bir iplikteki bir pürin bazının karşısına karşı iplikte daima bir pirimidin bazı gelir. Dolayısıyla hangi canlıya ait olursa olsun tüm DNA moleküllerinde A/T, G/C, Pürin/Pirimidin oranları l'e eşittir. Canlıların DNA'larındaki A+T/G+C oranı ise
+türe özgüdür. Adeninler ile timinler arasında ikili guaninler ile sitozinler arasında üçlü zayıf hidrojen bağları vardır. Hidrojen bağlarının oluşumları sırasında su açığa çıkmaz.
+Hücre bölüneceği zaman çekirdeğindeki tüm DNA molekülleri kendilerinin hatasız birer kopyasını çıkarır. Bu olaya replikasyon (eşleme) denir. Bir canlının vücut hücrelerindeki DNA'ları oluşturan nükleotîtlerin sırası ve sayısı aynıdır.
