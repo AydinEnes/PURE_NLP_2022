@@ -1,0 +1,125 @@
+KİMYA GÜÇLÜ ETKİLEŞİMLER IV - KOVALENT BAĞLI BİLEŞİKLERİN ADLANDIRILMASI
+
+ 
+
+KOVALENT BAĞLI BİLEŞİKLERİN SİSTEMATİK ADLANDIRILMASI
+
+ 
+
+Kovalent bağlı bileşikler ametal-ametal, yarı
+metal-ametal arasında oluşan bileşiklerdir.
+Kovalent bağlı bileşikleri adlandırabilmek için
+önemli ametallerin ve yarı metallerin bilinmesi
+gerekir. Bileşikte, her bir atomun o molekül
+içindeki sayısını belirtmek gerekir. Bu sayılar
+Latince ön ek şeklinde belirtilir.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sayı Latince Adı Sayı Latince Adı
+1 mono 6 hekza
+2 di 7 hepta
+3 tri 8 okta
+4 tetra 9 nona
+5 penta 10 deka
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bazıametaller.HGCNOLEC,B,L,S,P
+
+Bazı yarı metaller: B, Si, As, Ge
+
+Kovalent bileşiklerin sistematik adlandırması
+aşağıdaki kurallara göre yapılır:
+
+1. Formül yazılırken önce elektronegatifliği az
+olan (periyodik sistemin solundaki) atom daha
+sonra elektronegatifliği çok olan (periyodik
+sistemin sağındaki) atom yazılır. Örneğin karbon
+monoksit bileşiği CO şeklinde yazılmalıdır. OC
+şeklinde yazılmamasının nedeni karbonun
+elektronegatifliğinin daha az olmasıdır.
+
+2. Ametalin
+latince sayısı
+
+1. Ametalin
+
+latince sayısı * 1. Ametalin adı *
+
+2. Ametalin ——»
+anyon adı
+
+2. Bileşik formülü yazılırken atomun o
+moleküldeki sayısı, element sembolünün sağ alt
+köşesine yazılır. Atomun sayısı 1 ise sayı yazılmaz.
+Örneğin 1 karbon atomu 2 oksijen atomu karbon
+dioksit bileşiğini oluşturur. Bileşiğin formülü CO,
+şeklinde yazılır .
+
+3. Formül adlandırılırken ilk atomun adı, ikinci
+atomun ise anyon adı okunur. Her atomun önünde
+o atomun molekülündeki sayısı Latince ön eklerle
+belirtilir. İlk atomun sayısı 1 ise Latince ön ek
+kullanılmaz. Örneğin CO karbon monoksit. İkinci
+atomun sayısı 1 ise mono ön eki kullanılmayabilir.
+NO' nun adlandırılması azot oksit veya azot
+monoksit olabilir.
+
+YAYGIN OLARAK KULLANILAN BAZI KOVALENT
+BAĞLI BİLEŞİKLERİN SİSTEMATİK ADLARI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bileşik Formülü Sistematik Adı
+H,O Dihidrojen monoksit
+HCI Hidrojen klorür
+H,SO, Sülfürik asit
+HNO, Nitrik asit
+NH, Trihidrojen mononitrür
+
+ 
+
+ 
+
+ 
+
+NBr, —— Azot tribromür
+P,O, ——> Difosfor trioksit
+co — Karbon monoksit
+N,o —— Diazot monoksit
+
+Bileşik adı
+

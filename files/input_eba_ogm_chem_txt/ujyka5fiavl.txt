@@ -1,0 +1,312 @@
+KİMYA PERİYODİK SİSTEM
+
+ 
+
+Elementlerin Periyodik Sistemdeki Yerleşim
+Esasları
+
+Günümüzde 118 element olduğu bilinmektedir. Bu elementlerin özelliklerini tek tek öğrenmek yerine elementleri gruplandırarak bu
+
+grupların özelliklerini öğrenmek daha kolaydır.
+
+Birçok bilim insanı da bu şekilde düşünerek
+elementleri çeşitli özelliklerine göre sınıflandırmaya çalışmıştır. Günümüzdeki periyodik
+tabloya en yakın sınıflandırma 1869 yılında
+Julius Lothar Mayer ve Dimitri Mendeleyev'in
+çalışmalarına dayanmaktadır. Rus kimyager
+Mendeleyev o gün için bilinen 63 elementi
+sınıflandırmak için çalışmalar yapmıştır. Yaptığı
+çalışmalarda elementleri atom kütlelerine göre
+sıralamıştır.
+
+Bu tabloya kısa periyodik sistem adı
+verilmiştir. Mendeleyev'in asıl başarısı, atom
+kütlesinden ziyade elementlerin fiziksel ve
+kimyasal özelliklerini dikkate alması aynı
+özellikteki elementleri alt alta yerleştirmesidir.
+En önemlisi de boş bıraktığı yerlere ileride
+bulunabilecek elementlerin yerleşebileceğini
+öngörmesidir.
+
+İngiliz fizikçi Henry Moseley, X-ışınları ile
+yaptığı deneylerde çeşitli elementlerin atom
+numaralarını bulmuştur. Elementlerin fiziksel
+ve kimyasal özelliklerinin atom kütlesine değil,
+atom numarasına (proton sayısına) bağlı olduğunu kanıtlamıştır. Kimyasal özellikler elektron
+dizilimi ile ilgilidir.
+
+© Periyodik sistemdeki yatay satırlara periyot, düşey sütunlara grup adı verilir. Periyodik
+sistemde 7 periyot, 18 grup bulunur.
+
+© Gruplar harf (A, B) ve sayı ile veya lU 
+PAC'ın (Uluslararası Temel ve Uygulamalı Kimya Birliği) önerdiği
+yalnızca rakamlardan (1-18) oluşan sistemle adlandırılır. Örneğin KN 4-286)
+flor elementi periyodik sistemde E Ne-i5dö
+
+harf ve rakam ile adlandırıldığında 7A grubunda IUPAC'a
+göre ise 17. grupta bulunur. 
+
+ 
+
+       
+ 
+ 
+
+
+   
+
+Mendeleyev'in Oluşturduğu Kısa Periyodik Sistem
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+«Lantanitler)—— La | Ce) Pr | Nd), Pm) Sm) Eu G4) re) Ho) Er | Tm) Vb
+
+* Aletininler — — Ac) ih) Pal Uİ Npl Pu) Am Ea) A) Gi Esİ,,Fmi Md Nol
+Modern Periyodik Sistem
+
+oluşan sistemde 8B grubu 3 alt sütundan olu-
+
+şur.
+
+© A grubu elementlerine baş grup (ana
+grup) elementleri denir.
+
+© B grubu elementlerine yan grup element-
+leri denir. B grubu elementleri geçiş element-
+leridir.
+
+© Periyodik sistemde ilk periyotta 2, ikinci
+periyotta 8, üçüncü periyotta 8, dördüncü ve
+
+beşinci periyotta 18 element
+
+Kölesi bulunur.
+: © En fazla 18 element alabile-
+| cek şekilde düzenlenen periyo-
+s008 dik sistemde altıncı ve yedinci
+
+Eeee periyotta bulunan otuz ikişer
+
+elementten on dörder element
+Sirin tablonun altında 2 yatay sıra
+
+Elementin Adı hâlinde yer almaktadır.
+
+ 
+
+      
+       
+     
+  
+ 
+  
+   
+      
+ 
+
+© İlk yatay sıraya lantanitler ikinci yatay
+sıraya aktinitler denir.
+
+Periyodik sistemde her element için bir
+kutucuk ayrılır. Bu kutucukta belirtilen
+elementin sembolü, atom numarası ve en çok
+kullanılan bazı değerleri yer alır.
+
+Bazı grupların özel adları vardır. Bu adlar
+grup içerisindeki elementlerin kimyasal
+özellikleriyle de ilişkilendirilir.
+
+TA grubu; alkali metaller
+
+2A grubu; toprak alkali metaller
+
+3A grubu; toprak metalleri
+
+4A grubu; karbon grubu
+
+5A grubu; azot grubu
+
+6A grubu; kalkojenler, oksijen grubu
+
+JA grubu; halojenler
+
+8A grubu; soy gazlar (asal gazlar)
+
+B grubu elementleri; geçiş metalleri
+
+Periyodik Sistemde Yer Bulma
+
+Bir elementin atom numarası bilinirse
+atomun nötr hâlinin katman elektron dağılımı
+yazılarak periyodik tablodaki yeri bulunabilir.
+
+» Katman sayısı periyot numarasını, son
+katmandaki elektron (değerlik elektronu)
+sayısı ise grup numarasını verir. (Bu kural ilk 20
+element ve A grubu elementleri için geçerlidir.)
+
+se Katmanlar;n-1,2,3,4, 5... gibi sayılarla
+veya K,L, M, N, O... gibi harflerle gösterilir.
+Her katmanın alabileceği maksimum elektron
+sayısı 2n2 formülü ile bulunur.
+
+e Elektronlar en düşük enerji seviyeli n—1 (K),
+nz 2 (L) katmanından başlayarak sırasıyla K, L,
+M, N, O... katmanlarına yerleşir.
+
+» Bir atomun son katmanında 8'den fazla,
+sondan bir önceki katmanında da 18'den fazla
+elektron bulunamaz.
+
+ni ne?
+N 9 5) ne? periyot numarası
+— Değerlik elektron sayısı 5
+2. periyot SA grubu
+IUPAC'a göre (15.grup)
+mi m? 3
+ş d ö ö 3. periyot GA grubu
+PAC'a göre (16. grup!
+
+SORULAR
+
+1. SORU:
+Bir elementin periyodik cetveldeki
+yerini bulmak için;
+I. Proton sayısı
+Il. Çekirdek yükü
+ılı. Kütle numarası
+IV. Nötr haldeki elektron sayısı
+niceliklerinden hangileri tek başına
+kullanılmaz?
+
+A) Yalnız Il B) Yalnız Il
+
+Ol veli D) II ve İl
+
+E) III ve IV Cevap :B
+2. SORU:
+
+x>” iyonunun katman elektron
+dağılımı aşağıda belertilmiştir.
+
+ 
+
+Atom ! katmanı | Z katman | 3 katman
+X 7? gd 8
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Buna göre aşağıdakilerden hangisi
+doğrudur?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Grup No | Periyot No
+A) 8A 3
+B) SA 3
+o 2A 4
+D) 2A 4
+E) 3A 4
+Cevap :C
+3. SORU:
+
+Aşağıda atom numarası verilen
+elementlerin hangisinin grup adı
+doğrudur?
+
+A) nX > Toprak Alkali Metal
+B) Y > Alkali Metal
+C) Z > Soygaz
+D) ı3K > Halojen
+E) 5M > Toprak Metal
+Cevap :B

@@ -1,0 +1,224 @@
+KİMYA ATOM VE PERİYODİK SİSTEM
+
+ 
+
+Atom Modelleri
+
+1) Dalton Atom Modeli: Atom
+hakkında ilk bilimsel model John
+Dalton tarafından ortaya atılmıştır.
+Dalton'ın Katlı Oranlar Yasası'nı
+bulması bilimsel anlamdaki ilk atom
+modeli olan Dalton atom modelinin
+temelini oluşturur. Dalton atom
+modeli, kimyanın üç temel yasası;
+Sabit Oranlar, Kütlenin Korunumu ve
+Katlı Oranlar Yasası'nı destekleyerek
+açıklar.
+
+Dalton atom modelinin temel
+varsayımları:
+
+OAtomlar çok yoğun, içi dolu
+kürelerdir.
+
+OBir elementin bütün atomları
+büyüklük, şekil ve kütle bakımından
+özdeştir.
+
+OfFarklı element atomları
+birbirinden farklıdır.
+
+OrFarklı element atomlarının belirli
+oranda birleşmesinden bileşikler
+oluşur.
+
+Günümüzden Dalton Atom
+Modeline Bakış
+
+O Atomun içinde daha küçük
+tanecikler (atom altı tanecikler)
+vardır.
+
+O Radyoaktif tepkimeler
+sonucunda atom parçalanabilir.
+
+O Atomun büyük kısmı boşluktur.
+
+OBir elementin bütün atomları
+aynı değildir, aynı elementin
+farklı kütleli olan atomları (izotop
+atomlar) vardır.
+
+2) Thomson Atom Modeli:
+1900'lü yılların başında, atomların
+iki özelliği bilinmekteydi. Atomlar
+elektronlar içeriyordu ve elektriksel
+olarak nötürdü. Elektriksel
+açıdan yüksüz olabilmesi için bir
+atomda eşit sayıda artı ve eksi
+
+yük bulunmalıydı. Joseph John
+Thomson, katot ışınları ile yaptığı
+deneylerde negatif () yüklü
+taneciklerin (elektronların) varlığını
+kanıtlamıştır. Elektronun varlığının
+kanıtlanmasından sonra Thomson,
+Dalton atom modelini de göz
+önünde bulundurarak yeni bir atom
+modeli ortaya atmıştır.
+
+Thomson atom modelinin
+varsayımları
+
+OAtomlar çapları yaklaşık 108 cm
+olan kürelerdir.
+
+OtElektron adı verilen negatif
+(9 yüklü tanecikler, pozitif yüklü
+atomun içinde homojen olarak
+dağılmıştır.
+
+OAtomdaki negatif (-) yük sayısı,
+pozitif (4) yük sayısına eşit olup
+atomlar yük bakımından nötrdür.
+
+OElektronların kütlesi atomun
+kütlesi yanında ihmal edilebilecek
+kadar küçük olduğu için atomun
+kütlesini pozitif yükler oluşturur.
+
+Günümüzden Thomson Atom
+Modeline Bakış
+
+OAtomdaki pozitif (4) ve negatif
+(9 yükler atomda homojen olarak
+dağılmaz.
+
+OAtomdaki pozitif (4) yükler çok
+küçük hacme sıkışmışken negatif (-)
+yükler çok büyük hacim kaplar.
+
+OAtomda bulunan pozitif
+tanecikler atom kütlesinin yaklaşık
+yarısını oluşturur.
+
+3) Rutherford Atom Modeli:
+Rutherford, Thomson atom
+modelinin doğruluğunu kanıtlamak
+için alfa saçılması deneyini
+yapmıştır. Bu deneyde radyoaktif bir
+elementten elde ettiği pozitif yüklü
+(#) alfa taneciklerinin ince altın
+
+levhada saçılmalarını gözlemlemiştir.
+
+Doğrultusu
+STİL oL NN
+İY d
+
+Doğrultusu değişen
+(sapan) ışınlar
+
+Pa KİS
+(ışın) kaynağı
+
+Rutherford'un Altın Levha Deneyi
+
+Alfa tanecikleri artı yüklü
+taneciklerdir. Alfa taneciklerindeki
+sapmaların nedeni altın levha
+üzerindeki pozitif yüklü protonlara
+çarpmasıdır. Bu sapmaların çok az
+olması altındaki protonların çok
+küçük bir hacimde yoğunlaştığını
+göstermektedir.
+
+Alfa ışınlarının çoğunun yolunu
+değiştirmeden levhayı geçmesinin
+nedeni, atomun büyük bir kısmının
+boşluklu yapıda olmasıdır.
+
+Elektronlar eksi yüklü ve çok küçük
+kütleli tanecikler olduğundan alfa
+taneciklerini saptıramaz.
+
+Rutherford atom modelinin
+varsayımları
+
+OBir atomda pozitif yükün tümü,
+çekirdek denilen küçük bölgede
+toplanmıştır.
+
+O Çekirdek çapı yaklaşık 10-2 - 1013
+cm, atom çapı ise 103 cm olduğundan
+atom hacminin büyük bir kısmı
+boşluktur. Elektronlar bu boşlukta
+bulunur ve çekirdek etrafında döner.
+
+O Çekirdekteki (4) yük miktarı bir
+elementin tüm atomlarında aynıdır,
+
+farklı elementin atomlarında farklıdır.
+
+O Çekirdekteki (4) yük miktarı bir
+elementin tüm atomlarında aynıdır,
+
+farklı elementin atomlarında farklıdır.
+
+OE. Rutherford geliştirdiği atom
+modeliyle Thomson'un artı ve eksi
+
+ 
+
+yüklerin homojen dağılma ilkesini
+çürütmüştür.
+
+Bununla birlikte Rutherford atom
+modeli, önemli bir sorunu çözümsüz
+bırakmıştır. Rutherford'un zamanında,
+en basit atom olan hidrojenin bir
+tane proton; helyum atomunun ise
+iki proton içerdiği biliniyordu. Bu
+nedenle helyum atomunun kütlesinin
+hidrojen atomunun kütlesine oranı 2/1
+olmalıydı. (Elektronlar protonlardan
+çok daha hafif olduğundan elektron
+kütleleri ihmal edilebilir). Oysa gerçekte
+bu oran 4/1 idi. Rutherford ve diğer
+araştırmacılar, atom çekirdeğinde
+diğer bir atom altı taneciğin bulunması
+gerektiğini düşündüler. Rutherford bu
+taneciklerin yüksüz olması gerektiğini
+tahmin etti.
+
+Bunun kanıtı 1932'de İngiliz fizikçi
+James Chadwick tarafından keşfedildi.
+Chadwick ince bir berilyum levhayı
+alfa (0) tanecikleriyle bombardıman
+ettiğinde, berilyum metalinin gama
+ışınlarına benzeyen çok yüksek enerjili
+ışınlar yaydığını görmüştür.
+
+Daha sonraki deneyler ile bu
+ışınların protonun kütlesinden biraz
+daha büyük kütleye sahip elektrik
+yükü taşımayan nötr taneciklerden
+oluştuğu gösterildi. Chadwick bu
+taneciklere nötron adını verdi.
+
+Günümüzden Rutherford Atom
+Modeline Bakış
+
+O Çekirdek etrafında dönen
+elektronların neden çekirdek üzerine
+düşmediğini açıklayamamıştır.
+
+ORutherford atom modeli,
+elektronun davranışını açıklamada
+yetersiz kalmıştır.
+
+Rutherford atom modelindeki
+eksiklikler yeni bir atom modelinin
+ortaya atılmasına neden olmuştur.
+

@@ -1,0 +1,85 @@
+KİMYA ATOM MODELLERİ
+
+ 
+
+Bohr Atom Modeli
+
+Niels Bohr hidrojenin
+spektrumunu inceleyerek
+yeni bir atom modeli
+ortaya atmıştır.
+
+Yörüngeli model olarak da bilinen Bohr atom modeline göre:
+
+# Elektronlar çekirdekten
+belirli uzaklıkta ve belirli
+enerjiye sahip yörüngelerde
+bulunur. Bu yörüngelere;
+enerji düzeyi (seviyesi),
+katman veya kabuk denir.
+
+# Enerji düzeyi bir tam sayı
+ile belirtilir. Çekirdeğe en yakın
+enerji düzeyi 1 olmak üzere n
+-1,2,3,4...sayı veyaK,I,M,
+N... gibi harflerle ifade edilir.
+Çekirdeğe en yakın kabuk
+minimum, en uzaktaki kabuk
+maksimum enerjiye sahiptir.
+
+# Elektronun çekirdeğe en
+yakın en düşük enerjili hâline
+atomun temel hâli denir.
+Temel hâlde atom kararlıdır ve
+ışın yaymaz.
+
+# Elektronun dışarıdan
+enerji alarak daha yüksek
+enerji düzeyine geçmesine
+atomun uyarılmış hâli
+denir. Atom uyarılmış hâlde
+
+kararsızdır. Kararlı olmak
+için düşük enerjili temel hâle
+geçer. Temel hâle geçerken
+aldığı enerjiyi ışıma olarak
+geri verir.
+
+*# Yayılan ışığın enerjisi, iki
+enerji düzeyi arasındaki enerji
+farkına eşittir. Işığın enerjisi,
+
+AE - Eyüksek- Edüşük
+olarak hesaplanır.
+
+# Bohr atom modeli tek
+elektronlu atomların (1H,
+2Het, 3Li2* gibi) davranışını
+kolayca açıklarken çok
+elektronlu atomların
+davranışını açıklamada yetersiz
+kalmıştır.
+
+# Bohr atom modelinde
+bahsedildiği gibi elektronların
+yeri tespit edilemez. Ancak
+modern atom teorisine (bulut
+modeli) göre elektronların
+bulunma olasılığının
+yüksek olduğu bölgelerden
+
+a) Hidrojen absorbsiyon spektrumu
+b) Hidrojen emisyonu spekturumu
+
+bahsedilebilir. Bu bölgelere
+elektron bulutu (orbital) denir.
+
+# Elektronun davranışını
+açıklaması bakımından
+modern atom teorisi oldukça
+önemlidir.
+
+
+
+ 
+

@@ -71,35 +71,75 @@ charlist = [
     "m",
     "ö",
     "ç",
+    "-",
+    "'",
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    "Ğ",
+    "Ü",
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    "Ş",
+    "İ",
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    "Ö",
+    "Ç",
 ]
 
-with open(
-    os.path.join(
-        PROJECT_PATH,
-        "files/model_input_texts/output_eba_ogm_txt/eba_bio_texts.txt",
-    ),
-    "w",
-    encoding="utf-8",
-) as w:
-    for subdir, dirs, files in os.walk(
-        os.path.join(PROJECT_PATH, "files/input_eba_ogm_bio_txt")
-    ):
-        for file in files:
 
-            filepath = subdir + os.sep + file
+inputPaths = ["input_eba_ogm_bio_txt", "input_eba_ogm_chem_txt"]
+outputPaths = ["eba_bio_texts.txt", "eba_chem_texts.txt"]
 
-            with open(filepath, "r", encoding="utf-8") as f:
+for i in range(2):
+    with open(
+        os.path.join(
+            PROJECT_PATH,
+            "files/model_input_texts/output_eba_ogm_txt",
+            outputPaths[i],
+        ),
+        "w",
+        encoding="utf-8",
+    ) as w:
+        for subdir, dirs, files in os.walk(
+            os.path.join(PROJECT_PATH, "files", inputPaths[i])
+        ):
+            for file in files:
 
-                string = f.read()
-                string = string.split()
-                for word in string:
-                    word = word.lower()
-                    if len(word) <= 1:
-                        continue
+                filepath = subdir + os.sep + file
 
-                    if not all([char in charlist for char in word]):
-                        continue
+                with open(filepath, "r", encoding="utf-8") as f:
 
-                    w.write(word + " ")
+                    string = f.read()
+                    string = string.translate(str.maketrans("", "", ".,?!"))
+                    string = string.split()
+                    for word in string:
+                        if len(word) <= 1:
+                            continue
 
-                w.write("\n")
+                        if not all([char in charlist for char in word]):
+                            continue
+
+                        w.write(word + " ")
+
+                    w.write("\n")

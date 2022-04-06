@@ -1,0 +1,112 @@
+KİMYA MADDENİN HÂLLERİ V
+
+ 
+
+DENGE BUHAR BASINCI
+
+Ağzı açık
+bir kaba G Gi G
+konulan sıvı v .$ .
+buharlaştıkça (o pa 2.
+sıvı miktarı 3 Cg >)
+azalır. Kabın . .
+ağzı kapatıl- buharlaşma
+dığında, sabit O H,O(s) «——— H,Olg)
+hacimli kapalı yoğuşma
+
+bir kapta bulunan sabit sıcaklıktaki saf sıvı
+buharlaşırken buhar molekülleri sayısı artar.
+Bir süre sonra birim zamanda buharlaşan
+molekül sayısı ile yoğunlaşan molekül sayısı
+eşit olur ve sıvı-buhar dengesi kurulur. Sıvısı
+ile dengede bulunan buhar taneciklerinin
+yaptığı basınca denge buhar basıncı denir.
+Aynı ortamda (sıcaklık, basınç vb. sabit)
+erlenmayer gözlenmeye devam edilirse bir
+süre sonra su seviyesinin sabit kaldığı görülür. Su seviyesinin sabit kalması buharlaşma
+olayının durduğunu göstermez. Ortam kapalı olduğu için su buharları tekrar yoğuşa-
+rak suya dönüşür. Bir süre sonra buharlaşan
+molekül sayısı yoğuşan molekül sayısına eşit
+olur.
+
+Denge buhar basıncı; sıvının cinsine, saflık derecesine ve sıvının sıcaklığına bağlıdır.
+Sıcaklık değişmediği sürece buhar basıncı
+değişmez. Herhangi bir sıvının sıcaklığı
+arttırılırsa buhar hâline geçen molekül sayısı
+artacağı için sıcaklığa bağlı olarak denge
+buhar basıncı da artar. Kendi sıvısı üzerinde
+
+toplanmış buhar sabit sıcaklıkta sıkıştırılırsa
+yoğuşma, genleştirilirse buharlaşma gerçekleşeceği için denge buhar basıncı değişmez.
+Sıvının denge buhar basıncı; sıvının içinde
+bulunduğu kabın hacmine, şekline ve sıvı
+miktarına bağlı değildir.
+
+KAYNAMA VE DIŞ BASINÇ
+
+Sıvı belli bir
+sıcaklığa ulaşınca
+yalnız yüzeyde değil
+sıvının her yerinde
+buharlaşma başlar.
+Buharlaşmanın yalnızca sıvı yüzeyinde
+değil sıvının içinde de
+meydana gelmesine
+kaynama denir. Sıvının yüzeyinde oluşan
+buhar basıncının dış basıncına eşit olduğu
+sıcaklık noktasına kaynama noktası denir.
+Kaynama atmosfer basıncının 1 atm (760
+mm Hg) olduğu ortamda gerçekleşirse buna
+normal kaynama noktası denir. Kaynama
+noktası dış basınca bağlıdır. Deniz seviyesinden yukarılara doğru çıkıldıkça atmosfer
+basıncı azalır, dış basınç azalınca kaynama
+noktası düşer. Örneğin dış basıncın 255
+mm Hg olduğu Everest'te suyun kaynama
+noktası 719C'tur. Basınç arttıkça kaynama
+noktası da artar. Deniz seviyesinden 1000
+metre aşağıda 855 mm Hg basınçta suyun kaynama noktası yaklaşık 103*€C tur.
+
+e
+
+ 
+
+b
+
+Düdüklü (basınçlı)
+tencere
+
+Basınçlı tencerelerdeki (düdüklü tencere)
+su, atmosfer basıncından daha yüksek bir
+basınç altındadır; bu durum suyun kaynama
+noktasını yükseltir. Örneğin 1 atm basınçta
+su 100*C'ta, 2 atm basınçta 1209C'ta kaynar.
+Mutfaklarda kullanılan düdüklü tencerelerde su yüksek basıncın etkisiyle daha yük-
+sek kaynama sıcaklıklarına ulaşır. Böylece
+yemeklerin pişirme süreleri kısalır. Basınçlı
+tencereler birçok gıdanın endüstriyel üretiminde kullanılır.
+
+KAYNAMA VE
+BUHARLAŞMA OLAYININ
+BIRBIRINDEN FARKI
+
+Buharlaşma
+e Her sıcaklıkta gerçekleşir.
+e Sıvı yüzeyinde gerçekleşir.
+e» Yavaştır.
+se Kabarcıklar oluşmaz.
+se Az enerji gerektirir.
+* Buharlaşma maddenin cinsine, saflığına,
+sıcaklık, basınç, yüzey alanı, neme bağlıdır.
+Kaynama
+e Sıvının buhar basıncının dış basınca eşit
+olduğu anda (belirli sıcaklık ve basınçta)
+gerçekleşir. Saf sıvılarda kaynama süresince
+sıcaklık sabittir.
+e Sıvının her yerinde gerçekleşir.
+e Hızlıdır.
+se Kabarcıklar oluşur.
+* Çok enerji gerektirir.
+se Kaynama maddenin cinsine, saflığına ve
+dış basınca bağlıdır.
+
+ 
