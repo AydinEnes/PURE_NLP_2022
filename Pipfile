@@ -9,6 +9,7 @@ notebook = "*"
 wikipedia-api = "*"
 gensim = "*"
 black = "*"
+nltk = "*"
 
 [dev-packages]
 
