@@ -10,6 +10,7 @@ yeşil kitap kalem kağıt defter
 bebek kırmızı yeşil mavi mor
 gölge siyah beyaz gri mavi
 ses sarı kırmızı turuncu siyah
+
 DIFFICULTY 2 (topic concepts, 5 words)
 dinamik üreme solunum boşaltım beslenme
 tepkime üreme solunum boşaltım beslenme
@@ -34,3 +35,14 @@ miyoglobin hücre_bölünmesi mitoz mayoz kromozom
 kan hücre_bölünmesi mitoz mayoz kromozom
 sindirim_sistemi hücre_bölünmesi mitoz mayoz üreme
 vücut hücre_bölünmesi mitoz mayoz üreme
+hücre dna gen kromozom nükleotit
+yapı dna gen kromozom nükleotit
+vitamin dna gen kromozom nükleotit
+protein dna gen kromozom nükleotit
+bitki dna gen kromozom nükleotit
+sitozom dna gen kromozom nükleotit
+kalsiyum karbondioksit azot oksijen karbonmonoksit
+su karbondioksit azot oksijen karbonmonoksit
+vücut karbondioksit azot oksijen karbonmonoksit
+element karbondioksit azot oksijen karbonmonoksit
+hücre karbondioksit azot oksijen karbonmonoksit

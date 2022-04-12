@@ -44,6 +44,10 @@ filename="wiki_bio_texts2.txt"
 filepath = path.join(base_path.PROJECT_PATH, "files", foldername , filename)
 file_list = [filepath]
 file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "eba_bio_texts.txt"))
+file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "bio_selin_hoca_9.txt"))
+file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "bio_selin_hoca_10.txt"))
+file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "bio_selin_hoca_11.txt"))
+file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "bio_selin_hoca_12.txt"))
 sentences=get_sentences(file_list)
 # print(sentences[0])
 
@@ -93,7 +97,7 @@ corpus=create_new_corpus(file_list)
 
 from gensim.models import FastText
 # model_ted = FastText(corpus, size=100, window=15, min_count=5,iter=10, workers=10,sg=1)
-model_ted = FastText(corpus, vector_size =150, window=10, min_count=10,epochs=10, workers=10)
+model_ted = FastText(corpus, vector_size =100, window=20, min_count=5,epochs=20, workers=10, sg=1)
 # model_ted.train(corpus_iterable=corpus, total_examples=len(corpus), epochs=10)
 # print(model_ted.wv.most_similar("asal_sayılar",topn=50))
 print("--- %s seconds ---" % (time.time() - start_time))
