@@ -4,6 +4,12 @@ araba kulak göz ağız burun
 hava ateş su toprak hava
 ağaç orkide papatya gül karanfil
 kedi orkide papatya gül karanfil
+araba bilgisayar televizyon telefon kulaklık
+kirpi kitap dergi makale mektup
+yeşil kitap kalem kağıt defter
+bebek kırmızı yeşil mavi mor
+gölge siyah beyaz gri mavi
+ses sarı kırmızı turuncu siyah
 DIFFICULTY 2 (topic concepts, 5 words)
 dinamik üreme solunum boşaltım beslenme
 tepkime üreme solunum boşaltım beslenme
