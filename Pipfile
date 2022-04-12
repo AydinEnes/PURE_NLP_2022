@@ -10,6 +10,7 @@ wikipedia-api = "*"
 gensim = "*"
 black = "*"
 nltk = "*"
+youtube-transcript-api = "*"
 
 [dev-packages]
 
