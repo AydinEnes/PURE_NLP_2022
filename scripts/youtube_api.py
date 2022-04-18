@@ -3,9 +3,11 @@ from youtube_transcript_api import YouTubeTranscriptApi as yt
 
 import googleapiclient.discovery
 from urllib.parse import parse_qs, urlparse
+import urllib
+import simplejson
 
 # extract playlist id from url
-url = "https://www.youtube.com/playlist?list=PLXGAdMeDFkjmS_xBk1ZJ1a0vLj7dcCoMb"
+url = "https://www.youtube.com/playlist?list=PLbSqnUIy2z41tu7H6qxtYJq-WlUDI27UB"
 query = parse_qs(urlparse(url).query, keep_blank_values=True)
 playlist_id = query["list"][0]
 
@@ -30,13 +32,21 @@ videoURLS = [
     for t in playlist_items
 ]
 
-# print(videoURLS)
 with open(
-    "/Users/tancetiner/Documents/GitHub/PURE_NLP_2022/files/youtube_text/bio_selin_hoca_12.txt",
+    "/Users/tancetiner/Documents/GitHub/PURE_NLP_2022/files/model_input_texts/chem_texts/semih_balmuk_chem_organik.txt",
     "w",
 ) as f:
     for t in playlist_items:
         try:
+            # json = simplejson.load(
+            #     urllib.urlopen(
+            #         f'https://www.youtube.com/watch?v={t["snippet"]["resourceId"]["videoId"]}&list={playlist_id}&t=0s'
+            #     )
+            # )
+            # title = json["entry"]["title"]["$t"]
+            # f.write("{} - ".format(title))
+            title = t["snippet"]["title"]
+            f.write("{} - ".format(title))
             srt = yt.get_transcript(
                 t["snippet"]["resourceId"]["videoId"], languages=["tr"]
             )
