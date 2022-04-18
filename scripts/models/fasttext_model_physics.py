@@ -43,7 +43,7 @@ foldername = "model_input_texts\\physics_texts"
 filename="wiki_physics_texts.txt"
 filepath = path.join(base_path.PROJECT_PATH, "files", foldername , filename)
 file_list = [filepath]
-# file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "eba_bio_texts.txt"))
+file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "eba_physics_texts.txt"))
 # file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "bio_selin_hoca_9.txt"))
 # file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "bio_selin_hoca_10.txt"))
 # file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "bio_selin_hoca_11.txt"))
