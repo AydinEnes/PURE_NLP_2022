@@ -1,9 +1,11 @@
-from numpy import full
-from base_path import PROJECT_PATH
-import wikipediaapi
+import sys
+sys.path.insert(0, 'D:\Github_Repos\morpa_nlp\PURE_NLP_2022\scripts')
 import os
+from os import path
+from numpy import full
+from base_path import base_path
+import wikipediaapi
 import re
-
 import time
 start_time = time.time()
 
