@@ -1,0 +1,2043 @@
+Doğrudan ve dolaylı bant aralığı
+Fizik
+Fiziksel bir sembol sistemi
+Modern fizik
+Nörofizik
+Penrose-Güven limiti
+Sosyofizik
+4. Boyut
+Abbe sayısı
+Absorpsiyon spektroskopisi
+Açısal çözünürlük
+Adsorpsiyon
+Adyabatik
+Ağırlık
+Akı
+Akışbilim
+Aksiyon (parçacık)
+Akustikoptik
+Alçak geçiren filtre
+Alfvén dalgası
+Ambipolar difüzyon
+Amorf katı
+Anlık hız
+Anomalon
+Arşimet prensibi
+Astrobiyofizik
+Atom fiziği
+Atom numarası
+Atomik kuvvet mikroskobu
+Aubert Olayı
+Ayrık zaman
+Ayrıklık (fizik)
+Bağıl geçirgenlik
+Bağıl nem
+Bant durduran filtre
+Bant geçiren filtre
+Bant teorisi
+Basınç ölçümü
+Bastırma kuvveti
+Batmazlık
+Beta parçacığı
+Betatron
+Biriktirme
+Birleşik Avrupa Torusu
+Boyut
+Bölüşüm fonksiyonu
+Bremermann'ın limiti
+Buz
+Büyük Patlama nükleosentezi
+Büyüteç
+CLASS B1359+154
+Curie sıcaklığı
+Çerenkov radyasyonu
+Çıplak kuark
+Dakikadaki devir sayısı
+Dalga boyu
+Damla
+Degauss
+Deplasman (denizcilik)
+Difüzyon basıncı
+Dioksijen
+Dipol
+Dirac denklemi
+Distorsiyon
+Diyamanyetizma
+Doğru akım
+Donma
+Durum fonksiyonu
+Düşük frekans
+Dünya kütlesi
+Düzlem dalga
+Einstein alan denklemleri
+Ekonofizik
+Elastisite modülü
+Elektrik devresi
+Elektriksel potansiyel enerji
+Elektromanyetik darbe
+Elektromanyetik girişim
+Elektromıknatıs
+Elektron boşluğu
+Elektron mikroskobu
+Elektron yerleşim fonksiyonu
+Elektrooptik modülatör
+Elektroskop
+Entropi (istatistiksel termodinamik)
+Esneklik
+Evrenin ivmelenerek genişlemesi
+Eylemsizlik kuvveti
+Ferrimanyetizma
+Ferromanyetizma
+Fizik felsefesi
+Fiziksel sabit
+Fiziksel sistem
+Fotonik
+Franck–Hertz deneyi
+Frekans
+Friedmann denklemleri
+G kuvveti
+Gama ışını
+Gauss yasası
+Gaz deşarj lambası
+Genlik kipleme
+Gergin ufuk
+Geri çağırım kuvveti
+Girdap
+Gizli ısı
+Gluontopu
+Görünür spektrum
+Gravitasyon merkezi
+Güç (fizik)
+Güneş geometrisi
+Gürültü
+Hacim
+Hacim modülü
+Hâl denklemi
+Harmonik osilatör
+Havanın yoğunluğu
+Hawking ışınımı
+Hawthorne çalışmaları
+Hesaplamalı fizik
+Hilbert uzayı
+Hooke yasası
+Huygens-Fresnel ilkesi
+Islanma
+Işığa duyarlılık
+Işığın iki yönlü yansıtma dağılımı fonksiyonu
+Işık demeti
+İç patlama
+İklim bilimi
+İlksel nüklit
+İnfrason
+İtme (akışkanlar mekaniği)
+İvme
+İyonosfer
+İzoton
+İzotropi
+İzotropik anten
+Jeans Kararsızlığı
+Joseph Taylor
+Josephson etkisi
+Kaçış yörüngesi
+Kanat profili
+Kara deliklerde tamamlayıcılık ilkesi
+Kavitasyon
+Kayıp enerji
+Kayma gerilmesi
+Kaynama
+Kemilüminesans
+Kendiliğinden simetri kırılması
+Kırınım
+Kırmızıya kayma
+Kinetik enerji
+Kiralite (fizik)
+Kirchhoff kanunları
+Komplians
+Kontrol hacmi
+Kritik nokta (termodinamik)
+Ksenon ark lambası
+Kuantum metafiziği
+Kuantum şekil dinamiği
+Kuantum teli
+Kütle çekimsel zaman genişlemesi
+Kütle numarası
+Kütle-enerji eşdeğerliği
+Larmor formülü
+Levitasyon (fizik)
+Lyman serisi
+Madde
+Makroskobik ölçüm
+Manyetik levitasyon
+Manyetomotor kuvvet
+Maple (yazılım)
+Maxwell-Boltzmann dağılımı
+Mekanik tasarım
+Membran (fizik)
+Mesafe
+Michelson-Morley deneyi
+Mikrodalga
+Molekül fiziği
+Nedensellik (fizik)
+Newton tipi akışkan
+Newton'un beşiği
+Nobel Fizik Ödülü
+Nötron radyasyonu
+Nötron tesir kesiti
+Nükleer izomer
+Nükleer kuvvet
+Nükleer manyeton
+Optik pompalama
+Paramanyetizma
+Pascal yasası
+Planck ölçeği
+Planck yoğunluğu
+Plazma lambası
+Plummer modeli
+Poynting vektörü
+Radyasyon basıncı
+Raman saçılması
+Reaktans
+Relüktans
+Renk uzayı
+Retentiviti
+Reynolds gerilimi
+Rezonans (fizik)
+Rijitlik
+Robert Smolańczuk
+Rutherford atom modeli
+Sağ el kuralı
+Sarkaç
+Saybolt evrensel birimi
+Schumann rezonansı
+Schwarzschild kara deliği
+Schwarzschild yarıçapı
+Serap
+Serbest düşme
+Serbest elektron modeli
+Ses hızı
+Siyah cisim
+Soğuk füzyon
+Solucan deliği
+Stark etkisi
+Su buharı
+Su yalıtımı
+Süperiletken mıknatıs
+Süper düşük frekans
+Süperkavitasyon
+Süperkritik akışkan
+Süperyük
+Şok dalgası
+Temel yük
+Terahertz radyasyonu
+Termoremanent manyetizasyon
+Tersinmezlik
+Tokamak
+Tünel etkisi
+Ultrason
+Uzay (fizik)
+Uzayzaman
+Vakum
+Wattmetre
+Wheatstone köprüsü
+Yankı
+Yarı kararlılık
+Yer değiştirme (fizik)
+Yer eş zamanlı yörünge
+Yerçekimi
+Yoğunlaşma bulutu
+Yoğunluk
+Young modülü
+Yüklü parçacık
+Yüksek geçiren filtre
+Yüzey kütle çekimi
+Yüzey sertleştirme
+Zayıflatılmış uranyum
+Zeeman etkisi
+Charles Greeley Abbot
+Alfred Kastler
+Alicia Nash
+Maurice Allais
+Renee Amoore
+Arthur Morin
+William Astbury
+Mark Azbel
+Charles Barkla
+Ernst G. Bauer
+Jacob Bekenstein
+Berni Alder
+Borzūya
+Walther Bothe
+Louis de Broglie
+Amor Chadli
+Owen Chamberlain
+Georges Charpak
+Geoffrey Chew
+Steven Chu
+Claude Cohen-Tannoudji
+Leon Cooper
+Adair Crawford
+Raymond Davis
+Donna Strickland
+Edward Morley
+Ernst Chladni
+Fatima Aziz
+Felix Bloch
+Albert Fert
+Fidel Castro Díaz-Balart
+Álex Figueroa
+Dennis Gabor
+Luigi Galvani
+Murray Gell-Mann
+Georg Bednorz
+Giovanni Battista Venturi
+Gleb Wataghin
+Guillaume Amontons
+Alan Guth
+Gotthilf Heinrich Ludwig Hagen
+Hans Dehmelt
+Harry Daghlian
+Alan Heeger
+Helen Megaw
+Henry Cavendish
+Antony Hewish
+Robert Hooke
+Horia Hulubei
+Russell Hulse
+Yoseph Imry
+İvan Vakarçuk
+Jack Steinberger
+James Bjorken
+James Hopwood Jeans
+Johannes Bosscha
+Johannes Martinus Burgers
+John Cockcroft
+John Mallard
+John Van Vleck
+Charles Kao
+Ewald Jürgen Georg von Kleist
+Klaus von Klitzing
+Polykarp Kusch
+Willis Lamb
+Max von Laue
+Paul Lauterbur
+Leon Lederman
+Tsung-Dao Lee
+Léon Brillouin
+Liu Gang
+Johann Josef Loschmidt
+Louis Rendu
+Luigi Palmieri
+Luiz Pinguelli Rosa
+Makoto Kobayashi
+Peter Mansfield
+Marshall Rosenbluth
+John Mather
+Julius Robert von Mayer
+John Mendelsohn
+Miguel Alcubierre
+Nevill Mott
+Hermann Joseph Muller
+Nathan Rosen
+Claude-Louis Navier
+Nobu Tamura
+Paul Drude
+Paul Langevin
+Wolfgang Pauli
+Jean Charles Athanase Peltier
+Arno Penzias
+Marguerite Perey
+Auguste Piccard
+Pierre Duhem
+Fritz Pregl
+Francesco Redi
+Richard Hagen
+Owen Richardson
+Robert Henry Dicke
+Robert Richardson (fizikçi)
+Robert Wilson
+Rudolf Mössbauer
+Roland W. Schmitt
+Robert Serber
+William Shockley
+Clifford Shull
+Simon van der Meer
+Charles Pence Slichter
+Louis Slotin
+Richard Smalley
+Stanisław Wojciech Mrozowski
+William Stanley, Jr.
+Stanton Friedman
+Johannes Stark
+Otto Stern
+Steven Weinberg
+Thomas A. Steitz
+Ernest Walton
+Hermann Weyl
+Emil Wiechert
+Chen Ning Yang
+Yu Min
+Hideki Yukava
+Zoltán Lajos Bay
+Zygmunt Florenty Wróblewski
+Alev
+Ateş püskürtme
+Explosimetre
+Halon
+İbitem
+Pirit
+Vesta (mitoloji)
+American Prometheus
+Atom kütlesi
+Atomik orbital
+Elektronegatiflik
+Fisil
+Hund kuralları
+İyonlaşma
+KAO döngüsü
+Magnox
+Nötron emisyonu
+Nükleer enerji
+Nükleer fisyon
+Potasyum-argon yaş tayini
+Röntgen (birim)
+Yan kuantum sayısı
+Zincirleme nükleer reaksiyon
+AC motor
+Akım transformatörü
+Aktif güç
+Akümülatör
+Ampul
+Anahtar (elektrik)
+Armatür
+Aşırı yüksek frekans
+Battersea Elektrik Santrali
+Biyoelektromanyetizma
+Buton
+Coulomb
+Devre anahtarlama
+Devre şeması
+Dışa-4bağ
+Dışa-bağ
+Doğru akım motoru
+Duy
+Elektrifikasyon
+Elektrik direği
+Elektrik hırsızlığı
+Elektrik kaçağı
+Elektrikçi
+Elektrokinetik
+Elektrokromizm
+Elektrospinning cihazı
+Fazör
+Foto direnç
+Geçit izolatörü
+Görünür güç
+Güç Faktörü Düzeltme
+Halojen lamba
+Havalı kondansatör
+İndüktör
+Kaçak akım rölesi
+Katener
+Kullanma faktörü
+Küçük sinyal modeli
+Loviisa Nükleer Enerji Santrali
+N-1 Kuralı
+Olkiluoto Nükleer Enerji Santrali
+Omik
+Pantograf (ulaşım)
+PMMC
+Potansiyometre
+Priz
+Radyoizotop termoelektrik jeneratör
+Seramik kondansatör
+Siemens (birim)
+Statik kontaktör
+Şebeke elektriği
+Şönt
+Trimer kondansatör
+Vakum kondansatör
+Van de Graaff jeneratörü
+Varaktör
+Varistör
+Varyabl kondansatör
+Akıntı enerjisi
+Alstom
+Antrasit
+Basınçlı ağır su reaktörü
+Birleşik ısı ve güç
+Chicago Pile-1
+Dalga enerjisi
+E.ON
+Elektrik teslimatı
+Enerji tasarrufu
+Fotosentetik güneş pilleri
+Füzyon enerjisi
+Gelgit enerjisi
+Gelişmiş gaz soğutmalı reaktör
+GO Enerji
+Güç kaynağı
+Güneş enerjisi sabiti
+Güney Amerika Enerji Konseyi
+Hafif su reaktörü
+Iberdrola
+Isı çarkı
+IV. nesil reaktör
+Jeotermik santraller
+Kalininskaya Nükleer Enerji Santrali
+Kaynar su reaktörü
+Kızıldere Jeotermal Enerji Santrali
+Kok kömürü
+Marmaraereğlisi LNG Terminali
+Mayak
+MEGAL
+Nötron moderatörü
+Nükleer erime
+Nükleer patlama
+Odun gazı
+Okyanus ısıl enerji dönüşümü
+Petrocaribe
+RBMK
+Repsol
+Savonius rüzgâr türbini
+Sentez gazı
+Serbest enerji
+Sıvı metal soğutmalı reaktör
+Stellaratör
+Sürdürülebilir enerji
+Tezek
+Thévenin teoremi
+Three Mile adası kazası
+Tr-2
+Turb
+Üretken reaktör
+VVER
+Yakıt
+Yer çekimi potansiyel enerjisi
+Einstein senkronizasyonu
+Işık hızının değişmezliği ilkesi
+İlksel yerçekimi dalgaları
+Peres metriği
+Aerosol
+Ayrımsal kristallendirme
+Çözgen-iter kuvveti
+Elektrolit
+Fiziksel kimya
+Floresans
+Gazların sıvılaştırılması
+Graham difüzyon yasası
+Hess yasası
+Hidrojen bağı
+İyon
+Kimyasal değişim
+Kimyasal kararlılık
+Kohezyon (kimya)
+Kolesterik sıvı kristal
+Koordine kovalent bağ
+Kovalent olmayan bağ
+Kutuplanabilirlik
+Lewis yapısı
+Nükleer kimya
+Peptit bağı
+RAFT
+Reaksiyon inhibitörü
+Sabatier Reaksiyonu
+Van der Waals kuvveti
+Yarı hücre
+Aksiyon (fizik)
+Basma gerilmesi
+Coriolis etkisi
+Çatırtı (fizik)
+Ekgücüm
+Eksarsım
+Eylemsizlik
+Gerilme (fizik)
+Gök mekaniği
+Gücüm
+Hidrostatik denge
+Hiperstatik sistemler
+İki cisim problemi
+İzafi hareket
+Kinematik
+Korunumlu kuvvet
+Lagrange noktası
+Mekanik denge
+Mekanik verimlilik
+Merkezkaç kuvveti
+Prandtl-Glauert yöntemi
+Reynolds sayısı
+Saatçi
+Belirsizlik ilkesi
+Çoklu dünyalar yorumu
+Dalga işlevinin çöküşü
+Kuantum noktacıkları
+Pilot dalga teorisi
+Spin bağımlı
+Von Neumann yorumu
+Zayıf etkileşim
+Adezyon
+Aydınlatma
+Clausius-Mossotti eşitliği
+Dağılma
+Dove prizması
+Düzlem ayna
+Eksen (optik)
+Evanesan dalga
+Faz hızı
+Fotoelastik modülatör
+Foton çiftleri
+Fraser spiral illüzyonu
+Frekans seçici yüzey
+Girişim
+Gölge
+Helyotrop
+Işık haslığı
+Karanlık
+Kırılma (fizik)
+Kırılma indisi
+Kırılmalı teleskop
+Kramers-Kronig ilişkileri
+Lazer mesafe ölçer
+Mesafe ölçer
+Newton halkaları
+Optik filtre
+Prizma
+Sınır açısı
+SPIE
+Sürekli spektrum
+Tam yansıma
+Ultraviyole
+Uluslararası Aydınlatma Komisyonu
+Akşam
+Ar
+Atomik kütle birimi
+Atto-
+Bar (birim)
+Dekametre
+Desimetre
+Elektromanyetik debimetre
+Endâze
+Farad
+Femto-
+Fersah
+Galon
+Hektar
+Hektometre
+Hız göstergesi
+ISO 13485
+ISO 15924
+ISO 3166-2
+ISO 639
+ISO romanizasyonları listesi
+ISO/IEC 8859
+Işık saniyesi
+İmparatorluk birimleri
+Kalibre
+Karat (ağırlık birimi)
+Kilo-
+Kilometre
+Kilometre bölü saat
+Libre (kütle birimi)
+Litre
+Manyetometre
+Megametre
+Metre (araç)
+Metrekare bölü saniye
+Mikro-
+Mikrometre
+Mil (birim)
+Mil bölü saat
+Mili-
+Milimetre
+MmHg
+Mol (birim)
+Nano-
+Nanometre
+OHSAS 18001
+Ons
+Pascal (birim)
+Piko-
+Pikometre
+Pint
+Plançete
+Ppm
+Prizmatik pusula
+Pyongyang Saati
+Quart
+Radiac
+Rakım
+Sagan
+Sandringham saati
+Ses iskandili
+SGML
+Sine teodolit
+StackMat zamanlayıcısı
+Şaku
+Takeometre
+Taksimetre
+Teknik standart
+Terazi
+Ton (birim)
+Troy Ağırlık Sistemi
+Tutulum koordinat sistemi
+UL Onayı
+Ultrasonik akışmetre
+Uluslararası Standart Ad Tanımlayıcısı
+Uluslararası Standart Süreli Yayın Numarası
+UTC-10.30
+Verst
+Yokto-
+Yoktometre
+Yolcu kilometre
+Zepto-
+Zira
+Akışkan
+Dengesizlik termodinamiği
+Entalpi
+Erime noktası
+Isı denklemi
+Isı iletkenliği
+Isı transferi
+İstatistik fizik
+İzentropik
+İzobarik
+İzotermik proses
+Joule-Thomson etkisi
+Kalina çevrimi
+Kaynama noktası
+Mutlak sıfır
+Özgül ısı
+Reküperatör
+Sıcaklık algılayıcıları
+Sıcaklık terselmesi
+Soğuk hava deposu
+Termodinamik denge
+Termokimya
+Yoğuşturucu
+Faz yüzey bilimi
+Elektromanyetizma
+Klasik elektromanyetizma
+Elektromanyetizma teorisinin zaman çizelgesi
+Akım yoğunluğu
+Elektromanyetik alan
+Ampère yasası
+Biot-savart yasası
+Elektromanyetik birimler
+Boşluğun empedansı
+Elektromanyetik dalga denklemi
+Delinme gerilimi
+Dinamo teorisi
+Yer değiştirme akımı
+Dört kutuplu
+Duran dalga
+Elektrik alanı
+Elektrik dipol momenti
+Elektrik yükü
+Elektroforez
+Elektromanyetik sınır koşulları
+Elektromanyetizma ve klasik optik kronolojisi
+Elektromanyetizmanın eşdeğişim formülasyonu
+Elektromotor kuvvet
+Elektron ışınıyla işleme
+Elektron optiği
+EMF kalkanlama
+Ewald toplamı
+Foton
+Geçirgenlik (elektromanyetizma)
+Gerilim (elektrik)
+Göreli elektromanyetizma
+Görüntü yükleri yöntemi
+Güç (elektrik)
+Hareket eden mıknatıs ve iletken problemi
+İletim ortamı
+İnce yapı sabiti
+İndüktans
+Keldysh biçimciliği
+Kiralite
+Elektromanyetik kuvvet
+Lenz yasası
+Lorentz kuvveti
+Manyetik histeresis
+Manyetik alan
+Manyetosfer
+Maxwell denklemleri
+Mazer
+Metamalzeme
+Mıknatıs
+Mie saçılması
+Negatif indisli metamalzeme
+Perdeleme teorileri
+Planck gerilimi
+Planck yükü
+Sol el kuralı
+Spektrum
+Süper lens
+Elektromanyetizma teorisi tarihi
+Vakum geçirgenliği
+Voltaj regülatörü
+Weber elektrodinamiği
+Wheeler-Feynman soğurucu teorisi
+Yayılma sabiti
+Yük korunumu
+Yüzey katmanı etkisi
+Zamanda sonlu farklar yöntemi
+Fiziksel kozmoloji
+Antropik ilke
+Baade Penceresi
+Boltzmann beyni
+Büyük Birleşik Kuram
+Büyük Çöküş
+Büyük Tartışma
+Cosmos (mitoloji)
+De Sitter değişmez özel görelilik
+Döngüsel model
+Enflasyon (kozmoloji)
+Evren
+Evrenin genişlemesi
+Evrenin nihai kaderi
+Evrenin yaşı
+Evrensel ilke
+Gökkuşağı kütle çekimi teorisi
+Göksel küreler
+Gözlemlenebilir evren
+Hartle–Hawking durumu
+Hubble Derin Alan
+İnce ayarlı evren
+Karanlık enerji
+Kozmik Mikrodalga Arka Plan Işımasının Keşfi
+Kozmogoni
+Kozmolojik sabit
+Metallik
+Mutlak zaman ve mekan
+Reiyonizasyon
+Sıfır Enerjili Evren Teorisi
+Sicim kozmolojisi
+Standart Model ötesi fizik
+Sicim teorisi
+Yıldız nükleosentezi
+Katı hâl fiziği
+Elektronik bant yapısı
+Kristal momentumu
+Kristal yapı
+Yarı-metal
+Yüzey plazmonu
+Carl M. Bender
+Dejenere elektron basıncı
+Higgs mekanizması
+Kuantum bilinmezliği
+Ray Streater
+Sicim kuramı ve kuantum alan kuramı arasındaki ilişki
+Arthur Wightman
+Mekanik
+Atwood düzeneği
+Bombe
+Durma (motor)
+Düşme faktörü
+Etken potansiyel
+Eğimli viraj
+Eylemsizlik momenti
+Fiziksel cisim
+Fotoelastisite
+Gerber Kirişleri
+İş (fizik)
+Kalite faktörü
+Kayış (mekanik)
+Makara
+Mekanik enerji
+Merkezcil kuvvet
+Momentum
+Net kuvvet
+Newton'un hareket yasaları
+Planet dişli seti
+Sanal yerdeğiştirme
+Serbest Cisim Diyagramı
+Şok (mekanik)
+Vida teorisi
+Yatay viraj
+Zincirli tahrik
+Fizik mühendisliği
+Holografi
+Kristalografi
+Lazer
+Metroloji
+Optik mühendisliği
+Uygulamalı fizik
+Optik
+Astronomik obje yanılsamaları
+Atmosfer optiği
+Beer-Lambert yasası
+Çift kırılma
+Defokus aberasyonu
+Değişken indis optiği
+Dağınık yansıma
+Diyoptri
+Diyoptri bilimi
+Doğrusal olmayan optik
+Donukluk
+Elektrooptik etki
+F-stop
+Faraday etkisi
+Fizeksel tabanlı işleme
+Form ağları
+Fotoğrafçılık
+Fourier optiği
+Fraunhofer kırınımı
+Fraunhofer uzaklığı
+Fresnel integrali
+Optik geribesleme
+Gök aydınlığı
+Görünmezlik
+Göz rölyefi
+Iraklık açısı
+Işık alanı
+Lambert (birim)
+Magnifikasyon
+Mum (birim)
+Opticks
+Refraktometri
+Siemens yıldızı
+Soğurma (fizik)
+Süpersüreklilik
+Tyndall etkisi
+Wien yasası
+X ışını optiği
+Yanardönerlik
+Yavaş ışık
+Parçacık fiziği
+Parçacık
+Annihilasyon
+Ayna maddesi
+Barn
+Bethe formülü
+CKM matrisi
+CP ihlali
+Çeşni değiştiren nötr akım
+Çift üretimi
+Dalga-parçacık ikiliği
+Elektron-pozitron annihilasyonu
+Elektronvolt
+Emisyon spektrumu
+Esnek olmayan çarpışma
+Faddeev-Popov hayaleti
+Gaugino
+Güçlü etkileşim
+HERA-B
+Hesaplamalı parçacık fiziği
+Kozmik ışın
+Kuantum renk dinamiği bağlanma enerjisi
+Kuantum tünelleme
+Kuvvet taşıyıcı
+Nesil (parçacık fiziği)
+Parçacık bozunması
+Parçacık radyasyonu
+Parçacıksız fizik
+Particle Data Group
+Poincaré grubu
+Pozitronyum hidrit
+Proton bozunması
+Renormalizasyon (fizik)
+Sanal parçacık
+SU(6) (fizik)
+Temel kuvvet
+Üstlük
+X17 parçacığı
+Zayıf etkileşimli büyük kütleli parçacık
+Zayıf hiperyük
+Belirleme kuramı
+Psikofizik
+Stroop etkisi
+Termodinamik
+Absorpsiyonlu ısı pompası
+Aracı akışkan
+Atık ısı
+Atmosfer (birim)
+Basınç beslemeli motor
+Bina yalıtımı
+Biyolojik termodinamik
+Boltzmann sabiti
+Brown motoru
+Brülör
+Buhar sıkıştırmalı ısı pompası çevrimi
+Buharlaşma entalpisi
+Dünya'nın enerji bütçesi
+Ekserji
+Ekserji verimi
+Enerji bilimi
+Entropi kütle çekimi
+Eşbölüşüm teoremi
+Faz diyagramı
+Foton gazı
+Francis türbini
+Genleşme
+Gibbs serbest enerjisi
+Gibbs-Helmholtz denklemi
+Hidroliz
+HVAC
+Isı
+Isı iletimi
+Isı motoru
+Isı pompası
+Isı radyasyonu
+Isı yalıtımı
+Isıtma
+İç enerji
+Joule genişlemesi
+Joule yasası
+Kalorifer
+Kalorimetre sabiti
+Kazan (termodinamik)
+Kimyasal reaktiflik
+Kinetik teori
+Konvektör
+Kuantum termodinamiği
+Lazer soğutma
+Lennard-Jones potansiyeli
+Maxwell'in Cini
+Mpemba etkisi
+Mutlak sıcaklık
+Parlayıcılık ve yanıcılık
+Sanki dengeli hâl değişimi
+Sıcaklık ölçümü
+Soğuk
+Soğutma
+Stefan-Boltzmann sabiti
+Su borulu kazan
+Su içen kuş
+Termal Kütle
+Termodinamik durum
+Termoelektrik etki
+Termoelektrik malzeme
+Termofotovoltaik
+Termostat
+Tersinir
+Uzay tabanlı güneş enerjisi
+Üçlü nokta
+Yağ soğutucusu
+Termodinamik ve istatistiksel fizik kronolojisi
+Atomlararası potansiyel
+Bloch teorisi
+Bose-Einstein yoğunlaşması
+Camsı geçiş sıcaklığı
+Debye modeli
+Sürüklenme hızı
+Drude modeli
+Düşük enerjili elektron kırınımı
+Efektif alan teorisi
+Elektrik alan meyili
+Elektrik alan perdelemesi
+Elektriksel çift tabaka
+Elektrolüminesans
+EXAFS
+Faz (madde)
+Fermi enerjisi
+Fermi seviyesi
+Ferroelektrik
+Ferromanyetik rezonans
+Helyum
+Hücre tabanlı elmaslar
+İyon siklotron rezonansı
+Katı hâl fiziğinde bilgisayarlı kimya yöntemleri
+Kesirli kuantum Hall etkisi
+Kolloid
+Manyetik soğutma
+Mezofaz
+Mott geçişi
+Mössbauer etkisi
+Optik cımbız
+Prens Rupert Damlası
+Süperakışkan helyum-4
+Süperiletkenlik tarihi
+Temas açısı
+Wannier fonksiyonu
+Wiedemann-Franz kanunu
+Yalıtkanlık sabiti
+Yoğun madde fiziği
+Aleksandr Fridman
+Ayşe Erzan
+Eyfel Kulesi'ndeki 72 ismin listesi
+Feryal Özel
+Fizikçiler listesi
+Hipólito Chaiña Contreras
+Nickey Iyambo
+Rahmi Güven
+João Semedo
+A. Catrina Bryce
+Berta Karlik
+Joyanti Chutia
+Bilge Demirköz
+Evelyn Fox Keller
+Sophie Germain
+Katharine Way
+Laura Bassi
+Hilde Levi
+Mileva Marić
+Emmy Noether
+Leonard Hofstadter
+Winifred Burkle
+Amy Wong
+Adı fiziksel sabitlerde kullanılmış bilim insanları listesi
+Baryonlar listesi
+Çözülememiş fizik problemleri listesi
+Mezonlar listesi
+Parçacıklar listesi
+Teorik fizikçiler listesi
+Baryon asimetrisi
+Garip madde
+Koronal döngü
+KRD vakum
+Kuantum kütleçekim
+Kütleçekimsel dalga astronomisi
+Rota anomalisi
+Solar nötrino problemi
+Vakum faciası
+Yığılma diski
+Yıldırım topu
+Yüksek sıcaklık süperiletkenliği
+Zaman algısı
+Kara delik
+Ateşten set paradoksu
+En parlak küme gökadası
+Holografi ilkesi
+İkili kara delik
+Kara delik termodinamiği
+Kerr-Newman metriği
+Kütle çekimsel tekillik
+Kütleçekimsel çökme
+Mikro kara delik
+Olay ufku
+Page zamanı
+Penrose mekaniği
+Planck parçacığı
+Süper kütleli kara delik
+Tolman–Oppenheimer–Volkoff Limiti
+Tüy yumağı
+Yıldız kaynaklı kara delik
+Yıldızsal kara delik
+Karanlık madde
+Baryonik karanlık madde
+Büyük kütleli sıkı halo cisimleri
+Cl 0024+17
+Beyaz delik
+Kahverengi cüce
+Karanlık madde hâlesi
+Karanlık yıldız (karanlık madde)
+Kırmızı cüce
+Kurşun kümesi
+Nötralino
+Nötrino
+Vera Rubin
+Sıcak karanlık madde
+Soğuk karanlık madde
+Steril nötrino
+Manyetik tek kutup
+Manyetizma için Gauss yasası
+Süperiletkenlik
+II. tip süperiletkenler
+BCS teorisi
+Cooper çifti
+Fonon
+Kovalent süperiletken
+Manyetik akı kuantumu
+Meissner etkisi
+SQUID
+Deneysel fizik
+Klasik fiziğin felsefi yorumlaması
+Kütleçekimsel dalgaların ilk gözlemi
+SLAC Ulusal Hızlandırıcı Laboratuvarı
+Çift yarık deneyi
+Davisson-Germer deneyi
+Diyet kola ve Mentos patlaması
+Elitzur-Vaidman bomba testi
+Etkileşimsiz ölçüm
+Geiger-Marsden deneyi
+Stern-Gerlach deneyi
+Tek yarık deneyi
+Torricelli kanunu
+Uçurtma deneyi
+Wheeler'in Gecikmiş Seçim Deneyi
+Wu deneyi
+Yağ damlası deneyi
+Bilimsel gösterim
+Doğruluk ve kesinlik
+Dozimetri
+Düzlemsel lazerle uyarılmış floresan
+Hata (bilimde ve matematikte)
+Hata payı
+Hata terimi
+Hidrolik ölçüm
+İkili ön eki
+Kalibrasyon
+Nicelik
+Nivelman
+Ölçü aleti (elektrik)
+Ölçü sistemi
+Ölçülme ölçeği
+Radyometri
+Replikasyon
+Sıcaklık ve basınç için standart koşullar
+Sinyal Gürültü Oranı
+Su sayacı
+Su sayacı ayar ve test istasyonu
+Telemetri
+Varil
+Yüksek erişilebilirlik
+B fabrikası
+Derin inelastik saçılma
+Hadronlaşma
+İki foton fiziği
+Parçacık sağanağı
+ROOT
+Wilhelm Röntgen
+Tel odası
+Tesadüf devresi
+Tesir kesiti
+European Journal of Physics
+Fizik sosyal gelişimi
+Robert Laughlin
+Robert Hofstadter
+Sagan Planet Walk
+Leonard Susskind
+Rusya Genç Fizikçiler Turnuvası
+Solvay Konferansı
+Arşimet noktası
+Bayesci olasılık
+Bohr-Einstein tartışmaları
+Ters kare yasası
+Klasik fizik
+Uzay ve zamanın felsefesi
+Zaman sorunu
+Mach prensibi
+Russell'in çaydanlığı
+Kuantum mekaniği
+Açısal momentum operatörü
+Aharonov-Bohm etkisi
+Bağlı durum
+Bloch spektrumu
+Breit denklemi
+Çokluevren
+Dalga fonksiyonu
+Elektron kabuğu
+Eşevreli haller
+Foton polarizasyonu
+Kuantum mekaniğine giriş
+Hamilton işlemcisi
+Kuantum biyolojisi
+Kuantum dolanıklık
+Kuantum mekaniği tarihi
+Matris mekaniği
+Modern Kuantum Mekaniği
+Olasılık genliği
+Eski kuantum teorisi
+Potansiyel kuyusu
+Retrocausality
+Sanal zaman
+Schrödinger denklemi
+Schrödinger gösterimi
+Sıfır noktası enerjisi
+Spektroskopi tarihi
+Stimule edilmiş Raman adiyabatik geçidi
+Temel parçacık
+Uyarılmış hâl
+Uyumluluk (fizik)
+Atomun vektör modeli
+Yayıcı
+Bell'in Uzay Gemisi Paradoksu
+İkiz paradoksu
+Yazgı paradoksu
+Teorik fizik
+Alan (fizik)
+Analitik mekanik
+Dijital fizik
+Doğrusal olmayan Schrödinger denklemi
+Fermat ilkesi
+Fourier dönüşümü
+G paritesi
+Her şeyin teorisi
+Noether teoremi
+Sekiz katlı yol
+Simetri
+Süpereş
+Şekil dinamiği
+Varyasyon prensibi
+Veneziano genliği
+Zayıf izospin
+Brownian ratchet
+Ergodik kuramı
+Termodinamiğin ikinci yasası
+Gelecek
+Casimir kuvveti
+Coanda etkisi
+Doğrusallık
+Doppler genişlemesi
+Fotoforez
+Kelebek etkisi
+Leidenfrost etkisi
+Rayleigh saçılması
+Su darbesi
+Şarkı söyleyen kum
+Doppler etkisi
+Christian Andreas Doppler
+Lorentz faktörü
+Maviye kayma
+Göreli Doppler etkisi
+Yorgun ışık
+Aziz Elmo'nun ateşi
+Fotoelektrik etkisi
+Fotoiletkenlik
+Kuranportör
+Sürtünme ile elektriklenme
+22° hale
+Entoptik fenomen
+Gökkuşağı
+Görünür derinlik
+Siyografi
+Kütle aktarımı
+Momentum aktarımı
+Taşınım olayı
+Hipernova
+Kenar kararması
+Kırmızı üstdev
+Mavi dev
+Orta kutup
+Süper flare
+Taçküre kütle atımı
+Üstündev
+Çevre (sistemler)
+Siber fiziksel sistem
+Dinamik sistem
+An (zaman)
+Floquet teorisi
+Hamilton mekaniği
+Hibrit sistem
+Lagrange mekaniği
+Poincaré yinelenme teoremi
+Sistem tanılama
+Açısal momentum
+Baryon sayısı
+Enerjinin korunumu
+Kütlenin korunumu yasası
+Simetri (fizik)
+Çok ölçekli modelleme
+Multi-Fizik
+Sonlu elemanlar yöntemi
+Zamana bağlı yoğunluk fonksiyonel teorisi
+Hemodinamik
+Hesaplamalı akışkanlar dinamiği
+OpenFOAM
+SIMPLE algoritması
+Hesaplamalı elektromanyetizma
+Mükemmel eşlenmiş katman
+Moleküler dinamik
+Poisson-Boltzmann denklemi
+QM/MM
+Monte Carlo benzetimi
+Markov zincirli Monte Carlo
+Monte Carlo moleküler modelleme yazılımlarının listesi
+Atomaltı Parçacıklar: Bir Keşif Serüveni
+Bay Tompkins'in Yeni Dünyası
+Büyük Tasarım
+De Magnete
+De motu corporum in gyrum
+Einstein Evreninde Zaman Yolculuğu: Zamanda Yolculuk Olasılığı
+Feynman Fizik Dersleri
+Feynman'ın Kayıp Dersi: Gezegenlerin Güneş Çevresindeki Hareketi
+Fiziğin Evrimi
+Fizik Yasaları Üzerine
+İlk Üç Dakika
+Mars and the Mind of Man
+Modern Çağ Öncesi Fizik
+Philosophiæ Naturalis Principia Mathematica
+Pnömatika
+Schrödinger'in Kedisinin Peşinde
+Sihirli Okul Otobüsü: Mıknatısların Gizemi
+Zamanın Daha Kısa Tarihi (Hawking ile Mlodinow kitabı)
+Fizik ve Yıldız Savaşları
+Holtzman etkisi
+Işık ötesi hız
+Popüler kültürde Schrödinger'in kedisi
+Hiperuzay
+Narnia
+Her Şeyin Teorisi (film)
+Yıldızlararası
+Andromeda (dizi)
+Atlayıcı
+FTL: Faster Than Light
+Millennium Falcon
+No Man's Sky
+Yıldız Geçidi (cihaz)
+Accel World
+Momo (roman)
+Uluslararası Temel ve Uygulamalı Fizik Birliği
+Fizik Enstitüsü
+Avrupa Nükleer Araştırma Merkezi
+Büyük Elektron-Pozitron Çarpıştırıcısı
+Argonne Ulusal Laboratuvarı
+Göreli Ağır İyon Çarpıştırıcısı
+HERA (parçacık hızlandırıcı)
+Kalutron
+Ortak Nükleer Araştırma Enstitüsü
+Albert Einstein Madalyası
+Matteucci Madalyası
+Rumford Ödülü
+Wolf Fizik Ödülü
+Zener Ödülü
+John Bardeen
+Nicolaas Bloembergen
+Bertram Brockhouse
+Charles Kittel
+David Lee (fizikçi)
+George Feher
+Philip Anderson
+Horst Störmer
+Fiziksel değişim
+Buhar basıncı
+Buharlaşma entropisi
+Elementlerin ısı sığası (veri maddesi)
+Isı sığası oranı
+Termal enerji
+Uçuculuk
+Elektriksel çekim
+Enerji katalizörü
+Ölüm ışını
+Thomas Townsend Brown
+Brian Josephson
+Stanley Pons
+Julian Schwinger
+Çizgi film fiziği
+EmDrive
+Manyetik su arıtma
+Fizik tarihi
+Orta Çağ İslam dünyasında fizik
+Akışkanlar mekaniği tarihi
+Alman fiziği
+Annus Mirabilis makaleleri
+Arago noktası
+Aristoteles fiziği
+Balmer serileri
+Çekim yasaları
+Delik iddiası
+Doğa felsefesi
+Elektrofor
+Elektromanyetik kütle
+Esîr çekim teorisi
+Etalon
+Fiziğin altın çağı
+Genel görelilik tarihi
+Güneş Sistemi'nin oluşumu ve evrimi hipotezleri tarihi
+Hidrojen çizgisi
+Işığın parçacık teorisi
+Klasik birleşik alan teorileri
+Klasik mekanik tarihi
+Kuantum alan teorisi tarihi
+Kütle çekimi teorisi tarihi
+Kütleçekimin mekanik açıklamaları
+Moseley kanunları
+Night Thoughts of a Classical Physicist
+Nordström çekim teorisi
+Özel görelilik tarihi
+Periyodik tablo tarihi
+Pil tarihi
+Sicim kuramının tarihi
+Stoacı fizik
+Thomson atom modeli
+Albertus Magnus
+Apeiron
+Beş element
+Beşinci unsur
+Doğa (felsefe)
+Dünya (Descartes)
+Hayvanların Tarihi Üzerine
+Hilozoizm
+İdealar teorisi
+Philosophical Magazine
+Ruh Üzerine
+Dört unsur
+Humoral Patoloji Teorisi
+Elektrik mühendisliği tarihi
+William Gilbert
+Lisanssız elektrik üretimi
+Türkiye'de elektriğin tarihi
+Enerji tarihi
+Eter teorileri
+Vu Şing
+Klasik mekanik
+Basit harmonik hareket
+Dairesel hareket
+Doğrusal hareket
+Düzgün dairesel hareket
+Esnek çarpışma
+Esneklik enerjisi
+Eylemsiz referans çerçevesi
+Galile değişmezliği
+Gerilim (fizik)
+Hareket denklemleri
+İmpuls (fizik)
+Kütle merkezi
+Mekanik denge durumu
+Nokta parçacık
+Özgül itici kuvvet
+Potansiyel enerji
+Sarsım (fizik)
+Sürekli ortamlar mekaniği
+Şekil değiştirme hızı
+Yalancı kuvvet
+Optik tarihi
+Atom teorisi
+Compton dalga boyu
+Madde dalgası
+Planck yasası
+Alan etkisi (fizik)
+Atom
+Carnot çevrimi
+Elektrik direnci ve iletkenliği
+Elektriksel iletken
+Elektromanyetik indüksiyon
+En az eylem ilkesi
+Faraday'in indüksiyon kanunu
+Gariplik
+Green fonksiyonları
+Homojenlik
+Işık hızı
+Kopenhag yorumu
+Kütle-yük oranı
+Manyetik hidrodinamik
+Nükleer reaksiyon
+Odak (optik)
+Palatini özdeşliği
+Pauli dışarlama ilkesi
+Periyot (matematik)
+Plazma
+Sıcaklık katsayısı
+Skaler (fizik)
+Süperakışkanlık
+Tamamlayıcılık (fizik)
+Tensör
+Vektör
+Vektör uzayı
+Yansıma
+Basınç
+Atmosfer basıncı
+Barometre
+Barotravma
+Barye
+Hidrostatik
+Kısmi basınç
+Manometre
+Basınç sensörü
+Vurgun
+Apsis ve ordinat
+Beş boyutlu uzay
+İki boyutlu uzay
+İki buçuk boyutlu uzay
+Serbestlik derecesi (fizik ve kimya)
+Boyuna dalga
+Dalga denklemi
+Dalga (fizik)
+Enine dalga
+Faz (dalga)
+Faz açısı
+Geçici dönen radyo dalgaları
+Klein-Gordon denklemi
+Maksimum yarısı tam genişlik
+Radyo dalgaları
+Radyo frekans
+Rüzgâr dalgaları
+Ses frekansı
+Spektral yoğunluk
+Süperpozisyon prensibi (fizik)
+Yeşil dalga sistemi
+Bogoliubov-Born-Green-Kirkwood-Yvon hiyerarşisi
+Çift taraflı Onsager bağıntıları
+Otopoiesis
+Dinamik
+Açısal ivme
+Bifurkasyon
+Bileşke kuvvet
+Devinme
+Gal (birim)
+Hız
+Kinetik
+Süperpozisyon prensibi (matematik)
+Elektron
+Elektron aktarımı
+Bant aralığı
+Bohr magnetonu
+Brackett serisi
+Elektron çifti
+Değerlik elektron
+Elektron multipleri
+Holon (fizik)
+Elektron ilgisi
+Klasik elektron yarıçapı
+Elektronun manyetik momenti
+Orbiton
+Paschen serisi
+Perdeleme etkisi
+Pfund serisi
+Proton-elektron kütle oranı
+Elektron saçılması
+Sokolov-Ternov etkisi
+Spinon
+Yöresizleşmiş elektron
+Elektrostatik
+Andre Marie Ampere
+Elektrostatik boşalma
+Coulomb kanunu
+Elektrik akısı
+Elektrik potansiyeli
+Elektrostatik endüksiyon
+Faraday kafesi
+Gauss yüzeyi
+Kondansatör
+Paschen kuralı
+Plazma aktüatörü
+Poisson denklemi
+Sönümlü poisson denklemi
+Statik elektrik
+Wimshurst makinesi
+Yük yoğunluğu
+Enerji
+Avrupa Birliği'nin Enerji Politikası
+Birincil enerji
+Elektrik enerjisi
+Fotoelektrokimyasal hücre
+Isıl verim
+İTÜ Enerji Enstitüsü
+Rezonans (elektrik)
+Rüzgâr türbini
+Shockley – Queisser sınırı
+Soğutma kulesi
+Yenilenemeyen enerji kaynağı
+Fermi-Dirac istatistikleri
+Fermi gazı
+Fermiyon
+Gravitino
+Hiperon
+Majorana fermiyonu
+Fiziksel nicelik
+Açısal frekans
+Açısal hız
+Admittans
+Aydınlanma şiddeti
+Çözünürlük (kimya)
+Dayanıklılık
+Debi
+Elektriksel direnç ve kondüktans
+Fiziksel özellik
+Grup hızı
+Isı sığası
+Isıl denge
+Isıl Kütle
+Işık verimi
+Işık akısı
+Işık enerjisi
+Işık şiddeti
+İletkenlik (elektrik)
+Karakteristik empedans
+Kuvvet
+Kütle akış hızı
+Manyetik akı
+Manyetik alınganlık
+Manyetik moment
+Moment (fizik)
+Mutlak nem
+Öz empedans
+Özağırlık
+Özdirenç
+Radyans
+Radyasyon dozu
+Salınım
+Sensör
+Spin (fizik)
+Sürat
+Tork
+Tortulanma
+Uzunluk
+Yakıt verimliliği
+Yayınım
+Zaman
+Durgun kütle
+Kütle çekimsel potansiyel
+Planck formülü
+Ayrık Fourier dönüşümü
+Dirichlet problemi
+Fourier
+Fraksiyonel fourier dönüşümü
+Hızlı Fourier dönüşümü
+Kısa zamanlı Fourier dönüşümü
+Konvolüsyon
+Laplace dönüşümü
+Otokorelasyon
+Periyodik fonksiyon
+Son değer teoremi
+Ters örgü
+Koni
+Piramit (geometri)
+Sferoit
+Silindir
+Tüketme yöntemi
+Hâl değişimi
+Erime
+Kaldıraç kuralı
+Kristalleştirme
+Polimerlerin kristalizasyonu
+Süblimleşme
+Yoğunlaşma
+Cam yünü
+Enerji birimleri
+Verimlilik
+İstatistiksel mekanik
+Brown hareketi
+Çiftlenim sabiti
+Einstein ilişkisi (kinetik teori)
+Gibbs paradoksu
+Nüfus terslenmesi
+Polimer fiziği
+İvmeölçer
+Kaos teorisi
+Out of Control (Kevin Kelly kitabı)
+Kuantum alan teorisi
+Anormal manyetik dipol moment
+Asimptotik özgürlük
+Dirac denizi
+Feynman dama tahtası
+Feynman diyagramı
+GIM mekanizması
+Higgs bozonu
+Kuantumlanma
+Lamb kayması
+Landau kutbu
+Öz enerji
+Peccei-Quinn teorisi
+Schwinger parametrizasyonu
+Spin-istatistik teoremi
+Vakum durumu
+Vektör bozonu
+Beşinci kuvvet
+Kaydırıcı kuvvet
+Normal kuvvet
+Öz kuvveti (fizik)
+Sürükleyici kuvvet
+Kütle
+Kütle ve ağırlık
+Ağırlık merkezi
+Ayarlı kütle sönümleyici
+Azaltılmış kütle
+Beyin kitle indeksi
+Beyin-vücut kütlesi oranı
+Boş ağırlık
+Büyüklük kıyaslaması (kütle)
+Kütle fazlalığı
+Güneş sistemindeki nesnelerin kütleye göre listesi
+Kütle kesri
+Kütle (kütle spektrometrisi)
+Molekül kütlesi
+Negatif kütle
+Özel görelilikte kütle
+Slug
+Süperkritik kütle
+Vücut kitle indeksi
+Molekül
+Reissner-Nordström metriği
+Minkowski uzayı
+Hayat Çizgisi
+Pertürbasyon teorisi
+Proton
+Antiproton
+Atom çekirdeği
+Proton değişim membranlı yakıt hücresi
+Proton transfer tepkimesi kütle spektrometrisi
+Proton yakalama
+Proton-proton zincirleme reaksiyonu
+Radyasyon
+Gıda ışınlama
+Gray (birim)
+Hidrojen spektrumu serileri
+İyonlaştırıcı olmayan radyasyon
+Radyasyondan korunma
+Pyotr Lebedev
+Rad (birim)
+Radyofobi
+Radyum Kızları
+Stefan-Boltzmann yasası
+AdS/CFT iletişimi
+Ayna simetrisi
+Calabi-Yau manifoldu
+Dilaton
+Graviton
+M teorisi
+Süpersicim teorisi
+Statik
+Denge ağırlığı
+Sürtünme kuvveti
+Glasharmonika
+Artemis 1
+Gana Uzay Bilim ve Teknoloji Merkezi
+Intersputnik
+SpX-DM1
+Uzaktan Algılama ve Uzay Bilimleri Ulusal Yönetimi
+Uzay
+Uzay (geometri)
+1900'ler
+1930'lar
+1950'ler
+1960'lar
+1970'ler
+1980'ler
+2000'ler
+Zaman Bankacılığı
+Büyüklük sıralaması (zaman)
+Geri sayım
+Hora tertia
+Lorentz dönüşümü
+Nanosaniye
+Saat (zaman)
+Zaman serisi
+Sinodik ay
+Standart zaman
+Takvim
+Unix zaman
+Zaman Damgası
+Zaman sabiti
+Zaman standardı
+Zamanın ölçülmesi
+Biyofizik
+Dalga kılavuzu
+Manyetik rezonans terapisi
+Medikal fizik
+Raymond Gosling
+Akustik
+Akustik dalga denklemi
+Akustik rezonans
+Atmosferik dağılım
+Binarual ritmler
+Fonotograf
+Hipersonik ses
+Hoparlör
+Kürelerin müziği
+Lamb dalgaları
+Mikrofon
+Ses yalıtımı
+Sismik iletişim
+Sonik patlama
+Sonokimya
+Su altı akustiği
+Subwoofer
+Yankı süresi
+Zayıflama (fizik)
+Anjiyogenez
+Anjiyoplasti
+Anjiyotensin
+Arteriyol
+Arteriyoskleroz
+Aterom
+Ateroskleroz
+Dev hücreli arterit
+Flebit
+HEV
+İskemi
+Kan damarı
+Kılcal damar
+Küçük kan dolaşımı
+Lenfatik sistem
+Phlegmasia coerulea dolens
+Renin
+Sistemik dolaşım
+Varikosel
+Vasküler endotelyal büyüme faktörü
+Vazospazm
+Astrofizik
+Alçak Dünya yörüngesi
+Astronomy & Geophysics
+Aydınlatma gücü
+De Laval nozülü
+Eddington aydınlatma gücü
+Ejekta
+Enkaz diski
+Etkin sıcaklık
+Fotobuharlaşma
+Fotoliz
+Güneş fiziği
+Helyum parlaması
+Karbon yakma işlemi
+Kütleçekimsel merceklenme
+Nükleosentez
+Olbers Paradoksu
+Radyatif transfer
+Relativistik ışıma
+Sérsic profili
+Silisyumun yanma süreci
+Siyah cisim radyasyonu
+Standart Güneş modeli
+Işıktan hızlı hareket
+Süpernova nükleosentezi
+Yörünge periyodu
+DNA'nın yapısı
+Hidrofobi
+Magnetozom
+Moleküler motor
+Oja kuralı
+Osmoz
+Özgül emilim oranı
+Proteinlerin nükleer manyetik rezonans spektroskopisi
+Türümsü modeli
+Hızlandırıcı fiziği
+Çarpıştırıcı
+İyon kaynağı
+Kuadrupol mıknatıs
+Kurçatov Enstitüsü
+Radyasyon sönümlemesi
+Salındırıcı
+Serbest elektron lazeri
+Jeofizik
+Derin Deniz Delme Projesi
+Dünya'nın manyetik alanı
+GPR
+Güneş rüzgârı
+İndüktif kuplaj
+Jeomanyetik ters çevirme
+Litosfer
+Manyetik anomali algılayıcı
+Matematiksel jeofizik
+Moment magnitüd ölçeği
+Polflucht
+Referans elipsoid
+Richter ölçeği
+Jeofizik tarihi
+Uluslararası Jeofizik Yılı
+Yer ısısı
+Yerpotansiyeli
+Atomizasyon
+Buharlaşma
+Çapraz moleküler ışın
+Çözelti
+Dalton yasası
+Doymuşluk
+Emilim
+Femtokimya
+Goldman denklemi
+Güneş Hücresi
+Henry yasası
+İşbâ
+İyonlaşma derecesi
+Jel
+Kılcallık
+Marcus teorisi
+Matris izolasyonu
+Mikrokanallı plaka dedektörü
+Rastgele sarım
+Spontanelik (kimya)
+Ahmed Zewail
+Jacobus Henricus van 't Hoff
+Kriyojenik
+Kriyojenik yakıt
+Sıvı hava
+Sıvı hidrojen
+Sıvı oksijen
+Termos
+Malzeme bilimi
+Agrega
+Alçıpan
+Boşluk oranı
+Boyun verme (Mühendislik)
+Elastomer
+Fotorezist
+Gevreklik
+Gorilla Glass
+Hiperspektral görüntüleme
+Hugoniot elastik sınır
+Hume-Rothery kuralları
+Isıl işlem
+Işın hattı
+İyon tabancası
+İyon yerleştirmesi
+Katı hâl kimyası
+Kil
+Langmuir adsorpsiyon modeli
+Manyetik disk
+Marn
+Matris (malzeme bilimi)
+Metalurji ve malzeme mühendisliği
+Mihenk taşı
+Mikro elektro-mekanik sistemler
+Mohs sertlik ölçeği
+Moleküller arası kuvvet
+Nanokompozit
+Normalizasyon (Metalurji)
+OPP Plastik Hammadde
+Ötektik nokta
+Özgül dayanım
+Seramik mühendisliği
+Şekil hafızalı alaşım
+Yığın hataları
+Yorulma
+Yüksek basınç (fizik)
+Okyanus bilimi
+Batimetre
+Batiyal zon
+Biyosfer
+Bloop
+Challenger seferi
+Deniz koruma alanı
+Deniz seviyesinin yükselmesi
+Deniz yatağı
+Deniz yüzeyi sıcaklığı
+DORIS (jeodezi)
+Dünya Okyanus Günü
+Fırtına dalgası
+GEBCO
+Haloklin
+İzohips harita
+Kızıl gelgit
+Okyanus döngüsü
+Okyanusların asitlenmesi
+Okyanusların sınırları
+Pelajik bölge
+Roma Kulübü
+Sualtı
+Termohalin döngü
+Termoklin
+Ulusal Oşinografi Merkezi
+Yüzen buz
+Abisal ova
+Bariyer ada
+Deniz seviyesi
+Fram Boğazı
+Gelgit bölgesi
+Guyot
+Karadeniz deniz altı nehri
+Kemoklin
+Kıta sahanlığı
+Kuzey Atlantik salınımı
+Okyanus alanı
+Okyanus havzası
+Oyuncak Ördek Olayı
+SOSUS
+Sörf bölgesi
+Elektromanyetik aşırı duyarlılık
+Hedeflenmiş alfa parçacığı tedavisi
+Radyoloji
+Tıbbi görüntüleme
+Darcy (birim)
+Darcy Yasası
+İnfiltrasyon (ziraat)
+Kaya geçirgenliği
+Porozite
+Su döngüsü
+Tansiyometre
+Vadöz bölgesi
+CP2K
+JAS
+Kuantum kimyası ve katı hal fiziği yazılımları listesi
+PAW
+SIESTA (bilgisayar programı)
+Görelilik teorisi
+Kuantum zamanı
+Planck zamanı
+Zaman etki alanı
+Zaman genişlemesi
+Zaman koordinatı
+Trifaze elektrik
+Atış hareketi
+Hareket (fizik)
+Hareket yasası
+Kinetik sanat

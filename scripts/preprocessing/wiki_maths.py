@@ -16,8 +16,8 @@ wiki_wiki = wikipediaapi.Wikipedia(
 )
 
 file_path = os.path.dirname(__file__)
-full_path = os.path.join(PROJECT_PATH, "files", "input_wiki_txt", "wiki_bio_texts2.txt")
-full_path_titles = os.path.join(PROJECT_PATH, "files", "input_wiki_txt", "wiki_bio_texts2_titles.txt")
+full_path = os.path.join(base_path.PROJECT_PATH, "files", "model_input_texts", "maths_texts", "wiki_maths_texts.txt")
+full_path_titles = os.path.join(base_path.PROJECT_PATH, "files", "model_input_texts", "maths_texts","wiki_maths_texts_titles.txt")
 
 with open(full_path, "w", encoding="utf-8") as f:
     print("file created")
@@ -50,7 +50,7 @@ def findSubCats(categorymembers, full_path, level=0, max_level=2):
                 name_dict[c.title] = 1
                 writeToText(c.title, full_path)
 
-cats = "Biyoloji Terminolojisi,Canlılar,Moleküler biyoloji teknikleri,Biyoloji tarihi,Bilimsel sınıflandırma,Biyoloji sistemleri,Biyoloji kavramları,Biyolojik etkileşimler,Biyolojinin genel alanları"
+cats = "Matematik"
 cats_list = cats.split(",")
 for category in cats_list:
     cat = wiki_wiki.page("Category:{}".format(category))

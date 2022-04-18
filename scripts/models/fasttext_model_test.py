@@ -23,7 +23,7 @@ start_time = time.time()
 from gensim.models import FastText
 import gensim
 
-model_ted = gensim.models.FastText.load("fasttext_bio_all.model")
+model_ted = gensim.models.FastText.load("fasttext_physics_all.model")
 
 # print(model_ted.wv.most_similar("bakteri",topn=50))
 # print("\n-------------------------------------------------------------\n")
