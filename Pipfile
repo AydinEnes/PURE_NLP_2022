@@ -11,6 +11,7 @@ gensim = "*"
 black = "*"
 nltk = "*"
 youtube-transcript-api = "*"
+simplejson = "*"
 
 [dev-packages]
 
