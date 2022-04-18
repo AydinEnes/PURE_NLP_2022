@@ -1,0 +1,116 @@
+MATEMATİK  KÜMELERDE İŞLEMLER- Il
+
+ 
+
+FARK İŞLEMİ VE BİR KÜMENİN TÜMLEYENİ
+
+KÜMELERDE FARK İŞLEMİ
+
+A ve B birer küme olmak üzere A kümesinde
+olup B kümesinde olmayan tüm elemanların oluşturduğu kümeyi A kümesinin B kümesinden farkı denir.
+A-B veya AN Bile gösterilir.
+
+
+
+KÜMELERDE FARK İŞLEMİNİN ÖZELLİKLERİ
+1) Fark işleminin değişme özelliği yoktur.
+
+2) Bir kümenin kendisinden farkı boş kümedir.
+
+
+3) Bir A kümesinin evrensel kümeden farkı boş kümedir. 
+4) Bir A kümesinin boş farkı kendisidir.
+
+AYRIK KÜMELER
+Ave B birer küme olmak üzere 
+
+Aile B ayrık kümelerdir.
+Ave B ayrık kümeler olmak üzere olur.
+BİR KÜMENİN TÜMLEYENİ
+
+E evrensel küme, Ac E olmak üzere evrensel kümede olup
+A kümesinde olmayan elemanların kümesine A kümesinin
+
+tümleyeni denir. A ile gösterilir.
+
+
+ 
+
+A kümesi ile kümesinin eleman
+
+eşit olur. 
+
+A kümesi ile (A kümesinin eleman sayılarının
+toplamı evrensel kümenin eleman sayısına
+
+eşit olur.
+
+ 
+
+ 
+
+ 
+
+TÜMLEYEN İŞLEMİNİN ÖZELLİKLERİ
+
+
+
+
+DE MORGAN KURALLARI
+
+
+KÜMELER İLE SEMBOLİK MANTIK
+KURALLARI ARASINDAKİ İLİŞKİ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sembolik mantık ile  Değil
+gösterimi
+
+ 
+
+ 
+
+ 
+
+Küme işlemleri ile  Tümleyeni
+gösterimi
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sembolik Mantık İle Kümeler İle
+

@@ -1,0 +1,55 @@
+MATEMATİK-FONKSİYON DÖNÜŞÜMLERİ-
+
+ 
+
+FONKSİYONLARDA
+UYGULAMALAR
+
+FONKSİYON DÖNÜŞÜMLERİ
+
+TEK VE ÇİFT FONKSİYONLARIN
+GRAFİKLERİNİN SİMETRİ ÖZELLİKLERİ
+
+> Çift fonksiyonların grafikleri y
+eksenine göre simetriktir.
+
+> Tek fonksiyonların grafikleri
+orijine göre simetriktir.
+
+f(x)+b fonksiyonunun grafiğin-
+de;
+
+> b>0 ise f(X) fonksiyonunun
+
+grafiği b birim yukarı,
+
+> b<0 ise f(X) fonksiyonunun
+
+grafiği lbl birim aşağı ötelenerek
+
+y=f(X)+b fonksiyonunun grafiği
+elde edilir.
+
+f (X -a) fonksiyonunda;
+
+> a>0 ise f(X) fonksiyonun
+grafiği a birim sağa,
+
+> a<0 ise f(X) fonksiyonu
+lal birim sola ötelenir.
+k- f(X) parabolünde;
+
+> k değeri mutlak değer olarak
+
+arttıkça f(X) parabolünün kolları
+arasındaki açıklık daralır.
+
+> k değeri mutlak değer olarak
+
+küçüldükçe f(X) parabolünün kolları arasındaki açıklık artar.
+f(X) bir parabol olmak üzere
+> f(k-X) in grafiğinin kolları
+
+arasındaki açıklık
+f(x) in kolları arasındaki açıklığın
+

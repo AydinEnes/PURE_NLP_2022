@@ -1,0 +1,14 @@
+
+MATEMATIK-TRIGONOMETRİK FONKSIYONLAR-
+Verilen açıların trigonometrik değerleri arasında
+büyüklük-küçüklük ilişkisinin belirlenebilmesi için
+trigonometrik değerler dikey eksenlere (sinüs, tanjant)
+veya yatay eksenlere (kosinüs, kotanjant) taşınır.
+Birinci bölgedeki açıların büyüklükleri arttıkça
+sinüs değerleri artar, kosinüs değerleri azalır.
+
+ 
+
+ 
+
+

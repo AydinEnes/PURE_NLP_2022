@@ -1,0 +1,11 @@
+MATEMATİK-TERS TRİGONOMETRİK FONKSİYONLAR-
+
+ 
+
+h(X)=tanX FONKSİYONUNUN TERSİ
+fonksiyonu bire bir ve örtendir.
+h(x)=tanx olarak tanımlandığında
+h`1(X)=arctanX fonksiyonuna
+
+
+tanjant fonksiyonunun ters fonksiyonu denir.

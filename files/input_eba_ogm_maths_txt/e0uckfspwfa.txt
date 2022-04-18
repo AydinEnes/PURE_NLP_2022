@@ -1,0 +1,80 @@
+MATEMATİK - EŞİT FONKSİYONLAR, FONKSİYON ÇEŞİTLERİ
+
+ 
+
+EŞİT FONKSİYONLAR
+
+ boş kümeden farklı iki küme olmak üzere
+ biçiminde tanımlanan ve
+fonksiyonları için şeklinde
+
+yazılıyorsa bu "İki fonksiyon eşittir." denir.
+
+FONKSİYON ÇEŞİTLERİ
+1) İÇİNE FONKSİYON
+
+A ve B boş kümeden farklı birer küme olmak üzere
+ biçiminde tanımlanan f fonksiyonu için
+ fonksiyonuna içine fonksiyon denir.
+
+
+ olup  içine fonksiyondur.
+
+2) ÖRTEN FONKSİYON
+
+A ve B boş kümeden farklı birer küme olmak üzere
+biçiminde tanımlanan fonksiyonu için
+oluyorsa f fonksiyonuna örten fonksiyon denir.
+
+örtendir.
+
+ 
+
+3) BİRE BİR FONKSİYON
+
+Bir fonksiyonunun tanım kümesindeki her bir
+elemanın görüntüsü tanım kümesindeki diğer
+elemanların görüntülerinden farklı ise bu
+fonksiyona bire bir fonksiyon denir.
+
+
+
+oluyorsa f fonksiyonu bire bir fonksiyondur.
+
+NOT:
+
+fonksiyon sayısı ile bulunur.
+
+ile bulunur.
+
+ 
+
+
+
+4) BİRİM ( ÖZDEŞLİK ) FONKSİYON
+
+
+
+A boş olmayan bir küme ve f, A dan ya bir
+fonksiyon olmak üzere 
+fonksiyonuna birim fonksiyon denir. | ile gösterilir.
+
+5) SABİT FONKSİYON A ve B boş kümeden
+farklı iki küme ve 
+olmak üzere
+
+mi fonksiyonu verilsin.
+
+FA oluyorsa 
+
+fonksiyonuna sabit
+fonksiyon denir.
+
+
+
+NOT: Tanımlı olduğu durumlarda
+
+ 
+
+sabit fonksiyon ise a b olur.
+

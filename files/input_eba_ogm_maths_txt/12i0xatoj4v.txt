@@ -1,0 +1,132 @@
+MATEMATİK ORAN VE ORANTI
+
+ 
+
+ORAN
+
+Aynı birimdeki iki çokluğun birbirine
+bölünmesine oran denir.
+
+En az biri sıfırdan farklı olan a ve b reel
+
+sayıları verildiğinde  ye oranı  veya
+ şeklinde gösterilir.
+
+ Oranın birimi yoktur.
+
+ Kesirlerde olduğu gibi verilen oranın payı
+ve paydası sıfırdan farklı bir sayı ile genişletilip
+sadeleştirilebilir.
+
+ALTIN ORAN
+
+Uzunluğu  kadar olan bir (ABİ alalım ve
+bunu bir  noktası yardımıyla uzunlukları a
+ve b kadar olan  gibi iki doğru
+parçasına ayıralım.
+
+
+
+
+eşitliğini sağlayan 2 oranının
+
+
+pozitif değerine altın oran denir. Bu oran
+
+ 
+
+irrasyonel sayısına eşit olup yaklaşık
+
+değeri 1,618 dir.
+Altın orana Fibonacci'nin ilk harfi olan 
+sayısı denir.
+
+ 
+
+> Omuzdan parmak ucuna olan mesafe ile
+dirsekten parmak ucuna olan mesafe arasındaki
+oran 1,618 dir.
+
+> Çam kozalaklarında, sağ ve Sol el
+yönlerinde gelişen spiraller üzerindeki
+taneciklerin birbirine oranı 1,618 dir.
+
+> Ağız boyunun burun genişliğine oranı
+1,618 dir.
+
+> Orta parmağın serçe parmağa oranı 1,618
+dir.
+
+> Arı kovanındaki dişi arı ile erkek arı sayıları
+arasındaki oran 1,618 dir.
+
+> Ayçiçeğinde sol el yönünde yer alan 55
+çekirdek ile sağ el yönünde yer alan 89 çekirdek
+vardır.
+
+> Bunların birbirine oranı yaklaşık 1,618 dir.
+
+ORANTI
+
+İki veya daha fazla oranın eşitliğine orantı
+denir.
+
+İki oranın eşitliği “ ” şeklinde gösterilir.
+
+
+ oranı, 
+diye okunur.
+
+
+
+e oranına eşittir.”
+
+Sabit bir k değeri için in 7 k eşitliğindeki k
+
+değerine “orantı sabiti” denir.
+
+Örnek: eşitliğinde orantı
+
+sabiti 2 olur.
+
+
+ orantısında b ile c ye İÇLER, aile d ye
+
+DIŞLAR denir.
+
+ORANTININ ÖZELLİKLERİ
+
+ orantısında;
+
+
+1) İçler çarpımı dışlar çarpımına eşittir.
+
+2) İçler yer değiştirirse eşitlik bozulmaz. Dışlar
+yer değiştirirse eşitlik bozulmaz.
+
+için veya olabilir
+
+3) Orantıda paylar toplanıp paya ve paydalar
+toplanıp paydaya yazılırsa orantı sabiti
+değişmez.
+
+
+
+
+4) Orantıda iki oranın çarpımı orantı sabitinin
+karesine eşit olur.
+ke 2“ ise -
+b d bd
+5) “ave b sayıları sırasıyla x ve y ile
+orantılıdır.” ifadesine karşılık gelen orantı;
+
+ 
+
+ veya  şeklindedir.
+
+Örnek: 
+
+
+ ifadelerinden 
+eşitlikleri yazılır.
+

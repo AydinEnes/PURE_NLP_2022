@@ -1,0 +1,177 @@
+MATEMATİK ÜÇGENİN KENARORTAYI VE YÜKSEKLİĞİ
+
+ 
+
+ÜÇGENİN YARDIMCI ELEMANLARI ÜÇGENİN KENARORTAYI VE YÜKSEKLİĞİ
+
+ 
+
+KENARORTAY
+Üçgenin bir köşesinden karşı kenarın ortasına çizilen ve bu
+
+kenarı iki eşit uzunluğa bölen doğru parçasına kenarortay denir.
+
+ABC üçgeninde |BDI—1IDCI
+olduğundan (ADI, (BCJ kenarının
+kenarortayıdır.
+
+
+
+Bu kenarortayın uzunluğu
+ADI — V. şeklinde gösterilir.
+Benzer şekilde (AC) kenarının
+kenarortayı ,
+
+(AB) kenarının kenarortayı
+V, ile gösterilir.
+
+
+AĞIRLIK MERKEZİ
+
+Kenarortaylar üçgenin içinde bir noktada kesişir. Bu noktaya
+üçgenin ağırlık merkezi denir.
+
+Ağırlık merkezi kenarortayı, köşeye 2 birim, kenara 1 birim
+oranında böler.
+
+Şekildeki ABC üçgeninde, |AE| — |ECI, |AFI — IFBI, IBDI — IDCİ
+olduğundan JAD) , (BEJ ve (CFI kenarortaydır.
+
+lADI — V.
+IBE| - V, ve
+ICFI  Vc şeklinde gösterilir.
+
+ 
+
+ 
+
+NOT: Üçgenin ağırlık merkezi ile orta tabanının kenarortay
+üzerinde ayırdığı uzunluklar köşeden kenara doğru sırasıyla 3, 1
+ve 2 sayılarıyla orantılıdır.
+
+Şekilde |API— 3k,
+IPGI — k ve
+IGFI — 2k (keR*) olur.
+
+ 
+
+NOT: Bir dik üçgende hipotenüse ait kenarortayın uzunluğu,
+hipotenüs uzunluğunun yarısına eşittir.
+A
+
+Şekildeki ABC dik
+üçgeninde
+(ADI, hipotenüse ait
+kenarortay ise
+olur.
+
+ÜÇGENİN KENAR ORTA DİKMELERİ
+
+Üçgenin herhangi bir kenarının orta noktasından geçen ve
+bu kenara dik olan doğru parçasına kenar orta dikme denir.
+Üçgenin kenar orta dikmeleri bir noktada kesişir.
+
+ 
+
+Üçgenin kenar orta dikmeleri köşelerden geçmeyebilir.
+
+ÜÇGENDE YÜKSEKLİK
+
+Bir üçgende herhangi bir köşeden karşı kenara veya karşı
+kenarın uzantısına dik olarak indirilen doğru parçasına o
+kenara ait yükseklik denir.
+
+Şekildeki ABC üçgeninde
+
+N > (AHI, (BCİ nın yüksekliğidir.
+> H noktasına dikme ayağı
+denir.
+>lAHI—h, ile gösterilir.
+Üçgenin yükseklikleri bir
+noktada kesişir.
+
+Bu noktaya diklik merkezi denir.
+
+Üçgenin çeşidine göre diklik merkezi için üç farklı durum
+
+in vardır:
+1) ABC üçgeni dar açılı
+üçgen ise diklik merkezi
+h, üçgenin iç bölgesindedir.
+hp h,
+
+Diklik merkezi D noktasıdır.
+
+2) ABC üçgeni dik üçgen
+ise diklik merkezi üçgenin iç
+bölgesindedir.
+
+ 
+
+A noktası aynı zamanda
+diklik merkezidir.
+
+3) ABC üçgeni geniş açılı
+üçgen ise diklik merkezi
+üçgenin dış bölgesindedir.
+
+ 
+
+Diklik merkezi D noktasıdır.
+
+  
+   
+ 
+  
+
+NOT: İkizkenar üçgende tabana
+ait yükseklik, hem açıortay hem de
+kenarortaydır.
+
+(AHILIBCI ise  olur.
+
+NOT: Şekildeki ABC ikizkenar
+üçgeninde |BEJn|CDİ-(F),
+IABI—IACİI ve F noktası diklik
+merkezi ise
+eşitlikleri vardır.
+
+NOT: İkizkenar üçgenin tabanında alınan bir noktadan
+diğer kenarlara çizilen dikmelerin uzunlukları toplamı, üçgenin
+eş olan kenarlarına ait yüksekliklerinin uzunluklarına eşittir.
+
+lAB I<lACİI olan şekildeki
+ikizkenar üçgen için
+
+ olur.
+
+ 
+
+NOT: Eşkenar üçgen içinde alınan bir noktadan kenarlara
+indirilen dikmelerin uzunlukları toplamı, eşkenar üçgenin
+yüksekliğine eşittir.
+
+Şekilde ABC eşkenar
+üçgeninde
+
+ 
+
+ olur.
+
+NOT: Herhangi bir üçgende kenar uzunlukları arasındaki
+sıralama ile bu kenarlara ait yükseklikler arasındaki sıralama
+ters orantılıdır. Büyük kenara ait yükseklik, küçük kenara ait
+yükseklikten daha küçüktür.
+
+Bir ABC üçgeni için olur.
+
+ 
+
+ 
+
+ 
+
+
+
+
+

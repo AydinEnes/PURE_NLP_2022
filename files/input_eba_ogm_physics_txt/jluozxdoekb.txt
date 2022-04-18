@@ -1,0 +1,76 @@
+FİZİK - YANSIMA VE DÜZLEM AYNA -
+
+Yansıma: İlerleyen su dalgalarının karşısına çıkan engele
+çarpıp geri dönmesi gibi ışık da parlak bir yüzeye çarptığında
+geldiği ortama geri döner. Işığın bir engele çarparak geldiği
+ortama tekrar dönmesine ışığın yansıması denir. Yansıma olayı
+ışığın hem tanecik hem de dalga özelliği ile açıklanabilir.
+
+Yansıtıcı yüzeye düşen ışın, belirli kurallara göre yansır. Bu
+kurallar yansıma kanunları olarak tanımlanır. Gelen ışın, yansıyan ışın ve yüzey normali aynı düzlemdedir. Gelen ışının normalle yaptığı açı, yansıyan ışının normalle yaptığı açıya eşittir.
+
+ 
+
+Gelen Normal Yansıyan
+ışın , ışın
+
+Işığın Düzgün ve Da-
+ğınık Yansıması: Işığın
+düzgün bir yüzeyden yansımasına düzgün yansıma
+denir. Düzgün yansımada
+birbirine paralel olarak
+yüzeye gelen ışınlar, yüzeyden yansıdıktan sonra da
+birbirine paraleldir.
+
+
+ 
+
+Yansıtıcı yüzey
+
+ 
+
+ 
+
+ 
+
+ 
+
+Düzgün yansıma
+
+Işığın pürüzlü bir yüzeyden
+yansımasına dağınık yansıma
+denir. Dağınık yansıma olayında
+da ışık, yansıma kanunlarına
+göre yansır.
+
+ 
+
+Işığın Düzgün ve Dağınık Yansıması: Cisimlerin görülebilmesi
+için cismin ya ışık kaynağı olması ya da üzerine düşen ışınları
+
+yansıtması gerekmektedir. Cisimden gelen ya da cisimden yansıyan ışınlar göze ulaştığında cisim görülür.
+
+ 
+
+ 
+Düzlem Aynada Görüntü Oluşumu: Günlük hayatta en çok
+kullanılan optik aletlerinden biri de aynalardır. Üzerine düşen
+ışığı 90100'e yakın bir oranla yansıtan optik aletlere ayna denir.
+Yansıtıcı yüzeyi düzlem olan aynalara ise düzlem ayna denir.
+Düzlem aynalarda, görüntü boyu ile cismin boyu aynı büyüklükte olduğundan bu aynalar evlerde ve mağazalarda sıkça
+kullanılır. Cisimden gelen ışınlar aynada yansıdıktan sonra yansıyan ışınların ya da uzantılarının kesişmesi sonucunda görüntü
+oluşur. Yansıyan ışınların kendilerinin kesişmesi sonucu oluşan
+görüntüye gerçek görüntü, uzantılarının kesişmesi sonucu oluşan görüntüye de sanal (zahiri) görüntü denir.
+
+Düzlem ayna
+
+ 
+
+Cisim noktasal değilse cismin her noktasından çıkan ışınların
+yansıyanlarının uzantılarının kesişmesi sonucunda cismin sanal
+görüntüsü oluşur. Cismin ve görüntüsünün aynaya uzaklığı
+eşittir. Cismin boyu ile görüntünün boyu birbirine eşittir. Cisim
+ile görüntüsü aynaya göre simetriktir.
+
+Düzlem Aynada Görüş Alanı: Düzlem aynaya bakan gözlemcinin aynada görebildiği alana görüş alanı denir. Düzlem
+aynada görülen bütün cisimler gözün görüş alanı içindedir.

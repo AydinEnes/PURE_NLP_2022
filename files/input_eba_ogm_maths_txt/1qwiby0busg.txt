@@ -1,0 +1,81 @@
+MATEMATİK - DOĞRUSAL FONKSİYONLARLA MODELLENEBİLEN GÜNLÜK HAYAT DURUMLARI
+
+ 
+
+ÖRNEK :
+
+Aynı anda dikilen A ve B fidanlarının
+boylarındaki artış grafikte gösterilmiştir.
+Bu fidanların zamana (ay) bağlı boyunu
+veren birer fonksiyon yazıp, fidanların
+dikildikten kaç ay sonra boylarının
+farkının 60 cm olacağını bulalım.
+
+Boy (cm)
+
+ 
+
+Zaman (ay)
+
+ÇÖZÜM :
+
+A fidanının boyundaki artışı aylara
+göre hesaplayan fonksiyonun kuralı için;
+
+doğrusal fonksiyondur. O halde
+ şeklindedir.
+
+Buradaki b değeri fidanın
+başlangıçtaki boyudur. Yani  olur.
+
+Fonksiyonun tanımındaki a değeri de
+birim zamanda boyundaki artış miktarı
+olacaktır.
+
+Yani 2 ayda den  
+uzadığına göre;
+
+2 ayda cm uzamıştır.
+
+1 ayda 20 cm uzamış olur.
+
+Fonksiyonumuzu f(x)-20x4-20 olarak
+yazarız.
+
+B fidanının boyundaki artışı aylara
+göre hesaplayan fonksiyonun kuralı için ;
+
+g, doğrusal fonksiyondur. O halde
+ şeklindedir.
+
+Buradaki n değeri fidanın
+başlangıçtaki boyudur. Yani  olur.
+
+Fonksiyonun tanımındaki m değeri de
+birim zamanda boyundaki artış miktarı
+olacaktır.
+
+Yani 2 ayda 40 cm den 60 cm ye
+uzadığına göre;
+
+2 ayda cm uzamıştır.
+
+1 ayda 10 cm uzamış olur.
+
+Fonksiyonumuzu olarak
+yazarız.
+
+Şimdi çözümü bulabilmek için
+
+
+denklemini
+
+çözeriz.
+ ise  fidanlarının
+
+boyları arasındaki farkın  8 ay sonra 60
+cm olduğu bulunur.
+
+
+
+

@@ -1,0 +1,115 @@
+FİZİK - AYDINLANMA -
+
+I. Elektromanyetik dalgadır.
+11. Boşlukta ilerleyebilir.
+Ni. o Farklı frekanstaki kaynaklardan
+
+ 
+
+Işığın Davranış Modelleri: Işık ve ışık
+olaylarını inceleyen fiziğin alt dalına optik
+denir. Işık ile ilgili ilk çalışmalar, Antik Mısır
+ve Yunan filozoflarının yaşadığı döneme kadar gitmektedir. 17. yüzyılın sonlarına kadar
+yapılan çalışmalar cisimlerin nasıl görüldüğü
+ile ilgilidir. Bu dönemlerde görme olayının
+gözden cisimlere, cisimlerden göze gelen
+ışınlar ile gerçekleştiği ileri sürülmüştür.
+
+Işığın yapısını açıklamaya yönelik gerçeğe yakın ilk bilgiler, 17. yüzyılın sonlarına
+doğru İngiliz bilim insanı Isaac Newton ve
+Hollandalı bilim insanı Christiaan Huygens
+tarafından ortaya konmuştur. Newton, ışığın
+tanecikler şeklinde yayıldığını ifade etmiş,
+kırılma ve yansıma olaylarını tanecik modeliyle açıklamıştır. Huygens ise ışığın gösterdiği bazı özelliklerin ışığın dalga karakteri ile
+açıklanabildiğini ifade etmiştir.
+
+Işığın tanecik modeli, yansıma olayını
+tamamen açıklayabilirken ışığın kırılması
+sırasında ışığın hızının değişmesini açıklayamamıştır. 1801 yılında Thomas Young ışığın
+dalga doğasına sahip olduğunu girişim deneyiyle kanıtlamıştır. Daha sonra James Clerk
+Maxwell 1873 yılında ışığın yüksek frekanslı
+elektromanyetik dalgalar şeklinde olduğunu
+açıklamıştır. Işığın dalga doğası yardımıyla
+bazı ışık olayları açıklanabilirken bazılarının
+açıklanamaması durumundan yola çıkan Max
+Planck, ışık dalgası enerjisinin foton adı verilen enerji paketleri şeklinde yayıldığı teorisini ortaya koymuştur.
+
+Bu teori, 1905 yılında Albert Einstein tarafından geliştirilerek kuantum fiziğinin temelini oluşturacak tanecik modeli olarak tekrar
+ortaya konmuştur. Sonuç olarak ışığın bazı
+olaylarda tanecik bazı olaylarda da dalga
+özelliği gösterdiği bilgisine ulaşılmıştır. Işık,
+ilginç bir biçimde hem tanecik hem de dalga
+gibi davranabilmektedir. 1924 yılında Fransız
+Fizikçi de Broglie ve daha sonra Avusturyalı
+Fizikçi Schrödinger ışığın dalga ve tanecik
+modellerini birleştirerek dalga mekaniğini
+
+kurmuşlardır.
+
+Bu modele göre fotonun enerjisi, elektromanyetik dalgaların frekansı ile doğru
+orantılıdır. Yani ışık, dalga karakterine sahiptir çünkü enerjisi, dalgaların özelliği olan frekansı tarafından belirlenir. De Broglie yaptığı
+çalışmalarda, foton adı verilen hareketli
+taneciklere bir dalganın eşlik ettiğini öne
+sürmüştür. Taneciğe eşlik eden dalga boyuna
+da de Broglie dalga boyu adını vermiştir.
+
+Bir kaynaktan çıkan ışığın izlediği yolu
+göstermek için çizilen her bir çizgiye ışın
+adı verilir. Noktasal bir ışık kaynağı, etrafına küresel bir şekilde ışık verir ve ulaştığı
+her yüzeyi aydınlatır. Değişik ışık kaynakları
+mevcuttur ve her kaynağın aydınlatıcı etkisi
+farklıdır. Bir odayı bir mum çok aydınlatamadığı için evler elektrik lambası kullanılarak
+aydınlatılır. Bu durum, mum ve lambanın ışık
+şiddetlerinin birbirinden farklı olmasından
+kaynaklanır.
+
+Işık Şiddeti: Işık kaynağının birim zamanda yaydığı ışık enerjisinin bir ölçüsüne ışık
+şiddeti denir. Işık şiddeti, | sembolüyle gösterilir. SI'da birimi candela'dır (cd). Hem dalga
+hem de tanecik modeline göre ışık ışınları
+her yöne doğrusal yolla yayılacak şekilde
+modellenir. Kaynağın ışık şiddeti arttıkça
+modelde çizilen çizgi sayısı da artar.
+
+ 
+
+ 
+
+ 
+
+Işık Akısı: Bir ışık kaynağından, belirli bir
+yüzeye birim zamanda düşen ışık miktarının
+bir ölçüsüne ışık akısı denir.
+
+Işık akısı, © (fi) sembolüyle gösterilir. SI'da
+birimi lümen'dir (Im). Yarıçapı 1 m olan içi
+
+ 
+
+
+
+Bir noktada meydana gelen aydınlanma şiddeti; kaynağın ışık şiddetiyle doğru,
+noktanın kaynağa olan uzaklığının karesiyle
+ters orantılıdır. Bir noktada meydana gelen aydınlanma şiddeti; kaynağın yüzeyin
+normali ile yaptığı açının cosinüsü ile doğru
+orantılıdır.
+
+Bu durumda yüzey üzerinde oluşan aydınlma
+şiddeti, ışık şiddeti |, ışığın yüzey normaliyle
+yaptığı açı & ve kaynağın yüzeye uzaklığı r
+cinsinden
+
+
+ 
+
+ 
+
+Perde
+
+Paralel ışın
+demeti
+
+ 
+
+ 
+
+

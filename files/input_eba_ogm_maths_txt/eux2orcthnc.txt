@@ -1,0 +1,54 @@
+MATEMATİK BÖLÜNEBİLME KURALLARI-I
+
+ 
+
+ARALARINDA ASAL SAYILARIN
+ÇARPIMI İLE OLUŞAN SAYIYA
+BÖLÜNEBİLME
+
+1'den başka ortak pozitif tam sayı
+böleni olmayan sayılara aralarında asal
+sayılar denir. Örneğin
+
+ sayıları
+aralarında asal sayılardır.
+
+Aralarında asal çarpanların her birine
+bölünebilen bir doğal sayı, bu sayıların
+çarpımına da tam bölünür.
+
+şeklinde yazılabilir. 2 ve
+3 aralarında asal sayılardır. 2 ve 3 ile
+bölünebilen sayılar 6 ile de tam bölünür.
+
+şeklinde yazılabilir. 3 ve
+4 aralarında asal sayılardır. 3 ve 4 ile
+
+bölünebilen sayılar 12 ile de tam bölünür.
+
+ şeklinde yazılabilir. 2 ve
+9 aralarında asal sayılardır. 2 ve 9 ile
+
+bölünebilen sayılar 18 ile de tam bölünür.
+
+ şeklinde yazılabilir. 3 ve
+10 aralarında asal sayılardır. 3 ve 10 ile
+
+bölünebilen sayılar 30 ile de tam bölünür.
+
+Birbirinden farklı A ve B pozitif
+tam sayılarının C pozitif tam sayısına
+bölümünden kalanlar sırasıyla
+
+ olmak üzere
+
+ toplamının C ile
+bölümünden kalan
+ile bölümünden
+kalanı verir.
+
+ çarpımının C ile
+bölümünden kalan
+ile bölümünden
+kalanı verir.
+

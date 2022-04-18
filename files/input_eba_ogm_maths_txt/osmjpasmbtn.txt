@@ -1,0 +1,54 @@
+MATEMATİK-SİNÜS VE KOSİNÜS FONKSİYONLARININ GRAFİKLERİ-
+
+ 
+
+SİNÜS FONKSİYONUNUN GRAFİĞİ
+
+VBu fonksiyonun grafiği çizilir.
+
+Grafik
+
+aralıklarında tekrar eder birkaç değer seçildiğinde oluşan tablo
+
+
+Tabloda oluşturulan (X,sinx)
+noktaları analitik düzlemde
+
+bir şekilde birleştirildiğinde sinx
+fonksiyonunun grafiği şekildeki gibi
+
+İşaretlenerek ardışık noktalar uygun çizilir.
+göre simetrik fonksiyonlar tek
+fonksiyondur.
+
+olduğundan sinx fonksiyonu tek
+fonksiyondur.
+
+sinx fonksiyonunun grafiği orijine
+göre simetriktir.
+
+KOSİNÜS FONKSİYONUNUN GRAFİĞİ
+
+fonksiyonun grafiği çizilir.
+
+Grafik
+
+aralıklarında tekrar eder.
+
+olduğundan cosx fonksiyonunun periyodu Bu
+birkaç değer seçildiğinde oluşan tablo
+
+
+Tabloda oluşturulan (X›COSX) noktaları analitik
+
+düzlemde işaretlenerek ardışık noktalar
+
+uygun bir şekilde birleştirildiğinde cosx
+
+fonksiyonunun grafiği şekildeki gibi çizilir.
+
+ 
+
+cosx fonksiyonunun grafiği y eksenine göre
+
+simetriktir.

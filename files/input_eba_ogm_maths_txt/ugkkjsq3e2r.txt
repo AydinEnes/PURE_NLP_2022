@@ -1,0 +1,94 @@
+MATEMATİK - KARMA ÖRNEK ÇÖZÜMLERİ - Il
+
+ 
+
+BİRİM (ÖZDEŞLİK) FONKSİYON
+
+A boş olmayan bir küme ve olmak
+üzere f, A dan A ya bir fonksiyon
+olmak üzere için 
+ise f fonksiyonuna birim fonksiyon
+denir. I ile gösterilir.
+
+SABİT FONKSİYON
+
+A ve B boş kümeden farklı iki
+küme ve  B olmak üzere
+B fonksiyonu verilsin.
+için oluyorsa
+f fonksiyonuna sabit fonksiyon
+denir.
+NOT: Tanımlı olduğu durumlarda
+
+
+Fay  sabit fonksiyon  olur.
+
+
+ 
+
+ 
+
+DOĞRUSAL FONKSİYON
+
+bDER olmak üzere 
+biçimindeki fonksiyonlara doğrusal fonksiyon denir.
+ doğrusal fonksiyon ise grafiği bir doğrudur.
+
+TEK VE ÇİFT FONKSİYONLAR
+ER—R,VxER için
+
+ oluyorsa fonksiyonuna çift fonksiyon,
+ oluyorsa f fonksiyonuna tek fonksiyon
+denir.
+
+NOT: Her fonksiyon tek ya da çift fonksiyon olmak zorunda
+değildir. Bazı fonksiyonlar ne tek ne de çift fonksiyondur.
+
+FONKSİYONLARDA TOPLAMA VE ÇIKARMA İŞLEMLERİ
+
+
+
+
+
+şeklinde tanımlanır.
+
+DOĞRUSAL FONKSİYONLARIN GRAFİKLERİ
+ olmak üzere fonksiyonunun grafiği dik koordinat sisteminde doğrusunun
+grafiğini belirtir.
+
+ fonksiyonunda
+
+x yerine 0 yazılarak fonksiyon grafiğinin eksenini kestiği
+nokta,
+
+© y yerine 0 yazılarak fonksiyon grafiğinin eksenini kestiği
+nokta bulunur.
+biçiminde verilen bir doğrusal fonksiyonun
+grafiğinin ve eksenlerini kestiği noktalar ve katsayılarına bağlı
+olarak değişir.
+
+FONKSİYONLARIN BİLEŞKESİ
+
+boş kümeden farklı birer küme olmak üzere
+ve  fonksiyonları verilsin.
+
+A kümesinin elemanlarını f ve g fonksiyonları yardımıyla C
+kümesinin elemanları ile eşleştiren fonksiyona f ile g fonksiyonlarının bileşke fonksiyonu denir.
+
+ şeklinde gösterilir.
+
+
+
+biçiminde gösterilebilir.
+
+BİR FONKSİYONUN TERSİ
+
+f:A—B,y- f(X) birebir ve örten fonksiyonu verilsin.
+
+ oluyorsa
+fonksiyonuna f fonksiyonunun tersi denir.
+
+f©) fonksiyonunun tersi de fonksiyon olur.
+
+
+

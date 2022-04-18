@@ -1,0 +1,93 @@
+MATEMATİK-ANALİTİK DÜZLEMDE TEMEL DÖNÜŞÜMLER İLE İLGİLİ KARMA ÖRNEKLER-
+
+DONUSUMLER
+ÖTELEME DÖNÜŞÜMÜ
+Analitik düzlemde verilen bir noktanın belli bir doğrultuda ve belli bir yönde
+yer değiştirmesine öteleme denir.
+> Analitik düzlemde A(X, y) noktası xvekseni boyunca pozitif yönde
+(sağa doğru) a birim ötelendiğinde A (x+a , y) noktası elde edilir.
+> Analitik düzlemde , B(X , y) noktası x ekseni boyunca negatif yönde
+(sola doğru) a birim ötelendiğinde B (X -a, y) noktası elde edilir.
+> Analitik düzlemde C(X , Y) noktası y'ekseni boyunca pozitif yönde
+(yukarı doğru) b birim ötelendiğinde C (X, y+b) noktası elde edilir.
+> Analitik düzlemde D(X,y) noktası y ekseni boyunca negatif yönde
+(aşağı doğru) b birim Ötelendiğinde D (X, y-b) nokta elde edilir.
+DÖNME DÖNÜŞÜMÜ
+
+Bir noktanın sabit bir noktaya olan uzaklığı değişmeden bu sabit nokta etra-
+fında hareket etmesine dönme denir.
+
+P(X , y) noktasının orijin etrafında pozitif yönde oı açısı kadar döndürülme-
+si ile elde edilen P noktası
+
+P':Ra(P)=(Xcosa-ysina,xsina+ycosa) biçiminde bulunur.
+Burada Ra ya dönme dönüşümü, 0! ya ise dönme açısı denir.
+
+Herhagıgi bir (x, y) noktası orijin etrafında pozitif yönde 90 ,180 , 270 ,
+360 döndürüldüğünde aşağıdaki noktalar elde edilir.
+
+SİMETRİ DÖNÜŞÜMÜ
+
+Simetri dönüşümü bir şeklin bütün noktalarının bir noktaya veya bir doğruya
+göre eşit uzaklıkta görüntülerinin alınması ile oluşan bir dönüşümdür.
+Düzlemde P noktasının M noktasına göre simetriği P noktası olsun. M nok-
+tasına simetri merkezi denir M ile gösterilir.
+
+Eğer simetri dönüşümü bir d doğrusuna göre yapılıyor ise bu doğruya simetri
+ekseni denir ve d ile gösterilir.
+
+ 
+
+
+Düzlemdeki bir nokta ile simetriği olan noktanın simetri eksenine uzaklıkları
+birbirine eşittir.
+BİR NOKTANIN BAŞKA BİR NOKTAYA GÖRE SİMETRİĞİ
+Bir A noktasının B noktasına göre simetriği A` dır.
+
+NOT: A(X, Y) noktasının O(O, 0) noktasına (orijin) göre simetriği
+A (_X , _ Y) dır.
+BİR NOKTANIN x VE y EKSENLERİNE GÖRE SİMETRİĞİ
+
+A(a, b) noktasının
+
+> x eksenine göre simetriği B(a, - b) ,
+> y eksenine göre simetriği C( - a, b) olur.
+BIR NOKTANIN BİR DOĞRUYA GÖRE SİMETRİĞİ
+
+A(X1 , yı) noktasının 21X + by+ C = 0 doğrusuna göre simetriğini
+bulmak için aşağıdaki adımlar sırasıyla uygulanır.
+
+
+> Egımı m=- olan ve A(Xl ,yl) noktasından geçen AA dogrusu-
+a
+nun denklemi y-y1=2'(X-Xl) İfadesinden elde edilir.
+a
+
+> aX+by+C=0doğrusunun denklemi ile yeni bulunan AA doğ-
+
+rusunun denklemi ortak çözülerek K(k,p) kesim noktası bulunur.
+
+> A(X1 , yl) noktasının K(k,p) noktasına göre simetriği alınarak
+A (21( - X1, 2p - yı) noktası elde edilir.
+
+Bu nokta A(X1= yı) noktasının 21X +by+Cz O doğrusuna göre
+
+simetriği olan noktadır.
+
+BİR DOĞRUNUN BİR NOKTAYA GÖRE SİMETRİĞİ
+
+dl doğrusunun A noktasına
+
+ 
+
+
+
+A(a,b) noktasına göre simetriği olan C(2a-x,2b-y) noktası d2
+
+doğrusu üzerindedir.
+
+d2 doğrusunun denklemini bulmak için dl doğrusunun denkleminde x
+yerine Za-x ve y yerine 2b-y yazılarak d] doğrusunun A noktasına göre
+
+simetriği olan (12 doğrusu elde edilir.
+

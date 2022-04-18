@@ -1,0 +1,103 @@
+MATEMATİK-TÜREV KARMA ÖRNEKLER - 
+TÜREV TANIMI
+
+ 
+
+AÇR,f:A->R ve aGAiçin f
+
+sürekli ise
+_ _ . fx -fa
+lim f(X) f(a):1im f(x) f(a) ise lım ( ) ( )
+xaa* x-a xaa+ x-a X9& x-a
+
+Iimitine f fonksiyonunun X=a noktasındaki türevi
+denir. f'(a)ile gösterilir.
+TÜREV ALMA KURALLARI
+
+1) c E R olmak üzere
+
+f(X):C ise f'(x)=0 olur.
+2) a E Rve n E N olmak üzere
+
+1
+
+f(x)=aı-Xn ise fİ(X)=a-n~xn_ olur.
+
+1) Bir fonksiyon bir x=aapsisli noktada sürekli değilse
+x=aapsisli noktada türevli de değildir.
+
+2) Bir fonksiyon türevli olduğu her noktasında süreklidir.
+3) Bir fonksiyonun kırılma noktalarında türevi yoktur.
+
+İKİ FONKSİYONUN TOPLAMININ VE FARKININ TÜREVİ
+
+f(X) ve g(x) türevlenebilir iki fonksiyon olmak üzere;
+
+1) ğ((f+g)(x))=(f(x)+g(x))':f@ww
+
+ğ((f-g)(x)):(f(x)-g(x))ı :f '(X)-g '(X) olur.
+
+İKİ FONKSİYONUN ÇARPIMININ VE BÖLÜMÜNÜN TÜREVİ
+
+2)
+
+f(X) ve g(X) türevlenebilir iki fonksiyon olmak üzere;
+
+
+BİR FONKSİYONUN ARTAN VEYA
+AZALAN OLDUĞU ARALIKLAR
+
+ 
+
+f fonksiyonu [arab] nda artan ise bu aralığın her noktasın-
+da teğetinin eğimi pozitif ( Üdar açı), azalan ise teğetinin
+
+eğimi negatiftir ( @geniş açı).
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 dar açı olduğundan m= tan 9 pozitif'tir.) (9 geniş açı olduğundan m= tan 9 negatiftir.)
+
+SONUÇ:
+f: A -› R yzf(X) fonksiyonu (a,b) nda türevlenebilir olsun.
+V X 6 (a,b) için
+1) f'(x)>0 :>y=f(x) artan fonksiyondur.
+2) f'(x)<0 :>y=f(x)azalan fonksiyondur.
+
+3) f'(x): 0 :y=f(x) sabit fonksiyondur.
+
+Y
+ll
+
+Yukarıda grafiği verilen fonksiyo-
+
+nun Xoapsisli noktasında bir eks-
+tremum noktası vardır. Bu noktada
+çizilen teğet x eksenine paralel ola-
+cağından bu teğetin eğimi sıfırdır.
+
+Bu yüzden fİ(X)= 0 olur.
+
+ 
+
+ 
+
+ 
+ 
+
+> Bir fonksiyonun türevinin sıfır olduğu noktanın ekstre-
+
+mum noktası olabilmesi için fonksiyonun türevinin o nok-
+tada işaret değiştirmesi gerekir.
+
+Bir fonksiyonun azalanlıktan artanlığa geçtiği noktaya
+yerel minimum noktası denir.
+
+Bir fonksiyonun artanlıktan azalanlığa geçtiği noktaya
+yerel maksimum noktası denir.

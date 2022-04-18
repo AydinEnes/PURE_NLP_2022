@@ -1,0 +1,48 @@
+MATEMATİK GERÇEK HAYATTA PERİYODİK OLARAK TEKRAR EDEN DURUMLARI İÇEREN PROBLEMLER
+
+ 
+
+Günlük hayatta bazı olaylar belli
+zaman aralıklarında tekrar eder.
+Bu durum periyodik olarak tekrar
+eden olay olarak adlandırılır.
+
+Haftanın günlerinin 7 günde
+bir tekrar etmesi, nöbet tutan
+bir askerin, hemşirenin ya da
+doktorun belirli zaman dilimi
+sonunda tekrar nöbet tutması bu
+
+tür olaylara örnek olarak verilebilir.
+
+İstenilen günü bulma
+problemlerinde haftanın günleri
+verilen gün sıfır olmak üzere doğal
+sayılarla eşleştirilir.
+
+Nöbet tutan bir askerin,
+hemşirenin ya da doktorun
+belirli zaman dilimi sonunda
+
+ 
+
+tekrar nöbet tutması şeklindeki
+problemlerde verilen gün sıfır ile
+eşleştirilip diğer günler geriye ya
+da ileriye doğru doğal sayılarla
+eşleştirilir.
+
+Sayıların EBOB değerini
+bulunurken sayılar asal
+çarpanlarına ayrılır. Ortak olan asal
+çarpanlardan üssü küçük olanların
+çarpımı bu sayıların EBOB değerini
+verir.
+
+Sayıların EKOK değerini
+bulunurken sayılar asal çarpanlarına
+ayrılır. Ortak olan asal çarpanlardan
+üssü büyük olanlarla ortak olmayan
+asal çarpanların çarpımı bu sayıların
+EKOK değerini verir.
+

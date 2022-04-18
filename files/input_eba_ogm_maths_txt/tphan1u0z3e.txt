@@ -1,0 +1,59 @@
+MATEMATİK  KÜMELERDE İŞLEMLER 
+
+ 
+
+KESİŞİM VE BİRLEŞİM İŞLEMLERİ
+
+KÜMELERDE KESİŞİM İŞLEMİ
+
+gibi iki kümenin tüm ortak elemanlarından oluşan kümeye A ve B kümelerinin kesişim
+kümesi denir. işlemi “sembolü ile gösterilir.
+ olarak ifade edilir.
+
+
+
+KÜMELERDE BİRLEŞİM İŞLEMİ
+
+
+
+
+
+AveB gibi iki kümenin tüm elemanlarından oluşan kümeye A ve B kümelerinin birleşim kümesi
+denir. Birleşim işlemi “sembolü ile gösterilir.
+ olarak ifade edilir.
+
+
+
+
+KESİŞİM VE BİRLEŞİM İŞLEMİNİN ÖZELLİKLERİ
+
+1) Tek Kuvvet Özelliği
+
+Bir kümenin kendisi ile kesişimi yine kendisidir. 
+Bir kümenin kendisi ile birleşimi yine kendisidir. 
+ Değişme Özelliği
+
+Kesişim işleminin değişme özelliği vardır. A
+Birleşim işleminin değişme özelliği vardır. 
+
+3) Herhangi bir A kümesinin boş küme ile kesişimi boş kümedir.
+
+4) Herhangi bir A kümesinin boş küme ile birleşimi A kümesidir.
+
+5 AcBise A kümesinin her elemanı B kümesinde de vardır.
+
+6) Birleşme Özelliği
+Kesişim işleminin birleşme özelliği vardır.
+
+Birleşim işleminin birleşme özelliği vardır.
+
+7) Dağılma Özelliği
+Kümelerde kesişim ve birleşim işlemlerinin birbirleri üzerine
+soldan ve sağdan dağılma özellikleri vardır.
+A, Bve C birer küme olmak üzere
+
+olur.
+8) B birer küme olmak üzere
+
+A, Bve C birer küme olmak üzere
+

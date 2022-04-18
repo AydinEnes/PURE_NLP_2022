@@ -1,0 +1,87 @@
+FİZİK - SÜRTÜNME KUVVETİ -
+
+ 
+
+SÜRTÜNME KUVVETİ :
+
+Birbirine temas eden yüzeyler arasında harekete
+ya da zorlamaya karşı oluşan kuvvete sürtünme
+
+kuvveti adı verilir. Sürtünme kuwveti vektörel bir niceliktir.
+
+Daima hareket ya da zorlanmaya zıt yöndedir.
+
+Fs ile gösterilir. Sürtünme kuwetinin değeri
+cismin yüzey alanına bağlı değildir.
+
+N (Tepki) )
+
+   
+  
+ 
+
+F
+(Cismi çeken
+kuvvet)
+
+f, (Sürtünme Kuvveti)
+
+>
+G( Ağırlık — Etki)
+
+Sürtünme kuvvetinin en büyük değeri
+
+F,(max) - k.N
+a
+
+Sürtünme Kuvveti (N) © Sürtünme Katsayısı (o Tepki Kuvveti (N)
+
+bağıntısıyla hesaplanır.
+
+Sürtünme kuwveti statik ve kinetik sürtünme
+kuwveti olarak ikiye ayrılır. Duran cismin harekete
+
+geçiş anına kadar etki eden sürtünme kuwetine
+statik sürtünme kuvveti adı verilir. Hareket hâlindeki
+cisimlere etki eden sürtünme kuwvetine, kinetik
+sürtünme kuvveti adı verilir.,
+
+Statik ve kinetik sürtünme kuwvetleri arasında, F, >
+F,ilişkisi vardır.
+
+Sürtünme Kuvveti (N)
+
+ 
+
+Kuvvet (N)
+
+Sürtünmenin günlük hayatta avantajları ve
+dezavantajları vardır. Ayakta durmak, yürümek,
+durmak veya herhangi bir şeyi tutmak gibi temel
+eylemlerin tamamı sürtünme kuwveti sayesinde
+yapılmaktadır. Hareketli parçaların aşınması,
+hareketin zorlaşması, enerji kayıpları sürtünmenin
+dezavantajları arasındadır.
+
+Sürtünmeyi arttırmak için;
+
+4 Yüzeylerin pürüzlülüğünü artırmak
+
+4 Kaygan yollara kum ya da talaş serpmek
+
+4 Araçlarda kışlastikleri ya da kar zinciri
+kullanılmak işlemleri yapılabilir.
+
+Sürtünmeyi azaltmak için;
+
+4 Yağlama
+
+4 Cilalama
+
+4 Zımparalama
+
+4 Bilye ya da tekerlek kullanma
+
+4 Cismi uygun şekilde tasarlama
+
+işlemleri yapılabilir.

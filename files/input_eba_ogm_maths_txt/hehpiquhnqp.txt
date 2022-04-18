@@ -1,0 +1,107 @@
+MATEMATİK GERÇEK SAYILAR KÜMESİNDE TOPLAMA VE ÇARPMA İŞLEMİNİN ÖZELLİKLERİ
+
+ 
+
+GERÇEK SAYILAR KÜMESİNDE TOPLAMA İŞLEMİNİN ÖZELLİKLERİ
+
+1) Kapalılık Özelliği:
+
+ olur. Herhangi iki gerçek
+sayının toplamı yine bir gerçek sayıdır
+
+2) Değişme Özelliği:
+
+
+
+3) Birleşme Özelliği:
+
+
+şekilde — sayısı vardır. 
+i sayısının çarpma işlemine göre tersi
+
+
+
+sayısıdır.
+
+
+6) Yutan Eleman Özelliği:
+ Çarpma işleminin yutan elemanı O'dır.
+
+olur.
+
+4) Etkisiz Eleman Özelliği:
+olur.
+Toplama işleminin etkisiz elemanı 0 dır.
+
+5) Ters Eleman Özelliği:
+olacak şekilde
+
+olur.
+
+)Dağılma Özelliği:
+
+için çarpma işleminin toplama ve
+
+: çıkarma işlemleri üzerine sağdan ve
+: soldan dağılma özelliği vardır.
+
+sayısı vardır.& sayısının toplama işlemine :
+
+göre tersi sayısıdır.
+
+GERÇEK SAYILAR KÜMESİNDE ÇARPMA
+İŞLEMİNİN ÖZELLİKLERİ
+
+1) Kapalılık Özelliği:
+
+
+
+( Herhangi iki gerçek sayının çarpımı yine bir
+gerçek sayıdır.)
+
+2) Değişme Özelliği:
+
+
+
+3) Birleşme Özelliği:
+
+ olur.
+4) Etkisiz Eleman Özelliği:
+
+ olur
+Çarpma işleminin etkisiz elemanı 1 dir.
+
+5) Ters Eleman Özelliği:
+
+
+
+  olacak
+
+
+
+
+ DEVİRLİ ONDALIK SAYILAR
+
+: Bir sayının ondalık açılımında
+
+: virgülden sonraki bölüm, belli bir
+
+: kurala göre tekrar ediyorsa bu
+
+: tür sayılara devirli ondalık sayılar
+
+: denir. Virgülden sonraki tekrar eden
+: ilk sayı grubunun (devreden kısım)
+
+: üstüne çizgi çekilerek gösterilir.
+
+: Her devirli ondalık sayı bir rasyonel
+: sayıdır.
+: Devirli ondalık sayının rasyonel sayı
+: karşılığı
+
+ 
+
+ 
+
+

@@ -1,0 +1,64 @@
+MATEMATİK - DÖRTGENLER VE ÖZELLİKLERİ
+
+ 
+
+
+Herhangi üçü bir doğru üzerinde
+bulunmayan dört noktayı ardışık olarak
+birleştiren doğru parçalarının
+
+ oluşturduğu kapalı düzlemsel şekillere
+ dörtgen denir.
+
+Her bir iç açısının ölçüsü 1809 den küçük olan dörtgene
+
+dışbükey dörtgen, herhangi bir iç açısının ölçüsü 180*den
+
+büyük olan dörtgene içbükey dörtgen denir.
+
+
+
+
+Dışbükey dörtgen
+
+ 
+
+NOT: Bir dörtgenin iç açılarının ve dış açılarının ölçülerinin
+toplamı 360' dir.
+
+NOT: Şekildeki ABCD dörtgeninde  açısının ve 
+DCB açısının açıortaylarıdır.
+
+ Buna göre
+ olur.
+ NOT: Şekildeki ABCD dörtgeninde
+
+ noktaları doğrusal olup
+IBFJ, ABC açısının ve |DEJ, ADC açısının açıortaylarıdır.
+
+Buna göre
+
+
+NOT: Köşegenleri dik kesişen bir ABCD
+ dörtgeninde karşılıklı kenar uzunluklarının karelerinin toplamı birbirine eşittir.
+
+Şekildeki ABCD dörtgeninde
+ olduğundan
+
+olur.
+
+ olur.
+
+NOT: Şekilde verilen ABCD dörtgeninde
+dörtgenin köşegenleridir.
+ bulundukları kenarların
+orta noktaları ise
+
+
+
+olur.
+
+
+
+ 
+

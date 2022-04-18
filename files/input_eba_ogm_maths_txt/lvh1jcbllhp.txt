@@ -1,0 +1,64 @@
+MATEMATİK - İKİZKENAR YAMUK / DİK YAMUK
+
+ 
+
+İKİZKENAR YAMUK
+
+Şekildeki
+yamuğunda
+
+
+
+
+Bu durumda ABCD
+yamuğu ikizkenar
+bir yamuktur.
+
+
+
+ 
+
+Şekilde verilen ABCD
+ikizkenar yamuğunda
+
+köşegenler ve
+
+ ise
+olur
+(Yani köşegen
+uzunlukları eşittir
+
+ olur.
+olur.
+
+ 
+
+Şekilde verilen ikizkenar yamuğunda 
+ olup bu ikizkenar yamuğun köşegenleri dik
+kesişmektedir. h yamuğun yüksekliğidir.
+
+Buna göre
+
+
+ olur.
+
+ 
+
+DİK YAMUK
+
+Herhangi bir köşesindeki
+açısının ölçüsü 90' olan
+yamuğa dik yamuk denir.
+
+ABCD yamuğunda |JAD|
+aynı zamanda bu yamuğun
+yüksekliğidir.
+
+ 
+
+C Şekilde verilen ABCD dik
+yamuğunda 
+köşegenler birbirine diktir.
+
+Bu durumda 
+

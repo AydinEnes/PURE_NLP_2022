@@ -1,0 +1,56 @@
+MATEMATİK I.DERECEDEN DENKLEMLER VE EŞİTSİZLİKLER
+
+ 
+
+MUTLAK DEĞER
+
+xbir gerçek sayı olmak üzere x in sıfıra
+olan uzaklığına x in mutlak değeri denir.
+
+şeklinde gösterilir.
+
+gerçek sayısının mutlak değeri;
+
+
+
+
+ile bulunur.
+
+Mutlak değeri alınacak sayı pozitif ise
+olduğu gibi, negatif ise önüne “-” işareti
+konularak mutlak değer dışına çıkarılır.
+
+MUTLAK DEĞERİN
+ÖZELLİKLERİ
+
+YER, ne olmak üzere;
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+MUTLAK DEĞERLİ
+DENKLEMLER
+
+İçinde bilinmeyen bulunduran ifadeler sıfıra eşitse denklem olarak adlandırılır.
+
+Eğer bir denklem, mutlak değerli
+ifade bulunduruyorsa mutlak değerli
+denklem olarak adlandırılır.
+
+birer denklem örneğidir. Burada ikinci denklem,
+mutlak değerli ifade bulundurduğundan bir mutlak değerli denklemdir.
+
+Mutlak değerli denklemler, mutlak değer tanımı kullanılarak çözülür.
+İfade, mutlak değerden kurtarıldıktan
+sonra denklem çözüm yöntemleri ile
+denklemin çözüm kümesi bulunur.
+
+ 
+

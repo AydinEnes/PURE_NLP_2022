@@ -1,0 +1,144 @@
+FİZİK - ÜRETEÇLERİN BAĞLANMASI -
+
+ 
+
+ 
+
+Üreteçlerin Tarihi: Luigi
+Galgavani yaptığı deneyler
+sırasında kurbağaların iki farklı
+türde metalle (demir ve bakır)
+temas ettikleri zaman kaslarında
+kasılmalar olduğunu fark etti.
+
+Bu bulgudan yola çıkarak 1791
+yılında hayvansal dokuların
+elektrik ürettiğine ilişkin teorisini
+açıkladı. Galvani'ye göre deneyde
+kullanılan metal parçaları sadece
+bu elektriğin açığa çıkmasını
+sağlamaktaydı. Yaptığı çalışmayı
+yayınlarken, yükün kaynağının
+kurbağanın kas ve sinirleri
+olduğunu öne sürerek bu olayın
+kaynağına “hayvan elektiriği”
+adını verdi.
+
+ 
+
+ 
+
+Gümüş plaka
+Çinko plaka
+
+Kurutma kâğıdı
+
+ 
+
+Pavia Üniversitesi'nde fizik
+profesörü olan Alessandro Volta,
+Galvani'nin hayvan elektriği teorisine
+şiddetle karşı çıkmaktaydı. Volta,
+Galvani'nin deneylerindeki voltajın farklı
+metallerin kullanılmasından doğduğu
+kanısına varmıştı. 1800 yılında bir
+dizi yeni deneye girişen Volta, metal
+disklerin arasına ıslak kurutma kâğıtları
+koyarak sürekli elektrik akımının ilk
+kaynağı olan “Volta yığını”nı bulduğunu
+açıkladı. İlk elektrik bataryasını
+yapabilmek için yirmi ya da otuz gümüş
+ve çinko diski art arda gelecek şekilde
+üst üste yığdı. İkili tabakaları, tuz
+çözeltisine veya sulu aside batırılmış
+kurutma kâğıtları ile birbirinden ayırdı.
+Bu tabakalı yapı ile gümüş uçta (4)
+yük, çinko uçta aynı miktarda (-) yük
+olacak şekilde, iki uç arasında sürekli bir
+potansiyel farkı sağlayarak elektrik elde
+etmeyi başardı. Sonra bu işin Galvani'nin
+hayvan elektriği teorisindeki hayvanla
+
+hiçbir ilgisi bulunmadığını,
+iletken ortam ve farklı metallerin
+kullanılmasının yeterli olduğunu
+açıkladı.
+
+Üreteçlerin Bağlanması: Devreye
+bağlandığında iki nokta arasında
+potansiyel fark oluşturarak yüklü
+parçacıkların hareket etmesini sağlayan
+elektromotor kuvvetini meydana
+getiren devre elemanına üreteç ya
+da elektromotor kuweti kaynağı
+denir. Üreteç çeşitlerinden olan piller;
+televizyon kumandası, telefon, radyo,
+fotoğraf makinesi gibi birçok araçta
+kullanıldığından günlük hayatta önemli
+yer tutmaktadır.
+
+Üreteçler, birbirlerine seri ve aynı
+yönde akım üretecek şekilde bağlanırsa
+devredeki toplam potansiyel farkı
+
+V eye 2 VIP V3
+
+devre
+
+ile hesaplanır. Bu durumda n tane
+
+Tek parça elemanı
+
+üretecin toplam potansiyel farkı
+V -V,1V,1..... *V,
+
+Toplam
+
+bağıntısıyla bulunur.
+
+Üreteçler, birbirine seri ve ters
+yönde akım üretecek şekilde
+bağlandığında devredeki toplam
+potansiyel farkı
+
+Vieve > IV, > Vİ
+
+bağıntısıyla hesaplanır.
+
+Özdeş üreteçler paralel
+bağlandığında devredeki toplam
+potansiyel farkı, üreteçlerden
+birinin potansiyel farkına eşittir.
+Aynı kutupları birleştirilmiş n
+tane paralel bağlı özdeş üretecin
+toplam potansiyel farkı
+
+Viya EV, EV, E.E EV
+
+Toplam
+
+ 
+
+bağıntısıyla bulunur.
+Bir devrede tek pilin oluşturduğu
+elektrik akımının büyüklüğü birden
+fazla pilin paralel bağlanmasıyla da
+elde edilebilir. Paralel bağlı pil sayısı
+artırıldığında pillerin her birinden çekilen
+elektrik akımının büyüklüğü azalır.
+
+Üreteçlerin Tükenme Süresi: Seri bağlı
+pillerle oluşturulan devredeki lambalar,
+üreteçlerin paralel bağlandığı devredeki
+lambalara göre daha parlaktır ancak ışık
+verme süresi daha azdır. Pillerin tükenme
+süreleri içerisinden geçen akıma bağlıdır.
+Pilden geçen akım arttıkça tükenme süresi
+azalır. Bu nedenle piller seri ve aynı yönde
+akım üretecek şekilde bağlanırsa devre akımı
+artar ancak tükenme süreleri azalır. Devrenin
+çalışma süresini artırmak için de üreteçler
+paralel bağlanır. El feneri, televizyon
+kumandası, radyo ve elektrikli oyuncaklarda
+akımı artırmak için piller seri, çalışma süresini
+artırmak için de paralel bağlanır.

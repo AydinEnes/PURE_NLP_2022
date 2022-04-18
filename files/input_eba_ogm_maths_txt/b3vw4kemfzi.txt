@@ -1,0 +1,48 @@
+MATEMATİK - POLİNOMLARLA BÖLME İŞLEMİ
+
+ 
+
+ polinomları için
+olmak üzere P(X) polinomunun  polinomu ile
+bölümü aşağıdaki gibi gösterilebilir.
+
+
+
+: Bölünen Polinom
+
+ Bölen polinom
+
+ Bölüm Polinomu
+
+ Kalan Polinomu
+ eşitliğine bölme eşitliği denir.
+ve
+
+olur.
+ polinomu,  polinomuna tam
+(kalansız) bölünüyor denir.
+
+Polinomlarda bölme işlemi verilen sıralamaya
+uygun yapılır.
+> Bölünen ve bölen polinom bu polinomların
+değişkeninin azalan kuvvetlerine göre yazılır.
+> Bölünen polinomun en büyük dereceli terimi
+bölen polinomun en büyük dereceli terimine
+bölünür ve elde edilen sonuç bölüm polinomunun
+ilk terimi olarak yazılır.
+> Bölüm polinomuna ait bulunan ilk terim, bölen
+polinomla çarpılır ve elde edilen ifade bölünen
+polinomdan çıkarılır.
+Yukarıdaki işlemler, çıkarma işlemi sonucunda
+elde edilen her polinoma kalanın derecesi bölenin
+derecesinden küçük oluncaya kadar uygulanır.
+
+Bir P(x) polinomunun x—a ile bölümünden kalan
+P(a) dır.
+
+polinomunun bir
+çarpanıdır.
+
+ise x—asayısına, P(x)
+polinomunun sıfırı (bir kökü) denir.
+

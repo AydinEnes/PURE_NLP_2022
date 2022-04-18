@@ -1,0 +1,50 @@
+MATEMATİK - İKİ FONKSİYONUN BİLEŞKESİ VE BİR FONKSİYONUN TERSİ
+
+BİR FONKSİYONUN TERSİ
+
+ birebir ve örten fonksiyonu verilsin.
+için oluyorsa 
+fonksiyonuna f fonksiyonunun tersi denir.
+
+
+
+fi, B kümesinden A kümesine tanımlı bir fonksiyondur.
+
+ÖRNEĞİN;
+ fonksiyonu örten bir fonksiyon
+olmadığı için bu fonksiyonun tersi bir fonksiyon değildir.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ Nye örten olmayan bir fonksiyon olduğu görülür.
+ÖRNEĞİN;
+
+
+
+fonksiyonu bire bir fonksiyon olmadığı için bu fonksiyonun
+tersi fonksiyon değildir.
+
+
+
+
+ birebir fonksiyon olmadığı görülür.
+f:A—B ye olmak üzere y-f(x) bire bir ve örten ise
+f6) fonksiyonunun tersi de fonksiyon olur
+
+
+
+Bir fonksiyonun tersinin eşleştirme kuralını bulmak için
+
+ kuralında x yerine  yerine x yazılır.
+Elde edilen eşitlikte y yalnız bırakılır.
+
+Son eşitlikte y yerine  yazılır.
+Uygun tanım aralıklarında verilen fonksiyonlar için
+

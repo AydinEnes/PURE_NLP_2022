@@ -1,0 +1,84 @@
+MATEMATİK-RIEMANN TOPLAMI
+
+ 
+
+BİR FONKSİYONUN GRAFİĞİ İLE x EKSENİ ARASINDA
+
+KALAN SINIRLI BÖLGENİN ALANININ RIEMANN TOPLAMI
+
+YARDIMIYLA YAKLAŞIK OLARAK HESAPLANMASI
+
+Aşağıda [a,b] nda tanımlı y= f(x) fonksiyonunun grafiği verilmiştir.
+
+[a,b] nda y=f(x) eğrisi ile X ekseni arasında kalan
+
+bölgenin alanı Alman matematikçi Bernhard Riemann
+(Bernard Riman) tarafından hesaplanmıştır.
+
+rek oluşturulan P={x0,x1,x2,x3} kümesine [a,b] nın bir bö-
+Iüntüsü denir. (Bu bölüntü eşit aralıklarla olmak zorun-
+da değildir.) Eğer [a,b], n tane eşit alt aralığa bölünecek
+
+olursa ortak genişlik olur.
+ 
+
+ 
+
+ 
+
+<b olmak üzere a=x ve b=xgseçile-
+
+Grafikte oluşan boyalı dikdörtgenlerin toplam
+alanını veren Ax1.f(c1)+Ax2.f(c2)+Ax3.f(c3)toplamına
+f(x) fonksiyonunun [a,b]na ait bir Riemann toplamı
+denir. Burada [a,b], 3 alt aralığa ayrılmıştır.
+
+RIEMANN ÜST TOPLAMI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Grafikteki eğrinin üzerinde oluşan boyalı dik-
+dörtgenlerin toplam alanını verenAx1.f(c1)+Ax2.f(-
+c2)+Ax3.f(c3)toplamına f(x) fonksiyonunun [a,b]na
+ait bir Riemann üst toplamı denir. Eğer "[a,b]" daha
+fazla alt aralığa ayrılırsa bulunan Riemann üst top-
+lamının değeri, eğrinin altında kalan alanın değeri-
+ne daha yakın olur.
+
+RIEMANN ALT TOPLAMI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A
+
+Grafikteki eğrinin altında oluşan boyalı dikdörtgen-
+lerin toplam alanını veren Ax1.f(c1)+Ax2.f(c2)+Ax3.f(c3)
+toplamına f(x) fonksiyonunun [a,b]na ait bir Riemann
+alt toplamı denir. Eğer [a,b]daha fazla alt aralığa ayrı-
+lırsa bulunan Riemann alt toplamının değeri, eğrinin
+altında kalan alanın değerine daha yakın olur.
+
+sonuç
+

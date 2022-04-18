@@ -1,0 +1,10 @@
+MATEMATİK-ÜSTEL VE LOGARİTMİK FONKSİYONLAR-
+
+ 
+
+1) a olmak üzere loga a :1 ve loga 1: 0 olur.
+
+2) a vexolmak üzere loga (x-y)=loga x+10ga yve
+loga (-):loga x- loga y olur.
+3) a , x ye n olmak üzere log“ x" :n-loga x olur.
+

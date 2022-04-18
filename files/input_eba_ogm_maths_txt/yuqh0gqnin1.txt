@@ -1,0 +1,39 @@
+MATEMATİK - İKİNCİ DERECEDEN BİR BİLİNMEYENLİ DENKLEMİN KÖKLERİ İLE KATSAYILARI ARASINDAKİ İLİŞKİ
+
+ 
+
+İKİNCİ DERECEDEN BİR
+BİLİNMEYENLİ DENKLEMLER
+
+İKİNCİ DERECEDEN BİR BİLİNMEYENLİ DENKLEMİN
+KÖKLERİ İLE KATSAYILARI ARASINDAKİ İLİŞKİ
+
+ olmak üzere âX  ikinci
+
+dereceden bir bilinmeyenli denklemin kökleri
+
+
+
+
+
+ile bulunur.
+
+Bu durumda denklemin;
+
+ Kökler toplamı 
+
+ Kökler çarpımı a ile bulunur.
+
+KÖKLERİ VERİLEN İKİNCİ DERECEDEN
+DENKLEMİ ELDE ETME
+
+
+ olmak üzere  denklemi
+
+ Kökler toplamı Kökler çarpımı yani
+
+ şeklinde yazılabilir.
+
+
+ 
+

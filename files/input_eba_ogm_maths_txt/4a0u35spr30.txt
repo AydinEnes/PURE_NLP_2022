@@ -1,0 +1,79 @@
+
+ 
+
+MATEMATİK KÖKLÜ İFADELERLE İLGİLİ ÖZELLİKLER
+
+ 
+
+DENKLEMLER VE EŞİTSİZLİKLER
+
+ eşitliği köklü sayıların aslında
+üssü rasyonel olan birer üslü sayı olduğunu
+gösterir. Bunun sonucu olarak üslü sayılarla
+ilgili özellikler kullanılarak köklü sayılara
+ilişkin aşağıdaki özellikler yazılabilir.
+
+olur.
+
+3) Çarpımları rasyonel sayı olan iki irrasyonel
+sayıdan her biri diğerinin eşleniği olarak
+tanımlanır. Köklü rasyonel ifadelerde,
+paydayı kökten kurtarmak için paydadaki
+sayının eşleniği ile pay ve payda çarpılır.
+
+ÖRNEK: sayısının eşleniği Ve
+sayısıdır. Çünkü bu sayıların çarpımları
+
+olur.
+
+Aşağıdaki tabloda bazı ifadelerin eşlenikleri
+verilmiştir.
+
+4) Nas2vb durumundaki köklü
+ifadelerde aXm*tn ve b-m-n olmak üzere
+
+
+şeklinde yazılır.
+
+ORNEK: işleminde 
+olarak yazılırsa
+
+
+
+bulunur.
+
+KÖKLÜ İFADELERİ İÇEREN DENKLEMLERİN
+ÇÖZÜM KÜMESİ
+
+Köklü ifade içeren denklemlerin çözümünden
+elde edilen değerin başlangıçtaki denklemi
+sağlayıp sağlamadığı kontrol edilmelidir.
+
+ÖRNEK: 
+x yerine 16 yazıldığında denklemi sağlar. 
+halde  olur.
+
+ 
+
+Sayı Eşleniği
+
+Sayı - Eşlenik
+
+ 
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+

@@ -1,0 +1,96 @@
+FİZİK - MIKNATISLAR VE MANYETİK ALAN - 
+
+ 
+
+Manyetizma: Doğada bulunan demir(Fe), nikel
+(Ni), kobalt (Co) ve bu elementleri içeren alaşımları
+çeken Fe,O, bileşiğine ya da sonradan bu özellik
+kazandırılan maddelere mıknatıs denir. Mıknatısın
+etkisinin en fazla olduğu uç kısımlarına kutup adı
+verilir. Mıknatısın iki kutuplu olması elektrik yüklerinin de iki farklı cins olmasına benzetilebilir. Ancak
+mıknatıslar doğada tek kutuplu olarak bulunamazlar. Bu nedenle mıknatıs ne kadar bölünürse bölün-
+sün daima çift kutba sahiptir.
+
+Bir mıknatısın manyetik özelliklerinin etkili olduğu bölgeye manyetik alanıdenir. Manyetik alan
+vektörel bir büyüklük olup B ile gösterilir ve SI'daki
+birimi Tesla (T)” dır. Mıknatıs üzerine demir tozları
+döküldüğünde demir tozlarının mıknatısın uçları
+arasında, eğriler üzerinde dizildiği görülür.
+
+ 
+
+Bu dizilişten yararlanarak manyetik alanı temsil
+eden manyetik alan çizgileri modeli oluşturulmuştur. Manyetik alan çizgileri gerçek çizgiler değil
+manyetik etkiyi temsil eden modellerdir.
+
+Manyetik alan çizgileri mıknatıs dışında N kutbundan S kutbuna, mıknatıs içinde ise S kutbundan
+N kutbuna doğrudur.
+
+İki mıknatıs yan yana geldiğinde manyetik alan
+etkileşimlerinden dolayı birbirlerine manyetik kuvvet uygularlar. Aynı kutuplar birbirlerini iterken zıt
+kutuplar birbirlerini çekerler.
+
+Üzerinden akım
+geçen düz bir telin
+etrafında iç içe
+geçmiş halkalar
+şeklinde manyetik
+alan çizgileri oluşur.
+Bu manyetik alanın
+şiddeti akım arttıkça
+artar telden uzaklaştıkça azalır.
+
+Tel etrafındaki
+manyetik alanın yönü sağ el kuralı ile bulunur. Sağ
+elin başparmağı akımı gösterecek şekilde sarıldığın-
+da dört parmak manyetik alan yönünü gösterir.
+
+Akımın bu etkisinden faydalanılarak elektromıknatıslar oluşturulmuştur. Elektromıknatıslar birçok
+elektrikli cihazda kullanılır. Ancak akımın oluşturduğu manyetik alan canlılar üzerinde olumsuz etkiler
+oluşturabilir.
+
+Pusulaların sürekli aynı doğrultuya yönelmesi
+Dünya'nın etrafında bir manyetik alan olduğunu
+gösterir.
+
+Mıknatısların zıt kutuplarının birbirini çekmesin-
+den yola çıkarak pusulanın kuzey ucunun gösterdiği
+noktaya, Dünya'nın manyetik Güney Kutbu (5);
+
+ 
+
+Üzerinden akım geçen düz bir telin
+etrafındaki manyetik çizgileri
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+  
+
+güney ucunun Manyetik Güney Kutbu
+
+gösterdiği | Coğrafi Kuzey
+noktaya da f Sapma
+Dünya'nın açısı
+manyetik Kuzey Kutbu (N)
+denir.
+Dünya'nın
+coğrafi kutupları ile manyetik kutupları
+çakışık değildir. İkisi arasında bir sapma
+açısı vardır.
+
+Coğrafi /
+Güney Kutbu
+
+Manyetik Kuzey Kutbu
+Dünya'nın manyetik alanı
+
+ 
+
+ 

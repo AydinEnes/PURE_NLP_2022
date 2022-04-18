@@ -1,0 +1,86 @@
+MATEMATİK - POLİNOMLARIN ÇARPANLARA AYRILMASI
+
+ 
+
+KARMA ÖRNEKLERİN ÇÖZÜMÜ
+
+
+
+polinomunda;
+
+ifadelerine
+
+
+polinomun terimleri denir.
+
+ gerçek sayılarına polinomun katsayıları denir.
+
+ değişkeninin aldığı en büyük üsse polinomun derecesi denir ve der| P(x)Jile gösterilir.
+
+> Bir polinomun en büyük dereceli teriminin
+katsayısına polinomun baş katsayısı denir.
+
+ifadesine polinomun sabit terimi denir.
+
+Bir polinomun katsayıları toplamı, polinomun
+değişkeninin yerine 1 yazılarak bulunur.
+
+Bir P(X) polinomunun x—a ile bölümünden
+
+kalan  dır.
+ polinomunun bir
+çarpanıdır.
+
+ise asayısına,
+P(x) polinomunun sıfırı (bir kökü) denir.
+
+ORTAK ÇARPAN PARANTEZİNE ALMA
+
+Bir polinomun her teriminde bulunan ortak
+çarpanın paranteze alınması işlemine ortak
+çarpan parantezine alma yoluyla çarpanlara
+ayırma yöntemi denir.
+
+ÖRNEK:
+
+
+
+Verilen polinomun her teriminde
+
+> ortak bir sayı,
+
+> ortak bir değişken veya
+
+> ortak bir terim
+bulunmuyor ise ortak çarpanı olan terimler bir
+araya getirilerek gruplandırılır.
+
+ biçimindeki ifadelere
+tam kare ifadeler denir.
+ve
+ olur.
+
+ifadesine iki kare farkı denir.
+ olur.
+
+
+
+şeklindeki üç terimli ifadeleri
+çarpanlarına ayırırken birinci ve üçüncü terimin
+ax” —pX'İX ve c—me-n şeklinde çarpanları
+seçilir.
+
+Bu çarpanlar çapraz olarak
+
+
+
+“2 çarpılıp toplandığında
+
+ortanca terim bulunuyorsa
+
+çarpanlar doğru seçilmiştir.
+Bu seçilen çarpanlar yan yana yazılırsa
+ şeklinde
+
+çarpanlarına ayırma işlemi sonlanmış olur.
+

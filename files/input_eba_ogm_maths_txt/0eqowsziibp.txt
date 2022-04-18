@@ -1,0 +1,61 @@
+MATEMATİK-İKİNCİ DERECEDEN FONKSİYONLAR VE GRAFİKLERİ-
+
+ 
+
+a, b, c E R ve aşk 0 ve a olmak üzere
+f:R-›]R,f(x) =ax2+bx+c
+biçimindeki fonksiyonlara ikinci dereceden bir
+değişkenli fonksiyon denir.
+
+Bu fonksiyonları sağlayan (x, y) nin analitik
+düzlemde oluşturduğu noktalar kümesine ikinci
+dereceden bir değişkenli fonksiyonların grafiği
+
+denir. Bu tür fonksiyonların grafikleri parabollerdir.
+
+Parabolde fonksiyonun artan olduğu aralıktan
+azalan olduğu aralığa geçtiği noktaya veya azalan
+olduğu aralıktan artan olduğu aralığa geçtiği noktaya
+tepe noktası denir.
+
+Tepe noktası T ile gösterilir. f 1 R -> R olmak
+üzere fonksiyon en küçük ya da en büyük değerini
+tepe noktasında alır.
+
+ 
+
+f(x)=y=ax2+bx+c
+
+parabolünün tepe noktasından geçen ve x eks O 2
+dik olan doğruya simetri ekseni denir.
+
+BİR PARABOLÜN GRAFİĞİ
+sz-›1R,f(x) =ax2+bx+c
+biçimindeki fonksiyonun grafiğini (parabol) çize-
+bilmek için parabolün eksenleri kestiği noktalar ve
+parabolün tepe noktası bulunur. Bu noktalar ardışık
+birleştirilerek parabolün grafiği çizilir.
+
+X2 ise tepe noktasının apsisi
+
+› a>0 ise parabolün kolları yukarı,
+› a<0 ise parabolün kolları aşağı doğrudur.
+› Parabolün eksenleri kestiği noktalar
+X=0 :>f(0) :c olduğundan parabol, y eksenini
+(0,0) noktasında keser.
+› y=0 :> ax2+bx+c=0 olur. Bu durumda
+0 A>0 ise parabol x eksenini farklı iki noktada
+keser.
+0 A<0 ise parabol xeksenini kesmez.
+0 A: 0 ise parabol x eksenine teğettir.
+
+PARABOLÜN TEPE NOKTASI
+
+y=ax2 +bX+C fonksiyonunun grafiğinin tepe noktasının ko-
+ordinatları T(r,k) olmak üzere
+
+f 2 R -› IR ,f(x) = axz + bx + C fonksiyonunun tepe
+noktası T(r,k) olmak üzere fonksiyon
+
+X f(X)=(x-r)2 +1( biçiminde ifade edilir.
+f(x)=ax2+bx+c fonksiyonu için f(X):0 denkleminin kökleri

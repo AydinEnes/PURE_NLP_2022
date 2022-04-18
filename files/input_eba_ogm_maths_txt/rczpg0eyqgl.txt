@@ -1,0 +1,53 @@
+MATEMATİK DERECEDEN DENKLEMLER VE EŞİTSİZLİKLER
+
+ 
+
+BİRİNCİ DERECEDEN İKİ
+
+BİLİNMEYENLİ EŞİTSİZLİKLER
+
+birer gerçek sayı 
+sıfırdan farklı olmak üzere
+
+
+şeklindeki ifadelere birinci
+dereceden iki bilinmeyenli
+eşitsizlikler denir.
+
+Birinci dereceden iki bilinmeyenli
+denklemlerde olduğu gibi bu
+eşitsizliklerin çözüm kümesi de 
+şeklindeki sıralı ikililerden oluşur.
+Eşitsizliği doğru yapan sonsuz sayıda
+sıralı ikili bulunacağından çözüm
+kümesi analitik düzlemde boyalı
+bölgeler çizilerek gösterilir.
+
+Doğru grafiğinin kesiksiz
+(devamlı) çizimi, doğru üzerindeki
+noktaların çözüm kümesine dahil
+olduğu anlamına gelir. Kesikli çizim
+ise doğru üzerindeki noktaların
+çözüm kümesine dahil olmadığı
+anlamındadır.
+
+ Eşitsizlik işaretlerinin
+yada verildiği
+durumlarda doğru grafiği kesiksiz
+çizgi ile gösterilir.  ya da“
+durumunda ise doğru grafiği kesikli
+çizilmelidir.
+
+ Çizilen doğrunun analitik
+düzlemi iki bölgeye ayırdığı
+görülür. Bu bölgelerden hangisinin
+çözüm kümesinin elemanlarını
+bulundurduğunu anlamak için
+ayrılan bölgelerin herhangi birinden
+herhangi bir nokta seçilir. Bu nokta
+verilen eşitsizlikte yerine koyulur.
+Elde edilen ifade doğru ise noktanın
+bulunduğu bölge, yanlış ise diğer
+bölge boyanarak çözüm kümesinin
+elemanları gösterilmiş olur.
+

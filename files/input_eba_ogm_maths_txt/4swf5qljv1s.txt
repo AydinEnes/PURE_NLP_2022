@@ -1,0 +1,110 @@
+MATEMATİK - KONU SORU ÇÖZÜMÜ
+
+ 
+
+TOPLAMA YOLUYLA SAYMA
+
+A ve B olayları ayrık iki olay olsun.
+Bir A olayı n, farklı yolla, B olayı n, farklı
+yolla gerçekleşiyorsa A veya B olayın, 
+farklı yolla gerçekleşir.
+
+ÇARPMA YOLUYLA SAYMA
+
+A ve B olayları ayrık iki olay olsun.
+
+Bir A , farklı yolla, B olayı r, farklı
+yolla gerçekleşiyorsa bu olaylar bir arada r
+r, farklı yolla gerçekleşir.
+
+FAKTÖRİYEL (ÇARPANSAL)
+
+n bir doğal sayı olmak üzere 1 den n ye
+kadar olan ardışık tam sayıların çarpımına
+n faktöriyel (çarpansal) denir ve n! ile
+gösterilir.
+
+
+
+.nolur. 
+ olarak kabul edilir.
+
+PERMÜTASYON (SIRALAMA)
+
+N ver birer doğal sayı ve olmak üzere
+n elemanlı bir kümenin birbirinden farklı
+ elemanından oluşan dizilişlerin her
+birine n  permütasyonu denir.
+
+n!
+
+ 
+
+ ile hesaplanır.
+
+
+
+KOMBİNASYON (SEÇME)
+
+A kümesinin r elemanlı alt kümelerinin her
+birine A kümesinin r li kombinasyonu denir.
+ e olmak üzere n elemanlı bir A
+kümesinin r elemanlı kombinasyonlarının
+sayısı C ya da  ile gösterilir.
+
+
+
+
+Kombinasyon sayısının hesaplanmasında
+kümenin elemanlarının sıralama sayısı değil
+bu elemanların seçilebilme sayısı önemlidir.
+
+olur.
+
+ 
+
+TEMEL ÖZELLİKLER
+
+
+
+Düzlemde;
+
+> İki noktadan yalnız bir doğru geçer.
+
+> Herhangi üçü doğrusal olmayan n tane
+nokta ile  tane doğru çizilebilir.
+
+>3<r<n olmak üzere herhangi üçü
+doğrusal olmayan n tane nokta ile 
+tane üçgen, tane dörtgen,
+tane " çizilebilir.
+
+BİR OLAYIN OLASILIĞI
+
+Bir E örnek uzayında A olayının olma
+olasılığı; A kümesinin eleman sayısının 
+kümesinin eleman sayısına bölünmesiyle
+elde edilir.
+
+
+
+6 Bir olayın olma olasılığı daima
+ aralığında yer alır.
+İmkansız olayın olma olasılığı O, kesin
+olayın olma olasılığı 1 dir.
+
+A veB ayrık iki olay olmak üzere A veya B
+olayının olma olasılığı  dir.
+
+A ve B ayrık olmayan iki olay olmak üzere
+A veya B olayının olma olasılığı
+
+
+
+Örnek uzayın herhangi bir A olayının
+tümleyeni A' olmak üzere
+
+ Olur.
+
+
+

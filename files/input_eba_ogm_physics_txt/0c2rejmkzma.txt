@@ -1,0 +1,21 @@
+FİZİK - ELEKTRIK AKIMI, KONU DIRENÇ VE POTANSIYEL FARKI ARASINDAKI İLIŞKI -
+
+ 
+
+Dirençler devrede seri ve paralel olarak farklı şekillerde
+bağlanabilir. Birden fazla direncin yerine aynı etkiyi
+sağlayan tek bir dirence eşdeğer direnç denir. Ayrıca
+devrelerde akımın değerini değiştirmek için uzunluğu
+değiştirilebilen dirençlere reosta adı verilir.
+
+Bir elektrik devresinde devreye uygulanan potansiyel
+fark ile devreden geçen akım arasındaki ilişki “Ohm
+Yasası” ile açıklanır. Bu yasaya göre devreye uygulanan
+gerilimin akıma oranı sabittir. Bu sabit devrenin direncini
+verir.
+
+Ohm Yasası V/I - R şeklinde ifade edilir. Bu ifadeye göre
+direncin uçlarına uygulanan gerilim arttıkça dirençten
+geçen akım şiddeti de artar.
+
+ 

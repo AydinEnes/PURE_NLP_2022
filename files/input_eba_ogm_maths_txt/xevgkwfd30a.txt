@@ -1,0 +1,61 @@
+MATEMATİK-İKİ DOĞRUNUN BİRBİRİNE GÖRE DURUMLARI-
+
+ 
+
+DOĞRUNUN ANALİTİK İNCELENMESİ- III
+
+İKİ DOĞRUNUN BİRBİRİNE GÖRE
+DURUMLARI
+
+d1:a1x+b1y+c1 = 0 ve dz: a2 x + b2 y+c2 = 0
+
+doğruları verilsin.
+
+I. DURUM
+y > ve d2
+d1 dı doğruları sadece
+bir A noktasında
+kesişebİIİr.
+0 d1 doğrusunun
+
+x eğimi mîve d2
+doğrusunun eğimi
+mzolsun.
+
+Bu durumda
+m :m2 olmalıdır.
+d1 ve d2 doğruları sadece bir A noktasında
+kesiştiğinde dm d2= {A} olur.
+
+II. DURUM
+
+d1 ve d2
+2 doğruları birbirine
+paralel olabilir.
+Bu durumda m1
+ve mzolmalıdır.
+
+doğruları eksenleri
+farklı noktalarda
+
+kestiği için
+
+
+
+Verilen iki doğru için d1// dzolduğunda
+d1nd2={} olur.
+
+III. DURUM
+
+,4 doğruları çakışık
+d1= d2 olabilir.
+Çakışık
+x doğrular bir
+doğrunun
+farklı şekillerde
+adlandırılmasıyla
+oluşan doğrulardır.
+Bu doğruların eğimleri ve eksenleri
+kestiği noktalar aynı olur.
+d1 ve dzdoğruları çakışık olduğunda
+al bl

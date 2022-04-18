@@ -1,0 +1,112 @@
+FİZİK - ISI VE SICAKLIK KAVRAMLARI TERMOMETRELER SICAKLIK ÖLÇEKLERİ -
+
+ 
+
+İç Enerji: Bir sistemi oluşturan atom ve moleküllerin kinetik (titreşim) ve potansiyel (bağ)
+enerjilerinin toplamı, iç enerji olarak tanımlanmaktadır. Sistem üzerinde iş yapıldığında ya da
+sisteme enerji aktarıldığında sistemin iç enerjisinde değişiklik meydana gelir.
+
+Isı: Sıcaklıkları farklı, etkileşim hâlindeki iki
+sistem arasında sıcaklığı yüksek olandan düşük
+olana doğru, transfer edilen enerjiye ısı denir.
+
+
+Enerji
+aktarımı,
+sıcaklıkları
+eşitleninceye
+kadar devam
+eder.
+
+ 
+
+Yalıtılmış ortam
+
+Isı; O sembolü ile gösterilir. SI'daki birimi joule'dür. Temel ısı birimi olmamasına rağmen genellikle kalori (cal) kullanılmaktadır. İki enerji birimi olan joule ve kalori arasında 1 cal £4.186 J
+ilişkisi vardır. Aktarılan ısı enerjisini hesaplamak
+için kalorimetre kabı kullanılır.
+
+Kalorimetre Kabı: Sistemin aldığı ya da verdiği
+ısının ölçümü kalorimetre kabı ile yapılır. Kalorimetre kabında da ölçümü yapılan nicelik aslında
+sıcaklık olup sonrasında ısı matematiksel modellerle hesaplanır. “Bir cismin içindeki ısı miktarı”
+ya da “bir sistemin ısısı” şeklinde bir kavram
+yoktur. Isı, sıcaklık farkı nedeniyle bir sistemden
+diğer sisteme aktarılan enerjidir.
+
+Sıcaklık: Bir sistemdeki atom ve moleküllerin
+ortalama kinetik enerjisinin bir göstergesine
+sıcaklık denir. Sıcaklık bir enerji değildir.
+
+Sıcaklık; T ile gösterilir. Temel ve skaler büyük-
+lüktür. Termometre ile ölçülür. SI'da birimi Kelvin'dir, Günlük yaşamda Celsius, Fahrenheit veya
+başka sistemlerle ölçeklenmiş sıcaklık ölçerler de
+kullanılmaktadır.
+
+Sıcaklık ölçümünde kullanılan aletlere termometre denir. Isı veren ya da alan termometrede
+fiziksel değişiklikler meydana gelir. Gözlenebilecek değişiklikler katı, sıvı ve gazlarda genleşme
+gazlarda basınç değişimi katılarda renk ve direnç
+
+değişimi şeklindedir.
+
+ 
+
+Dijital termometre
+İnfrared (Kızılötesi) termometre
+
+Kullanım amaçlarına göre termometreler:
+
+Termometreler
+
+ 
+
+Metal Termometreler: Metallerin genleşme
+özelliğine bağlı olarak geliştirilmiştir. Metal termometreler yüksek sıcaklıkların ölçümünde kullanılmaktadır. Metal termometrelerden eritme,
+pişirme veya kurutma gibi işlemlerin yapıldığı
+endüstriyel alanlarda ve fırınlarda yararlanılmaktadır.
+
+Gazlı Termometreler: Gazların genleşme
+özelliğine ve basıncına bağlı olarak çalışır. Gazlar,
+sıcaklık değişimlerine katı ve sıvılara oranla daha
+fazla tepki verir. Hassas sıcaklık ölçümlerinde gazlı termometreler kullanılmaktadır. Gazlı termometrelerden laboratuvarlarda yararlanılmaktadır.
+
+Sıvılı Termometreler: Sıvılı termometrelerin
+yapısı temel olarak kılcal cam boru, renklendirilmiş sıvı ve hazneden oluşmaktadır. Renklendirilmiş sıvı olarak; cıva, alkol, ispirto kullanılabilir. Fiziksel değişimler bir gösterge paneliyle
+nicel olarak gözlenebilir hâle getirilir. Sıvılı
+termometre yapmak için cam sütununa donma
+noktasındaki su ile aynı sıcaklıktayken bir işaret,
+kaynama noktasındaki su ile aynı sıcaklıktayken
+yeni bir işaret konup işaretler arası eşit parçalara
+bölünürse bir termometre yapılmış olur. Suyun
+donma sıcaklığı 09, kaynama sıcaklığı 100* işaretlenirse Celsius (*C) ölçeğine göre düzenlenmiş
+olur. Suyun donma sıcaklıklarından daha düşük
+sıcaklıklar negatif olarak belirtilir. Ölçümün hassasiyeti kılcal borulardan genleşme kat sayısı az
+ve kesit alanı küçük olan boruya, renklendirilmiş
+sıvılardan genleşme kat sayısı çok olan sıvıya,
+sıvı haznesinin büyüklüğüne, sıcaklık aralığının
+ölçeklendirilme miktarına bağlıdır.
+
+Gazlı Termometre
+
+
+Sıvılı Termometre
+
+Mutlak Sıcaklık: Maddenin atom ve moleküllerinin kinetik enerjisinin sıfır olarak öngörüldüğü,
+yani maddenin atom ve moleküllerinin bütün
+hareketlerinin durduğu varsayılan teorik sıcaklık
+değerine mutlak sıcaklık adı verilmektedir. Mutlak sıcaklık Kelvin ölçeğinde O K, Celsius ölçeğinde -273,16 *C'ye karşılık gelmektedir.
+
+Bu sıcaklıktaki bir maddenin atom ve moleküllerinin bütün hareketinin durduğu öngörülmektedir. Maddenin sıcaklığını bu sıcaklık değerinin
+altına düşürmek mümkün değildir.
+
+Aynı ortamdaki termometrelerle aynı sıcaklık
+ölçülür fakat ölçeklendirme farklı olduğu için termometrelerin üzerinde okunan değerler birbirinden farklı olur. Bir termometrede okunan değerin diğer termometrede hangi sıcaklık değerine
+karşılık geldiğinin bulunması için termometrelerdeki sıcaklık değişim miktarları oranlanır.
+
+Sıvılı termometrelerde ölçeklendirme deniz
+seviyesinde, 1 atm basınç altındaki suyun donma
+ve kaynama sıcaklıkları arasında yapılır.
+
+  
+ 
+Celcius Fahrenheit Kelvin
+termometresi termometresi termometresi

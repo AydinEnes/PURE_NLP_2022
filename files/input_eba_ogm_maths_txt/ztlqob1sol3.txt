@@ -1,0 +1,43 @@
+MATEMATİK-ANALİTİK DÜZLEMDE TEMEL DÖNÜŞÜMLER-
+
+ 
+
+DÖNME DÖNÜŞÜMÜ
+
+Bir noktanın sabit bir noktaya olan
+uzaklığı değişmeden bu sabit nokta
+etrafında hareket etmesine dönme
+denir.
+
+P(x,y) noktasının orijin etrafında
+pozitif yönde oı açısı kadar
+döndürülmesi ile elde edilen P'noktası
+
+P':Ra(P)=(xcosa-ysina,xsina+ycosa)
+biçiminde bulunur.
+
+Burada Ra ya dönme dönüşümü, 0(
+ya ise dönme açısı denir.
+
+Pozitif yön
+(Saat yönünün tersi)
+
+  
+ 
+
+X Negatif yön
+(Saat yönü)
+
+
+
+DÖNME MERKEZİ
+
+Dönme dönüşümü, düzlemde bir nokta dışındaki tüm
+noktaları değiştirir. Dönme dönüşümünün değiştirmediği
+bu noktaya dönme merkezi denir. Burada sadece orijin
+etrafında dönmeden bahsedildiği için dönme merkezi
+orijin olarak alınacaktır.
+
+Herhangi bir (x, y) noktaşı orijin etrafında pozitif
+yönde 90°,180°,2700,360 döndürüldüğünde aşağıdaki
+noktalar elde edilir.

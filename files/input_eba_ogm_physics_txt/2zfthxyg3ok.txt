@@ -1,0 +1,41 @@
+FİZİK - DÜZGÜN DOĞRUSAL HAREKET -
+
+ 
+
+Düzgün Doğrusal Hareket: Bir hareketlinin, doğrusal yolda, hızının
+büyüklüğü değişmeden yaptığı harekete düzgün doğrusal hareket denir.
+
+Düzgün Doğrusal Hareket Grafikleri: Düzgün doğrusal hareket yapan bir
+hareketlinin konumu düzgün artar. Hızının büyüklüğü ise zamanla değişmez.
+
+
+
+Pozitif yönde düzgün doğrusal hareket yapan cismin konum-zaman ve hız zaman grafikleri
+
+ 
+
+ 
+
+Negatif yönde düzgün doğrusal hareket yapan cismin konum-zaman ve hız zaman grafikleri
+
+Düzgün Doğrusal Hareket Grafiklerinin Yorumlanması: Düzgün doğrusal
+harekette bir grafikteki bilgiler kullanılarak diğer bir grafik hakkında
+yorumda bulunulabilir.
+
+Konum -— zaman grafiğinin eğimi cismin hızını verir.
+
+Konum
+
+Grafiğin eğimi
+hareketlinin hızını verir.
+
+
+   
+
+Hız — zaman grafiğinin altında kalan alan cismin yerdeğiştirmesini verir.
+Hız
+
+ 
+
+v Grafiğin altında kalan alan
+yer değiştirmeyi verir.

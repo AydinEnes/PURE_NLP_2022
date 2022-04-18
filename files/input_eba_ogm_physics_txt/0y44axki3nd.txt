@@ -1,0 +1,45 @@
+FİZİK - MERCEKLERDE KIRILMA -
+
+ 
+
+Merceklerin Genel Özellikleri: Mikroskoptan gözlüğe,
+kameradan teleskoba kadar pek çok optik sistemde kullanılan
+mercekler, genellikle camdan ya da saydam plastikten yapılan
+optik araçlardır.
+
+Işığın kırılması sonucunda ışık ışınlarını bir noktada
+toplayabilen ya da bir noktadan saçılıyormuş gibi dağıtan en
+az bir yüzü küresel iki yüzey arasında kalan saydam ortamlara
+mercek denir.
+
+Saydam ortamın mercek olabilmesi için
+
+* Yüzeylerinden en az biri küresel olmalıdır.
+
+* İki küresel yüzeyi bulunan saydam yüzeylerin mercek
+oluşturabilmesi için eğrilik merkezlerinin çakışık olmaması
+gerekir.
+
+
+Mercekler, yüzeylerinin şekline göre ince ve kalın kenarlı olmak üzere ikiye ayrılır. Saydam iki küresel yüzeyin ya da bir
+düzlem ile küresel bir yüzeyin kesişmesi sonucunda oluşan uç
+kısımları orta kısmına göre daha ince olan merceklere ince
+kenarlı mercek denir.
+
+
+İnce kenarlı mercekler üzerine gelen bütün ışınları her iki
+yüzeyden kırarak merceğin orta noktasından geçen eksene
+yaklaştıracak şekilde yönlendirir. Bu nedenle ince kenarlı
+merceklere yakınsak mercek de denir.
+
+1) Asal eksene
+paralel
+gönderilen
+
+I ışınının
+
+ince kenarlı
+mercekte
+izlediği yol
+şekildeki
+gibidir.

@@ -1,0 +1,50 @@
+MATEMATİK - DELTOİD VE ÖZELLİKLERİ
+
+ 
+
+DELTOİD VE ÖZELLİKLERİ
+
+Bir ABCD dörtgeninde  ve
+ise bu dörtgene deltoid denir.
+
+
+ köşegeni aynı
+zamanda aç ortaydır.
+
+
+olur.
+
+ 
+
+Şekildeki ABCD dörtgeni
+deltoid olmak üzere (AC) ve
+(BDJ deltoidin köşegenleridir.
+
+
+
+Bu deltoidin alanı
+
+Bu deltoidin alanı
+
+
+
+
+ 
+
+NOT: Bir dörtgenin
+kenarlarının orta noktaları birleştirilerek elde
+edilen dörtgen paralelkenar olur.
+
+Şekildeki ABCD dörtgeni için;
+
+vardır.
+ ise dörtgeni eşkenar
+dörtgendir.
+
+ise KLPR dörtgeni
+dikdörtgendir.
+
+dörtgeni karedir.
+
+ 
+

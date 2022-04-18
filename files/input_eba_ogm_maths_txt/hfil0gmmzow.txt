@@ -1,0 +1,17 @@
+MATEMATİK-ÜSTEL VE LOGARİTMİK EŞİTSİZLİKLER GÜNLÜK HAYAT PROBLEMLERİ-
+
+ 
+
+ÜSTEL EŞİTSİZLİKLER
+
+
+LOGARİTMİK EŞİTSİZLİKLER
+
+Logaritmik eşitsizliklerde
+
+
+Ayrıca logaritmanın tanımı gereği
+
+f(x) > 0 ve g(X) > 0
+
+olmalıdır.

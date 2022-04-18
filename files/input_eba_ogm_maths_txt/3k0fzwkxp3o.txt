@@ -1,0 +1,91 @@
+MATEMATİK-İKİNCİ DERECEDEN İKİ BİLİNMEYENLİ DENKLEM SİSTEMLERİ-
+
+ 
+
+DENKLEM VE ESİTSİZLİK SİSTEMLERİ
+İKİNCİ DERECEDEN BİR BİLİNMEYENLİ EŞİTSİZLİKLER VE EŞİTSİZLİK SİSTEMLERİ
+
+a±0 ve a, b,C E lR olmak üzere
+
+aX2+bX+CZO aX2+bX+CSO
+
+ax2+bx+c<0 ax2+bx+c>0
+
+ifadelerinin her birine ikinci dereceden bir
+bilinmeyenli eşitsizlik ve eşitsizliği sağlayan
+x değerlerinin kümesine eşitsizliğin çözüm
+kümesi denir.
+
+axz +bx+c ikinci dereceden üç
+terimlisinin hangi aralıkta pozitif, hangi
+aralıkta negatif değer alacağı üç durumda
+incelenir.
+
+1) Azb2 -4ac>0 Olmak üzere
+denkleminin birbirinden
+farklı iki kökü vardır. Bu kökler x1 x2 olmak
+üzere x1 ve xzolsun.
+
+Bu durumda ax2 +bx+c ifadesinin işaret
+tablosu aşağıdaki gibi incelenir.
+
+3) Azb2 -4ac<0 olmak üzere
+ax2 +bx+c =0 denkleminin kökü yoktur.
+Bu durumda ax2 +bx+c ifadesinin
+işaret tablosu aşağıdaki gibi incelenir.
+
+ 
+
+ax2+bx+c
+
+ 
+
+a nın işaretiyle aynı
+
+ 
+
+ 
+
+NOT:
+
+ 
+
+İşaret tablosu oluşturulurken kullanılacak gösterimler:
+
+ 
+
+a nın işaretiyle a nın işaretinin a nın işaretiyle
+aynı tersi aynı
+ Azb2 -4aC:O olmak üzere
+ax2 +bx+c :0 denkleminin X1: X2
+olacak şekilde birbirine eşit (çakışık, çift katlı)
+iki kökü vardır.
+
+Bu durumda ax2 +bx+c ifadesinin
+işaret tablosu aşağıdaki gibi incelenir.
+
+ 
+
+ 
+
+a nın işaretiyle aynı 8 a nın işaretiyle aynı
+
+
+Payın kökü Paydanın kökü
+Tek katlı
+Çift katlı
+Eşitlik Eşit olmama Eşitlik ve eşit olmama
+NOT:
+
+f(x)=aX2 +bx+C fonksiyonunun işareti
+incelenirken işaret tablosunda en sağ aralığa
+a 'nın işareti yazılır. İşaret tek katlı köklerde
+değişirken çift katlı köklerde değişmez.
+
+SONUÇ:
+
+
+f(X)> O ise A<0 ve a>0,
+
+f(X)< 0 ise A<0 ve 3< 0 olmalıdır.
+

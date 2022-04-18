@@ -1,0 +1,42 @@
+MATEMATİK-BELİRSİZ İNTEGRAL -
+
+ 
+
+I DİFERANSİYEI. KAVRAMI
+
+ 
+
+Türevlenebilir bir f(x) fonksiyonunun türevi
+C;ix(f(x))=f'(x) olmak üzere d(f(x)) ifadesine f(X)
+fonksiyonunun diferansiyeli denir ve
+
+d(f(x))= f'(X)-dx olur.
+
+I DEĞİSKEN DEĞİŞTİRME YÖNTEMİ
+
+ 
+
+
+integral alma kuralları ile alınması zor olan
+bazı integraller değişken değiştirme yöntemi
+kullanılarak daha basit integraller hâline
+getirildikten sonra kolayca integrali alınabilir.
+
+n±0,n±-1ve olmak üzere
+
+If(x)n~f'(x)~dx biçimindeki integrallerde sırasıyla
+aşağıdaki adımlar uygulanır:
+
+f(x):u dönüşümü yapılır. Sonra her iki tarafın
+diferansiyeli alınır.
+
+f'(x)-dx=du olur. Buradan dönüşüm ve
+diferansiyel verilen integralde yerine yazılarak
+
+)f(x)n -f'(x).dx:jun -du elde edilir. Yeni
+elde edilen u değişkenine bağlı integral alınır.
+
+Bulunan ifadede u yerine eşiti olan f(x) yazılarak
+integral alma işlemi tamamlanır.
+
+hangisine eşittir?

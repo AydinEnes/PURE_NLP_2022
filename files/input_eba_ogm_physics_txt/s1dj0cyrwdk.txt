@@ -1,0 +1,125 @@
+FİZİK - YAY DALGALARINDA YANSIMA VE İLETİLME -
+
+ 
+
+Yay Dalgalarında Yansıma: Yay üzerinde
+ilerleyen atmanın bir engele çarpıp geri dönmesine
+yansıma denir. Engele çarpıp geri dönen atmaya
+da yansıyan atma adı verilir. Yayın bir ucunun
+sabitlenmesiyle oluşturulan bağlantılara sabit
+uç, yayın bir ucunun serbestçe hareket edebildiği
+bağlantılara serbest uç denir.
+
+
+Serbest uç Sabit uç
+Sabit Uçtan Yansıma:
+
+Atmanın ilerleme yönü
+
+
+Atmanın ilerleme yönü
+
+Sabit bir uca gönderilen baş yukarı bir atma
+engele ulaştığında engeli yukarı çıkmaya zorlar.
+Engel hareket etmeyeceği için Newton'un etki-tepki
+yasası gereği yaya aşağı doğru bir kuvvet uygular.
+Atma bu kuvvetin etkisiyle baş aşağı dönerek
+engelden yansır.
+
+Serbest Uçtan Yansıma:
+
+Atmanın ilerleme yönü Atmanın ilerleme yönü
+
+
+Serbest bir uca gönderilen baş yukarı atma
+engele ulaştığında engeli yukarı çıkmaya zorlar.
+Engel hareketli olduğundan atma yukarı çıkarak
+kinetik enerjiyi potansiyel enerjiye dönüştürür.
+Hareketli uç aşağı inerken potansiyel enerji yeniden
+kinetik enerjiye dönüşerek atmanın baş yukarı
+yansımasını sağlar.
+
+Atmanın Farklı Ortamlardan Geçişi:
+
+Hafif Yaydan Ağır Yaya Gelen Atmalar
+
+Birim uzunluktaki kütleleri farklı bir yaydan
+
+diğerine geçen atmanın fiziksel özelliklerinde
+değişme meydana gelir. Farklı kalınlıkta iki yay
+birleştirildikten sonra yaylardan birinde atma
+oluşturulduğunda yayların birleşme noktasına gelen
+atmanın bir kısmı diğer yaya iletilir, bir kısmı yansır.
+
+Yansıyan atma İletilen atma
+
+se Gelen ve yansıyan atmalar, aynı yayda ilerlediğinden hız büyüklükleri eşittir. Kalın yaya iletilen
+atmanın hızı daha azdır (v,-v, > v.).
+
+se Gelen atmanın oluşma süresi yansıyan ve
+iletilen atmaların oluşma süresiyle aynıdır. Eğer
+atma değil de dalga farklı bir ortama gönderilirse
+dalgaların da oluşma süresi dolayısıyla periyotları ve
+frekansları da aynı olur.
+
+ev -A.f eşitliğine göre frekansın eşit olması
+durumunda atmanın hızı ile genişliği doğru orantılı
+olacağından gelen ile yansıyan atmanın genişlikleri
+birbirine eşittir. İletilen atmanın genişliği ise daha
+
+Gelen atma 7
+
+> Vi Ağır Yaydan
+Hafif Yaya Gelen
+Atmalar
+
+    
+ 
+
+e Gelen atma, enerjisinin bir kısmını iletilen bir
+kısmını da yansıyan atmaya aktarır. Bu nedenle
+gelen atmanın enerjisi dolayısıyla genliği en
+büyüktür (E,>E,,E, >E,). Gelen atmanın enerjisi
+iletilen ve yansıyan atmanın enerjileri toplamına
+eşittir. İletilen ve yansıyan atmanın genlik büyüklüğü
+hakkında kesin bir şey söylenemez 
+
+Ağır Yaydan Hafif Yaya Gelen Atmalar
+
+Gelen ve yansıyan atmalar, aynı yayda ilerlediğinden hız büyüklükleri eşittir. İnce yaya iletilen
+atmanın hızı daha fazladır (v. >v,- v.).
+
+» Gelen atmanın oluşma süresi yansıyan ve
+iletilen atmaların oluşma süresiyle aynıdır. Eğer
+atma değil de dalga farklı bir ortama gönderilirse
+dalgaların da oluşma süresi dolayısıyla periyotları
+ve frekansları da aynı olur (T,-T,-T, ve
+Raf 2f).
+
+ev -A.feşitliğine göre frekansın eşit olması
+durumunda atmanın hızı ile genişliği doğru orantılı
+olacağından gelen ile yansıyan atmanın genişlikleri
+birbirine eşittir. İletilen atmanın genişliği ise daha
+büyüktür (x,>X,2X)).
+
+» Gelen atma, enerjisinin bir kısmını iletilen bir
+kısmını da yansıyan atmaya aktarır. Bu nedenle
+gelen atmanın enerjisi dolayısıyla genliği en
+büyüktür (E,>E,,E,>E,). Gelen atmanın enerjisi
+iletilen ve yansıyan atmanın enerjileri toplamına
+eşittir. İletilen ve yansıyan atmanın genlik
+büyüklüğü hakkında kesin bir şey söylenemez (y, >
+Y.Y,>YŞk,
+
+Atmaların Üst Üste Gelmesi: Yay üzerinde
+oluşturulan atmalar karşılaştığında bir an için yeni
+bir atma oluşturur. Bu yeni atmaya bileşke atma
+denir. Birbiri içinden geçen atmalar aynı fiziksel
+özelliklerle hareketine devam eder. Birbirine doğru
+hareket eden iki atmanın karşılaşıp bileşke atma
+oluşturmasına girişim denir. Genlik yönleri aynı
+iki atma üst üste geldiğinde oluşan girişime yapıcı
+girişim denir.
+
+Genlik yönleri zıt iki atma üst üste geldiğinde
+oluşan girişime yıkıcı girişim denir.

@@ -1,0 +1,44 @@
+MATEMATİK -DENKLEMLERİ VERİLEN DOĞRU iLE ÇEMBERİN BİRBİRİNE GÖRE DURUMLARI-
+
+ 
+
+ANALİTİK GEOMETRİ
+
+ÇEMBER DENKLEMİ
+
+DENKLEMLERİ VERİLEN DOĞRU iLE ÇEMBERİN BİR-
+BİRİNE GÖRE DURUMLARI
+
+|MH| > r ise doğru
+
+çemberi kesmez.
+
+ 
+
+ 
+
+ 
+
+Genel denklemi x2 +y2 + Dx + Ey + F = 0 olan çember ile y = mx + n
+doğrusunun ortak çözümü yapılarak doğru ile çemberin birbirine
+göre durumları incelenir.
+
+Çember denkleminde y yerine mx + n yazılarak
+
+ax2 + bx + c = 0 biçiminde ikinci dereceden bir denklem elde edilir.
+
+Bu denklemin diskriminantı A = I:)2 - 4ac olmak üzere
+
+1.
+
+A = b2 - 4ac < 0 ise elde edilen denklemin kökü yoktur. Bu
+durumda doğru çemberi kesmez.
+
+A = lo2 - 4ac = 0 ise elde edilen denklemin çift katlı kökü
+vardır. Bu durumda doğru çembere teğettir.
+
+A = I:)2 - 4ac > 0 ise elde edilen denklemin farklı iki kökü
+vardır. Bu durumda doğru çemberi iki noktada keser.
+
+ 
+

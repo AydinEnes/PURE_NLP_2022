@@ -1,0 +1,81 @@
+MATEMATİK - FONKSİYON GRAFİKLERİ
+
+ 
+
+Hayatımızda karşılaştığımız
+bu durumları fonksiyon
+kavramını kullanarak
+matematiksel olarak
+
+ifade edebiliriz.
+Fonksiyonlarla elde
+ettiğimiz sayısal verilerin
+çizgilerle ifade edilmesi
+yöntemine grafik denir.
+
+BİR FONKSİYONUN GRAFİĞİ
+
+
+fonksiyonuna ait bütün
+noktaların koordinat
+sisteminde gösterilmesiyle
+oluşan noktalar kümesine f
+fonksiyonunun grafiği denir.
+Bir fonksiyon grafiği
+çizilirken tanım kümesinin
+elemanları yatay eksende,
+değer kümesinin elemanları
+düşey eksende gösterilir.
+
+DOĞRUSAL FONKSİYONLARIN
+GRAFİKLERİ
+
+
+olmak üzere 
+fonksiyonunun grafiği dik
+koordinat sisteminde
+
+doğrusunun
+grafiğini belirtir.
+
+Bir doğrunun grafiğini dik
+koordinat sisteminde çizmek
+için bu doğrunun geçtiği en
+az iki noktaya ihtiyaç vardır.
+
+denklemini
+sağlayan en az 2 tane
+06y) sıralı ikilisi seçilip bu
+sıralı ikililer dik koordinat
+sisteminde işaretlenir.
+İşaretlenen noktalar bir
+doğru oluşturacak şekilde
+birleştirilip doğrusal
+fonksiyonun grafiği çizilir.
+fonksiyonunda
+
+ yerine O yazılarak fonksiyon grafiğinin y eksenini
+kestiği nokta,
+
+yerine O yazılarak fonksiyon grafiğinin x eksenini
+kestiği nokta
+
+bulunur.
+
+ biçiminde
+verilen bir doğrusal
+fonksiyonun grafiğinin
+eksenlerini
+kestiği noktalar a ve b
+katsayılarına bağlı olarak
+değişir.
+
+PARÇALI
+FONKSİYONLARIN
+GRAFİKLERİ
+
+Parçalı fonksiyonların
+grafikleri kritik noktalar
+dikkate alınarak parça
+parça oluşturulur.
+

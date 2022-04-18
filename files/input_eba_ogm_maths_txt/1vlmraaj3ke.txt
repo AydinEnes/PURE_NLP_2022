@@ -1,0 +1,66 @@
+MATEMATİK - KONU FONKSİYON KAVRAMI
+
+ 
+
+Matematikte fonksiyon, tıpkı günlük
+hayatta gözlemlenen olay ve sonuçlar
+gibi bilimsel bir kurala göre girdi ve
+çıktılardan oluşan bir dönüştürücüdür.
+
+FONKSİYON TANIMI
+
+A ve B boş kümeden farklı iki küme
+olmak üzere A kümesinin her bir
+elemanını B kümesinin bir ve yalnız bir
+elemanına eşleyen ilişkiye A dan B ye
+tanımlı fonksiyon denir.
+
+Fonksiyonlar f, g, h gibi küçük
+harflerle isimlendirilir.
+
+Tanım
+Kümesi
+
+Değer
+Kümesi
+
+Bir A kümesinden B kümesine
+tanımlı f fonksiyonu ile
+gösterilir.
+
+A kümesine tanım kümesi, B
+kümesine değer kümesi denir.
+
+A kümesinden A kümesine tanımlı
+bir fonksiyona kısaca A kümesinde
+tanımlı fonksiyon denir.
+
+f fonksiyonu A kümesinden alınan
+bir elemanını B kümesindeki bir 
+elemanı ile eşliyorsa   elemanının
+f fonksiyonu altındaki görüntüsü 
+elemanıdır.” denir. Bu durum
+
+ biçiminde gösterilir.
+
+ 
+
+ görüntü kümesi
+
+
+
+olmak üzere tanım
+kümesindeki elemanların f fonksiyonu
+altındaki görüntülerinin oluşturduğu
+kümeye bu fonksiyonun görüntü
+kümesi denir. £(A)ile gösterilir.
+
+Görüntü kümesi ortak özellik
+yöntemi ile
+ ile gösterilir.
+
+A ve B boş olmayan iki küme olsun.
+ ise 
+B ye tanımlı fonksiyon sayısı n ile
+bulunur.
+

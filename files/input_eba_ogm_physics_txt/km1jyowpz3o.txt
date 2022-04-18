@@ -1,0 +1,99 @@
+FİZİK - KATI BASINCI -
+
+ 
+
+Basınç: Katı ve sıvılar ağırlıkları, gazlar ise temas ettikleri
+yüzeylere hem ağırlıkları hem de hareket hâlindeki taneciklerinin çarpması nedeniyle bir kuvvet uygular.
+
+Katı ve sıvılar ağırlıkları, gazlar ise temas ettikleri yüzeylere
+ hem ağırlıkları hem de hareket hâlindeki taneciklerinin çarpması nedeniyle bir kuvvet uygular.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tüm yüzeye etki eden dik kuvvete basınç kuvveti, birim yüzeye
+ dik olarak etki eden kuvvetin büyüklüğüne de basınç adı
+verilir. Basınç P sembolü ile gösterilir, SI'da birimi pascal (Pa) dır.
+
+Dik Kuvvetin p
+Büyüklüğü
+
+— Alan
+
+Basınç 
+
+Katılar üzerine uygulanan kuvveti aynı doğrultuda aynen iletirler.
+ Düzgün yükselen katıların basıncı Ph.d.g ile hesaplanır.
+
+Düzgün Yükselen Katılara Örnekler
+
+ 
+
+
+Silindir Üçgen Dikdörtgen Ooo Kare Küp
+Prizma Prizma Prizma
+Çivi üzerine
+
+uygulanan kuvveti
+aynen iletir. Çivinin
+ucundaki alan daha
+küçük olduğu için
+basınç artar.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Basınç Kuvveti: Bir cismin zemine uyguladığı toplam
+basınca basınç kuvveti denir. Üzerine bir kuvvet etki etmeyen
+katı cisimlerde basınç kuvveti cismin ağırlığına eşittir.
+
+Piezoelektrik Olay: Kristal yapıdaki cisimlerin yüzeylerine
+dışarıdan uygulanan basınç ile orantılı olarak yüzeyler arasında
+potansiyel farkı oluşturmasına piezoelektrik olayı denir.
+Çakmaklarda, kristal mikrofonlarda, Radyo vericilerinin frekans
+kontrollerinde, sonar cihazlarında, hassas terazilerde kullanılır.
+
+ 
+
+Piezoelektrik Voltmetre (V;)
+
+   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+malzeme Voltmetre (V>) E Tİ
+üzerine F, v7 1
+
+uygulanan
+
+basınç artarsa
+voltmetrenin
+gösterdiği
+
+değer artar.
+
+ 
+
+ 
+
+ 
+

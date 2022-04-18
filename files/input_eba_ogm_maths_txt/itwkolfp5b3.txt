@@ -1,0 +1,63 @@
+MATEMATİK - İKİ FONKSİYONUN BİLEŞKESİ VE BİR FONKSİYONUN TERSİ
+
+ 
+
+FONKSİYON TANIM KÜMESİ DEĞER
+
+KÜMESİ GÖRÜNTÜ KÜMESİ
+
+Boş olmayan iki kümeden biri olan A kümesinin her bir
+elemanını B kümesinin bir ve yalnız bir elemanına eşleyen
+ilişkiye A dan B ye tanımlı fonksiyon denir.
+
+ Bir A kümesinden B kümesine tanımlı f fonksiyonu kısaca
+ şeklinde gösterilir.
+
+ Burada A ya fonksiyonun tanım kümesi, B ye ise
+fonksiyonun değer kümesi denir.
+
+sAnın eşlendiği  kümesine de görüntü kümesi denir.
+
+FONKSİYONLARIN BİLEŞKESİ
+
+ boş kümeden farklı birer küme olmak üzere
+ fonksiyonları verilsin.
+
+A kümesinin elemanlarını f ve g fonksiyonları yardımıyla
+C kümesinin elemanları ile eşleştiren fonksiyona file 
+fonksiyonlarının bileşke fonksiyonu denir.
+
+ şeklinde gösterilir.
+
+
+biçiminde gösterilebilir.
+FONKSİYONLARDA BİLEŞKE İŞLEMİNİN ÖZELLİKLERİ
+
+1) Bir f fonksiyonunun birim fonksiyon ile bileşkesi yine f
+fonksiyonudur.
+
+
+
+2) Fonksiyonlarda bileşke işleminin değişme özelliği yoktur.
+
+Yani herhangi iki fonksiyonları için 
+
+3) Fonksiyonlarda bileşke işleminin birleşme özelliği vardır.
+
+
+4) Uygun koşullarda tanımlı f, g ve h fonksiyonları için
+
+
+
+
+
+
+
+
+BİR FONKSİYONUN TERSİ
+
+birebir ve örten fonksiyonu verilsin.
+ için  oluyorsa
+
+fonksiyonuna  fonksiyonunun tersi denir.
+

@@ -1,0 +1,16 @@
+MATEMATİK-TRİGONOMETRİ-
+
+ 
+
+ 
+
+KOSİNÜS TEOREMİ
+
+
+ 
+
+ABC nin kenar uzunlukları a,b,Cve bu kenarları gören açılar A, B veC olmak üzere
+COSA kuralı vardır. Bu teoreme "Kosinüs Teoremi" denir.
+Herhangi bir üçgende bir kenar uzunluğunun karesi, diğer iki kenar uzunluklarının kareleri
+toplamından bu kenar uzunlukları ile bu iki kenar arasındaki açının kosinüs değerinin
+B 3 C çarpımının iki katının çıkarılmasıyla elde edilir.

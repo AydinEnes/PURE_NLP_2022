@@ -1,0 +1,113 @@
+MATEMATİK EBOB-EKOK
+
+ 
+
+DENKLEMLER VE EŞİTSİZLİKLER
+TAM SAYILARDA EBOB VE EKOK
+EN BÜYÜK ORTAK BÖLEN (EBOB)
+
+İki veya daha fazla sayıyı aynı anda
+bölebilen sayılara ortak bölenler denir.
+1 sayısı bütün sayıları böler.
+
+ÖRNEK:
+
+Birden fazla doğal sayının pozitif
+ortak katlarının küçüğüne bu sayıların
+en küçük ortak katı denir.
+
+En küçük ortak kat EKOK ile gösterilir.
+
+ pozitif iki tam sayı olmak üzere
+bu iki sayının EKOK u; EKOK veya
+ şeklinde gösterilir.
+
+Sayıların EBOB değerini bulurken
+sayılar asal
+
+ 
+
+ 
+18in pozitif tam bölenleri  
+24 ün pozitif tam bölenleri 
+
+çarpanlarına
+ayrılır. Ortak
+olan asal
+çarpanlardan
+üssü küçük
+
+ 
+
+ 
+
+18 ve 24 ün ortak pozitif tam sayı
+bölenleri:
+
+18 ve 24 ü ortak bölen en büyük tam
+sayı: 
+
+Birden fazla sayının ortak bölenlerinin
+en büyüğüne bu sayıların en büyük
+ortak böleni denir. En büyük ortak
+bölen EBOB ile gösterilir.
+
+En az biri sıfırdan farklı x ve y pozitif
+tam sayıları verildiğinde bu iki sayının
+EBOB EBOB veya 
+şeklinde gösterilir.
+
+EBOB
+
+EN KÜÇÜK ORTAK KAT (EKOK)
+
+Sayıların katları alınıp bu sayılar belli
+bir noktada buluşturulmak istendiğinde
+veya parçaları birleştirerek bir bütün
+elde etmek amaçlandığında ortak
+katların en küçüğü kullanılır.
+
+Örnek:
+
+pozitif tam sayı katları 
+
+ pozitif tam sayı katları 
+
+12 ve 18 sayılarının pozitif ortak
+katları  olduğundan
+bu sayıların en küçük ortak katı 36 olur.
+
+olanların
+çarpımı bu sayıların EBOB değerini verir.
+
+Sayıların EKOK değerini bulurken
+sayılar asal çarpanlarına ayrılır. Ortak
+olan asal çarpanlardan üssü büyük
+olanlarla ortak olmayan asal çarpanların
+çarpımı bu sayıların EKOK değerini verir.
+
+EBOB VE EKOK UN BAZI ÖZELLİKLERİ
+
+ pozitif tam sayılarının çarpımı
+bu sayıların EBOB ile EKOK değerlerinin
+çarpımına eşittir.
+
+EBOB EKOK
+
+2) ave b aralarında asal iki pozitif tam
+sayı olmak üzere
+
+> EBOB
+> EKOK
+
+olur.
+
+3) ave b pozitif tam sayılarından biri
+diğerinin tam katı ise bu sayıların
+
+ EBOB u sayılardan küçük olanına,
+
+ EKOK u sayılardan büyük olanına
+
+eşittir.
+

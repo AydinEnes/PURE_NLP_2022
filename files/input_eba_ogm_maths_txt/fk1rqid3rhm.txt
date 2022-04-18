@@ -1,0 +1,94 @@
+MATEMATİK KÜMELERDE TEMEL KAVRAMLAR-1
+
+ 
+
+KÜME: İyi tanımlanmış,
+birbirinden farklı nesneler
+topluluğuna küme denir.
+Buradaki nesneler soyut ya da
+somut olabilir.
+
+Kümeyi oluşturan nesnelerin
+veya sembollerin her birine
+kümenin elemanları denir.
+Kümeler genellikle A, B, C,
+gibi büyük harflerle gösterilir.
+
+kümesinin elemanı ise
+a£ Aile gösterilir ve'
+“elemanıdır “ A diye okunur.
+kümesinin elemanı değil
+ise af Aile gösterilir ve 4
+“elemanı değildir “ A diye
+okunur.
+
+KİLLİ
+
+I) Liste Yöntemi ile
+Gösterim
+
+Kümeye ait tüm elemanlar,
+küme parantezi olan 
+şekli içerisine aralarına virgül
+konularak yazılır. Her eleman
+
+yalnız bir kez yazılır ve
+elemanların yer değiştirmesi
+yeni bir küme oluşturmaz.
+
+II) Venn Şeması Yöntemi ile
+Gösterim
+
+Kümeyi oluşturan bütün
+elemanların kapalı bir
+şekil içerisinde önüne “.”
+konularak gösterilmesidir.
+
+III) Ortak Özellik Yöntemi
+ile Gösterim
+
+Kümenin bütün
+elemanlarının sahip olduğu
+ortak özelliğin matematiksel
+veya sözel bir ifade ile
+gösterilmesidir. 
+
+
+şeklindeki yazımda noktalı
+yerlere elemanların ortak
+ifadesi yazılır.Küme parantezi
+içindeki “”
+“öyle ki” diye okunur.
+
+) veya
+
+SONLU VE SONSUZ KÜMELER
+
+Bir kümenin elemanları
+
+veya “ : “ işaretleri
+
+sayılabilir çoklukta ise bu
+kümeye sonlu küme adı verilir.
+Sonlu bir A kümesinin eleman
+sayısı s(A) ile gösterilir.
+
+Sonlu olmayan kümelere ise
+sonsuz küme adı verilir.
+
+Elemanı olmayan kümeye
+boş küme denir.  veya 
+)” sembollerinden biriyle
+gösterilir. Boş kümenin
+eleman sayısı sıfırdır.
+
+ve (4) kümelerinin birer
+elemanı olduğu için bu
+kümeler boş küme değildir.
+
+Üzerinde işlem yapılan, tüm
+kümeleri içinde bulunduracak
+şekilde seçilen kümeye
+evrensel küme adı verilir.
+Evrensel küme E ile gösterilir.
+

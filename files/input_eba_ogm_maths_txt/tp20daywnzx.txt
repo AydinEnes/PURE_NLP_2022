@@ -1,0 +1,31 @@
+MATEMATİK-BİR FONKSİYONUN BELİRLİ İNTEGRALİ İLE BELİRSİZ İNTEGRALİ ARASINDAKI ILISKİ-
+
+
+BELİRLİ İNTEGRALİN ÖZELLİKLERİ
+
+fİX) fonksiyonun integrali F (X)
+ve g(x) fonksiyonunun integrali
+
+
+
+[ab] nda integrallenebilir f ve g
+fonksiyonları için belirli integralin
+özellikleri vardır.
+
+1) Belirli integralde alt ve üst sınırlar eşit ise belirli integralin değeri
+sıfırdır.
+
+
+2) Belirli integralde alt ve üst sınırlar yer değiştirirse belirli integral
+işaret değiştirir.
+
+
+b
+3) a<C<bise Jfêildx integrali
+aşağıdaki gibi iki integralin toplamı
+olarak ifade edilebilir.
+
+
+4) İki fonksiyonun toplamının ya
+da farkının belirli integrali, belirli
+integrallerin toplamına ya da farkına

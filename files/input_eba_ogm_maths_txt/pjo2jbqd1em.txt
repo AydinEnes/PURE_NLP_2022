@@ -1,0 +1,7 @@
+MATEMATİK-LOGARİTMA FONKSİYONU-
+
+Logaritma fonksiyonu
+
+olacak şekilde f(x) = aX üstel fonksiyonunun
+tersi olan f"1 fonksiyonuna, a tabanına göre logaritma fonksiyonu
+denir. Logaritma fonksiyonu,

@@ -1,0 +1,67 @@
+MATEMATİK - POLİNOM KAVRAMI VE POLİNOMLARLA İŞLEMLER
+
+ 
+
+POLİNOMUN DERECESİ, KATSAYILARI VE SABİT TERİMİ
+
+
+
+polinomunda;
+
+ ifadelerine polinomun terimleri denir.
+gerçek sayılarına polinomun katsayıları
+
+> denir.
+
+ değişkeninin aldığı en büyük üsse polinomun derecesi denir ve
+der| P(x)Jile gösterilir.
+
+> Bir polinomun en büyük dereceli teriminin katsayısına polinomun
+baş katsayısı denir.
+
+ifadesine polinomun sabit terimi denir.
+
+POLİNOMUN KATSAYILAR TOPLAMI
+Bir polinomun katsayıları toplamı, polinomun değişkeninin yerine 1
+yazılarak bulunur.
+
+POLİNOMUN SABİT TERİMİ
+Bir polinomun sabit terimi, polinomun değişkeninin yerine O yazılarak
+bulunur.
+
+POLİNOMLARLA TOPLAMA VE ÇIKARMA İŞLEMLERİ
+Polinomlarla toplama ya da çıkarma işlemleri yapılırken dereceleri aynı
+olan terimlerin katsayıları toplanır ya da çıkarılır.
+
+olmak üzere polinomunun bir terimi
+O(X) polinomunun bir terimi  ise
+
+) polinomunun bir terimi 
+
+ polinomunun bir terimi 
+olur.
+
+Bir P(x) polinomunun derecesi n ise bu durumda
+
+ şeklinde gösterilir.
+
+Dereceleri farklı olan iki polinomun toplamının veya farkının derecesi;
+derecesi büyük olan polinomun derecesine eşittir.
+
+POLİNOMLARLA ÇARPMA İŞLEMİ
+
+ birer polinom olmak üzere  işlemi yapılırken
+
+P(x) polinomunun her terimi ,  polinomunun her terimiyle çarpılır
+ve elde edilen ifadelerin cebirsel toplamı x değişkeninin azalan ya da
+artan kuvvetlerine göre sıralanarak yazılır.
+
+ olur.
+
+POLİNOMLARLA BÖLME İŞLEMİ
+Bir  polinomunun ile bölümünden kalan dır.
+ polinomunun bir
+çarpanıdır.
+ için ise sayısına, 
+polinomunun sıfırı (bir kökü) denir.
+

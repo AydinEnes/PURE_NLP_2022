@@ -1,0 +1,79 @@
+FİZİK - ELEKTRİK YÜKLERİ ELEKTRİKLE YÜKLENME ÇEŞİTLERİ -
+
+ 
+
+Yüklü bir cisim yüksüz bir iletkene yaklaştırıldığında
+yüklü cismin oluşturduğu elektriksel çekim, yüksüz
+iletken üzerindeki negatif elektrik yüklerini ya kendi
+tarafına doğru çeker ya da iletkenin diğer ucuna doğru
+iter. Böylelikle bölgesel yüklenme gerçekleşir. Etki ile
+elektriklenme olayında cisimler birbirine temas etmez.
+
+Pozitif yüklü bir çubuk, nötr iletken bir küreye
+yaklaştırıldığında kürenin üzerindeki negatif yükleri
+kendisine doğru çeker. Kürenin bir tarafında negatif
+yükler toplanırken diğer tarafında negatif yük sayısı
+azalmış olur. Her iki tarafta da artan ve azalan yük miktarı
+aynı olduğu için, kürenin bir tarafı *g ile yüklenirken diğer
+tarafı -g ile yüklenir.
+
+Yüksüz nötr il. i
+iletken küre Yüksüz nötr iletken küre
+Yüklü çubuk Yüklü çubuk 
+İletken kürenin etki ile elektriklenmesi
+
+Yüklü bir cismi 
+nötr durumdaki Yüksüz nötr iletken küre
+
+iletken maddeye 
+dokundurmadan, yüklerini Yüklü çubuk 
+etkileyecek kadar 
+yaklaştırdığımızda nötr 
+cismin üzerindeki yüklerin
+yer değiştirmesi olayına
+elektriksel kutuplanma
+(polarizasyon) adı verilir.
+
+
+Elektriksel kutuplanmaya neden olan pozitif yüklü
+çubuk küreden uzaklaştırıldığında iletken küre üzerindeki
+yükler küre yüzeyine düzgün biçimde dağılır ve küre
+
+başlangıçtaki yük dağılımına geri döner. Çubuğun yük
+miktarı ve işaretinde değişiklik olmaz.
+
+Yüklü cisim uzaklaştırıldığında yani elektriksel
+etkileşme ortadan kaldırıldığında bölgesel yüklenme
+de ortadan kalkar.
+
+İçerisinde çok sayıda serbest elektron barındıran
+maddelere iletken denir. İletkenlere bakır, altın, gümüş,
+alüminyum gibi metaller örnek olarak verilebilir.
+
+İçerisinde çok az sayıda serbest elektron bulunduran ya
+da hiç bulundurmayan maddelere ise yalıtkan adı verilir.
+Yalıtkandaki atomların elektronları çekirdeğe sıkıca bağlıdır,
+yükler yalıtkan üzerinde kolayca hareket edemez. Bu nedenle
+yalıtkan maddelerde yükler, yalıtkan üzerinde ilerleyemez
+ancak bölgesel elektriklenme gözlenir. Yalıtkanlara örnek
+olarak plastik, tahta, cam ve kauçuk verilebilir.
+
+Yüksüz, yalıtkan cisimlerde elektrik yükleri gelişigüzel
+ve çiftler hâlinde bulunur. Yüklü bir cisim, yüksüz bir
+yalıtkana yaklaştırıldığında yük çiftleri madde içinde yer
+değiştirmeden düzenli bir şekilde dizilir.
+
+    
+
+Negatif
+yüklü
+tarak
+
+Yükün Korunumu Kanunu: Çevreyle madde alışverişi
+yapmayan, sadece enerji alışverişi yapabilen sistemlere
+kapalı sistem denir. Elektrikle yüklenme çeşitleri
+incelendiğinde kapalı bir sistemin toplam elektrik yükünün
+sabit olduğu görülür. Yükün Korunumu Kanunu olarak
+bilinen bu kanuna göre herhangi bir kapalı sistemdeki
+yüklerin cebirsel toplamı daima sabittir. Elektriklenme
+türlerinin tamamında Yük Korunumu Kanunu geçerlidir.

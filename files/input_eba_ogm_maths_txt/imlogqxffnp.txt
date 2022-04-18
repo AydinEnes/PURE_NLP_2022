@@ -1,0 +1,119 @@
+MATEMATİK-TÜREV-
+
+ANLIK DEĞİŞİM
+ORANI VE TUREV
+
+DEĞİŞİM ORANI:
+
+Aşağıda doğrusal olarak hareket eden
+bir hareketliye ait konum-zaman grafiği
+
+verilmiştir. Bu hareketlinin to ve t.
+saniyeler arasında ortalama hızı; bu
+hareketlinin konumundaki değişiminin,
+zamandaki değişime oranı ile hesaplanır.
+
+x konum (metre)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bu hareketlinin to ve t.
+
+saniyeler arasında ortalama hızı
+
+› AX : Konumdaki değişimi
+
+› At : Zamandaki değişimi olmak
+üzere;
+
+V :gzxm-xao)
+
+Ort “
+At t_t0
+
+olur. Burada Ax, X bağımlı( tye bağlı)
+değişkenin değişimidir.
+At, bağımsız değişkenin değişimidir.
+
+.. Ã . . .. .
+Buna gore Von :XX ıfadesıne degışım
+oranı denir.
+ANLIK DEĞİŞİM ORANI VE TÜREV
+
+Aşağıda doğrusal olarak hareket
+eden bir hareketliye ait konum-zaman
+
+grafiği gösterilmiştir. Bu hareketlinin İ
+
+ve to. saniyeleri arasındaki ortalama hızı
+
+ 
+
+ 
+
+
+Bu hareketlinin to anındaki anlık hızı
+
+bulunmak istenirse t nin toa yaklaşırken
+fonksiyonun tdeğxişim oranı hesaplanır. Bu
+
+tato_ t_t
+
+_limiti ile hesaplanır.
+0
+
+Bir fonksiyonun t0 anındaki anlık değişim
+oranına ise fonksiyonun t0 noktasındaki
+türevi denir ve X'(t0) ile gösterilir. Bir
+fonksiyonun bir noktadaki türevi aynı
+noktadaki teğet-inin eğimine eşittir.
+
+X t X t
+X (to )= lim :M olur.
+tat0 t_t0
+SOLDAN VE SAĞDAN TÜREV
+
+AÇ R,f:A->]Rve &EA İÇİn
+
+hm f(X)-f(a)
+
+Ha, X-a lımıtı varsa bu lımıt
+
+değerine ffonksiyonunun
+X :a noktasındaki soldan türevi denir ve
+f'(a?) ile gösterilir.
+
+lm f(x)-f(a)
+
+H., X-a limitivarsabulimit
+
+değerine ffonksiyonunun
+X = a noktasındaki sağdan türevi denir ve
+
+f'(a+) ile gösterilir.
+
+TÜREVTANIMI
+A E R,f:A -› Rve aeAıçın f sürekli ise
+
+ 
+
+lım f(x) _ f(a) = lim f(x) _ f(a) ise
+
+xaa* x-a xaa+ x-a
+lm f(x)-f(a)
+x-›a X - a
+
+limitine f fonksiyonunun X=a
+
+noktasındaki türevi denir. f (31) ile
+gösterilir.
+TÜREV ALMA KURALLARI
+1) C E R olmak üzere

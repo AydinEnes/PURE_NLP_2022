@@ -1,0 +1,20 @@
+MATEMATİK - DÖRTGENLER VE ÇOKGENLER / ÇOKGEN VE ÇOKGENDE AÇI KAVRAMI
+
+ 
+
+ ve olmak üzere düzlemde
+sadece  noktalarında
+kesişen ve bu noktalardan herhangi üçü
+doğrusal olmayan 
+birleşim kümesine
+çokgen denir.
+
+> Bu doğru parçalarına çokgenin
+
+kenarları;  noktalarına
+çokgenin köşeleri denir.
+
+> Çokgenin komşu olmayan herhangi
+iki köşesini birleştiren doğru parçasına
+köşegen denir.
+

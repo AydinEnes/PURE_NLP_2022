@@ -1,0 +1,32 @@
+MATEMATİK-TRİGONOMETRİK DENKLEMLER- 
+
+ 
+
+
+
+TRİGONOMETRİK DENKLEMLER- 4
+
+asinf(x)+ bcosf(x) :C BİÇİMİNDEKİ
+DENKLEMLERİN ÇÖZÜM KÜMESİ
+
+(hb, C E R - {0} olmak üzere asinx+ bcosx :c
+biçimindeki denklemlere sinx ve cosx egöre
+Iineer(doğrusal) denklem denir.
+
+asinf(x)+ bcosf(x) :c denklemi 02 Sa2 +b2
+koşulunu sağlıyorsa her bir terim a ya veya b ye bölünür.
+
+b :tanoı veya E =tan0ı dönüşümü yapılarak
+
+denklemlerin kökleri bulunur.
+
+asinf(x)+ bcosf(x) :0 BİÇİMİNDEKİ
+DENKLEMLERİN ÇÖZÜM KÜMESİ
+
+a, b E IR - {0} olmak üzere asinx+ bcosx O
+biçimindeki denklemlere birinci dereceden homojen
+trigonometrik denklem denir.
+
+asinx + bCOSX :O denkleminde eşitliğin her iki yanı
+COSX :20 olmak üzere COSX e bölünüp
+

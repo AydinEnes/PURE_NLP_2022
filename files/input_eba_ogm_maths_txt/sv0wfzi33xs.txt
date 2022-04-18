@@ -1,0 +1,46 @@
+MATEMATİK - KARMA ÖRNEK ÇÖZÜMLERİ
+
+ 
+
+FONKSİYONLARDA TOPLAMA
+VE ÇIKARMA İŞLEMLERİ
+
+ olmak üzere
+ fonksiyonları için
+
+
+
+şeklinde tanımlanır.
+
+FONKSİYONLARIN BİLEŞKESİ
+
+ boş kümeden farklı birer küme olmak üzere
+fonksiyonları verilsin. A kümesinin
+elemanlarını f ve g fonksiyonları yardımıyla C
+kümesinin elemanları ile eşleştiren fonksiyona f ile g
+fonksiyonlarının bileşke fonksiyonu denir.
+
+ şeklinde gösterilir.
+
+
+biçiminde gösterilebilir.
+
+Uygun koşullarda tanımlı fonksiyonları için
+
+
+
+
+
+
+
+BİR FONKSİYONUN TERSİ
+ birebir ve örten fonksiyonu verilsin.
+
+ oluyorsa 
+fonksiyonuna f fonksiyonunun tersi denir.
+
+ fonksiyonunun tersi de fonksiyon olur.
+olur.
+
+ 
+

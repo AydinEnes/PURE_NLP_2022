@@ -1,0 +1,42 @@
+MATEMATİK Sınıf-İKİNCİ DERECEDEN FONKSİYONLARLA MODELLENEBİLEN PROBLEMLER-
+
+ 
+
+FONKSİYONLARDA UYGULAMALAR
+PARABOLÜN DENKLEMİNİ YAZMA
+
+Parabolün grafiğine bağlı olarak denklem üç farklı duruma göre
+yazılabilir.
+
+Biri y ekseni üzerinde olmak üzere parabolün herhangi
+
+üç noktası f(X)=aX2 +bX+C fonksiyonunda yerine
+yazılarak a, b, c katsayıları bulunur ve parabol denklemi
+elde edilir.
+
+f(X)=aX2+bX+C fonksiyonu için f(X)=O denklemi-
+
+nin kökleri lee X2 olsun. Bu durumda parabol denk-
+
+lemi y:a°(X-X1)'(X-X2) şeklinde yazılır. (X1,0)
+
+(X2 ,0) noktaları dışında parabol üzerinde verilen
+üçüncü bir nokta yardımıyla a değeri bulunur ve parabol
+denklemi elde edilir.
+
+Tepe noktasının koordinatları T(r,k) olsun. Parabolün
+üzerinde tepe noktası dışında ikinci bir nokta bilindiğin-
+
+de bu noktalar y=a~(X-r)2 +k denkleminde yerine
+yazılarak a değeri bulunur ve parabol denklemi elde
+edilir.
+
+PARABOLÜN TEPE NOKTASI
+
+y=aX2 +bx+C fonksiyonunun grafiğinin tepe noktasının
+
+koordinatları T(r,k) olmak üzere
+
+
+
+olur.

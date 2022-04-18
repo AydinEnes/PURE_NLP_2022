@@ -1,0 +1,46 @@
+MATEMATİK-FONKSİYONLARDA UYGULAMALAR-
+MAKSİMUM VE MİNİMUM NOKTALARI
+A C R olmak üzere f :A -› IR bir fonksiyon olsun.
+
+
+
+fnin maksimum noktası
+
+ORTALAMA DEĞİŞİM HIZI
+
+› Hava şartları, bir bitkinin büyümesini olumlu ya da olumsuz
+yönde etkiler. Buna göre bir bitkinin büyüme hızının birim za-
+mandaki değişimi farklılık gösterir.
+
+› Bir aracın otoyolda belirli bir süre sabit bir hızla ilerlediği
+varsayılsın. Bu aracın deposunda bulunan yakıtın miktarındaki
+azalma hızının birim zamandaki değişimi sabit kalır.
+
+Bir nesnede birim zamanda meydana gelen değişimler (art-
+ma, azalma vb.) ortalama değişim hızı olarak adlandırılır.
+
+Fonksiyonların belli bir aralıktaki ortalama değişim hızı hesap-
+larken;
+
+Fonksiyonların belli bir aralıktaki ortalama değişim hızı hesap-
+larken;
+
+ 
+
+ 
+
+
+y= f(x) fonksiyonunun [x1 ,x2] nda ortalama değişim hızı
+
+: M olarak tanımlanır.
+
+X :A dan B ye x değerindeki değişim
+
+y : A dan B ye y değerindeki değişim
+
+› Doğrusal fonksiyonların herhangi bir aralıktaki ortala-
+ma değişim hızı sabittir ve doğrunun eğimine eşittir.
+
+› [x1 ,x2] nda ortalama değişim hızı A(X1,f(X1)) ve
+B(x2,f(X2)) noktalarından geçen kesenin eğimine eşittir.
+

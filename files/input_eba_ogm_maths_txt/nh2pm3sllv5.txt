@@ -1,0 +1,52 @@
+MATEMATİK  KÜMELER / SIRALI İKİLİ- KARTEZYEN ÇARPIM
+
+ 
+
+SIRALI İKİLİ
+
+Her ikisi de boş kümeden farklı A ve B kümeleri
+için A kümesinden bir a elemanı, B kümesinden
+bir b elemanı alınarak elde edilen ve (a, b)
+şeklinde gösterilen ifadeye sıralı ikili denir.
+
+Bu gösterimde “a” ya birinci bileşen,”b” ye
+ikinci bileşen adı verilir.
+
+Sıralı ikililerde bileşenlerin yazılış sırası
+önemlidir.
+ iken iken olur.
+
+SIRALI İKİLİLERİN EŞİTLİĞİ
+
+ şeklindeki iki sıralı ikilinin birinci
+bileşenleri birbirine, ikinci bileşenleri birbirine eşitse bu
+sıralı ikililer birbirine eşittir ve şeklinde yazılır.
+
+KARTEZYEN ÇARPIM
+
+A ve B boş kümeden farklı iki küme olmak
+üzere birinci bileşeni A kümesinden, ikinci bileşeni
+B kümesinden alınarak oluşturulan tüm sıralı
+ikililerin kümesine A ve B kümelerinin kartezyen
+çarpım kümesi denir. AxB şeklinde gösterilir.
+
+
+KARTEZYEN ÇARPIMIN ÖZELLİKLERİ
+
+A ve B boş kümeden farklı iki küme olsun.
+
+1) AxB kümesinin eleman sayısı A ve B
+kümelerinin eleman sayılarının çarpımına eşittir.
+
+
+
+
+
+ 
+
+KARTEZYEN ÇARPIMIN GRAFİĞİ
+
+
+: kümesinin elemanları analitik düzlemde işaretlendiğinde
+: elde edilen görüntüye AXB'nin grafiği denir.
+

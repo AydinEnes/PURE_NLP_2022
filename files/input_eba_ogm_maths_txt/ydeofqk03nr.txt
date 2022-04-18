@@ -1,0 +1,68 @@
+MATEMATİK - FONKSİYON ÇEŞİTLERİ, FONKSİYONLARDA DÖRT İŞLEM
+
+ 
+
+FONKSİYON ÇEŞİTLERİ, FONKSİYONLARDA DÖRT İŞLEM
+
+DOĞRUSAL FONKSİYON
+be R olmak üzere 
+biçimindeki fonksiyonlara doğrusal fonksiyon denir.
+TEK VE ÇİFT FONKSİYONLAR
+ bir doğrusal fonksiyon ise grafiği bir
+doğrudur.
+
+TEK VE ÇİFT FONKSİYONLAR
+
+
+oluyorsa f fonksiyonuna çift
+fonksiyon,
+ oluyorsa f fonksiyonuna tek
+
+fonksiyon denir.
+
+NOT: Her fonksiyon tek ya da çift fonksiyon olmak
+zorunda değildir. Bazı fonksiyonlar ne tek ne de çift
+fonksiyondur.
+
+PARÇALI FONKSİYON
+
+Tanım kümesinin ayrık alt kümelerinde farklı
+kurallarla belirlenen fonksiyonlara parçalı tanımlı
+fonksiyonlar ya da parçalı fonksiyonlar denir.
+
+Örnek:
+ olmak üzere
+
+ise
+
+ ise
+ ise
+
+biçiminde olan ve 
+fonksiyonlarından oluşan f fonksiyonuna parçalı
+fonksiyon denir.
+
+fonksiyonun kritik noktalarıdır.
+
+FONKSİYONLARDA TOPLAMA VE ÇIKARMA İŞLEMLERİ
+
+Ac R veBcR olmak üzere : 
+
+fonksiyonları   için
+
+
+
+şeklinde tanımlanır.
+
+FONKSİYONLARDA ÇARPMA VE BÖLME İŞLEMLERİ
+ olmak 
+
+fonksiyonları 
+
+
+
+
+
+
+şeklinde tanımlanır.
+

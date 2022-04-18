@@ -1,0 +1,101 @@
+MATEMATİK-TRİGONOMETRİ iLE İLGİLİ SORU ÇÖZÜMÜ-
+
+ 
+
+DERECE
+
+Bir tam çember yayının 360 eş parçaya
+bölünmesinden elde edilen eş yaylardan birini gören
+merkez açının ölçüsüne 1 derece denir. “ F” ile
+gösterilir.
+
+Derecenin 5 ına dakika denir ve
+
+(') sembolü ile gösterilir.
+
+Dakikanın â ına saniye denir ve
+(”) sembolü ile gösterilir.
+
+1° :60' veya 1'=% olur.
+
+1° = 3600” olduğundan ölçüsü saniye cinsinden
+verilen açı 3600 e bölünür. Elde edilen bölüm,
+açının derecesini; kalan, açının saniyesini gösterir.
+
+Kalan saniye değerinin kaç dakika olduğunu
+bulmak için (1' = 60") 60 ile bölme işlemi yapılır.
+Bölümdeki sayı, açının kaç dakika olduğunu; kalan,
+kaç saniye olduğunu gösterir.
+
+RADYAN
+
+Herhangi bir çemberde, yarıçap uzunluğundaki
+yayı gören merkez açının ölçüsüne bir radyan denir
+ve ”1 rad” ile gösterilir.
+
+Çember yayı tam açı olduğundan ölçüsü 27:
+radyan, yarım çember yayının ölçüsü
+
+7: radyandır.
+Derece ile radyan arasında
+bağıntısı vardır.
+
+Sinüs ve Kosinüs Fonksiyonları
+
+Aşağıdaki şekilden
+
+P noktasının apsisine açısının kosinüsü denir ve
+ile gösterilir.
+
+P noktasının ordinatına açısının sinüsü denir ve
+ile gösterilir.
+
+POH üçgeninde Pisagor uygulanırsa
+özdeşliği elde edilir.
+
+şeklinde tanımlıfonksiyonlara
+
+f(x)=cos x ve f(x)=sin x
+
+fonksiyonları denir.
+
+Tanjant ve Kotanjant Fonksiyonları
+
+ 
+
+
+AOP açısının bitiş kenarının x=1
+doğrusunu kestiği T noktasının
+ordinatına açısının tanjantı denir.
+
+
+
+AOP açısının bitiş kenarının y=1
+doğrusunu kestiği K noktasının
+apsisine açısının kotanjantı denir.
+|BK|=cota olur.
+
+C
+
+biçiminde tanımlanan fonksiyona
+tanjant fonksiyonu,
+
+
+biçiminde tanımlanan fonksiyona
+kotanjant fonksiyonu denir.
+
+I. bölgede bütün trigonometrik
+fonksiyonlar pozitif değerler alır.
+
+II. bölgede sinüs fonksiyonu
+pozitif; kosinüs, tanjant ve kotanjant
+fonksiyonları negatif değerler alır.
+
+III. bölgede sinüs ve kosinüs
+fonksiyonları negatif, tanjant ve
+kontanjant fonksiyonları pozitif
+değerler alır.
+
+IV. bölgede kosinüs fonksiyonu
+pozitif; sinüs, tanjant ve kotanjant
+fonksiyonları negatif değerler alır.

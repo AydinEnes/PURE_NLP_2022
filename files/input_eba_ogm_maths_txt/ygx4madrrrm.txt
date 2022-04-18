@@ -1,0 +1,54 @@
+MATEMATİK-TRİGONOMETRİ İLE İLGİLİ SORU ÇÖZÜMÜ-
+
+ 
+
+I. bölgede bütün trigonometrik fonksiyonlar pozitif
+değerler alır.
+
+II. bölgede sinüs fonksiyonu pozitif; kosinüs, tanjant
+ve kotanjant fonksiyonları negatif değerler alır.
+
+III. bölgede sinüs ve kosinüs fonksiyonları negatif,
+tanjant ve kontanjant fonksiyonları pozitif değerler alır.
+
+IV. bölgede kosinüs fonksiyonu pozitif; sinüs, tanjant
+ve kotanjant fonksiyonları negatif değerler alır.
+
+Birinci Bölgede olan Açıların Trigonometrik Değerleri
+
+
+
+İkinci Bölgede olan Açıların Trigonometrik Değerleri
+olur.
+
+
+Üçüncü Bölgede olan Açıların Trigonometrik Değerleri
+
+olur.
+
+ 
+Dördüncü Bölgede olan Açıların Trigonometrik Değerleri
+
+
+
+SONUÇ
+Herhangi bir açının trigonometrik değeri dar açı
+cinsinden yazılırken;
+
+180°veya 360° kullanılırsa
+
+trigonometrik fonksiyon isim değiştirmez.
+90veya 270 kullanılırsa trigonometrik
+fonksiyon isim değiştirir.
+
+KOSİNÜS TEOREMİ
+
+A
+ABC nin kenar uzunlukları a, b, c ve bu kenarları
+
+
+gören açılar A, B VCC olmak üzere
+COSA kuralı vardır. Bu
+
+teoreme "Kosinüs Teoremi" denir.
+

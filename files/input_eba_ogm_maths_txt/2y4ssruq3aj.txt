@@ -1,0 +1,25 @@
+MATEMATİK-DOĞRUNUN ANALİTİK İNCELENMESİ-
+
+ 
+
+ANALİTİK DÜZLEM
+DOĞRUNUN ANALİTİK İNCELENMESİ- ııı
+BİR NOKTANIN BİR DOĞRUYA UZAKLIĞI
+
+A(x1,y1 ) noktasının dzax+by+c=0
+
+doğrusuna olan uzaklığı
+|ax1+by1 +c|
+
+formülü ile bulunur.
+
+PARALEL İKİ DOĞRU ARASINDAKİ UZAKLIK
+
+ax+by+g1=0
+
+ 
+
+
+Denklemleri olan paralel iki doğru
+
+arasındaki uzaklık;

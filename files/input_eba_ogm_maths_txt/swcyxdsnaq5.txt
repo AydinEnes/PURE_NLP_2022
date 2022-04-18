@@ -1,0 +1,33 @@
+MATEMATİK-İKİNCİ DERECEDEN BİR BİLİNMEYENLİ EŞİTSİZLİK SİSTEMLERİ-
+
+ 
+
+DENKLEM VE 
+SİSTEMLERİ
+
+İKİNCİ DERECEDEN BİR BİLİNMEYENLİ
+EŞİTSİZLİKLER VE EŞİTSİZLİK SİSTEMLERİ
+İki ya da daha çok eşitsizliğin oluşturduğu
+sisteme eşitsizlik sistemi denir. Eşitsizlik
+sisteminin çözüm kümesi eşitsizliklerin her
+birini sağlayan noktaların kümesidir. İkinci
+dereceden bir bilinmeyenli eşitsizlik sistemleri,
+f(x) ve g(X) fonksiyonlarının biri 2.
+dereceden, diğeri 1 veya 2. dereceden
+verilmesiyle oluşan sistemlerdir.
+
+Bu sistemler;
+
+f(x)>0 f(x)<0
+g(X)<0 g(X)>O
+vb. şekilde ifade edilir.
+
+Bu şekildeki eşitsizlik sistemlerinin çözüm
+kümeleri, ortak işaret tablosu oluşturularak
+bulunacaktır.
+
+Ortak işaret tablosunda çözüm kümesi her
+iki fonksiyonu da sağlayan ortak bölgelerin
+bulunduğu kesişim kümesidir.
+
+ 

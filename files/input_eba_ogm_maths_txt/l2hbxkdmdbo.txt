@@ -1,0 +1,211 @@
+MATEMATİK ÜÇGENLERDE EŞLİK VE BENZERLİK
+
+Eş şekillerde karşılıklı kenarlar ve açılar birbirine
+eştir. Eşlik “E “sembolü ile gösterilir.
+> İki doğru parçasının uzunluğu eşit ise bu
+doğru parçaları eştir.
+
+
+ 
+
+ yazılır.
+
+> Ölçüleri eşit olan iki açı eştir.
+
+
+
+ ise AOBZKOL yazılır.
+ÜÇGENLERDE EŞLİK
+
+Karşılıklı kenarlarının uzunlukları ve karşılıklı
+açılarının ölçüleri eşit olan üçgenlere eş üçgenler
+denir. İki üçgen arasına “X “sembolü yazılır.
+
+için
+
+
+
+eşitlikleri sağlanıyorsa ABC
+
+        
+
+        
+
+       
+
+yazılır. “ABC üçgeni eştir DEF üçgenine” diye okunur.
+
+Eş iki üçgen yazılırken karşılıklı açıları eş olan
+köşelerin aynı sırayla yazılması gerekir.
+
+İki üçgen arasında eşlik durumu yazıldığında
+köşelerin isimleri karşılıklı olarak yer değiştirirse
+eşlik bozulmaz.
+
+ÜÇGENLERDE EŞLİK KURALLARI
+
+İki üçgenin eş olması için karşılıklı bütün açılarının
+ölçüleri ve karşılıklı bütün kenarlarının uzunlukları
+eşit olmalıdır. Üçgenlerde en az biri kenar olmak
+üzere üçer elemanının eş olması üçgenlerin eşliği
+için yeterlidir.
+Üçgenlerde üç eşlik kuralı vardır.
+
+> Kenar— Açı— Kenar  Eşliği
+
+>  Açı— Kenar— Açı( Eşliği
+
+> Kenar—Kenar — Kenar  Eşliği
+KENAR — AÇI — KENAR (K.A.K.) EŞLİK KURALI
+
+İki üçgen arasında yapılan bire bir eşlemede
+
+
+MATERYAL
+
+
+   
+
+ETKİ
+
+
+
+EŞLİK KAVRAMI
+
+karşılıklı ikişer kenar uzunlukları ve bu kenarlar
+arasında kalan açı ölçüleri eşit ise bu üçgenler eş
+üçgenlerdir.
+
+Şekildeki ABC ve DEF üçgenlerinde;
+
+
+
+            
+
+    
+
+ birim ve
+
+enli olduğundan ABC - dir.
+
+AÇI — KENAR — AÇI (A.K.A.) EŞLİK KURALI
+
+İki üçgen arasında yapılan bire bir eşlemede
+karşılıklı ikişer açının ölçüleri ve bu açılar arasında
+kalan kenar uzunlukları eşit ise bu üçgenler eş
+
+üçgenlerdir.
+Şekildeki ABC ve DEF üçgenlerinde;
+
+
+lâ) ö)-s0 , m8 kalir ve
+İABİ-|DE|6birim olduğundan ABC - dir.
+KENAR — KENAR — KENAR (K.K.K.) EŞLİK KURALI
+
+
+İki üçgen arasında yapılan bire bir eşlemede
+karşılıklı bütün kenar uzunlukları eşit ise bu
+üçgenler eş üçgenlerdir. Bu durumda üçgenlerin
+karşılıklı açıları da eştir.
+
+Şekildeki ABC ve DEF üçgenlerinde; karşılıklı bütün
+kenar uzunlukları eşit olduğundan bu üçgenler eş
+üçgenlerdir.
+birim ,
+
+               
+
+ 6 birim olduğundan ABC - dir.
+
+
+
+
+Bu durumda olur. 
+
+
+BENZERLİK KAVRAMI
+Belli oranda büyültülmüş veya küçültülmüş şekillere
+
+benzer şekiller denir.
+
+
+
+veya  ise  olur.
+
+ 
+
+KENAR — KENAR — KENAR BENZERLİK
+TEOREMİ
+
+İki üçgenin karşılıklı bütün kenar uzunlukları orantılı
+ise bu iki üçgen benzerdir Bu benzerliğe Kenar —
+Kenar — Kenar  Benzerliği denir.
+
+Şekildeki ABC ve DEF üçgenlerinde;
+
+
+ ise  olur. Bu durumda
+
+
+
+AÇI — AÇI  BENZERLİK TEOREMİ
+
+İki üçgen arasında yapılan bire bir eşlemede
+karşılıklı ikişer açısı eş ise üçgenler benzerdir. Bu
+benzerliğe Açı —Açı( Benzerliği denir.
+Şekildeki ABC ve > üçgenlerinde;
+
+
+
+ ve İnfâk  ise ABC-DEF olur.
+Dolayısıyla k orantı sabiti ise
+
+
+NOT:
+
+
+
+Herhangi iki çember
+birbirine benzerdir.
+
+Herhangi iki eş kenar üçgen
+birbirine benzerdir.
+
+ÜÇGENLERDE BENZERLİK
+
+İki üçgen arasında yapılan bire bir eşlemede
+karşılıklı açıları eş veya karşılıklı kenarlarının
+uzunlukları orantılı olan üçgenlere benzer üçgenler
+denir. Benzerlik durumu “»” sembolü ile gösterilir.
+Şekildeki ABC ve DEF üçgenlerinde;
+
+
+
+
+
+vi ABC ve DEF eli benzerdir denir.
+ABC “DEF şeklinde gösterilir.
+Bu durumda üçgenlerin karşılıklı kenarları
+
+orantılıdır.
+ise k ya benzerlik oranı denir.
+İDE| JE (DE k - 1 ise üçgenler eştir.
+
+ÜÇGENLERDE BENZERLİK TEOREMLERİ
+
+KENAR — AÇI — KENAR  BENZERLİK
+TEOREMİ
+
+İki üçgenin karşılıklı ikişer kenarlarının uzunlukları
+orantılı ve bu orantılı kenarlar arasındaki açıları eş
+olan bu iki üçgen benzerdir. Bu benzerliğe Kenar —
+Açı — Kenar (K.A.K.) Benzerliği denir.
+
+Şekildeki ABC ve Gi üçgenlerinde;
+
+ olur.
+
+(AB) /(DE|
+olduğundan A.A. benzerliginden ABC » EDC olur. Bu
+
+benzerliğe kelebek benzerliği denir.

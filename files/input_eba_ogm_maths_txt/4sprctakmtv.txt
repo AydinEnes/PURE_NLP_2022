@@ -1,0 +1,48 @@
+MATEMATİK ÜÇGENDE AÇI KENAR BAĞINTILARI
+
+ 
+
+ÜÇGENDE AÇI KENAR BAĞINTILARI
+ÜÇGENİN KENAR UZUNLUKLARI İLE
+
+ 
+
+ 
+
+BU KENARLARIN KARŞILARINDAKİ AÇILARIN 
+ÖLÇÜLERİ ARASINDAKİ İLİŞKİ 
+olur
+üçgende en
+c b uzun
+kenarın Bir üçgende herhangi bir kenar uzunluğu,
+karşısındaki ; diğer iki kenar uzunluğu toplamından
+açının küçük; farklarının mutlak değerinden
+ ölçüsüen | büyüktür. Bu bağıntıya üçgen eşitsizliği
+büyüktür.  denir. ABC üçgeninde;
+ ise  olur.
+
+A Bu özelliğin 
+olan “Büyük açı 
+karşısında 
+C b büyük kenar
+bulunur.” ifadesi NOT: 
+de doğrudur. 
+
+
+ise a>b olur.
+
+ÜÇGEN EŞİTSİZLİĞİ 
+A Bir üçgende iki
+kenar
+uzunluğunun Bir ABC üçgeninde;
+c b toplamı, üçüncü ya“
+kenarın
+uzunluğundan y a 90
+büyüktür. ABC
+
+B a üçgeninde; olur
+
+ 
+
+ 
+

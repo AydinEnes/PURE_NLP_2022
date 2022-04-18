@@ -1,0 +1,57 @@
+MATEMATİK-EĞİMİ VE BİR NOKTASI BİLİNEN DOĞRU DENKLEMİ-
+
+ 
+
+Eğimi m olan ve A(x1,y1) noktasından
+geçen doğrunun denklemi, doğru
+üzerinde değişken bir P(x,y) noktası
+alınarak bulunur.
+
+ 
+
+ 
+
+ 
+
+d doğrusunun eğim açısı CZ olsun.
+
+Bu durumda CAP açısının ölçüsü a
+(yöndeş açı) olur.
+
+CAP dik üçgeninde doğrunun eğimi
+m=tan a yazıldığında
+
+ 
+
+olur.
+
+
+Buradan eğimi m ve A(X1,y1)
+noktasından geçen doğrunun denklemi
+y-y1=m(x-x1) şeklinde elde edilir.
+
+Bu doğru denklemi düzenlendiğinde
+y-y1=m(x-x1)
+
+y-y1=mx-m.x1
+
+y=mx-mx1+y1 olur.
+
+Eğimi m olan ve y eksenini n
+noktasında kesen doğrunun denklemi
+y=mx+n biçiminde elde edilir.
+
+SONUÇ:
+
+x,y,a,b,cElR;a±0veyab±0
+olmak üzere ax+by+c=0 eşitliğinde
+
+
+ 
+
+y yalnız bırakıldığında y =
+elde edilir.
+
+Buradan ax+by+c=0 doğrusunun
+eğimi = 2 olur.
+

@@ -1,0 +1,57 @@
+MATEMATİK ÜSLÜ İFADELER
+
+ 
+
+ ve olmak üzere  ifadesine üslü
+
+ifade denir.
+ifadesinde a sayısına taban, ye üs veya kuvvet denir.
+
+
+
+tane
+
+olarak hesaplanır.
+
+NOT : Sıfır sayısının pozitif kuvvetleri yine sıfırdır.
+
+NOT : Taban sıfırdan farklı olmak üzere üs alma
+işlemlerinde kuvvet çift sayı ise işlem sonucu daima
+sıfırdan büyüktür. Tek kuvvetler tabanın işaretini
+etkilemez.
+
+BİR GERÇEK SAYININ NEGATİF KUVVETİ
+ve olmak üzere
+
+
+
+NOT: Sıfır sayısının çarpma işlemine göre tersi
+olmadığından negatif kuvveti tanımsızdır.
+
+ÜSLÜ SAYILARDA TOPLAMA VE ÇIKARMA İŞLEMİ
+
+
+
+
+
+
+olur.
+
+ÜSLÜ SAYILARDA ÇARPMA İŞLEMİ
+
+Tabanları aynı olan üslü sayılar çarpılabilir. Tabanları
+aynı olan üslü sayılar çarpılırken üsler toplanıp üsse yazılır.
+Ortak taban aynı kalır.
+
+
+
+ÜSLÜ SAYILARDA BÖLME İŞLEMİ
+
+Tabanları aynı olan üslü sayılarla bölme işlemi yapılırken
+1. sayının üssünden 2. sayının üssü çıkarılıp üs olarak
+yazılır. Ortak taban aynı kalır.
+
+olur.
+
+olmak üzere  olur.
+

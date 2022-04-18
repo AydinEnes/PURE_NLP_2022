@@ -1,0 +1,75 @@
+FİZİK - DALGALAR -
+
+ 
+
+Bir taş durgun bir suya atıldığında suyun yüzeyinde
+bir şekil değişikliği meydana gelir ve bu şekil
+değişikliği yüzey boyunca iletilir. Seyircilerin iş birliği
+yaparak stadyumlarda oluşturduğu ve “Meksika
+dalgası” adı verilen olay da bir dalga hareketidir.
+Dalga hareketi bütün stadyum boyunca ilerler ancak
+seyirciler yerlerini değiştirmezler.
+
+   
+
+ 
+Dalga hareketinde ortamın tanecikleri ötelenmez
+sadece bulundukları noktada titreşim hareketi
+yaparlar.
+
+ 
+
+ 
+
+Titreşim hareketi sırasında potansiyel enerjinin
+kinetik enerjiye, kinetik enerjinin potansiyel enerjiye
+dönüşümü süreç boyunca devam eder. Titreşim
+hareketi sonucunda esnek bir ortama aktarılan
+enerjinin bir noktadan başka bir noktaya iletilirken
+ortamda oluşturduğu şekil değişikliğine dalga denir.
+
+Dalganın esnek ortamda yayılmasına ise dalga
+hareketi denir.
+
+Periyot (T): Bir tam dalganın oluşması için geçen
+süreye periyot denir. Dalga kaynağına bağlıdır.
+
+Tsembolü ile gösterilir SI'daki birimi saniyedir.
+
+Frekans (f): Kaynağın bir saniyede ürettiği dalga
+sayısına frekans denir. Frekans, Dalga kaynağına
+bağlıdır. Kaynağın frekansı değişmediği sürece
+dalgaların frekansı da değişmez. Bir dalganın oluşma
+süresi kısaldıkça dalganın frekansı artar. f sembolü ile
+gösterilir. SI" daki birimi s veya Hertz (Hz) 'dir.
+
+Genlik (A): Dalga üzerindeki bir noktanın, denge
+konumuna olan uzaklığına uzanım denir. Uzanımın
+en büyük değerine ise genlik denir.
+
+Konumu
+
+  
+
+ 
+
+Dalga
+Çukuru
+
+Dalgaboyu (A): Ardışık iki tepe veya iki çukur
+arasındaki uzaklığa dalga boyu denir. Dalganın bir
+periyot süresinde aldığı yoldur. SI'daki birimi metredir.
+Denge
+Konumu
+A A
+Dalganın ilerleme hızı (v): X2vt
+Dalganın birim zamandaki yer ”
+değiştirmesine ilerleme hızı
+denir. Dalganın ilerleme hızı, AZV.IT
+bulunduğu ortama bağlıdır. Ortam 1
+değişmedikçe dalganın ilerleme vw — -) f
+hızı değişmez. Aynı ortamda T
+
+yayılan dalgaların ilerleme
+hızlarının büyüklükleri birbirine eşittir. Dalga bir
+periyotluk sürede bir dalga boyu kadar yol alır.

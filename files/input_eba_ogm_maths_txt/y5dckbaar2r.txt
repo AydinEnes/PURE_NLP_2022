@@ -1,0 +1,80 @@
+MATEMATİK-TRİGONOMETRİK FONKSİYONLARIN GRAFİKLERİ-
+
+ 
+
+Dersin başında öncelikle
+10. sınıfta işlenilen tek ve
+çift fonksiyonlar ile ilgili
+hatırlatmalar yapılmıştır.
+
+TRİGONOMETRİK
+FONKSIYONUN PERIYODU
+
+Bir fonksiyona ait grafik,
+eşit aralıklarda tekrarlanıyorsa
+periyodik fonksiyon,
+
+grafiği de periyodik grafik
+olur.
+
+PERİYODİK FONKSİYONLAR
+
+f :A -› B bir fonksiyon
+olsun.
+
+A için f(X+T)=f(X)
+eşitliğini sağlayan en az bir
+T±0 gerçek sayısı varsa f
+fonksiyonuna periyodik
+fonksiyon, T gerçek sayısına da
+fonksiyonunun bir periyodu
+denir.
+
+Bu eşitliği sağlayan T
+sayılarından pozitif olanların
+en küçüğüne f fonksiyonunun
+esas periyodu denir.
+
+SİNÜS FONKSİYONUNUN PERYODU:
+tekrarlanır.
+Tabloda sinüs fonksiyonu için 
+
+aralıklarında 0,1, 0, -1, 0
+değerleri tekrar etmektedir.
+
+Benzer şekilde devam
+edildiğinde
+aralıkları için aynı durum
+
+olduğu görülür.
+
+
+KOSİNÜS FONKSİYONUNUN PERYODU:
+
+ 
+
+ 
+
+için [0, 215], [27t, 47t],
+aralıklarında
+1, 0, -1, O, 1 değerlerinin
+tekrarlandığı görülmektedir.
+Buradan cosx = cos(x + Zn) =
+
+olduğu görülür.
+
+olmak üzere olduğundan
+kosinüs fonksiyonunun peri-
+yodu en küçük için T=2z olur.
+
+Birim çemberde
+görüldüğü gibi
+az açısına 27r
+ve 27r nin katları
+eklendiğinde
+sinüs ve kosinüs
+değenen
+değişmez.
+
+a±0 ve a,b ve C birer gerçek sayı olmak
+üzere

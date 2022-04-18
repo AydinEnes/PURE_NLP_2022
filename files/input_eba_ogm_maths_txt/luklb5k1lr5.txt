@@ -1,0 +1,47 @@
+MATEMATİK - İKİNCİ DERECEDEN BİR BİLİNMEYENLİ DENKLEMLER
+
+ 
+
+İKİNCİ DERECEDEN
+BİR BİLİNMEYENLİ |
+DENKLEMLERİN ÇÖZÜMÜ
+
+ olmak üzere  biçimindeki denklemlere ikinci dereceden bir bilinmeyenli
+denklem,
+
+ gerçek sayılarına bu denklemin katsayıları,
+
+> Denklemi sağlayan x sayılarına denklemin kökleri,
+
+> Köklerin oluşturduğu kümeye ise denklemin çözüm kümesi denir.
+
+
+Örnek: denklemi ikinci dereceden
+
+bir bilinmeyenli denklemdir.
+denkleminde  terim olduğundan
+denklemin derecesi 3 olup ikinci dereceden bir bilinmeyenli denklem değildir.
+
+NOT: İkinci dereceden bir bilinmeyenli denklemlerin
+çözüm kümelerini bulabilmek için çarpanlarına ayırma
+yöntemleri, özdeşlikler (tam kare özdeşliği, iki kare farkı özdeşliği, terim ekleyip çıkarma yöntemi ile çarpanlarına ayırma işlemleri yapılabilir.
+
+ biçimindeki ifadelere tam kare ifadeler denir.
+
+olur.
+
+ifadesine iki kare farkı denir.
+olur.
+
+ şeklindeki üç terimli ifadeleri çarpanlarına ayırırken birinci ve üçüncü terimin
+ax şeklinde çarpanları seçilir.
+
+ 
+
+Bu çarpanlar çapraz olarak çarpılıp toplandığında
+ortanca terim bulunuyorsa çarpanlar doğru seçilmiştir.
+Bu seçilen çarpanlar yan yana yazılırsa
+
+ şeklinde çarpanlarına
+ayırma işlemi sonlanmış olur.
+

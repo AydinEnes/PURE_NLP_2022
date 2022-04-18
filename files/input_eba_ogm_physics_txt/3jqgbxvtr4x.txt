@@ -1,0 +1,69 @@
+FİZİK - ELEKTRİK ENERJİSİ, GÜÇ, TEHLİKELERE KARŞI ALINAN ÖNLEMLER -
+
+Elektrik Enerjisi:
+
+Bir elektrik devresinde hareket
+eden elektronlar iletkenin atomları
+ile çarpışarak enerji kaybederler.
+İletkenin atomları ise bu enerji
+ile daha hızlı titreşerek iletkenin
+ısınmasına neden olur. İletkende
+harcanan enerji üretecin verdiği
+enerjiye eşittir. t sürede bir iletkenin
+direnci üzerinde harcanan enerji;
+
+
+bağıntısıyla bulunur. Birimi
+SI'da Joule'dür. Elektrik enerjisi için
+günlük hayatta Joule çok küçük bir
+birimdir. Bu nedenle kWh birimi de
+kullanılabilir.
+
+Elektriksel Güç;
+
+Bir elektrik devresinde elektrik
+enerjisi harcayarak ısı enerjisine
+dönüştüren bir iletkenin gücü;
+
+PV.
+
+bağıntısıyla bulunur. Birimi SI'da
+watt 'tır.
+
+Lamba Parlaklığı:
+
+Bir lamba (ampulün) parlaklığı,
+ampulün birim zamanda harcadığı
+enerji ile doğru orantılıdır. Kısaca gücü
+fazla olan lamba daha parlak yanar.
+
+Elektrik Akımının Oluşturabileceği
+Tehlikelere Karşı Alınması Gereken
+Sağlık ve Güvenlik Önlemleri:
+
+ 
+
+Sigorta Düzeneği
+
+Elektrik, hayatın vazgeçilmez bir
+parçasıdır ancak gerekli tedbirler
+alınmadığında tehlikeli olabilir. Elektrik
+kazalarından korunmak için alınacak
+bazı önlemler aşağıda verilmiştir.
+
+Elektrik uyarı levhalarına uyulmalı,
+prizlere emniyet kapağı takılmalı,
+bir prize birden fazla fiş takılmamalı,
+ıslak zeminlerde elektrikli cihazlar
+kullanılmamalı, evlerde topraklı
+priz kullanılmalı, kabloların ezik
+olmamasına dikkat edilmeli,
+prizlere metal ve benzeri maddeler
+sokulmamalı, yuvasından çıkmış ve
+telleri açıkta kalmış prizler tamir
+ettirilmeli, sigorta kapalı konuma
+getirilmeden elektrikle ilgili hiçbir iş
+yapılmamalı, elektrikli ev aletlerinin
+kullanım talimatlarına uyulmalı,
+kullanılmayan elektrikli cihazlar prize
+takılı bırakılmamalıdır.

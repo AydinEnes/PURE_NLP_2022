@@ -1,0 +1,64 @@
+MATEMATİK-DOĞRUNUN ANALİTİK İNCELENMESİ
+
+ 
+
+SAYI DOĞRUSU
+
+Her noktası bir reel sayıya karşılık gelen doğruya
+koordinat (sayı) doğrusu denir. Herhangi iki reel sayı
+arasında sonsuz tane reel sayı vardır.
+
+
+Bir A noktası x reel sayısı ile eşleştirildiğinde A
+noktasının koordinatı x olur ve koordinatı x olan A noktası
+A(x) şeklinde yazılır.
+
+Koordinat doğrusunda iki nokta arasındaki uzaklık bu
+iki noktanın koordinatları farkının mutlak değerine eşittir.
+
+A(x) ve E(y) noktaları arasındaki uzaklık |AE| = |y - x| =
+|x - y| olur.
+
+Örneğin koordinat doğrusunda A(-2) ve E(3) noktaları
+arasındaki uzaklık |AE| = |3 - (-2)| = 5 birimdir.
+
+Koordinat doğrusunda A ile C noktalarının ortasındaki
+nokta B olsun.
+ 
+
+B noktasının koordinatı ; b=aT+c dir.
+
+ANALİTİK DÜZLEM
+
+Bir düzlemde başlangıç noktaları aynı olan ve dik
+kesişen iki koordinat
+doğrusunun X
+oluşturduğu sisteme
+
+koordinat sistemi denir. 2' Bölge 1' Bölge
+
+ 
+
+Yatay eksen x ile, y Düşey eksen y ile
+
+gösterilir.
+
+koordinat eksenlerinin
+kesim noktasıdır ve
+bu noktaya başlangıç
+noktası veya orijin V
+denir.
+
+Koordinat sistemi analitik düzlemi 4 bölgeye ayırır.
+Şekilde koordinatları (x, y) olan A noktası gösterilmiştir.
+
+A(x, y) ifadesindeki
+
+x, A noktasının apsisi;
+
+y, A noktasının ordinatıdır.
+
+3. Bölge 4. Bölge
+
+ 
+

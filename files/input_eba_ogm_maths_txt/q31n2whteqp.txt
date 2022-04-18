@@ -1,0 +1,79 @@
+
+
+MATEMATİK ÜSLÜ İFADELERİN ÖZELLİKLERİ
+
+ 
+
+ 
+
+
+ 
+
+ÜSLÜ İFADELERİN ÖZELLİKLERİ
+
+ gerçek sayı ve doğal sayı olmak
+üzere:
+
+1) Tüm gerçek sayıların 1. kuvveti kendisidir.
+
+1 sayısının tüm reel sayı kuvvetleri 1 dir.
+
+.
+
+2) Sıfırdan farklı sayıların sıfırıncı kuvveti 1 dir.
+lIdir
+
+NOT:  belirsizdir.
+
+3) Üs negatif bir sayı ise taban ters çevrilir.
+
+
+
+
+
+4) Tabanları aynı olan iki üslü sayının çarpımında
+üsler toplanır.
+
+
+
+5) Üslü sayıların üssü alınırken üsler çarpılır.
+
+
+6) -1 in çift kuvvetleri 1, tek kuvvetleri -1 dir.
+
+7) Tabanları aynı olan iki üslü sayının bölümünde
+payın üssünden paydanın üssü çıkarılır.
+
+
+> Pozitif gerçek sayıların tüm kuvvetleri pozitiftir.
+ise 
+> Negatif gerçek sayıların çift kuvvetleri pozitif, tek
+kuvvetleri negatiftir.
+
+
+
+
+
+n çift ise 
+
+9) Üsleri aynı olan üslü sayıların çarpımında
+tabanlar çarpımına ortak üs yazılır.
+
+
+
+10) Üsleri aynı olan üslü sayılar
+bölünürken tabanlar bölünür, ortak üs
+aynen yazılır.
+
+
+
+
+11) Üsleri aynı olan üslü ifadeler
+toplanıp çıkarılabilir.
+
+
+
+ 
+
+ 
+

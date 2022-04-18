@@ -1,0 +1,47 @@
+MATEMATİK-ARİTMETİK DİZİLER-
+
+ 
+
+ARİTMETİK DİZİLER VE ÖZELLİKLERİ
+
+TOPLAM SEMBOLÜ (Z )
+
+
+
+Bu ifadede k ye indis ya da değişken, r ye alt sınır, n ye
+üst sınır denir.
+
+ARİTMETİK DİZİLER VE ÖZELLİKLERİ
+
+Ardışık terimleri arasındaki farkın sabit olduğu dizilere
+aritmetik dizi denir.
+
+n) aritmetik dizisinde
+
+olacak şekilde bir d gerçek sayısı vardır.
+Bu d sayısına aritmetik dizinin ortak farkı denir.
+
+İlk terimi ve ortak farkı d olan bir n) aritmetik
+dizisinin genel terimi
+
+ÖZELLİK:
+Bir aritmetik dizide 
+
+ 
+
+ÖZELLİK:
+
+Bir aritmetik dizinin n. terimi an , p. terimi ap
+olmak üzere bu dizinin ortak farkı
+
+ÖZELLİK:
+
+Sonlu bir aritmetik dizide baştan ve sondan eşit
+uzaklıkta bulunan terimlerin toplamı birbirine eşittir.
+
+
+ÖZELLİK:
+
+Bir aritmetik dizide her terim kendisinden eşit
+uzaklıktaki terimlerin aritmetik ortalamasına eşittir.
+

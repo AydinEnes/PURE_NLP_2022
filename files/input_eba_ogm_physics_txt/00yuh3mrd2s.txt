@@ -1,0 +1,131 @@
+FİZİK - GENLEŞME -
+
+ 
+
+Genleşme: Isı alma sürecinde hâl değişimine
+uğramayan maddelerin sıcaklıkları, yani atom veya
+moleküllerinin ortalama kinetik enerjisi artar. Daha
+yüksek hızla hareket eden parçacıklar birbirinden
+uzaklaşır ve bu durum maddede hacim artışına sebep
+olur. Isı alan maddelerin hacimlerinde meydana gelen
+bu artışa genleşme adı verilir. Sıcaklığı artan pek
+çok madde, bazı istisnalar dışında genleşir. Isı veren
+maddelerin sıcaklıkları, yani atom veya moleküllerinin
+ortalama kinetik enerjisi azalır. Tanecikler arasındaki
+mesafe kısalır ve maddenin hacmi küçülür. Isı veren
+maddelerin hacimlerinde meydana gelen azalmaya
+büzülme denir.
+
+Termostat: Ortamın sıcaklığını sabit tutmak ve aşırı
+ısınmaya karşı cihazları korumak amacıyla geliştirilmiş
+olan termostatlar; fırın, saç kurutma makinesi, buzdolabı, araba radyatörleri, klimalar, elektrikli ısıtıcılar gibi
+pek çok sistemde kullanılmaktadır.
+
+Elektrikli bir cihaz çalıştırıldığında devreden akım geçmeye başlar. Akım geçtiği sürece iletken tel ve bu telle
+bağlantılı olan çelik yay ısınır. Isınan çelik yay genleşir
+ve bağlantı noktalarının birbirine temas etmesine sebep
+olur. Temas anında iletken telden geçen akım kesilir ve
+çelik yay soğumaya, dolayısıyla büzülmeye başlar. Çelik
+yay yeteri kadar soğuyup bağlantı noktaları birbirinden
+ayrılınca devreden tekrar akım geçer. Böylelikle cihaz
+belirli bir sıcaklığa ayarlanarak aşırı ısınmaya karşı
+korunmuş olur.
+
+Genleşme miktarı maddenin; cinsine, sıcaklık
+değişimine, madde miktarına bağlıdır.
+
+Maddenin Cinsi: Maddenin cinsine bağlı bir
+nicelik olan genleşme katsayısı, sabit basınç altındaki
+bir maddenin sıcaklığının 1 *C değişmesi durumunda
+hacmindeki değişimin ilk hacmine oranıdır. Boyca
+genleşme katsayısı A ile gösterilir. Genleşme katsayısının
+birimi 1/K'dir.
+
+Boyutları aynı olan iki maddenin sıcaklıkları eşit
+miktarda artırıldığında (AT) genleşme katsayısı büyük
+olan madde daha fazla genleşir. Aynı şekilde bu
+maddelerin sıcaklıkları eşit miktarda azaltıldığında
+(AT) genleşme katsayısı büyük olan madde daha fazla
+büzülür.
+
+Sıvı hâldeki maddelerin atomları arasındaki bağlar da
+katı hâldeki maddelerin atomları arasındaki bağlardan
+daha zayıftır. Bu nedenle sıvıların genleşme katsayıları,
+katıların genleşme katsayılarından daha büyüktür.
+
+Gaz hâldeki maddelerin atomları arasındaki bağlar
+katı ve sıvılara göre daha zayıf olduğu için en fazla genleşme gazlarda oluşur. Bütün gazlar bulundukları kabı
+tamamen doldurduğu için genleşme, gazlar için ayırt
+edici bir özellik değildir.
+
+ 
+
+2. Sıcaklık Değişimi: Maddelerin aldığı ya da verdiği
+
+ısı ne kadar büyük olursa sıcaklıklarındaki değişim o
+kadar fazla olur. Sıcaklıktaki değişim ne kadar fazla
+olursa madde taneciklerinin hareketleri ve dolayısıyla
+hacimdeki değişim de o kadar fazla olur. Dolayısıyla
+genleşme veya büzülme, sıcaklık değişimiyle doğru
+orantılıdır. Maddelerin ısı alışverişi yapmadan önceki
+hacmi ne kadar fazla ise hacimlerindeki değişim de o
+kadar fazla olur. Genleşme ve büzülme miktarı, maddelerin ilk hacimleri ile doğru orantılıdır.
+
+Genleşme, maddenin tüm boyutlarında yani hacminde meydana gelir. Ancak maddenin bir boyutundaki
+genleşme diğer boyutundaki genleşmelerle kıyaslandığında ihmal edilebilecek kadar az olabilir. Örneğin
+ince ve uzun bir telin kesit alanında meydana gelen
+genleşme, boyundaki genleşmeye göre çok küçüktür. Bu
+durumda ince bir telin hacmindeki genleşmeden değil,
+boyundaki uzamadan bahsedilir.
+
+Genleşme; boyca uzama, yüzeyce genleşme, hacimce
+genleşme şeklinde üç ayrı durum için incelenir.
+
+Sıvıların genleşmesi yalnız hacim değişimi şeklinde
+gözlemlenir, genleşmesi önemsiz kaplarda genleşen
+sıvı kapta yükselir.
+
+Maddelerin boyut değişim miktarı; başlangıçtaki
+uzunluk, yüzey ve hacminin büyüklüğüne, sıcaklık
+değişiminin büyüklüğüne, maddeye has değişim
+katsayısına bağlıdır.
+
+Günlük Hayatta Genleşme: Maddelerin genleşme
+özelliğinden yararlanılarak yapılmış düzeneklerden en
+bilineni termometrelerdir. Sıvılı termometrelerde sıvı-
+ların genleşmesi, katı bir maddeden yapılan termometrelerde metallerin genleşmesi kullanılmaktadır. Gazlı
+termometrelerde ise genleşen gazın basınç ve sıcaklık
+değişiminden yararlanılmaktadır. Bazı yangın alarm
+sistemlerinin çalışma prensibi su ve doğal gaz tesisatının kurulması, gemi ve bina yapımında çelik levhaların
+perçinlenmesi günlük hayattaki genleşme olaylarına
+örnektir.
+
+Sıcak hava balonlarıyla uçuş, Isınan havanın genleşmesi ile gerçekleşmektedir. Balon içindeki hava
+ısıtıldığında genleşir ve genleşen
+havanın yoğunluğu azalır. Yoğunluğu dışarıdaki havadan daha az
+hâle gelen balon yükselir. Balonun
+aşağı indirilmesi için balon içindeki
+havanın soğuması yeterlidir.
+
+Köprülerde birbirinin içine
+geçebilen genleşme bağlantıları kullanılmaktadır.
+
+Bu bağlantılar, genleşmeden kaynaklanan
+uzunluk değişimlerinin bir sorun oluşturmaması için
+yapılmaktadır.
+
+Tren raylarının aralarında boşluk bırakılarak döşenmesinin sebebi de budur.
+
+Suyun Canlı Yaşamındaki Önemi: Canlılar donan nehir ya da göllerin altında devam ettirdikleri yaşamlarını, suyun ilginç bir özelliğine borçludur. Su, donarken
+hacmi artan nadir yapılardan birisidir. Donan suyun
+hacmi arttığı için öz kütlesi azalır, suyun öz kütlesinden daha küçük hâle gelir. Oluşan buz, suda yüzer ve
+yüzeyde birikerek buz tabakasını oluşturur. Suyun bu
+özelliği, çok soğuk bölgelerde suda yaşayan canlıların
+hayatta kalmasını sağlar. Su, -4 9C'de en küçük hacim
+ve en büyük öz kütle değerine sahiptir. Suyun sıcaklığı #4 *C'nin altına düşürüldüğünde hacminin arttığı,
+özkütlesinin de azaldığı görülmektedir.
+
+
+44 “C sıcaklığın altında suyun hacminin artması, soğuk
+kış günlerinde su borularının çatlamasına sebep olabilmektedir. Donarken hacmi artan maddelere galyum,
+germanyum, bizmut ve antimon örnek olarak verilebilir.

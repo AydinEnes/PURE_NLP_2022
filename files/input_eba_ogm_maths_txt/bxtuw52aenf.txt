@@ -1,0 +1,20 @@
+MATEMATİK - KONU ÖZETİ
+
+ 
+
+SAYMA VE OLASILIK
+KOMBİNASYON (SEÇME) - I
+
+Düzlemde;
+ İki noktadan yalnız bir doğru geçer.
+
+ Herhangi üçü doğrusal olmayan
+n tane nokta ile  tane
+doğru çizilebilir.
+
+olmak üzere herhangi
+üçü doğrusal olmayan tane nokta
+ile tane üçgen, tane
+dörtgen,  tane 
+çizilebilir.
+

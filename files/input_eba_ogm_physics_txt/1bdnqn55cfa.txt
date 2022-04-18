@@ -1,0 +1,15 @@
+FİZİK - SERBEST CİSİM DİYAGRAMI -
+
+ 
+
+SERBEST CİSİM DİYAGRAMI:
+
+Serbest cisim diyagramı bir
+cisme etki eden kuvvetlerin
+
+gösterilmesinde kullanılmaktadır.
+
+Serbest cisim diyagramı her cisim
+üzerine etki eden kuvvetler
+çizilerek sistemden ayrı tek
+başına düşünülür.

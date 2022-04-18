@@ -1,0 +1,37 @@
+MATEMATİK - FONKSİYON KAVRAMI, FONKSİYONLARDA DÖRT İŞLEM
+
+
+ 
+
+FONKSİYON TANIM KÜMESİ DEĞER
+KÜMESİ GÖRÜNTÜ KÜMESİ
+Boş olmayan iki kümeden biri olan A kümesinin her bir
+elemanını B kümesinin bir ve yalnız bir elemanına eşleyen ilişkiye A
+dan B'ye tanımlı fonksiyon denir.
+Fonksiyonlar genellikle f harfiyle gösterilir.
+ boş olmayan iki küme olmak üzere f, A dan B'ye tanımlı
+bir fonksiyon ise;
+Anın her bir elemanı, B yalnız bir elemanı ile eşlenir.
+b) A da eşlenmeyen eleman yoktur.
+e Bir A kümesinden B kümesine tanımlı f fonksiyonu kısaca
+ şeklinde gösterilir.
+ Burada Aya fonksiyonun tanım kümesi, B'ye ise fonksiyonun
+değer kümesi denir.
+ eşlendiği kümesine de görüntü kümesi denir.
+
+
+ Görüntü
+Kümesi
+
+Tanım Kümesi Değer Kümesi
+
+FONKSİYONLARDA DÖRT İŞLEM
+
+olsun.
+
+
+
+
+İki fonksiyonun toplam, fark, çarpım ve bölümlerinin tanım
+kümesi, bu iki fonksiyonun tanım kümelerinin kesişimidir.
+

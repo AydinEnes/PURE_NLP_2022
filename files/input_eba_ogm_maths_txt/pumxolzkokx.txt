@@ -1,0 +1,26 @@
+MATEMATİK - POLİNOMLAR
+
+ÇARPANLARINA AYIRMA
+YONTEMLERİ
+
+Bir polinomda benzer terimlerin
+yeni bir değişkenle adlandırılıp
+daha sade bir hâle getirildikten
+sonra çarpanlarına ayrılması
+işlemine değişken değiştirme
+yöntemi ile çarpanlara ayırma
+yöntemi denir.
+
+ÖRNEK: ifadesi
+çarpanlarına ayrılmak istendiğinde
+ilk iki terimde ortak olan
+
+X terimine a denilerek ifade
+haline getirilir. Bu
+cebirsel ifade de 
+şeklinde çarpanlarına ayrılır.
+Burada 4 yerine tekrar 
+yazılarak 
+elde edilir. Bu işleme değişken
+değiştirme yöntemi adı verilir.
+

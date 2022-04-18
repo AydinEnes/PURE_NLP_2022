@@ -1,0 +1,79 @@
+MATEMATİK-İKİNCİ DERECEDEN BİR BİLİNMEYENLİ EŞİTSİZLİKLER-
+
+ 
+
+DENKLEM VE ESİTSİZLİK SİSTEMLERİ
+
+X 5 "V olmak üzere bir malın maliyeti X , satış
+fiyatı X2-X+11 olsun.
+Malın satışından kâr elde edilme durumu
+X2 -x +11-x > 0 şeklinde ifade edilir.
+a 730 ve olmak üzere
+ax2 +bx+c 20 ,
+ax2 +bx+c SO ,
+ax2 +bx+c <O ,
+ax2 +bX +0 > 0
+ifadelerinin her birine ikinci dereceden bir
+bilinmeyenli eşitsizlik ve eşitsizliği sağlayan
+X değerlerinin kümesine eşitsizliğin çözüm
+kümesi denir.
+ax2 +bx+c ikinci dereceden üç terimlisinin
+hangi aralıkta pozitif, hangi aralıkta negatif değer
+alacağı üç durumda incelenir.
+
+1) A=b2 -4aC>Oolmak üzere
+ax2 +bx+C :0 denkleminin birbirinden farklı iki
+kökü vardır. Bu kökler X1<X2 olmak üzere X1 ve
+X2 olsun.
+
+Bu durumda ax2 +bx+c ifadesinin işaret
+tablosu aşağıdaki gibi incelenir.
+
+ 
+ax2+bx+c a nın a nın a nın
+işaretiyle aynı işaretinin tersi işaretiyle aynı
+
+ 
+
+ 
+
+ 
+
+2) A=b2 -4aC=Oolmak üzere
+aX2 +bX+C :0 denkleminin X1: X2 olacak
+şekilde birbirine eşit (çakışık, çift katlı) iki kökü vardır.
+Bu durumda ax2 +bx+c ifadesinin işaret
+
+tablosu aşağıdaki gibi incelenir.
+
+a nın işaretiyle aynı 8 a nın işaretiyle aynı
+
+ 
+
+denkleminin kökü yoktur.
+Bu durumda ax2+bx+c ifadesinin işaret
+tablosu aşağıdaki gibi incelenir.
+
+İşaret tablosu oluşturulurken kullanılacak işaretler.
+
+Paydanın kökü Paydanın kökü
+
+Tek katlı
+
+Çift katlı :
+Eşitlik Eşit olmama Eşitlik ve eşit olmama
+
+
+a±0 ve olmak üzere f(x)=ax2 +bx+c
+fonksiyonunun işareti incelenirken işaret
+tablosunda en sağ aralığa a nın işareti yazılır.
+İşaret tek katlı köklerde değişirken çift katlı
+köklerde değişmez.
+
+SONUÇ:
+
+21730 ve a, b.C E Rolmak üzere
+f(X)=aX2 +bX+C fonksiyonunda VX E R için
+
+f(X)> 0 ise A<0 ve a>O,
+f(X)< O ise A<0 ve 3< 0 olmalıdır.

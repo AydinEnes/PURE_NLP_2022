@@ -1,0 +1,40 @@
+MATEMATİK-TRİGONOMETRİK DENKLEMLER-
+
+ 
+
+sinx=a DENKLEMİNİN ÇÖZÜM KÜMESİ
+
+Birim çembere göre
+
+olur. Sinüs fonksiyonu
+periyotlu periyodik
+bir fonksiyon olduğundan
+sin veya
+
+olur.
+
+Bu durumda sinX=a
+denkleminin kökleri
+sağlayan x değerleridir. Buna göre
+
+ 
+
+
+Sonuç olarak
+olmak üzere sinx=a denkleminin nda
+bir kökü ise denklemin çözüm kümesi;
+
+ DENKLEMİNİN ÇÖZÜM KÜMESİ
+
+denkleminin kökleri biçiminde yazılırsa çözüm
+ olarak bulunur.
+O halde sinx=sina denkleminin çözüm kümesi
+
+
+SONUÇ
+
+sinf(x) :sing(x) denkleminin çözüm kümesi
+olmak Üzere 
+denklemlerini sağlayan x değerleridir.
+
+ 

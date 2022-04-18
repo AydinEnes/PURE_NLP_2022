@@ -1,0 +1,66 @@
+MATEMATİK-DOĞRUNUN ANALİTİK İNCELENMESİ-
+
+ 
+
+EKSENLERE PARALEL DOĞRU DENKLEMLERİ
+x EKSENİNE PARALEL DOĞRU DENKLEMLERİ
+A(a,b) noktasından geçen ve x
+* eksenine paralel olan doğrunun
+
+ 
+x eksenine paralel doğruların
+`_OIT'X eğimi m=0 olduğundan y=b olur.
+
+
+y EKSENİNE PARALEL DOĞRU DENKLEMLERİ
+
+A(c,d) noktasından geçen ve y
+eksenine paralel olan doğrunun
+denklemi
+
+
+m=tan 900 olduğundan doğrunun
+eğimi tanımsızdır. m tanımsız olduğu için
+X-C=O, bu yüzden de X :0 olarak bulunur. (0 E R)
+
+y BAŞLANGIÇ NOKTASINDAN
+(ORİJİN) GEÇEN DOĞRULARIN
+DENKLEMLER
+
+0 (0,0) noktasından geçen ve
+0 x eğimi m olan doğru denklemi
+
+y-0=m(X-O)=>y=mx
+
+BİR DOĞRUNUN GRAFİĞİ
+
+ 
+
+G) Analitik düzlemde alınan herhangi bir A noktasından
+sonsuz sayıda doğru geçer.
+
+G) Analitik düzlemde alınan herhangi iki noktadan sadece
+bir doğru geçer.
+
+6) Bir doğrunun grafiğini çizebilmek için doğrunun
+üzerindeki iki noktayı bilmek yeterlidir.
+
+9 işlemlerin daha kolay olabilmesi için bu noktalar
+doğrunun x ve y eksenlerini kestiği yerlerden seçilebilir.
+
+x, y, a, b,c E R olmak
+üzere ax+by+c=0
+doğrusu eksenleri
+
+noktalarında keser.
+AB doğrusunun eğim açısı
+
+
+ax+by+c=0 doğrularının
+
+eğimi olur.
+
+
+Eğimleri eşit olan doğrular birbirine paraleldir.
+Birbirine paralel doğruların eğimleri eşittir.
+

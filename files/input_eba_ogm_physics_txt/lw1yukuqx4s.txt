@@ -1,0 +1,199 @@
+FİZİK - ELEKTRİK AKIMI -
+
+ 
+
+Elektrik Akımı: Bir iletkenin iki ucu arasında, elektriksel
+kuvvet etkisiyle gerçekleşen düzgün yük hareketine elektrik
+akımı denir. Katı iletkenlerde elektrik akımının yönü artı
+kutuptan eksi kutba doğruyken elektronların hareket yönü
+eksi kutuptan artı kutba doğrudur. Bir iletkenin kesitinden
+birim zamanda geçen net yük miktarına akım şiddeti denir.
+Akım şiddeti ampermetre ile ölçülür. Birimi amperdir ve |
+
+sembolüyle gösterilir. | : bağıntısıyla ifade edilir.
+
+Bir iletkenin iki ucu
+arasında elektrik alanın
+dolayısıyla elektrik
+akımının oluşmasını :
+sağlayan potansiyel e —  —
+farkıdır. Potansiyel : L
+farkı, yükleri hareket
+ettirmek için birim
+yük başına düşen
+enerji miktarıdır.
+Birimi volttur ve V
+sembolüyle gösterilir. İletken bir maddenin elektrik akımına
+karşı gösterdiği zorluğa direnç denir. Direnç R sembolüyle
+gösterilir ve SI birim sistemindeki birimi ohm' dur (©). Bir
+iletkenin direnci yapıldığı maddenin cinsine (özdirenç) bağlı
+olup boyu ile doğru kesit alanıyla ters orantılıdır.
+
+A
+
+İletkenin direnci R-p.L/A
+bağıntısı ile ifade edilir.
+
+L
+Bu ilişki R-p. bağıntısı ile ifade edilir.
+
+ 
+
+K R, R, R, L
+Seri bağlı dirençler
+Dirençler devrede 5 R
+seri ve paralel olarak
+farklı şekillerde R
+bağlanabilir. Birden : ANANA <
+
+ 
+
+fazla direncin yerine
+aynı etkiyi sağlayan R
+tek bir dirence
+
+eşdeğer direnç denir.
+
+ 
+
+ 
+
+ 
+
+Paralel bağlı dirençler
+
+Seri bağlı dirençlerde eşdeğer direnç
+Reş- Rı * R2 * R3 bağıntısıyla,
+
+paralel bağlı dirençlerde eşdeğer direnç
+1 1 Ni 1 Ni 1
+Reş Rı R; R3
+
+bağıntısıyla bulunur.
+
+Bir elektrik devresinde devreye uygulanan potansiyel fark
+ile devreden geçen akım arasında ilişki “Ohm Yasası” ile
+açıklanır. Bu yasaya göre devreye uygulanan gerilimin akıma
+oranı sabittir. Bu sabit devrenin direncini verir.
+
+Ohm Yasası 7 —R şeklinde ifade edilir.
+
+Bir iletkenin iki ucu arasındaki potansiyel farkını ölçmek
+için voltmetre denilen araçlardan faydalanılır. Voltmetreler
+iletkene paralel bağlanır, ideal voltmetrenin iç direnci sonsuz
+kabul edilir. Bir iletken üzerinden geçen akım şiddetini
+ölçmek için ampermetre denilen araçlardan faydalanılır.
+Ampermetreler iletkene seri bağlanır, ideal ampermetrenin iç
+direnci sıfır kabul edilir.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+ 
+
+Üreteçlerin Bağlanması: Devreye bağlandığında
+iki nokta arasında potansiyel fark oluşturarak yüklü
+parçacıkların hareket etmesini sağlayan elektromotor
+kuvvetini meydana getiren devre elemanına üreteç
+ya da elektromotor kuvveti kaynağı denir. Üreteçler,
+birbirlerine seri ve aynı yönde akım üretecek şekilde
+bağlanırsa devredeki toplam potansiyel farkı
+
+Vaevre > Vı * V2
+
+ile hesaplanır. Bu durumda n tane üretecin toplam
+potansiyel farkı
+
+Vroplam -Vı*V31..... * Vp
+
+bağıntısıyla bulunur.
+
+Özdeş üreteçler paralel bağlandığında devredeki
+toplam potansiyel farkı, üreteçlerden birinin potansiyel
+farkına eşittir. Aynı kutupları birleştirilmiş n tane paralel
+bağlı özdeş üretecin toplam potansiyel farkı
+
+Vroplam — V, — V> —..... — n— V
+bağıntısıyla bulunur.
+
+Üreteçlerin Tükenme Süresi: Seri bağlı pillerle
+oluşturulan devredeki lambalar, üreteçlerin paralel
+bağlandığı devredeki lambalara göre daha parlaktır
+ancak ışık verme süresi daha azdır. Pillerin tükenme
+süreleri içerisinden geçen akıma bağlıdır. Pilden geçen
+akım arttıkça tükenme süresi azalır. Bu nedenle piller
+seri ve aynı yönde akım üretecek şekilde bağlanırsa
+devre akımı artar ancak tükenme süreleri azalır.
+Devrenin çalışma süresini artırmak için de üreteçler
+paralel bağlanır.
+
+Elektrik Enerjisi:
+
+Bir elektrik devresinde hareket eden elektronlar
+iletkenin atomları ile çarpışarak enerji kaybederler.
+İletkenin atomları ise bu enerji ile daha hızlı titreşerek
+iletkenin ısınmasına neden olur. İletkende harcanan
+enerji üretecin verdiği enerjiye eşittir. t sürede bir
+iletkenin direnci üzerinde harcanan enerji;
+
+E-RRt
+
+bağıntısıyla bulunur. Birimi SI'da Joule'dür. Elektrik
+enerjisi için günlük hayatta Joule çok küçük bir birimdir.
+Bu nedenle kW.h birimi de kullanılabilir.
+
+Elektriksel Güç;
+
+Bir elektrik devresinde elektrik enerjisi harcayarak ısı
+enerjisine dönüştüren bir iletkenin gücü;
+
+P—V.I
+
+bağıntısıyla bulunur. Birimi SI'da watt 'tır.
+
+Lamba Parlaklığı:
+
+Bir lamba (ampulün) parlaklığı, ampulün birim
+zamanda harcadığı enerji ile doğru orantılıdır. Kısaca
+gücü fazla olan lamba daha parlak yanar.
+
+ 
+
+Sigorta Düzeneği
+
+ELEKTRİK AKIMININ OLUŞTURABİLECEĞİ
+TEHLİKELERE KARSI ALINMASI GEREKEN
+SAĞLIK VE GÜVENLİK ÖNLEMLERİ:
+
+Elektrik, hayatın vazgeçilmez bir parçasıdır ancak
+gerekli tedbirler alınmadığında tehlikeli olabilir.
+Elektrik kazalarından korunmak için alınacak bazı
+önlemler aşağıda verilmiştir.
+
+Elektrik uyarı levhalarına uyulmalı, prizlere
+emniyet kapağı takılmalı, bir prize birden fazla
+fiş takılmamalı, ıslak zeminlerde elektrikli
+cihazlar kullanılmamalı, evlerde topraklı priz
+kullanılmalı, kabloların ezik olmamasına dikkat
+edilmeli, prizlere metal ve benzeri maddeler
+sokulmamalı, yuvasından çıkmış ve telleri açıkta
+kalmış prizler tamir ettirilmeli, sigorta kapalı
+konuma getirilmeden elektrikle ilgili hiçbir iş
+yapılmamalı, elektrikli ev aletlerinin kullanım
+talimatlarına uyulmalı, kullanılmayan elektrikli
+cihazlar prize takılı bırakılmamalıdır.
+
+      

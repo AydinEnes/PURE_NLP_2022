@@ -1,0 +1,155 @@
+FİZİK - SU DALGALARININ ÖZELLİKLERİ SU DALGALARINDA YANSIMA -
+
+ 
+
+Su Dalgalarının Özellikleri: Durgun su yüzeyi,
+yüzey gerilimi nedeniyle gergin bir zar gibidir. Su
+yüzeyinin bu özelliği nedeniyle değişik kaynaklar
+tarafından aktarılan enerjinin su yüzeyinde yayılmasıyla elde edilen dalgaya su dalgası denir.
+
+
+Su dalgaları, suyun yüzeyinde oluşup yayılır.
+Suyun derinliklerine inmediği için yüzey dalgaları
+olarak da adlandırılır. Bu nedenle denizin derinlikleri su dalgalarından etkilenmez.
+
+Su dalgaları, hareket ederken su yüzeyindeki tanecikler ileri geri (boyuna) ve yukarı aşağı
+(enine) hareket ederek derin sularda dairesel, sığ
+sularda eliptik yörüngeler izler.
+
+Bu nedenle su dalgaları enine ve boyuna dalgaların bileşkesi olan özel dalgalardır. Su dalgaları
+üzerindeki en yüksek noktaya dalga tepesi, dalga
+üzerindeki en alt noktaya dalga çukuru denir.
+
+ 
+
+Tepe Tepe
+
+Su dalgaları, camdan yapılmış ve üzerinde aydınlatması bulunan dalga leğenlerinde incelenir.
+Dalga leğeninde doğrusal su dalgalarının üzerine
+ışık tutulduğunda dalga tepeleri ışığı toplarken
+dalga çukurları dağıtır.
+
+Işık
+
+    
+ 
+ 
+
+Dalga kaynağı
+
+
+v
+Işığın toplandığı bölge Işığın dağıldığı bölge
+
+Dalga leğeninin altına yerleştirilen perde
+üzerinde dalga tepeleri aydınlık çizgiler, dalga çukurları karanlık çizgiler şeklinde görülür. Dalgalar
+hareketli olduğundan ekranda oluşan aydınlık ve
+karanlık bölgeler de hareket hâlindedir. Derinliği her yerinde aynı olan bir dalga leğenindeki
+durgun suya düz bir tahta çubuk yatay olarak
+sürekli batırılıp çıkarıldığında doğrusal su dalgaları oluşur.
+
+Dalga çukuru Dalga tepesi
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Derinliği her yerinde aynı olan
+bir dalga leğeninde noktasal bir
+kaynağın oluşturduğu dalgalar,
+merkezinde dalga kaynağı bulunan
+dairesel dalgalar şeklinde yayılır. Dairesel dalgalara üstten ışık tutulduğunda
+leğenin altındaki perdede dalga tepeleri aydınlık,
+dalga çukurları karanlık halkalar şeklinde görülür.
+
+Doğrusal Su Dalgalarının Doğrusal Engelden
+Yansıması:
+
+— Doğrusal engele paralel gelen su dalgaları
+7 Gelen su dalgaları engele çarptıktan sonra
+yine engele paralel
+yansır.
+
+Yansıyan su dalgaları
+> ” Dalgalar engele paralel değil de belirli bir
+EE — (açıyla geliyorsa dalga
+
+engele ilk değdiği noktadan itibaren yansımaya başlar. Gelen dalganın engelle yaptığı açı ve
+yansıyan dalganın engelle yaptığı açı eşittir.
+
+Doğrusal engel
+
+ 
+
+K
+
+A
+
+Gelen dalga
+
+Yansıyan dalga
+
+ 
+
+Gelen dalganın engelle yaptığı açıya gelme
+açısı (i), yansıyan dalganın engelle yaptığı açıya
+yansıma açısı (r) denir. Dalga geldiği açıyla yansır
+(ir). Dalga tümüyle yansıdığında doğrusal su
+dalgası olarak engelden uzaklaşır.
+
+Doğrusal Su Dalgalarının Parabolik Engellerden Yansıması: Parabolik engelin çukur yüzeyine
+gelen doğrusal su dalgaları, engelden yansıdıktan
+sonra bükülerek dairesel dalgalar şeklinde bir
+noktada toplanır.
+
+Gelen doğrusal
+su dalgaları
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Parabolik çukur engel
+
+Toplanan dalgalar, bu noktada sanki noktasal bir dalga kaynağı varmış gibi tekrar dairesel
+dalgalar şeklinde yayılır. Dalgaların toplandığı bu
+nokta, engelin odak noktası (F) olarak tanımlanır.
+
+Parabolik tümsek engele gönderilen doğrusal
+su dalgalarının engele önce çarpan orta kısmı önce yansır. Yansıyan doğrusal su dalgaları,
+dairesel dalgalara dönüşür. Yansıyan su dalgalarının ilerleme doğrultularının uzantıları, engelin
+arkasında kesişir.
+
+K Engelin
+
+Yansıyan dairesel arkasındaki bu
+
+Gelen doğrusal
+su dalgaları
+
+    
+   
+
+nokta, parabolik
+tümsek engelin
+odak noktasıdır (F). Engele
+çarpan dalgalar,
+uzantılarının
+kesiştiği bu noktadaki bir
+Parabolik Ooo naktan üretilmiş
+“L tümsek engel gibi yansır.
+
+ 
+ 

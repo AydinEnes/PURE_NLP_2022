@@ -1,0 +1,105 @@
+MATEMATİK Sınıf-9
+
+KONU ÜÇGENDE AÇI
+
+ÜÇGENDE TEMEL KAVRAMLAR
+
+DÜZLEMDE AÇILAR
+Düzlemde başlangıç noktaları ortak olan iki ışının birleşiminin
+
+oluşturduğu açıklığa açı denir.
+
+    
+
+ışınlarına açının kolları, O noktasına açının köşesi denir.
+
+
+Köşe
+O Açının kenarı B
+veya kolu
+
+Açılar adlandırılırken açının köşe ve kolları üzerindeki noktalar kullanılır.
+ÖRNEK: Şekildeki açı AOB, BOA veya o şeklinde adlandırılır.
+
+AÇININ ÖLÇÜSÜ
+
+Tam çember yayının (çevresinin) 360 eş parçasından birini gören merkez
+açının ölçüsüne 1 derecelik açı denir ve 19 ile gösterilir.
+
+AB yayı çemberin çevresinin 360 ta biri ise  olur
+
+ 
+
+açıdır.
+DOĞRU AÇI: Ölçüsü 180' olan açıdır.
+TAM AÇI: Ölçüsü 360' olan açıdır.
+
+DAR AÇI: Ölçüsü O" ile 909 arasında olan açıdır.
+DİK AÇI: Ölçüsü 90" olan açıdır.
+GENİŞ AÇI: Ölçüsü 90' ile 180" arasında olan
+
+TÜMLER AÇILAR: ÜÇGENDE AÇI
+
+ 
+  
+ 
+  
+
+Düzlemde doğrusal
+olmayan üç noktanın
+ikişer ikişer
+birleştirilmesiyle elde
+edilen geometrik
+şekle üçgen denir.
+
+Ölçüleri toplamı 90" olan açılardır.
+
+ 
+
+BÜTÜNLER AÇILAR:
+
+
+ noktaları üçgenin köşeleridir.
+
+ üçgenin kenarlarıdır.
+ üçgenin iç açıları,üçgenin dış açılarıdır.
+
+ÜÇGENDE AÇI ÖZELLİKLERİ
+
+1) Bir üçgenin iç açılarının ölçüleri toplamı
+180" dir.
+
+2) Bir üçgenin dış açılarının ölçüleri toplamı
+360" dir.
+
+3) Bir üçgende bir dış açının ölçüsü, kendisine
+komşu olmayan iki iç açının ölçüleri topla-
+mına eşittir.
+
+NOT: İki kenarının uzunluğu birbirine eşit olan
+
+üçgene ikizkenar üçgen denir. Kenarlarının
+
+uzunlukları birbirine eşit olan üçgene eşkenar
+üçgen denir. Eşkenar üçgenin her bir iç açısının
+ölçüsü 60“ dir.
+
+Ölçüleri toplamı 1809 olan açılardır.
+
+KOMŞU AÇILAR:
+Birer ışını ortak olan açılara denir.
+
+
+Hem komşu hem tümler olan açılara komşu
+tümler açılar denir.
+Hem komşu hem bütünler olan açılara komşu
+bütünler açılar denir.
+
+TERS AÇILAR:
+Birbirini kesen iki doğrunun
+oluşturduğu açılardan komşu
+olmayan açılara denir. Ters
+açıların ölçüleri birbirine eşittir.
+
+ 
+

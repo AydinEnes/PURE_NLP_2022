@@ -1,0 +1,71 @@
+MATEMATİK-DOĞRUNUN EĞİMİ-
+
+ 
+
+ 
+
+DOĞRUNUN EĞİMİ
+
+Bir doğrunun x ekseniyle pozitif yönde yapmış olduğu açıya doğrunun eğim açısı denir.
+
+dı
+
+dı doğrusunun eğim açısı a
+
+dı doğrusunun eğimi m1: tana
+
+Eğim açısı [O°, 180°) nda
+bulunur.
+
+dz doğrusunun eğim açısı 6
+
+dzdoğrusunun eğimi m2: tane
+
+Bir doğrunun eğim açısının tanjant değerine doğrunun eğimi denir ve m ile gösterilir.
+
+ 
+
+
+
+İKİ NOKTADAN GEÇEN DOĞRUNUN EĞİMİ
+
+ 
+
+
+Eğim açısı 0° Eğim açısı 90°
+olduğundan olduğundan
+m3 = tan0° = tan90° = tanımsız
+olur. olur.
+
+Analitik düzlemde A(x1,y1) ve B(x2,y2) noktaları verilsin.
+
+ 
+
+G) AB doğrusunun eğim açısı oı olsun.
+
+8 BAC ile BDE açıları yöndeş açılar olduğun-
+dan BAC açısının ölçüsü oı olur.
+
+3 ABC dik üçgeninde A(X1,y1) ve B(X2,y2)
+noktalarından geçen doğrunun eğimi
+
+olarak bulunur.
+
+ 
+PARALEL DOĞRULAR
+
+Ortak noktaları olmayan doğrulara paralel
+doğrular denir.
+
+
+dı doğrusunun eğim açısı a eğimi m1 = tan a
+dz doğrusunun eğim açısı 9 eğimi m2 : tane
+dı ll dz olduğundan a = 6 ve tana = tane olur.
+Buradan m1 = m2 olur.
+
+DİK KESİŞEN DOĞRULAR
+
+Birbirine dik olan iki doğrudan herhangi
+biri eksenlere paralel değilse bu iki doğrunun
+eğimleri çarpımı -1 olur.
+

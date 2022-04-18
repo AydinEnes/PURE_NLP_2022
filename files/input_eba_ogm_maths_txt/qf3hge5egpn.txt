@@ -1,0 +1,44 @@
+MATEMATİK - ÇARPANLARINA AYIRMA YÖNTEMLERİ
+
+ 
+
+ÇARPANLARINA AYIRMA YÖNTEMLERİ
+
+İKİ TERİMİN TOPLAMININ VEYA
+
+FARKININ KÜPÜ ÖZDEŞLİĞİ
+
+
+
+olur.
+
+İKİ TERİMİN KÜPLERİNİN TOPLAMI
+
+VE FARKININ ÖZDEŞLİĞİ
+
+
+
+ olur.
+
+ŞEKLİNDEKİ İFADELERİ
+ÇARPANLARINA AYIRMA
+
+ şeklindeki üç terimli ifadeleri
+çarpanlarına ayırırken birinci ve üçüncü terimin
+ ve  şeklinde çarpanları seçilir.
+
+
+
+ 
+
+ 
+
+Bu çarpanlar çapraz olarak çarpılıp toplandığında
+ortanca terim bulunuyorsa çarpanlar doğru
+seçilmiştir. Bu seçilen çarpanlar yan yana yazılırsa
+
+ şeklinde
+çarpanlarına ayırma işlemi sonlanmış olur.
+
+ 
+

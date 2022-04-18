@@ -1,0 +1,65 @@
+MATEMATİK-GERÇEK SAYI DİZİLERİ-l
+
+ 
+
+GERÇEK SAYI DİZİLERİ-I
+DİZİ VE FONKSİYON KAVRAMLARI ARASINDAKİ İLİŞKİ
+A ve B boş olmayan iki küme olmak üzere A kümesinin
+
+her bir elemanını, B kümesinin bir ve yalnız bir elemanı ile
+eşleyen ilişkiye A dan B ye tanımlı bir fonksiyon denir.
+
+Tanım Kümesi
+
+Değer Kümesi
+
+Fonksiyonlar f, g, h, gibi küçük harfler ile gösterilir.
+
+Tanım kümesi pozitif tam sayılar kümesi olan f;Z+ -› IR
+f(x)=x-2 fonksiyonunu inceleyelim:
+
+f(x) fonksiyonu
+
+f(1):-1, f(2):O, f(3): 1, f(4): 2,- - -, f(n): n - 2,
+
+şeklinde değerler almıştır.
+
+ 
+
+Bu fonksiyonun grafiği aşağıdaki gibidir:
+ 
+
+DİZİ TANIMI: Pozitif tam sayılar kümesinden
+gerçek sayılar kümesine tanımlanan her
+fonksiyona gerçek sayı dizisi ya da kısaca dizi
+denir. Diziler genel olarak (an) ile gösterilir.
+
+n 5 T' için f(n)= an için ifadesine dizinin
+
+n. terimi veya genel terimi denir. n sayısına
+dizinin indisi denir. Genel terim dizinin bütün
+terimlerini üretir. Genel terimi verilmeyen sayı
+grupları dizi belirtmez.
+
+(an):(a1,a2 ,213 234 ,' ' '› an ,' ' ') dizisinde
+211,212 ,a3 ,a4 ,. . -, an ,. .. gerçek sayılarına
+dizinin terimleri denir.
+
+Bir (an) (an):(al ,312,a3,a4,...9 an 3..
+
+biçiminde terimleri açık olarak gösterilir.
+
+-)
+
+ 
+
+ 
+SONLU DİZİ
+
+ke Z+ ve Ak Ç Z* ise Ak={1,2,3,...,k}
+kümesinden reel sayılara tanımlanan her fonksiyona
+sonlu dizi denir.
+
+a176141( -> R ise an ise an sonlu dizisinin elemanları
+
+biçiminde gösterilir.

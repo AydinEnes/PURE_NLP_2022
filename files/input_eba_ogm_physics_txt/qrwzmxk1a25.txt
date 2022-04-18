@@ -1,0 +1,179 @@
+FİZİK - KUVVET -
+
+ 
+
+ 
+
+ 
+
+ 
+
+Temas Gerektiren Kuvvetler
+
+ 
+
+Temas gerektiren kuvvetlerde kuvvet
+fiziksel temas vardır.
+
+v akışkanların kaldırma kuvveti
+v itme kuvveti
+
+v çekme kuvveti
+
+v kas kuvveti
+
+v rüzgar kuvveti buhar kuvveti
+v sürtünme kuvveti
+
+v hava direnci
+
+ 
+
+ile kuvvetin uygulandığı nesne arasında
+
+
+Temas Gerektirmeyen Kuvvetler
+
+durgun yükler yalnızca elektrostatik etkileşmelerde bulunur. Hareket eden yükler ise çevrelerinde
+manyetik alan oluşturarak elektromanyetik etkileşmelerde bulunur.
+
+ 
+
+Temas gerektirmeyen kuvvetlerde
+
+kuvvet ile kuvvetin uygulandığı nesnenin temas etmesi gerekmez.
+
+vV manyetik kuvvet
+
+v elektriksel kuvvet
+
+v kütle çekim kuvveti
+
+vV atom çekirdeğindeki nükleer
+kuvvetler
+
+ 
+
+Kuvvet: Bir cismin şeklini hareketinin doğrultusunu yönünü hızını değiştirebilen etkiye kuvvet denir. Kuvvetin
+cisimler üzerindeki bu etkisini, düz
+telin eğilmesi, süngerin sıkıştırılması,
+bilardo topunun banttan doğrultu ve
+yön değiştirerek hareketini sürdürmesi, mıknatısların birbirini çekmesi,
+atılan bir cismin yere düşmesi, kâğıdın
+buruşturulması gibi birçok olay örnek
+olarak verilebilir.
+
+Kuvvet E sembolüyle gösterilir,
+vektörel bir büyüklüktür.
+Dinamometre ile ölçülür. SI'daki birimi
+newton olup birim kısaltması N'dir.
+Kuvvetler temas gerektiren ve temas
+gerektirmeyen kuvvetler olmak üzere
+iki gruba ayrılır.
+
+Doğadaki Temel Kuvvetler: Temas
+gerektirmeyen kuvvetler, doğada
+var olan doğal kuvvet kaynaklarıdır.
+Bu kuvvetler kendi içinde dört gruba
+ayrılır.
+
+Suyun kaldırma kuvveti, sürtünme
+kuvveti, basınç kuvveti gibi diğer tüm
+kuvvetler temel kuvvetlerin sayesinde
+oluşur.
+
+Yer çekimi kanunu
+Uzaklık d
+
+     
+ 
+   
+
+El-IE-
+
+Güneşin kütlesi M
+
+Kütle Çekim Kuvveti: Genel çekim
+kanunu olarak bilinir. Doğadaki
+en zayıf kuvvettir. Bu kuvvetin
+büyüklüğü, kütlelerin çarpımı
+ile doğru aralarındaki uzaklığın
+karesiyle ters orantılıdır. Kütle çekim
+kuvvetlerinin menzili sonsuz olup
+sonsuzda sıfır olur.
+
+ 
+
+Elektromanyetik Kuvvet: Elektrik yükleri arasındaki etkileşmeleri
+tanımlar. Durgun elektrik yüklerinin
+çevresinde elektrik alan oluşur ve
+
+Doğadaki Temel Kuvvetler
+
+ 
+
+Kütle Çekim
+
+Kuvveti Kuvvet
+
+Elektromanyetik
+
+Zayıf Nükleer o Yeğin Nükleer
+Kuvvet Kuvvet
+
+Dünyanın kütlesi m
+
+Aynı cins elektrik yüküyle yüklü
+cisimler birbirini iterken zıt yüklü
+olanların çekmesi veya aynı cins
+mıknatıs kutupların birbirini iterken
+zıt kutupların birbirini çekmesi gibi
+durumları yöneten kuvvetlerdir.
+Elektromanyetik kuvvetlerin menzili sonsuz olup sonsuzda sıfır olur.
+Kuvvetin büyüklüğü; yük miktarları
+ve yüklü cisimlerin aralarındaki
+uzaklığa bağlıdır.
+
+Zayıf Nükleer Kuvvet: Atom
+çekirdeklerinin kararsız olmasına
+sebep olan çok kısa menzilli kuvvettir.
+Etki ettiği parçacıklar bozunarak
+kendisine yakın başka bir parçacığa
+dönüşür.
+
+Yeğin Nükleer Kuvvet: Atom çekirdeğinde bulunan proton ve nötronları
+(nükleonları) bir arada tutan kuvvettir. Etki alanı atom çekirdeği boyutlarında olup etkisi çok büyüktür.
+
+Bileşke Kuvvet: Uygulanan bütün
+kuvvetlerin etkisini tek başına
+gösterebilen kuvvete bileşke kuvvet
+(net kuvvet) adı verilir.
+
+ 
+
+Fy eş yg
+
+R-FAF,
+
+ 
+
+E E F>F.İ — > >
+Fı | F> >T,1se ya”
+
+R-F-F,
+
+Dengelenmiş ve Dengelenmemiş
+Kuvvetler: Cisim üzerine etki eden
+bileşke kuvvetlerin bileşkesi sıfırsa
+cisim dengelenmiş kuvvetlerin
+etkisindedir. Dengelenmiş kuvvetler
+etkisindeki bir cisim; durgunsa
+durmaya, hareket halindeyse sabit
+hızla hareketine devam eder.
+
+Denge şartını bozan kuvvetlere
+dengelenmemiş kuvvetler denir.
+Dengelenmemiş kuvvetler etkisindeki
+bir cisim, durgunsa cisim net kuvvet
+etkisinde hareket başlar, hareketliyse
+cismin hızı değişir.

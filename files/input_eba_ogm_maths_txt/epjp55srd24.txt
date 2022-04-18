@@ -1,0 +1,96 @@
+MATEMATİK - ÖZEL DÖRTGENLER/YAMUK
+
+ÖZEL DÖRTGENLER 
+
+
+ olur.
+YAMUĞUN  KÖsECENLERİ
+Şekildeki  yamuğunda  olmak üzere 
+ve  yamuğun köşegenleri denir.
+
+ 
+
+ Dörtgenler 
+
+ 
+
+Deltoid
+
+Köşegenlerin orta taban
+üzerinde ayırdığı doğru
+parçaları için
+
+
+
+ 
+olur.
+
+ 
+
+Şekildeki ABCD yamuğunda
+
+olmak üzere yamuğun köşegenlerinin kesim noktasından geçen ve alt taban
+
+ 
+
+ 
+
+       
+
+ 
+
+ 
+
+ 
+
+ile üst tabana paralel olan
+En az iki kenarı paralel için
+ olan dörtgene yamuk a B olur. denir
+
+ YAMUKTA ALAN
+Şekildeki ABCD yamuğunda (ABI // (DCI , ve
+YAMUKTA ORTA TABAN İKL)sh olmak üzere yamuğun alanı;
+Şekildeki ABCD yamuğun
+
+ ile orta
+ noktaları olan
+
+birleştiren doğru parçaSına orta taban denir.
+orta taban olmak
+üzere  ve
+
+
+
+ 
+
+ 
+
+
+ 
+
+
+
+NOT: Bir yamuğun alanı, orta taban uzunluğu ile yüksekliğinin carpımına esittir.
+
+
+
+Şekilde verilen ABCD yamuğunda |DB| ve JACJ köşegenler
+
+
+Şekildeki ABCD yamuğunda 
+noktası orta
+noktası ise
+
+
+
+olur.
+
+
+
+
+ 
+
+
+eşitlikleri geçer-
+lidir.
+

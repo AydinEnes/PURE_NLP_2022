@@ -1,0 +1,24 @@
+MATEMATİK-ANALİTİK DÜZLEMDE İKİ NOKTA ARASINDAKİ UZAKLIK-
+
+ 
+
+ANALİTİK DÜZLEMDE İKİ NOKTA ARASINDAKİ UZAKLIK
+
+Analitik düzlemde A(x1,y1) ve B(x2,y2)
+noktaları verilsin.
+
+
+ 
+
+[AB] hipotenüs ve dik kenarları x ile
+y eksenine paralel olacak şekilde ABC
+üçgeni çizildiğinde
+
+
+ABC üçgeninde Pisagor teoremi uy-
+gulandığında A ile B noktaları arasın-
+daki uzaklık
+
+ 
+
+şeklinde elde edilir.

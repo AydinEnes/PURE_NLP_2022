@@ -1,0 +1,126 @@
+MATEMATİK-ÇEMBERDE Açı-
+> Bir çemberde
+çapı gören çevre
+açının ölçüsü 90°
+
+C olur.
+
+> Bir çemberde
+paralel iki kirişin
+arasında kalan
+yayların ölçüleri
+birbirine eşittir.
+
+ 
+
+Köşesi çember
+üzerinde bulunan
+ve kenarlarından
+biri çemberin kirişi,
+diğeri çemberin
+teğeti olan açıya
+bu çemberin bir
+teğet-kiriş açısı
+denir.
+
+Teğet-kiriş
+açının ölçüsü, bu açının gördüğü yay
+ölçüsünün yarısına eşittir.
+
+NOT: Bir çemberde aynı yayı gören teğet-
+kiriş açı ile çevre açının ölçüleri eşittir.
+
+ 
+
+ 
+
+Yukarıdaki şekilde m(Al^3D)=m(A(^3B) olur.
+
+ 
+
+iç Açı
+
+Çemberin
+
+içinde herhangi
+bir noktada
+kesişen iki kirişin
+oluşturduğu
+açıların her
+birine bu
+çemberin bir iç
+açısı denir.
+
+Bir çemberde iç açının ölçüsü, bu açının
+gördüğü
+yayların ölçüleri toplamının yarısına eşittir.
+
+
+DIŞ Açı
+
+Bir çembere dışındaki noktadan çizilen iki
+
+kesenin, iki teğetin veya bir teğetle bir
+
+kesenin çemberin dışında oluşturduğu açıya
+
+çemberin dış açısı denir.
+
+Bir dış açının
+ölçüsü,
+gördüğü
+
+b yaylardan
+büyük olan
+açı ile küçük
+olan açının
+ölçüsünün
+î farkının yarısı-
+na eşittir.
+
+  
+ 
+
+SONUÇ:
+[BA ve [BC
+çembere
+B sırasıyla A ve C
+noktalarında
+teğet olsun.
+(ABC) + m(Â?:) = 180°olur.
+
+Aşağıda verilen 0 merkezli çemberde [08],
+B açısını ve AC nı iki eş parçaya böler.
+
+
+ÇEVREL ÇEMBER VE SİNÜS TEOREMİ
+
+ÇEVREL ÇEMBER
+
+Bir üçgenin köşelerinden geçen çembere
+üçgenin çevrel çemberi denir.
+
+Şekilde verilen ABC
+üçgeninin kenar orta
+dikmelerinin kesim
+noktası 0 olsun.
+Budurumda IAOI
+
+= IBOI = lCOI
+olduğundan O, çevrel
+çemberin merkezidir.
+Bir üçgenin kenar orta dikmeleri çevrel
+çemberin merkezinden geçer.
+
+SİNÜS TEOREMİ
+Şekilde O merkezli ve R yarıçaplı çember,
+
+ABC üçgeninin çevrel çemberidir. Çevrel
+çemberin yarıçapı R ile gösterilsin.
+
+ı Üçgenin kenarları, iç
+açıları ve çevrel
+çemberinin yarıçapı
+arasındaki ilişki (sinüs
+teoremi)
+seklindedir.

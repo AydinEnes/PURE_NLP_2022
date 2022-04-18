@@ -1,0 +1,51 @@
+MATEMATİK YAŞ VE İŞÇİ PROBLEMLERİ
+
+ 
+
+DENKLEMLER VE EŞİTSİZLİKLER
+
+DENKLEM VE EŞİTSİZLİKLERLE İLGİLİ UYGULAMALAR
+
+YAŞ PROBLEMLERİ
+
+Yaş problemlerinde veriler tablo şeklinde düzenlendikten sonra soruların çözümüne geçilmelidir.
+
+ 
+
+ 
+Yıl Önceki Yaşları Şimdiki Yaşları x Yıl Sonraki Yaşları
+
+İki Çocuğun Yaşları 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Toplamı
+
+ 
+
+İki kişi arasındaki yaş farkı aradan kaç yıl geçerse geçsin değişmez.
+
+İşçi PROBLEMLERİ
+
+İşçi problemlerinde işlemler, birim zamanda yapılan iş
+üzerinden gerçekleştirilir.
+Bir işçi işin tamamını X günde yaparsa
+
+
+
+
+yapar.
+
+1. işçinin a günde, 2. işçinin b günde bitirdiği bir işi
+ikisi birlikte x günde bitiriyorsa
+
+olur.
+

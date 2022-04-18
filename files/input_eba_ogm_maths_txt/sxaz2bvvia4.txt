@@ -1,0 +1,33 @@
+MATEMATİK-ÜSTEL FONKSİYONUN GRAFİĞİ-
+
+ 
+
+Üstel Fonksiyon
+a E R*- {1} olmak üzere f: IR -› IR* ; f(x) = aX fonksiyonuna, tabanı
+h”0hnüüeHoMsWondeMr
+
+a > 1 için artan fonksiyon
+
+0 < a < 1 için azalan fonksiyon Olur.
+
+ 
+
+ 
+
+Artan fonksiyon
+
+Azalan fonksiyon
+
+ 
+
+f(x)=a' ve a>1 iken adeğeri f(x)=a' ve 0 <a <1 iken adeğeri
+büyüdükçe grafiğin kolu y eksenine büyüdükçe grafiğin kolu y ekseninden
+yaklaşır. uzaklaşır.
+
+ 
+
+ 
+
+ 
+
+ 

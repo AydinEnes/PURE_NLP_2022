@@ -1,0 +1,124 @@
+FİZİK - ELEKTRİK YÜKLERİ ELEKTRİKLE YÜKLENME ÇEŞİTLERİ -
+
+ 
+
+Elektrostatik, durgun elektrik yüklerini ve bu
+yükler arasındaki etkileşmeyi inceler. Elektrik
+yüklerine pozitif (artı) ve negatif (eksi) ismi
+1700'lü yıllarda Benjamin Franklin tarafından
+verilmiştir. Franklin plastik çubuğun yüküne eksi,
+cam çubuğun yüküne artı denilmesini önermiştir.
+Tesadüfen yapılan bu önerinin doğru olduğu
+daha sonra anlaşılmıştır.
+
+Modern atom teorisine göre, atomun
+çekirdeğinde “4” yüklü protonlarla elektrik yükü
+olmayan nötronlar; çekirdek çevresinde ise “-”
+yüklü elektronlar bulunur.
+
+Atom ve dolayısıyla atomlardan oluşan madde
+nötr olma eğilimindedir. Atom, çekirdekteki
+pozitif (4) yüklü protonları negatif (-) yüklü
+elektronlarla dengeler. Elektron sayısının, proton
+sayısından fazla ya da az olması durumunda
+elektrik yükü ortaya çıkar.
+
+Bir atomun proton ve elektron sayılarına
+bakılarak yük durumu belirlenir. Sayılar
+arasındaki fark elektrik yükü olarak adlandırılır.
+Proton sayısı np ile elektron sayısı n, ile
+gösterildiğinde;
+
+n,n, İseatomnötr,n, >n, ise atom pozitif
+(9) yüklü, np <n, ise atom negatif (-) yüklü denir.
+Atomlar arasında serbest elektronlar aktarılabilir
+ancak protonlar ve nötronlar için böyle bir şey
+mümkün değildir. Elektrikle yüklenmenin tek
+yolu elektron alışverişidir. Nötr madde i
+elektron kazanarak “-" yükle, elektron a
+kaybederek “4” yükle yüklenmiş
+olur. İletkenlerde hareketli yükler
+elektronlardır.
+
+Yük g ile simgelenir. SI birim
+sisteminde yük birimi coulomb' dur. C
+sembolü ile gösterilir. Doğada bulunan
+en küçük yük elektronun yüküdür. Bu
+nedenle bir elektron yükü elemanter
+yük ya da birim yük olarak tanımlanır.
+Elektronun yükü e sembolü ile gösterilir.
+
+ 
+
+Elektronun yükü negatif değerde olup, aynı
+büyüklükte yüke sahip olan proton pozitif
+yüklüdür. Yüklü cisimlerin üzerindeki net yük
+..., -3e, -2Ze, 3e, 4e, ... şeklinde elektron yükünün
+tam sayı katları kadardır. Bir elektron yükünün
+büyüklüğü:
+1e- 1,602.1039C
+
+Atomun dolayısıyla maddenin elektron
+kazanması veya kaybetmesi elektriklenme olarak
+adlandırılır. Atomlar farklı yollarla elektron
+kazanabilir ya da kaybedebilir. Bunun sonucunda
+maddeler farklı yollarla elektrikle yüklenebilir.
+
+Elektriklenme Çeşitleri
+
+Temas ile Elektriklenme O Etkiile Elektriklenme
+
+Sürtünme ile Dokunma ile
+Elektriklenme Elektriklenme
+
+Sürtünme ile elektriklenmede birbirine sürtülen
+cisimler arasında elektron alışverişi gerçekleşir.
+Elektron alan cisimde negatif yük fazlalığı
+oluşurken elektron veren cisimde negatif yük azalır.
+Elektron veren cisimde pozitif yük fazlalığı, elektron
+alan cisimde de negatif yük fazlalığı oluşur.
+
+ 
+
+ 
+
+ 
+
+Sürtünme ile Elektriklenme: Sürtünme ile
+elektriklenen cisimler, eşit miktarda ve zıt
+elektrik yükü ile yüklenir. Elektron alan cisim
+-g yükü ile yüklenirken elektron veren cisim
+*g yükü ile yüklenir. Cisimlerin sürtünmeden
+önceki ve sonraki yük toplamları eşittir.
+
+Dokunma ile Elektriklenme: Dokunma ile
+elektriklenmede birbirine temas ettirilen
+iletken cisimler arasında elektron geçişi
+olur. Sistemde var olan toplam yük, sistemi
+oluşturan cisimler arasında paylaşılır.
+Dolayısıyla dokunma ile elektriklenen cisimlerin
+yük cinsleri aynı olur. Biri yüksüz, diğeri yüklü
+ya da ikisi de yüklü cisimler dokunma ile
+elektriklendirilebilir.
+
+Dokunma ile elektriklenmede sistemde
+var olan toplam yükün cisimler arasındaki
+paylaşımı, iletken cisimlerin yüzey alanları ile
+doğru orantılıdır. Bu nedenle özdeş iletken
+cisimler birbirine dokundurulduğunda sistemin
+toplam yükünü eşit olarak paylaşır. Birbirine
+dokundurulan küre şeklindeki iletken cisimlerin
+yarıçapları farklı ise toplam yükün paylaşımı,
+kürelerin yarıçapları ile doğru orantılı olarak
+gerçekleşir.
+
+© Dokunmadan önce Dokunma anı Dokunmadan sonra
+Kürelerin son
+yüklerini veren .. Gıtajr, , Ca,tajr,
+matematiksel LA 122 tr,
+model
+
+Kürelerin dokunmadan önceki sahip
+oldukları toplam yük dokunmadan sonraki
+sahip oldukları toplam yüke eşittir. Buradan da
+toplam yükün korunduğu görülür.

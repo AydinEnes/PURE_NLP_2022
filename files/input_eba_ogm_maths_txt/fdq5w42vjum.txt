@@ -1,0 +1,64 @@
+MATEMATİK-TERS TRİGONOMETRİK FONKSİYONLAR-
+
+ 
+
+TERS TRİGONOMETRİK FONKSİYONLAR-I
+
+-> B tanımlı bir fonksiyonunun tersinin de
+fonksiyon olabilmesi için bu fonksiyonun birebir ve
+örten olması gerekir.
+
+sinx, cosx ve tanx fonksiyonlarının grafikleri yatay
+doğru testine tabi tutulduğunda bu fonksiyonların
+birebir olmadıkları görülür. Bu yüzden mevcut tanım
+kümelerinde bu fonksiyonların ters fonksiyonları
+yoktur.
+
+Bu fonksiyonların tanım kümelerinin birebir ve
+örten olan alt kümelerinden biri tanım kümesi
+olarak seçildiğinde fonksiyonların bu kümede ters
+fonksiyonları vardır.
+
+f(X):sinX FONKSİYONUNUN TERSİ
+
+
+olarak alındığında bu aralıkta fonksiyon birebir ve
+örten olur.
+
+fonksıyonunun tanım kumesı
+
+
+sinx
+
+ 
+tanımlandığında
+
+fonksiyonuna sinüs fonksiyonunun ters fonksiyonu
+denir.
+
+
+sin(arcsinx)
+
+g(X):COSX FONKSİYONUNUN TERSİ
+
+COSX fonksiyonunun tanım kümesiolarak
+alındığında bu aralıkta fonksiyon birebir ve örten
+olur.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+larak
+tanımlandığında
+arccosx
+
+fonksiyonuna cosinüs fonksiyonunun ters
+fonksiyonu denir.
+
+y: arccosx <:> X=cosy olur.

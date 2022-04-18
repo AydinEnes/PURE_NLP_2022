@@ -1,0 +1,36 @@
+MATEMATİK-BİR FONKSİYONUN YEREL MAKSİMUM VE MUTLAK MAKSİMUM NOKTALARI-
+
+ 
+
+TÜREV UYGULAMALARI
+
+BİR FONKSİYONUN YEREL MAKSİMUM VE MUTLAK MAKSİMUM NOKTALARI
+f: A _> R ve (aab)ÇA olmak üzere bir X0 E(a,b)için fonksiyonun bu aralıktaki
+
+en büyük değeri f(X0)oluyorsa (Xoaf (X0)) noktasına f fonksiyonunun bir yerel
+maksimum noktası denir.
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+BİR FONKSİYONUN YEREL MİNİMUM VE MUTLAK MİNİMUM NOKTALARI
+
+f! A -> R ve (a,b)ÇA olmak üzere bir X0 G(a,b) için fonksiyonun bu aralıktaki
+
+en küçük değeri f(x0)oluyorsa (X0,f (X0)) noktasına f fonksiyonunun bir yerel minimum noktası denir.
+
+   
+
+NOT: Bir fonksiyonun yerel maksimum ve yerel minimum noktalarına genel olarak
+ekstremum noktaları denir.
+
+

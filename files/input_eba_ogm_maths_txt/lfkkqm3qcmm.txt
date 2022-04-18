@@ -1,0 +1,73 @@
+MATEMATİK  KÜMELERDE TEMEL KAVRAMLAR-2
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ALT KÜME
+
+herhangi iki küme
+olmak üzere A kümesinin
+her elemanı aynı zamanda B
+kümesinin de elemanı oluyor
+ise A kümesine B kümesinin
+alt kümesi denir. 
+biçiminde gösterilir.
+
+Aynı durum “ile
+B kümesi A kümesini kapsar
+biçiminde de ifade edilir.
+
+A kümesinin B kümesinden
+farklı en az bir tane elemanı
+varsa A kümesi B kümesinin
+alt kümesi değildir. 
+ile gösterilir.
+
+ 
+
+ 
+
+ALT KÜMENİN ÖZELLİKLERİ
+
+ herhangi kümeler olmak üzere;
+Boş küme her kümenin alt kümesidir.
+Her küme kendisinin alt kümesidir. 
+
+Her küme evrensel kümenin alt kümesidir. 
+
+
+ALT KÜME SAYISI
+
+N kümenin eleman sayısını göstermek üzere bir
+
+kümenin alt küme sayısı 2" kuralı ile bulunur.
+
+ÖZ ALT KÜME
+
+N elemanlı bir kümenin kendisi hariç tüm alt
+kümeleri “öz alt küme» diye adlandırılır.
+
+Bir kümenin öz alt küme sayısı kuralı ile
+bulunur.
+
+EŞİT KÜMELER
+
+A ve B iki küme olmak üzere A ve p kümelerinin
+tüm elemanları aynı ise bu kümelere eşit kümeler
+
+denir ve  şeklinde gösterilir.
+
+Eğer kümeler birbirine eşit değilse AB şeklinde
+
+gösterilir.
+
+

@@ -1,0 +1,15 @@
+MATEMATİK-TRİGONOMETRİ-
+ 
+
+TRİGONOMETRİ
+KOSİNÜS TEOREMİ
+
+
+SİNÜS TEOREMİ
+
+TERS TRİGONOMETRİK
+FONKSİYONLAR
+
+y = arcsinx a› x = siny
+y = arccosx (ı) x = cosy
+y = arctanx c› x = tany

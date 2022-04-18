@@ -1,0 +1,59 @@
+MATEMATİK 
+
+DENKLEMLER VE EŞİTSİZLİKLER
+
+BİRİNCİ DERECEDEN BİR
+
+BİLİNMEYENLİ EŞİTSİZLİKLER
+
+İki niceliğin birbirinden küçük ya da
+büyük olma durumunu belirten bağıntılara
+eşitsizlik adı verilir.
+
+Eşitsizlikler  sembolleri
+kullanılarak ifade edilir.
+
+ ve olmak üzere
+
+
+
+şeklindeki eşitsizliklere birinci dereceden
+bir bilinmeyenli eşitsizlikler adı verilir.
+
+BİRİNCİ DERECEDEN BİR BİLİNMEYENLİ
+EŞİTSİZLİKLERİN ÖZELLİKLERİ
+
+1) Bir eşitsizliğin her iki tarafına aynı
+gerçek sayı eklenir veya çıkarılırsa eşitsizlik
+değişmez.
+
+ birer gerçek sayı olmak üzere ise
+olur.
+
+2) Eşitsizlikler taraf tarafa toplanabilir.
+
+
+
+3) Bir eşitsizliğin her iki tarafı aynı pozitif
+gerçek sayı ile çarpılır ya da bölünürse
+eşitsizlik yön değiştirmez.
+
+I. DERECEDEN DENKLEMLER VE EŞİTSİZLİKLER
+
+birer gerçek sayı ve olmak üzere
+ olur.
+
+4) Bir eşitsizliğin her iki tarafı aynı negatif
+gerçek sayı ile çarpılır ya da bölünürse
+eşitsizlik yön değiştirir.
+birer gerçek sayı ve olmak üzere
+olur.
+
+ olmak üzere
+
+olur.
+
+6) aynı işaretli ve sıfırdan farklı iki
+gerçek sayı olmak üzere
+
+

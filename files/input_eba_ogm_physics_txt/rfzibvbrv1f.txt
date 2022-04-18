@@ -1,0 +1,79 @@
+FİZİK - DAYANIKLILIK, ADEZYON, KOHEZYON, YÜZEY GERİLİMİ VE KILCALLIK -
+
+ 
+
+DAYANIKLILIK:
+
+Katıların dış etkilere karşı
+yapı bütünlüğünü koruma
+çabasına dayanıklılık adı verilir.
+Bir katının dayanıklılığı katının
+kesiti ile doğru, hacmi ile ters
+orantılıdır. Katının boyutları
+arttıkça hacimdeki artış,
+kesitindeki artıştan daha fazla
+olacağı için dayanıklılığı azalır.
+Ancak dayanıklılık sadece
+kesit ve hacim ilişkisine bağlı
+değildir. Katının atomik yapısı,
+fiziksel ve kimyasal özellikleri
+de dayanıklılığı etkiler.
+Dayanıklılıkla ilgili çalışmalar,
+ilk defa Galileo tarafından
+yapılmıştır.
+
+ADEZYON VE KOHEZYON:
+
+Maddelerin kendi taneciklerine
+yapışmasını sağlayan kuvvete
+kohezyon, farklı cins moleküllere
+yapışmasını sağlayan
+kuvvete ise adezyon adı
+verilir. Kohezyon sayesinde
+sıvı molekülleri bir arada
+kalır. Adezyon sayesinde ise
+sıvılar cam, kumaş gibi farklı
+yüzeylere yapışır. Adezyon
+ve kohezyonun birlikte etkili
+olduğu durumlar da vardır.
+Örneğin ıslanma olayı,
+adezyonun kohezyondan
+büyük olması sonucu oluşur.
+
+YÜZEY GERİLİMİ:
+
+Sıvının üst yüzeyindeki
+moleküllerin kohezyon etkisi
+ile çekilmesi sonucunda sıvı
+yüzeyi gerilir. Bu özelliğe
+yüzey gerilimi adı verilir. Yüzey
+gerilimi, bazı böceklerin su
+üstünde durmasını sağlar.
+Yüzey gerilimi sadece sıvı
+yüzeyi ile ilgili bir özelliktir.
+Sıcaklık, basınç, maddeye farklı
+maddeler eklenmesi yüzey
+gerilimini değiştirir. Yüzey
+gerilimi azalan sıvı daha iyi
+yapışarak ıslanmaya neden
+olur. Çamaşırların deterjanlı
+sıcak su ile yıkanması bu
+nedenledir.
+
+KILCALLIK:
+
+Sıvıların ince cam boruda
+dış etkiye maruz kalmaksızın
+yükselmesi veya alçalması olayı
+olarak bilinen kılcallıkta da bu
+iki kuvvet etkilidir. Adezyon
+kohezyondan büyükse sıvı cam
+boruda yükselir ve sıvının üst
+yüzeyi çukurlaşır. Kohezyon
+adezyondan büyükse cam
+borudaki sıvı, kaptaki sıvı
+yüzeyinden daha aşağıya iner
+ve sıvı yüzeyi tümsekleşir.
+Bitkiler, kılcal borular yardımıyla
+topraktaki su ve besini kökten
+yaprağa ulaştırır.

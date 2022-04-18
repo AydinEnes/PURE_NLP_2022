@@ -1,0 +1,39 @@
+MATEMATİK-TRİGONOMETRİ-
+
+Kenarlarından
+biri başlangıç,
+diğeri bitiş
+kenarı olarak
+kabuleden
+açıya yönlü açı
+denir.
+
+Bir tam
+çember yayının
+360 eş parçaya
+bölünmesinden
+elde edilen, eş
+yaylardan birini
+gören merkez
+açının ölçüsüne
+1 derece denir.
+
+Bir derece 1°
+ile gösterilir.
+Herhangi
+bir çemberde,
+yarıçap
+uzunluğundaki
+yayı gören
+merkez açının
+ölçüsüne bir
+radyan denir
+ve 1 rad ile
+gösterilir.
+
+Çember yayı
+tam açı olduğundan ölçüsü 2 radyan, yarım
+çember yayının ölçüsü ise radyandır. Birim
+çember üzerinde başlangıç kenarları Ox ekseni
+ve bitim kenarları aynı olan açılardan ölçüsü
+aralığındaki açıya bu açıların esas ölçüsü denir.

@@ -1,0 +1,26 @@
+MATEMATİK-SINAVLARDA ÇIKMIŞ SORULAR-
+
+ 
+
+f: IR* -› IR olmak üzere doğal Iogaritma fonksiyonu
+f(x) = Iogex veya f(x) = Inx biçiminde gösterilir ve
+y=1n 
+
+
+
+ÜSTEL DENKLEMLER
+
+Tabanı 1 den farklı pozitif gerçek sayı olan ve bilin-
+meyenin üs olarak bulunduğu denklemlere üstel denk-
+lemler denir. Bu tür denklemlerin çözüm kümelerinin
+bulunmasında üslü sayıların veya Iogaritmik fonksiyon-
+ların özellikleri kullanılır.
+
+LOGARİTMIK DENKLEMLER
+
+
+
+Üstel eşitsizliklerde
+
+
+Logaritmik eşitsizliklerde

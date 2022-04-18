@@ -1,0 +1,171 @@
+MATEMATİK-ANALİTİK DÜZLEMDE TEMEL DÖNÜŞÜMLER - ÖTELEME DÖNÜŞÜMÜ
+
+ 
+
+DÖNÜşÜMLER
+ANALİTİK DÜZLEMDE TEMEL DÖNÜŞÜMLER
+
+ANALİTİK DÜzLEMDE K0O_RDİNATLARI VERİLEN
+BİR NOKTANIN 0TELEME, DONME VE SİMETRİ
+DONUŞUMLERİ
+
+ÖTELEME DÖNÜŞÜMÜ
+
+Analitik düzlemde verilen bir noktanın belli bir doğrultuda
+ve belli bir yönde yer değiştirmesine öteleme denir.
+
+ÖRNEK:
+
+AL Analitik düzlemde
+A(X , y) noktası x
+
+y ekseni boyunca pozitif
+yönde (sağa doğru) a
+birim ötelendiğinde
+
+A noktasının apsisi a
+birim artarken ordinatı
+değişmez. Böylece
+A(X , y) noktasının
+
+x ekseni boyunca pozitif yönde a birim ötelenmesiyle
+
+A (x+a,y) noktası elde edilir.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ÖRNEK:
+Analitik düzlemde
+
+AL , B(x,y) noktası
+
+x ekseni boyunca
+B'(x -a,y) B(x,y) negatif yönde (sola
+y doğru) a birim
+ötelendiğinde B
+noktasının apsisi
+o x-a`_'_$( >X a birim azalırken
+ordınatı de ışmez.
+Böylece B X,y)
+noktasının x ekseni
+boyunca negatif yönde a birim ötelenmesiyle B (X _3 , Y)
+noktası elde edilir.
+
+ÖRNEK:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Analitik düzlemde
+C(X, y) noktası y
+ekseni boyunca pozitif
+yönde (yukarı doğru)
+b birim ötelendiğinde
+C noktasının ordinatı
+b birim artarken apsisi
+:X de“işmez. Böylece
+C?X, y) noktasının y
+ekseni boyunca pozitif
+
+
+y + b C'(x , y + b)
+
+ 
+
+ 
+
+yönde b birim ötelenmesiyle C (X,y+b) noktası elde edilir.
+
+ 
+
+ 
+
+ÖRNEK:
+y Analitik düzlemde
+A D(x,y) noktası y
+Y DÖN/l ekseni boyunca negatif
+
+yönde (aşağı doğru) b
+
+b birim ötelendiğinde D
+noktasının ordinatı b
+birim azalırken apsisi
+
+şX değişmez. Böylece
+D(X , y) noktasının y
+
+, ekseni boyunca yönde b
+
+birim ötelenmesiyle D (X,y-b) nokta elde edilir.
+
+ 
+
+ 
+
+ 
+
+Analitik düzlemde
+verilen bir dik üçgenin x
+eksenine göre öteleme
+dönüşümü verilmiştir.
+ABC üçgeninin x ekseni
+boyunca pozitif yönde
+a birim ötelenmesiyle
+şekildeki ABC dik
+üçgeni elde edilir.
+
+ 
+
+ 
+
+Analitik düzlemde
+verilen bir
+dik üçgenin
+orijine göre
+negatif yönde
+(saatin dönme
+A yönünde) dönme
+dönüşümü
+:x verilmiştir.
+ABC üçgeninin
+orijine göre negatif yönde (saatin` dönme yönünde) a açısı
+kadar dönmesiyle şekildeki A B C dik üçgeni elde edilir.
+
+ 
+
+SİMETRİ DÖNÜŞÜMÜ
+
+ 
+
+y Analitik düzlemde
+A , verilen bir dik üçgenin
+A *1; t A yeksenine göre
+simetri dönüşümü
+verilmiştir.
+
+ABC üçgeninin
+y eksenine göre
+
+ 
+
+ 
+
+ 
+
+ simetriği alınarak
+

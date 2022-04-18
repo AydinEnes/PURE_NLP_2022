@@ -1,0 +1,138 @@
+MATEMATİK  SAYI KÜMELERİ
+
+ 
+
+ 
+
+ 
+
+DOĞAL SAYILAR KÜMESİ RASYONEL SAYILAR KÜMESİ 
+
+ kümesine doğal sayılar a ve b tam sayılar veolmak üzere  Çalışma alanım
+kümesi denir. sembolü N ile gösterilir.
+
+kümesinin her elemanına b şeklinde yazılabilen sayılara rasyonel 
+
+doğal sayı denir.
+birer rakam olmak üzere ab iki
+
+ 
+
+sayılar denir. sembolü ile gösterilir.
+
+basamaklı, abc üç basamaklı bir doğal
+sayı olsun.
+
+
+
+
+Rasyonel sayılar kümesinin negatif
+elemanlarından oluşan kümeye negatif
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+şeklinde çözümlenir. GERÇEK SAYILARIN SAYI DOĞRUSUNDA
+GÖSTERİLMESİ
+
+Sayı doğrusu gerçek sayıların bir
+
+rasyonel sayılar kümesi denir ve
+ sembolü ile gösterilir.
+
+Rasyonel sayılar kümesinin pozitif
+elemanlarından oluşan kümeye pozitif gösterim şeklidir. Her gerçek sayı, sayı
+rasyonel sayılar kümesi denir ve doğrusu üzerinde bir nokta belirtir.
+
+sembolü ile gösterilir.
+
+
+
+TAM SAYILAR KÜMESİ
+
+
+kümesine tam sayılar kümesi denir. 
+sembolü ile gösterilir. Bu kümenin her
+elemanına tam sayı denir.
+
+ 
+
+Tam sayılar kümesinin negatif
+elemanlarından oluşan kümeye negatif
+tam sayılar kümesi denir ve Z- sembolü
+ile gösterilir.
+
+
+
+Tam sayılar kümesinin pozitif
+elemanlarından oluşan kümeye pozitif
+tam sayılar kümesi denir ve Z* sembolü
+ile gösterilir.
+
+
+“0” sayısı bir tam sayıdır ancak “0”
+sayısının işareti yoktur.
+
+
+
+Her doğal sayı aynı zamanda bir tam
+sayıdır. Doğal sayılar kümesi, tam sayılar
+kümesinin bir alt kümesidir.
+
+
+
+2 ile bölünebilen tam sayılara çift tam
+sayılar denir. kezZ için çift tam sayılar 2k
+ile gösterilir.
+
+
+2 ile bölünemeyen tam sayılara tek tam
+sayılar denir. keZ için tek tam sayılar
+2k*1 veya 2k-1 ile gösterilir.
+
+
+
+Her tam sayı aynı zamanda bir rasyonel
+sayıdır.
+
+
+
+İRRASYONEL SAYILAR KÜMESİ
+tam sayılar ve  olmak üzere
+
+
+b şeklinde yazılamayan sayılara
+
+irrasyonel sayılar denir." sembolü ile
+gösterilir.
+
+SAYI KÜMELERİ
+ Kök dışına tam olarak çıkamayan
+sayılar,
+ o Virgülden sonraki kısmı tam
+olarak bilinmeyen sayılar,
+  İki tam sayının oranı şeklinde
+yazılamayan sayılar
+irrasyonel sayılardır.
+
+GERÇEK (REEL) SAYILAR KÜMESİ
+Rasyonel sayılar kümesi ile irrasyonel
+sayılar kümesinin birleşiminden oluşan
+kümeye gerçek (reel) sayılar kümesi
+denir. sembolü ile gösterilir.
+
+
+Pozitif gerçek sayılarIR* ve negatif gerçek
+sayılar R sembolü ile gösterilir.
+
+
+

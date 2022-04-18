@@ -1,0 +1,50 @@
+MATEMATİK-BİR DOĞRUNUN BİR NOKTAYA GÖRE SİMETRİĞİ-
+
+ 
+
+ 
+
+ 
+
+DONUSUMLER
+ANALİTİK DÜZLEMDE TEMEL
+DÖNÜŞÜMLER
+
+
+(11 doğrusunun A noktasına göre
+simetriği (12 doğrusu ise (11 //d2,
+|AD|:|AE| ve lAB|=|AC|olur.
+Cl1 doğrusu üzerindeki bir B(X,y)
+
+noktasının A(a,b) noktasına göre
+
+simetriği olan C(2a-X,2b-y) noktası
+
+d2 doğrusu üzerindedir.
+
+için (11 doğrusunun denkleminde x
+yerine 2a-x ve y yerine 2b-y yazılarak
+
+d1 doğrusunun A noktasına göre
+
+simetriği olan (12 doğrusu elde edilir.
+
+ÖTELEMELİ DÖNME DÖNÜŞÜMÜ
+
+Öteleme ve dönme dönüşümünün
+birlikte uygulandığı dönüşümlere
+ötelemeli dönme dönüşümü denir.
+Ötelemeli dönme dönüşümleri
+uygulanan şekillerde herhangi iki nokta
+arasındaki uzaklık değişmez ve şekillerin
+üzerindeki açıların ölçüleri de aynı kalır.
+
+ÖTELEMELİ SİMETRİ DÖNÜŞÜMÜ
+
+Öteleme ve simetri dönüşümlerinin
+birlikte uygulandığı dönüşümlere
+ötelemeli simetri dönüşümü denir.
+Ötelemeli simetri dönüşümleri uygu-
+lanan şekillerde uzaklıklar değişmez
+şeklin üzerindeki açıların yönleri değişir.
+

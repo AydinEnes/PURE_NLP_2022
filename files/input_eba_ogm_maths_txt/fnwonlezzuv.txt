@@ -1,0 +1,41 @@
+MATEMATİK-TRİGONOMETRİK DENKLEMLER-
+
+cosx=a DENKLEMİNİN ÇÖZÜM KÜMESİ
+
+Birim çembere
+göre cosa veya 7
+cos(-9):a olur.
+Kosinüs fonksiyonu 
+periyotlu periyodik bir
+fonksiyon olduğundan e
+
+olur. Bu durumda 
+denkleminin kökleri 
+
+eşitliklerini sağlayan x değerleridir.
+
+
+
+Buna göre
+
+Sonuç olarak
+
+olmak üzere cosx=a denkleminin [0,271) nda
+bir kökü 0 ise denklemin çözüm kümesi;
+
+
+
+cos f(x) = cos g(x) DENKLEMİNİN ÇÖZÜM KÜMESİ
+COSX :COSOC denkleminin kökleri keZ olmak üzere
+x: a +k-27r veya denklem COSX =COS(-a) biçiminde
+yazılırsa çözüm x: -a +k-271 olarak bulunur.
+O halde COSXZCOSOC denkleminin çözüm kümesi olur.
+
+souuç
+cost) :cosg(x) denkleminin çözüm kümesi k 5 Z
+
+olmak üzere f(x) :g(x) +2k71 veya İİX) :-g(x) +2k71
+denklemlerini sağlayan x değerleridir.
+
+
+TRİGONOMETRİK DENKLEMLER

@@ -1,0 +1,70 @@
+MATEMATİKÜÇGENİN ALANI
+
+ 
+
+ÜÇGENLER
+
+ 
+
+ÜÇGENİN ALANI
+
+Bir üçgenin alanı, bir kenar uzunluğu ile o kenar uzunluğuna ait
+yüksekliğin çarpımının yarısına eşittir.
+
+ABC üçgeninin alanı A(ABCO) biçiminde gösterilir.
+
+DAR AÇILI ÜÇGENDE ALAN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ile bulunur.
+
+ 
+
+DİK ÜÇGENDE ALAN
+
+ 
+
+Dik üçgensel bölgenin alanı, dik kenar uzunluklarının çarpımının yarısının
+alınmasıyla bulunur.
+
+Eğer hipotenüse ait yükseklik biliniyorsa taban uzunluğu ile yükseklik
+uzunluğunun çarpımının yarısı da alınabilir.
+
+ 
+
+ 
+
+Buna göre 
+olur.
+
+ 
+
+GENİŞ AÇILI ÜÇGENDE ALAN
+
+ 
+
+   
+
+Şekildeki geniş açılı üçgenlerde ve
+kenarlarına ait yükseklikler üçgenin
+dış bölgesindedir.
+
+
+
+ 
+
+ 
+
+ 
+
+© ” şeklinde bulunur.
+

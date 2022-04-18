@@ -1,0 +1,54 @@
+FİZİK -KALDIRMA KUVVETİ - 
+
+Sıvıların kaldırma kuvvetini açıklayan Archimedes, çağının
+önemli bir bilim insanıydı. Dairenin çevresinin çapına oranını
+hesaplamış, bazı geometrik cisimlerin hacim ve alan hesabını
+yapmıştır. Ancak Archimedes 'in en ünlü buluşu sıvıların kaldırma kuwvetidir. Rivayete göre dönemin kralı, kuyumcusuna
+belirli miktar altın verip kendine bir taç yapmasını ister. Ancak gelen tacın içine kuyumcunun başka bir metal karıştırıp
+karıştırmadığı konusunda şüpheye düşer. Kral bu problemin
+çözümünü Archimedes'ten bulmasını ister. Archimedes ağırlıkları aynı büyüklükte olsa da farklı maddelerin farklı miktarda su taşırdığını fark edip Eureka! diye sevinç çığlığı atar.
+Saf altın ile taç tartıldığında kütleleri aynıdır. Ancak saf altın
+ve taç farklı miktarlarda su taşırırlar. Archimedes Prensibi
+“sıvı içine bırakılan bir cisme, yerini değiştirdiği sıvının ağırlığı
+kadar kaldırma kuvveti etki eder" şeklindedir.
+
+
+
+Kaldırma kuvveti etki etmesi için cismin tamamen sıvı içinde
+olması gerekmez. Bu durumda kaldırma kuvveti
+
+
+Kaldırma kuvveti sıvı basınç kuvvetleri farkı sonucu oluşur.
+Cismin üst ve alt yüzeylerine etki eden kuvvetlerin farkı cisme
+kaldırma kuvveti olarak etki eder.
+
+Sıvı içine bırakılan cismin dengesi için üç durum geçerlidir.
+
+Batma Askıda Kalma Yüzme
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Yüzen cisimlerde sıvının
+özkütlesi cismin özkütlesinden
+büyüktür. Cisim ve sıvının
+özkütleleri eşitse cisim askıda kalır.
+Yüzen ve askıda kalan cisimlere
+etki eden kaldırma kuvveti cismin
+ağırlığına eşit büyüklüktedir. Batan
+cisimlerde cismin özkütlesi sıvının
+özkütlesinden büyüktür. Cisme
+etki eden kaldırma kuvveti cismin
+ağırlığından küçüktür. Bu nedenle
+zemin cisme bir tepki kuvveti
+uygular.
+
+ 

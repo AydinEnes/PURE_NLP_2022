@@ -1,0 +1,115 @@
+MATEMATİK-İKİNCİ DERECEDEN BİR BİLİNMEYENLİ EŞİTSİZLİKLER-
+
+ 
+
+ŞEKLİNDEKİ İFADELERİN ÇARPIMI
+VEYA BOLUMU ŞEKLİNDE VERİLEN EŞİTSİZLİKLER
+
+ax2 +bX+C ikinci dereceden üç terimlisinin hangi aralıkta pozitif, hangi aralıkta negatif
+
+değer alacağı üç durumda incelenir.
+
+1) Azb2 _4ac>00lmak üzere ax2 +bx+c :0 denkleminin birbirinden farklı iki kökü vardır.
+
+Bu kökler X1<X2 olmak üzere lee xzolsun.
+
+Bu durumda axz+bx+c ifadesinin işaret tablosu aşağıdaki gibi incelenir.
+
+ 
+ 
+
+aynı tersi
+
+a nın işaretiyle Çl a nın işaretinin % a nın işaretiyle aynı
+
+
+2) A=b2 -4ac=0 olmak üzere ax2 +bx+c :O denkleminin X1: X2 olacak şekilde
+
+birbirine eşit (çakışık, çift katlı) iki kökü vardır.
+
+Bu durumda ax2 +bx+c ifadesinin işaret tablosu aşağıdaki gibi incelenir.
+
+ 
+
+ 
+
+ax2+bx+c
+
+a nın işaretiyle aynı $ a nın işaretiyle aynı
+
+ 
+
+ 
+
+3) üzere ax2 +bx+c =O denkleminin
+kökü yoktur.
+
+Bu durumda ax2 +bx+c ifadesinin işaret tablosu aşağıdaki
+
+gibi incelenir.
+
+ 
+
+ reel kök yok + 00
+
+ 
+
+ax2 + bx + c a nın işaretiyle aynı
+
+ 
+
+NOT:
+
+ 
+
+İşaret tablosu oluşturulurken kullanılacak gösterimler:
+
+ 
+
+Payın kökü Paydanın kökü
+
+ 
+
+Tek katlı 
+ 
+
+Çift katlı
+
+Eşitlik Eşit olmama Eşitlik ve eşit olmama
+
+ 
+
+ 
+
+ 
+
+ 
+olmak üzere f(X)=aX2 +bx+c
+fonksiyonunun işareti incelenirken
+işaret tablosunda en sağ aralığa
+
+a nın işareti yazılır. İşaret tek
+katlı köklerde değişirken çift katlı
+köklerde değişmez.
+
+SONUÇ:
+
+3750 ve a,b,c E R olmak
+üzere f(x)=ax2 +bx+c
+fonksiyonunda Vx E R için
+
+f(x)> 0 ise A<0 ve a>0.
+
+f(x)< 0 ıse A<0 ve a<0
+olmalıdır.
+
+SONUÇ:
+
+İki ifadenin çarpımı veya bölümü
+şeklinde verilen eşitsizliklerin
+çözüm kümesi bulunurken her bir
+ifadenin kökleri işaret tablosunda
+gösterilir. Bölüm şeklindeki
+eşitsizliklerde paydanın kökü
+çözüm kümesine dâhil edilmez.
+

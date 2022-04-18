@@ -1,0 +1,55 @@
+FİZİK - İŞ GÜÇ -
+
+ 
+
+İş: Cisme hareket doğrultusunda uygulanan kuwvetle, alınan
+yolun çarpımına iş denir.
+
+Hareket yönü
+
+W—EF.Ax ile bulunur.
+
+
+İş (N.m-J)
+
+Cisme hareket Kuvvet etkisinde
+doğrultusunda yapılan yer
+yol aldıran kuvvet (N) (değiştirme (m)
+
+Fiziksel anlamda iş, bir cisme etkiyen kuwetin o cisme
+kendi doğrultusunda yol aldırması ile gerçekleşir. İş
+miktarının matematiksel ifadesi
+
+Cisme hareket yönü ile aynı yönde etkiyen kuwet pozitif, hareket
+yönüne ters yönde etkiyen kuwvet ise negatif iş yapar.
+
+Hareket yönü
+
+ 
+
+ 
+
+Yatay
+
+ 
+
+Yatay düzlemde yol alan bir cisme yola dik olarak etkiyen kuwvet, bu
+yolu aldıran kuwet olmadığından bu kuwet iş yapmaz.
+
+GÜÇ: Birim zamanda yapılan iş miktarına güç denir. Güç, işin
+yapılma hızı olarak da tanımlanabilir. Güç, P ile gösterilir. Sı'da birimi
+watt olup W ile gösterilir.
+
+Yapılan iş
+
+
+İş birimlerini güç birimine bağlı olarak
+» Watt . saniye — Joule
+
+» Watt. saat
+» Kilowatt . saat
+şeklinde de ifade etmek mümkündür.
+
+ 
+
+

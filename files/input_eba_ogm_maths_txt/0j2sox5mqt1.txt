@@ -1,0 +1,106 @@
+MATEMATİK YÜZDE VE KARIŞIM PROBLEMLERİ
+
+ 
+
+DENKLEMLER VE EŞİTSİZLİKLER
+
+DENKLEM VE EŞİTSİZLİKLERLE İLGİLİ
+
+UYGULAMALAR YÜZDE PROBLEMLERİ
+
+Bir A sayısının 96 x ini bulmak için A sayısı ile X çarpılır.
+
+
+
+okunur.
+
+ÖRNEK: 240 sayısı için bazı yüzde ifadeleri:
+ sayısının 
+
+
+ 
+
+ biçiminde yazılır ve “A nın yüzde xi” şeklinde
+ 240 sayısının 
+
+
+240 sayısının 
+
+
+sayısının 
+
+KARIŞIM PROBLEMLERİ
+
+Saf madde miktarı
+Karışım miktarı
+
+Saf madde oranı
+
+Saf madde miktarı
+Karışım miktarı
+
+besi
+
+A maddesinden a gram, B maddesinden b gram alınarak
+
+Saf madde yüzdesi
+
+oluşturulan (a * b) karışımındaki;
+
+> Amaddesinin oranı:
+
+
+> Amaddesinin yüzdesi : 
+> Bmaddesinin oranı:
+
+> Bmaddesinin yüzdesi : 2100 şeklindedir.
+
+
+Karışım problemlerinde karşılaşılabilecek bazı durumlar,
+tuz ve su ile oluşturulmuş karışımlar üzerinden şu şekilde
+özetlenebilir:
+
+1.) İKİ AYRI KARIŞIM KARIŞTIRILDIĞINDA;
+
+ile bulunur.
+
+m,:1. karışımın miktarı m, : 2. karışımın miktarı
+
+“o X:1. karışımın tuz oranı Yo y:2. karışımın tuz oranı
+“0 Z: Oluşan son karışımın tuz oranı
+
+
+
+
+2.) KARIŞIMA TUZ İLAVE EDİLDİĞİNDE;
+
+
+
+ karışımın miktarı, Karışıma ilave edilen tuz
+miktarı
+
+ karışımın tuz oranı 
+
+ Oluşan son karışımın tuz oranı
+
+NOT: Eklenen tuz için tuz oranı 96 100 alınır!
+
+
+
+3.) KARIŞIMA SU İLAVE EDİLDİĞİNDE;
+
+
+
+ karışımın miktarı, MM, : Karışıma ilave edilen su
+miktarı
+
+karışımın tuz oranı 
+
+Son karışımın tuz oran
+
+NOT: Eklenen su için tuz oranı © 0 alınır!
+
+
+
+ÇALIŞMA ALANI
+

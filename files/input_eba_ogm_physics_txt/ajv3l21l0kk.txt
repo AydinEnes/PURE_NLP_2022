@@ -1,0 +1,132 @@
+FİZİK - GAZ BASINCI-AÇIK HAVA BASINCI - 
+
+ 
+
+Gaz Basıncı: Gazların belirli bir
+hacmi ve şekli yoktur. Gazlar içerisine
+konulduğu kabı homojen bir şekilde
+tamamen kaplar. Gazın hacmi ve şekli,
+kabın hacmi ve şekliyle aynı olur. Gaz
+molekülleri arasındaki boşluk fazla
+olduğu için gazlar sıkıştırılabilir.
+
+
+ 
+
+Magdeburg Yarım Küreleri
+
+Açık Hava Basıncı: Dünya'nın çevre-
+sinde bulunan kilometrelerce kalınlık-
+taki gaz kütlesinin ağırlığından ve gaz
+moleküllerinin sahip olduğu kinetik
+enerjilerinden dolayı oluşan basınca
+açık hava basıncı denir. Açık hava
+basıncı P, sembolüyle gösterilir. Yer
+yüzeyinden yukarı çıkıldıkça atmos-
+ferdeki gaz molekülleri seyrekleştiği
+için açık hava basıncı azalır. Atmosfer
+basıncı ile ilgili bilinen ilk deney Otto
+von Guericke tarafından Magdeburg
+da yapılmıştır. İki yarım küre birleşti-
+rilerek aradaki hava vakumlanmış ve
+
+açık hava basıncı etkisiyle kürelerin
+birbirinden çok zor ayrıldığı görülmüş-
+
+ 
+
+Boşluk
+
+  
+
+ 
+
+Torricelli Barometresi
+
+ 
+
+ 
+
+tür.
+
+İtalyan bilim
+insanı Evangelista
+Torricelli barometre ile açık hava
+basıncını ölçmüştür. Tamamen cıva
+dolu cam boru
+hava almayacak
+şekilde cıva dolu
+kaba daldırıldığında cıva sütunu açık
+hava basıncı etkisiyle cam boruda
+yükselir. Deniz seviyesinde ve 0* C
+sıcaklıkta bu sütunun yüksekliği 76
+cm'dir. Ölçülen bu değere özel olarak
+T atmosfer basıncı (atm) de denir.
+
+balon ve Şekil 11 de kapalı kap içinde esnek sızdırmaz ince
+
+zar ile ayrılmış gazlar bulunmaktadır.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Boşluk
+
+ 
+
+ 
+
+Cıva sütununun yüksekliği tüpün
+şekline, duruşuna, kalınlığına bağlı
+değildir. Yükseklik sıcaklıkla ve yerden
+yükseklikle azalır. Cıva sütunlarındaki
+yükselme olayının kılcallıkla ilgisi
+yoktur.
+
+Kapalı Kap İçerisindeki Gazların
+Basıncı: Kaba homojen olarak dağılan
+gaz moleküllerinin her noktaya birim
+zamanda çarpma sayısı eşit kabul edi-
+lir. Bu nedenle kabın her noktasındaki
+gaz basıncı da eşit olur. Gazın sıcaklığı
+ve kabın hacmi sabit kalmak şartıyla kaptaki molekül
+sayısı artırılırsa birim
+yüzeye birim zamanda
+çarpan molekül sayısı
+artacağından gazın
+basıncı artar. Kapalı
+bir kaptaki gazın hac
+mi ve molekül sayısı
+sabit kalmak şartıyla
+sıcaklığı artırılırsa moleküllerinin hızı artar
+ve birim yüzeye birim
+zamanda çarpan molekül sayısının artması
+sebebiyle basıncı da
+artar. Kapalı bir kaptaki gazın sıcaklığı
+ve molekül sayısı sabit kalmak şartıyla hacmi azaltıldığında birim yüzeye
+birim zamanda çarpan molekül sayısı
+artacağından gazın basıncı da artar.
+
+2. Açık hava basıncının P,, olduğu bir ortamda cam balondaki 
+X gazı, kollardaki cıva düzeyleri arasındaki farkı h olan
+cam boru ve esnek balondaki Y gazı yardımıyla dengededir.
+
+Bu durumda P,
+P veP, arasındaki
+ilişki hangisinde
+doğru verilmiştir?
+
+Cam balon
+Cıva
+
+
+
+IN. Düdüklü tencerede yüzeydeki basınç arttığı için sıvı
+yüksek sıcaklıklarda kaynar.
+
+ 

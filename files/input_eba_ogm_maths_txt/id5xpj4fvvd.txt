@@ -1,0 +1,72 @@
+MATEMATİK GERÇEK SAYILAR KÜMESİNDE ARALIK KAVRAMI
+
+ 
+
+DENKLEMLER VE EŞİTSİZLİKLER
+
+GERÇEK SAYILAR KÜMESİNDE ARALIK KAVRAMI
+
+Sayı doğrusu üzerinde birbirinden farklı iki noktanın
+arasındaki tüm gerçek sayılardan oluşan alt kümeye aralık adı
+verilir. Aralıklar, verilen kümeye uç noktalarının dahil edilip
+edilmemesine bağlı olarak adlandırılır.
+
+Aralık gösterimi  ifadeleri kullanılarak
+yapılır. Bu gösterimlerdeki a ve b gerçek sayıları birer uç
+noktadır.
+
+Açık Aralık
+
+ El kümesi bir açık aralık belirtir ve
+ ile ifade edilir.
+
+Sayı doğrusu
+üzerindeki gösterimi 
+yandaki gibidir.
+
+
+Kapalı Aralık
+
+ bir kapalı aralık belirtir ve
+ile ifade edilir.
+
+Sayı doğrusu
+üzerindeki gösterimi o “
+yandaki gibidir.
+
+Yarı Açık Aralık
+
+Uç noktalardan birinin dahil edilmediği veya
+
+şeklinde ifade edilen kümelere yarı açık aralık denir
+ve aşağıdaki gibi gösterilir.
+
+ 
+
+
+
+Üstten sınırsız aralıklar:
+
+olmak üzere adan büyük tüm gerçek sayıların
+kumedir. a dahil değil ise 
+
+ 
+
+Alttan sınırsız aralıklar:olmak üzere a dan küçük
+tüm gerçek sayıların kümesidir.
+dahil ise
+dahil değil ise
+
+
+kendisi de aralık biçiminde yazılabilir.
+
+
+
+ 
+
+
+
+ 
+
+ 
+

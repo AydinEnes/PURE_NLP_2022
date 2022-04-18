@@ -1,0 +1,138 @@
+- FİZİK - GAZ BASINCI -BASINCIN HÂL DEĞİŞİMİNE ETKİSİ- AKIŞKAN BASINCI
+
+ 
+
+Cıva
+Açık uçlu bir manometrede kapalı
+kaptaki gazın basıncı, açık hava
+basıncı ile h yüksekliğindeki cıva
+sütununun yaptığı basıncın toplamı
+kadardır.
+
+Manometre: Kapalı bir kaptaki gazın
+basıncını ölçen alete manometre denir. Cıvalı
+manometreler, açık uçlu manometre ve kapalı uçlu manometre olmak üzere ikiye ayrılır.
+
+Manometreler, araç tekerleklerindeki
+havanın, oto gaz depolarındaki ve oksijen
+tüplerindeki gazın basıncını ölçmek için
+kullanılır.
+
+Altimetre: Altimetreler bir çeşit barometredir ve basınç farklılığı ilkesine göre çalışır.
+Altimetreler deniz seviyesine göre yüksekliği
+gösteren aletlerdir. Uçak yolculuklarında ve
+dağ tırmanışlarında altimetreden faydalanılır.
+
+Batimetre: Basınç değişiminden yararlanarak suyun derinliğini ölçen aletlere batimetre denir. Denizaltılarda derinliği belirlemek
+için batimetre kullanılır. Dalgıçlar derinlere
+indikçe oksijen ve azot gazı, yüksek basınçtan dolayı kanlarında çözünür. Derinlerdeki
+bir dalgıç, deniz yüzeyine doğru hızla çıkarken basınç azaldığından kanda çözünmüş
+olan azot, gaz hâline geçerek damarların
+içerisinde baloncuklar oluşturur. Bunun sonucunda akciğerlerde yırtılma, beyne oksijen
+gitmeme gibi olumsuz sonuçlar ortaya çıkar.
+Buna vurgun yeme denir. Dalgıçlar vurgun
+yememek için yüzeye yavaşça çıkmalı ve
+belli yüksekliklerde beklemelidir. Sabırlı bir
+şekilde beklemeyen dalgıçların kanındaki
+azot gazının tekrar çözünmesi ve üstlerindeki basıncın yavaş yavaş düşerek
+normalleşmesi için basınç odalarına
+alınarak bekletilmesi gerekir.
+
+Basıncın Hâl Değişimine Etkisi:
+
+Erirken hacmi büyüyen maddelerde
+
+basınç erimeyi zorlaştırır. Bu maddelerde basınç artırıldığında erime
+sıcaklığı da artar. Erirken hacmi küçülen maddelerde (su, bizmut, antimon)
+basınç erimeyi kolaylaştırır. Bu mad-
+delerde basınç artırıldığında erime sıcaklığı
+azalır. Sıvının ısı alıp gaz hâline geçmesine
+
+ 
+
+Kapalı uçlu manometrede açık
+hava basıncının etkisi yoktur. Cıva
+
+sütununun üst kısmının boşluk
+olması durumunda gazın basıncı h
+
+yüksekliğinde cıva sütununun
+
+yapmış olduğu basınca eşittir.
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Kapalı uçlu manometrede cıvanın
+
+üzerinde kalan kısımda gaz varsa
+
+manometredeki X gazının basıncı
+
+h yüksekliğindeki cıva sütununun
+
+yaptığı basınç ile Y gazının basıncı
+toplamıdır.
+
+buharlaşma denir. Basınç ile buharlaşma hızı
+ters orantılıdır. Basınç azaldıkça buharlaşma
+hızı artar. Sıvının buhar basıncı ile atmosfer
+basıncının eşit olduğu sıcaklığa kaynama
+noktası (sıcaklığı) denir. Sıvının kaynama
+noktası sıvı yüzeyine etki eden basınca bağlıdır. Düdüklü tencerede yüzeydeki basınç
+artırılarak sıvının daha yüksek sıcaklıklarda
+
+dan farklı olarak akışkan olan maddelerdir.
+noulli İlkesi “Bir boruda ya |
+hâldeki basıncından küçüktür.” şeklinde tanımlanır. 
+Akışkanın hızı arttıkça B Buz
+duvarlarına uyguladığı basınç azalır.
+
+içinde bulunduğu kabın
+
+kaynaması sağlanır.
+
+Akışkan Basıncı: Sıvı ve gazlar katılar-
+Hareket hâlindeki akışkanların oluşturduğu
+basınç durgun basınçlarından farklıdır. Berda kanalda akmakta olan
+akışkanın basıncı, durgun
+
+Rüzgârlı havalarda
+
+şemsiyenin ters dönmesi, uçak kanadının üst
+kısmındaki basıncın az olması nedeniyle havalanması akışkan basıncının etkilerindendir.
+
+Hızlı hava akımının oluşturduğu basınç
+
+
+ 
+
+ 
+
+kanadının üst kısmındaki basıncın az olması nedeniyle
+
+Yüksek basınç
+bölgesi
+
+
+Yavaş hava akımının oluşturduğu basınç
+
+    
+ 
+
+havalanması akışkan basıncının etkilerindendir.

@@ -1,0 +1,98 @@
+FİZİK - DÜZGÜN DOĞRUSAL HAREKET -
+
+ 
+
+Ortalama Sürat: Bir hareketlinin aldığı toplam yolun
+toplam hareket süresine oranına ortalama sürat denir.
+
+. Alınan Toplam Yol
+Ortalama Sürat — ———
+Geçen Toplam Zaman
+
+Ortalama Hız: Bir hareketlinin yaptığı yer değiştirmenin
+toplam hareket süresine oranına ortalama hız denir.
+Yapılan Yer Değiştirme
+Ortalama Hız — ————— ——
+Geçen Toplam Zaman
+İvme: Hızda, birim zamanda (1 saniyede) meydana gelen
+değişikliğe ivme adı verilir. Vektörel bir nicelik olan ivme, â
+sembolü ile gösterilir. İvmenin SI'daki birimi m/s? dir.
+Hız değişimi AV
+iz ceğşimi ii“
+
+İvme — ———
+Zaman Değişimi At
+
+Hız-zaman grafiğinin eğimi ivmeyi verir.
+
+Hareket Grafiklerinin Yorumlanması: Düzgün
+doğrusal harekette bir grafikteki bilgiler kullanılarak
+diğer bir grafik hakkında yorumda bulunulabilir. Hız zaman grafiğinin eğimi ivmeyi verir.
+
+Hız (mis) Hız-zaman grafiğinin
+eğimi hareketlinin
+ivmesini verir.
+
+ 
+
+Zaman (s)
+
+İvme-zaman grafiğinin altında kalan alan hızdaki
+değişimi verir.
+
+a (m/s) İvme-zaman
+& altında kalan alan
+hızdaki değişimi
+10 verir.
+
+
+Sabit ivmeli hızlanan hareket yapan cismin hızı düzgün olarak
+artar. Hız vektörünün yönü ile ivme vektörünün yönü aynıdır.
+
+Farklı Referans Noktalarına Göre
+Hareket: Günümüzde evrenin oluşumu
+ile ilgili teorilerden en çok kabul göreni
+Büyük Patlama Teorisi'dir. Bu teoriye göre
+sürekli genişleyen evrende durağan bir
+cisme rastlamak neredeyse imkânsızdır.
+Gök adalardan (galaksi) atom çekirdekleri
+etrafında dolanan elektronlara kadar her
+şey hareket etmektedir. Dünya'nın kendi
+ekseni etrafında saatte yaklaşık 1670
+km'lik hızla döndüğü, Güneş etrafında
+da saatte ortalama 108000 km'lik
+hızla dolandığı bilinmektedir. Dünya
+üzerindeki varlıkların bu hızla döndüğünü
+hissetmemesinin sebebi Dünya ile birlikte
+hareket etmesidir. Öte yandan uzaydan
+Dünya'ya bakan bir astronot Dünya'nın
+bu hızla döndüğünü gözlemleyebilir.
+Hareket, belirli bir referans noktasına göre
+tanımlanır. Astronot örneğinde olduğu
+gibi gözlemci yeryüzünde bulunuyorsa
+Dünya'nın hareketsiz olduğunu, uzayda
+bulunuyorsa Dünya'nın döndüğünü yani
+hareket ettiğini gözlemler. Dünya duruyor
+mu, hareket mi ediyor?
+
+Aslında burada fiziksel olarak tek bir
+olay gerçekleşir. Dünya belirli bir hızda
+dönüş hareketi yapar. Gözlemciler farklı
+referans noktalarında (gözlem çerçevesi)
+bulunduğu için hareket farklı şekilde
+tanımlanır. Otobüste seyahat eden
+bir gözlemci, otobüste bulunan diğer
+yolcuları hareketsiz olarak tanımlarken;
+yol kenarında duran bir başka gözlemci,
+otobüsü ve içinde bulunan tüm yolcuları
+otobüsle birlikte hareket ediyor olarak
+tanımlar. Bu olay hareketin göreceli
+olması şeklinde açıklanır. Göreceli
+(bağıl) hareket, cisimlerin seçilen
+farklı referans noktalarına göre farklı
+hareket ediyor olarak algılanmasıdır.
+Örneğin otobüste bulunan gözlemci
+dışarı baktığında otobüsten daha hızlı
+ilerleyen bir başka aracın ileri doğru,
+daha yavaş ilerleyen aracın da geriye
+doğru hareket ettiğini gözlemler.

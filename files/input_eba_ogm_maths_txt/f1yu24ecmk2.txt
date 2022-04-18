@@ -1,0 +1,28 @@
+MATEMATİK-GEOMETRİK DİZİLER-
+
+ 
+
+GEOMETRİK DİZİLER VE ÖZELLİKLERİ
+
+Ardışık terimleri arasındaki oran sabit olan
+dizilere geometrik dizi denir.
+
+Bir n) geometrik dizisinde için
+
+ise r gerçek sayısına geometrik dizisinin ortak çarpanı denir.
+
+İlk terimi al ve ortak çarpanı r olan n)
+geometrik dizisinin genel terimi
+
+
+BİR GEOMETRİK DİZİNİN
+İLK N TERİMİNİN TOPLAMI
+İlk terimi ve ortak çarpanı ar olan (an)
+
+geometrik dizisinin ilk n teriminin toplamı
+
+
+ 
+
+olur.
+

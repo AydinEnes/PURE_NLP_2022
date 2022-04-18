@@ -1,0 +1,109 @@
+MATEMATİK-SİMETRİ DÖNÜŞÜMÜ-
+
+ 
+
+DONUSUMLER
+ANALİTİK DÜZLEMDE TEMEL
+DÖNÜŞÜMLER
+SİMETRİ DÖNÜŞÜMÜ
+BİR NOKTANIN y= X DOĞRUSUNA
+GÖRE SİMETRİĞİ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A noktasının y=x doğrusuna
+göre simetriği A'noktası ise [AA]
+, y=x doğrusuna dik ve lADlZiDA)
+olmalıdır. C noktası y=x
+doğrusu üzerinde olduğundan
+C(b , b) olur. ACA' üçgeninde
+kenarortay aynı zamanda
+yükseklik olduğundan ACA'
+üçgeni ikizkenar dik üçgendir.
+Buna göre |AC|=lA'Cl=a-b
+bulunur.
+
+Buradan A(a,b) noktasının
+y= X doğrusuna göre simetriği
+A'(b,a) noktası olarak elde
+edilir.
+
+BİR NOI_(TANIN BİR DOĞRUYA
+GORE SIMETRIGI
+
+A(X1,y1) noktasının
+ax +by+c=0 doğrusuna
+göre simetriğini bulmak için
+aşağıdaki adımlar sırasıyla
+uygulanır.
+
+› Doğrunun eğimi m=-î
+
+b
+
+bulunur.
+A(x,,y,)
+
+ax+ by+=0
+K(k.p)
+
+A'(2k-x1,2p-y1)
+
+› [AA']iıe ax+by+c=0
+doğrusu birbirine dik
+olduğundan [AA'Jnın
+eğimi mzğ olur.
+
+a
+V. . b
+› Egımı m=- olan ve
+a
+A(X1,y1) noktasından geçen
+
+AA' doğrusunun denklemi
+
+ 
+  
+  
+  
+  
+   
+   
+ 
+ 
+ 
+ 
+      
+  
+ 
+
+y-yI :E-(X-XI) ifadesinden
+elde edizllir.
+
+› ax+by+c=0doğrusunun
+denklemi ile yeni bulunan AA'
+doğrusunun denklemi ortak
+çözülerek K(k,p) kesim noktası
+bulunur.
+
+› A(X1,y1) noktasının
+K(k,p) noktasına
+göre simetriği alınarak
+A'(2k-x1,2p-y1) noktası
+elde edilir.
+
+› Bu nokta A(X1,y1)
+noktasının ax+by+c=0
+doğrusuna göre simetriği olan
+
+noktadır.

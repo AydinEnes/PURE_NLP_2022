@@ -1,0 +1,136 @@
+MATEMATİK ÜÇGENİN YARDIMCI ELEMANLARI / AÇIORTAY
+
+ 
+
+Bir açıyı iki eş açıya ayıran ışına açıortay denir.
+
+ 
+
+ 
+
+
+
+açıortayıdır.
+Açıortay doğrusu üzerindeki herhangi bir
+noktanın açının kollarına olan uzaklıkları eşittir.
+
+
+
+
+Bu ifadenin karşıtı da doğrudur. “ Bir açının iç
+bölgesinde alınan bir noktanın açının kollarına
+olan uzaklıkları eşit ise bu nokta, açının açıortay
+doğrusu üzerindedir.”
+
+ÜÇGENDE İÇ AÇIORTAY
+
+Bir üçgenin bir iç açısını iki eş açıya ayıran
+doğru parçasına o üçgenin iç açıortayı denir. Bir
+üçgende iç açıortaylar tek bir noktada kesişir.
+
+ 
+
+ açısına ait açıortay olmak üzere 
+ açısına ait açıortay olmak üzere 
+ açısına ait açıortay olmak üzere 
+ile gösterilir. noktası, iç açıortayların kesişim
+noktasıdır.
+NOT: Bir üçgende iki iç açıortay arasındaki
+
+açının ölçüsü, açıortayı çizilmeyen açı ölçüsünün
+yarısından 90* fazladır.
+
+
+ÜÇGENDE DIŞ AÇIORTAY
+
+Bir üçgenin bir dış açısını iki eş açıya ayıran ışına
+o üçgenin dış açıortayı denir.
+
+A Üçgende
+herhangi iki
+köşeye ait dış
+açıortayların
+kesiştiği nokta D
+ise diğer köşeye
+ait iç açıortay da
+D noktasından
+geçer.
+
+NOT: Bir
+üçgende iki
+dış açıortay
+arasındaki
+D açının ölçüsü
+
+ile açıortayı
+çizilmeyen iç açı ölçüsünün yarısı, birbirinin
+tümleridir.
+
+
+ 
+ olur.
+
+
+NOT: Bir üçgende bir köşenin iç açıortayı
+ile diğer bir köşenin dış açıortayı arasındaki
+açının ölçüsü, açıortayı çizilmeyen köşenin iç açı
+ölçüsünün yarısıdır.
+
+
+
+olur.
+
+ 
+
+ 
+
+
+
+ÜÇGENDE İÇ AÇIORTAY TEOREMİ
+
+ABC üçgeninde A açısına ait açıortay
+doğrusunun  kestiği nokta N olsun.
+
+ 
+
+ 
+
+ 
+
+
+olmak üzere cm dir.
+
+
+ 
+
+ 
+
+ 
+
+
+ÜÇGENDE DIŞ AÇIORTAY TEOREMİ
+ABC üçgeninde JAKJdış açıortay,
+
+
+olmak üzere — —— olur.
+
+
+
+
+
+ 
+
+
+
+Şekildeki ABC
+üçgeninde
+ tir.
+
+  
+
+ve 
+
+ 
+
+ 
+

@@ -1,0 +1,98 @@
+FİZİK - YAY DALGALARININ ÖZELLİKLERİ ATMA VE PERİYODİK DALGA -
+
+ 
+
+Yay Dalgaları hem enine hem boyuna formda olabilirler.
+
+Enine Dalgalar Boyuna Dalgalar
+
+Yay, eşit zaman aralıklarında sürekli olarak titreştirildiğinde oluşan
+dalgalara periyodik dalgalar denir.
+
+ 
+
+Dalgalarda yansıma ve farklı bir ortama geçme olaylarının periyodik
+dalgalarda incelenmesi zordur. Dalgaların tamamının incelenmesi
+yerine bir dalga parçasının incelenmesi, dalgalarla ilgili özelliklerin
+anlaşılmasını kolaylaştırır. Bu nedenle dalgaların özelliklerini incelemek
+için atma oluşturulur. Bir ucu sabitlenmiş gergin yayın diğer ucu yukarı
+aşağı bir kez hareket ettirilirse yay üzerinde ilerleyen tek bir sarsıntı
+gözlemlenir. Yayda ilerleyen bu sarsıntıya atma denir.
+
+Atmalar, yaylar üzerinde oluşturulduğu gibi gergin bir ip veya bir
+tel üzerinde de oluşturulabilir. Bir tek atma için frekans, periyot ve
+dalga boyu kavramları
+olmaz. Atma, sadece
+belirli bir genlik ve hıza
+sahiptir.
+
+Atma üzerindeki
+bir noktanın denge
+konumuna uzaklığına
+uzanım (y), tepe veya
+çukur noktasının
+
+İlerleme yönü
+
+ 
+
+   
+  
+ 
+
+Titreşim Yönü m
+EE
+
+İ|
+
+ 
+
+Baş Aşağı Atma
+
+ 
+
+İlerleme yönü
+
+denge konumuna olan
+uzaklığına genlik (A) denir.
+Bir başka deyişle uzanımın en
+büyük değeri genliktir. Genlik
+kaynaktan atmaya aktarılan
+enerjiye bağlıdır.
+
+Atma ilerlerken iç ve dış
+sürtünmeden dolayı enerji kaybeder, atmanın genliği azalır ve bir süre
+sonra atma söner. Sürtünmelerin ihmal edildiği sistemlerde atmanın
+sonsuza kadar ilerlemeye devam edeceği kabul edilir.
+
+Atmanın başlangıç ve bitiş noktası arasındaki uzaklığa genişlik (x)
+denir. Genişlik, atmanın oluşturulma süresine ve hızına bağlıdır.
+
+Herhangi bir yönde ilerleyen atmanın ilerleme yönüne göre ön
+kısmındaki tanecikler denge konumundan uzaklaşırken arka kısmındaki
+tanecikler denge konumuna doğru yaklaşır.
+
+İlerleme yönü İlerleme yönü
+<—— —>
+
+Yay Dalgalarının Hızı: Dalgaların hızı, ilerledikleri ortamın özelliklerine
+göre farklılık gösterir. Yayda oluşturulan bir atmanın ilerleme hızı yayın
+cinsine, uzunluğuna, gerginliğine bağlı olarak değişir.
+
+Bir yayın birim uzunluğunun kütlesine boyca yoğunluk denir ve u
+(mü) sembolü ile gösterilir. Kütlesi m, uzunluğu £ olan yayın boyca
+yoğunluğu uzm/? ifadesi ile bulunur.
+
+Boyca yoğunluğu büyük olan yaylara ağır ya da kalın yay, boyca
+yoğunluğu küçük olan yaylara ince ya da hafif yay denir.
+
+Dolayısıyla dalgalar kalın yayda yavaş, ince yayda hızlı ilerler. Bir
+yayın gerginliği arttırıldığında atmaların ilerleme hızı da artar. Buna göre
+atmanın ilerleme hızı,
+
+F
+u
+
+v— ifadesi ile bulunur.
+
+ 

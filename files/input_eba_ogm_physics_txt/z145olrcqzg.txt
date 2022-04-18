@@ -1,0 +1,74 @@
+FİZİK - DURGUN SIVILARIN BASINCI -
+
+ 
+
+Durgun Sıvıların Basıncı:
+Sıvıların belli bir hacmi
+vardır ancak şekilleri yoktur.
+Sıvılar, içine konulduğu kabın
+doldurulan kısmının şeklini
+alır. Sıvıların tanecikleri
+arasında çok az boşluk
+bulunur. Buna rağmen sıvılar,
+basınç etkisi ile sıkıştırılamaz
+kabul edilir. Sıvılar da katılar
+gibi bulundukları yüzeye
+ağırlıklarından dolayı basınç
+uygular. Katılar, sadece
+durma yüzeyine basınç
+uygularken sıvılar, içinde
+bulunduğu kabın temas
+ettiği tüm yüzeylerine basınç
+uygular.
+
+Sıvı basıncı, kabın yan
+yüzeylerinin ve taban
+alanının büyüklüğü ile kabın
+şekline bağlı değildir. Buna
+göre durgun sıvıların basıncı;
+yer çekimi ivmesi, sıvının
+özkütlesi ve derinliği ile
+doğru orantılı olduğundan
+P—h.d.g ile hesaplanır.
+
+Durgun bir sıvının kap
+tabanında oluşturduğu
+basınç, kabın kesitine ve
+şekline bağlı değildir.
+
+Kapta birden fazla sıvı
+olduğunda kap tabanındaki
+sıvı basıncı bu sıvıların ayrı
+ayrı basınçlarının toplamı
+kadardır.
+
+ 
+
+Kap tanındaki basınç,
+P—h1.d1.g * h2.d2.g
+P-(h41.d4*h2.d2).g
+
+- Bir kabın yan
+yüzeyindeki
+basınç o
+yüzeydeki
+
+h ortalama
+
+basınçtır.
+Kabın
+ en üst
+yüzeyindeki sıvı basıncı sıfır
+tabanındaki basınç
+ise P-h.d.g olduğundan
+yan yüzeydeki basınç bu
+değerlerin ortalamasıdır.
+Buradan yan yüzeydeki sıvı
+
+basıncı
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,24 @@
+MATEMATİK-BİR DOĞRU PARÇASİNI BELLİ BİR ORANDA BÖLEN NOKTANİN KOORDİNATLARI, AĞIRLIK MERKEZİNİN KOORDİNATLARI-I
+
+ 
+
+ 
+
+ 
+
+BİR DOĞRU PARCASINI BELLİ BİR ORANDA BÖLEN NOKTANIN KOORDİNATLARI
+
+BİR ÜCGENİN AĞIRLIK MERKEZİNİN KOORDİNATLARI
+
+Buradantelde edilir.
+
+A(x1,y1) ve B(x2,y2) olsun. k E R olmak üzere [AB] nı k oranında içten bölen nokta
+
+P(x, y) olarak seçilirse ACP ve PDB üçgenleri benzer olur.
+
+ 
+
+ 
+
+y Köşe noktalarının koordinatları A(x1,y1), B(x2,y2) ve C(x3,y3) olan bir
+tABC üçgeninin ağırlık merkezinin koordinatları G (MİM) olur.

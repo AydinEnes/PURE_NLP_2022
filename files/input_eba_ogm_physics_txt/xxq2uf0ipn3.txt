@@ -1,0 +1,125 @@
+FİZİK - KÜRESEL AYNALARDA YANSIMA -
+
+ 
+
+Küresel Aynalar : Düzlem aynalar, üzerlerine düşen ışığı bir noktada toplayamaz.
+Ancak teleskoplarda olduğu gibi bazen paralel ışın demetini bir noktada toplamak gerekir. Yansıyan ışınların toplandığı bölgenin
+noktasal olabilmesi için ayna boylarının her
+aynaya bir ışın düşecek şekilde küçültülmesi
+ve çok sayıda ayna kullanılması gereklidir.
+Bu durumda, aynaların oluşturacağı şekil bir
+parabol olur. Bir parabolik aynanın merkezini uçlarıyla birleştiren doğru parçaları
+arasında kalan açıya ayna açıklığı denir.
+Ayna açıklığının küçük olduğu durumlarda küresel aynalar, parabolik ayna yerine
+kullanılabilir.
+
+Yansıtıcı
+
+pa bir küre
+Pa parçasın-
+
+e dan elde
+edilen
+
+b aynalara
+Ayna küresel
+açıklığı — ayna
+Kel denir. İç
+
+yüzeyi
+
+yansıtıcı yüzey olan küresel aynalara çukur
+ayna, dış yüzeyi yansıtıcı yüzey olan küresel
+
+ 
+
+ayna
+
+ 
+
+aynalara tümsek ayna denir.
+Küresel
+aynaların küre
+
+tamamlayacak
+şekilde elde
+edilen küresel
+yüzeyin
+merkez
+noktası (M),
+aynı zamanda küresel aynaların eğrilik
+merkezidir. Küresel aynayı iki eşit parçaya
+bölen ve eğrilik merkezinden geçen
+doğruya asal eksen denir. Asal eksene
+paralel gönderilen ışınların yansıyanlarının
+ya da uzantılarının asal eksen üzerinde
+toplandığı noktaya aynanın odak noktası
+denir. Odak noktası F sembolüyle gösterilir.
+Odak noktası, tepe noktası ile merkez
+noktası arasındaki uzaklığı iki eşit parçaya
+bölen noktadır.
+
+Küresel ayna üzerine düşürülen ışık ışınlarının yansıması olayı, yansıma kanunlarına
+göre gerçekleşir.
+
+Küresel aynaların geometrik yüzeylerinden dolayı aynanın merkezinden ayna
+yüzeyine çizilen doğrular yüzey normalidir.
+
+Asal
+
+eksen
+
+ 
+
+Tepe Noktasına Gelen Işın
+
+Asal
+eksen
+
+ 
+
+Odak Noktası ile Tepe Noktası
+Arasından Gelen Işın
+
+ 
+
+Odak Noktasına Doğru
+Gelen Işın
+
+ 
+
+ayna
+Asal
+
+Eksen
+
+ 
+
+Asal
+
+ 
+
+Çukur Aynada Özel Işınlar:
+
+yüzeyini Odak Noktasından Gelen Işın Asal Eksene Paralel Gelen Işın
+
+ 
+
+ 
+
+  
+ 
+
+Tümsek Aynada Özel Işınlar:
+Asal Eksene Paralel
+
+ 
+
+Asal Ekseni Keserek Gelen Işın Merkeze Doğru Gelen Işın
+
+ 
+
+ışını şekildeki gibi
+yansıyor.
+
+ 

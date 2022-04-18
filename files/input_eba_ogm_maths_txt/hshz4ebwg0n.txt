@@ -1,0 +1,61 @@
+MATEMATİK - SAYMA VE OLASILIK
+
+ 
+
+PASCAL ÜÇGENİ VE BİNOM AÇILIMI
+
+PASCAL ÜÇGENİ
+
+  
+
+> Pascal (Paskal) Üçgeni'nin tepesinde 1 sayısı
+bulunur.
+
+> Her satırdaki eleman sayısı bir önceki satırdaki
+eleman sayısından 1 fazladır.
+
+> Her satır 1 ile başlayıp 1 ile biter. Diğer sayılar
+ise bir üst satırdaki kendine komşu olan iki sayının
+toplamıdır.
+
+> Pascal Üçgeni'ndeki her satır verilen bu
+örüntüye bağlı kalarak devam eder.
+
+Pascal Üçgeni'nin her bir satırındaki sayılar
+ ifadesinin açılımında bulunan terimlerin
+katsayılarını verir.
+
+BİNOM AÇILIMI
+olmak üzere
+
+
+
+
+1.terim 2.terim 3. terim (n*1). terim
+
+şeklindeki açılıma binom açılımı denir.
+Bu açılım x in azalan, y nin artan kuvvetlerine göre yapılmıştır.
+
+ ifadesi x in azalan kuvvetlerine göre açıldığında;
+
+> Baştan  terim 
+
+
+> Sondan  terim 
+olur.
+
+Baştan  terim aynı zamanda sondan  terimdir.
+
+olmak üzere (ifadesinin
+açılımında;
+
+ tane terim vardır.
+
+> Sabit terimi bulmak için değişkenler yerine “0” rakamı
+yazılır.
+
+> Katsayılar toplamını bulmak için değişkenler yerine “1”
+rakamı yazılır.
+
+> Her bir terimdeki x ve y değişkenlerinin üsleri toplamı 
+

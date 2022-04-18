@@ -1,0 +1,108 @@
+MATEMATİK  SAYI PROBLEMLERİ
+
+ 
+
+DENKLEM VE EŞİTSİZLİKLERLE İLGİLİ UYGULAMALAR
+
+SAYI PROBLEMLERİ
+Problem, çözülmesi gereken soru,
+sorun veya aşılması gereken bir
+engeldir.
+Bir durumun problem olması için;
+Budurumla bireyin ilk kez karşılaşması,
+
+Çözümün birey tarafından bilinmiyor olması,
+
+Bireyin yaşantıları ve deneyimleri
+ile çözülebilir nitelikte olması
+gerekir.
+
+Problem çözme, sonuç bulmanın
+yanı sıra bir yol bulma, güçlükten
+kurtulmadır.
+Problem çözme, bireylere araştırma,
+çözüm üretme ve düşünme
+niteliklerini kazandırır.
+Problem çözme yöntemi, problem
+olan durumun belirlenerek çözüm
+yollarının aranması ve problem
+durumunun aydınlatılması sürecidir.
+Problemler çözülürken genellikle şu
+sıra takip edilir:
+
+Problemde verilenler ve istenenler belirlenir.
+
+ İstenenlere uygun değişkenler
+atanır.
+
+ Verilenler ve atanan değişkenler
+
+kullanılarak denklemler ve eşitsizlikler kurulur.
+
+ Kurulan denklem veya eşitsizlikler
+çözülür.
+
+Bir problemi çözebilmek için sözel
+olarak belirtilen ifadeler matematiksel
+değişkenlere dönüştürülerek bir
+denklem kurulmalıdır. Denklemin
+çözümü problemin çözümünü verir.
+Problemlerin çözümünde
+matematiksel ifadeleri elde edebilmek
+için cebirsel ifadelerden yararlanılır.
+
+ÖRNEK:
+“Bir sayı tuttum. Bu sayıyı 4 ile
+çarptım. Sonucu 6 ile topladım. Elde
+ettiğim sayıyı 2 ye böldüm. Bulduğum
+sayı 43 ise tuttuğum sayı kaçtır?”
+Verilen problemin denklem hali:
+
+Tutulansayı 
+
+ Sayının 4 ile çarpımı 
+
+ Sonucun 6ile toplanması
+
+
+ Elde edilen sayının 2 ye bölümü
+
+
+
+Bu sonucun  eşit olması
+
+
+ şeklinde olur.
+
+ 
+
+Artık kurulan denklemin çözümü
+yapılarak x değeri elde edilir.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bir sayının 2 katının 5 fazlası 2x15
+ Bir sayının 3 eksiğinin 4 katı 4-(X—3)
+ Bir sayının beşte üçü 
+
+ Bir sayının 2 katının küpünün 3 fazlasının yarısı 5
+ Bir sayının 4 katının 3 eksiğinin karekökü 
+
+ 
+
+ 
+
+ 
+

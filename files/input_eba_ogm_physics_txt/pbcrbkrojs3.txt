@@ -1,0 +1,50 @@
+FİZİK - SIVI BASINÇ KUVVETİ -
+
+ 
+
+Sıvı Basınç Kuvveti: Katılarda basınç kuvveti yüzey alanına
+bağlı değildir. Sıvılarda ise yükseklik ve özkütle sabit kalmak
+şartıyla yüzey alanı büyüklüğünün değişmesi basınç kuvvetini
+değiştirir. Bir kap tabanındaki sıvı basınç kuwkuvvetiveti
+
+F-P.A-h.d.g.A
+
+ile hesaplanır.
+
+Bir kaptaki sıvı basınç kuvveti kabın şekline bağlıdır.
+Düzgün yükselen kaplarda (a) kap tabanındaki sıvı basınç
+kuvveti, sıvının ağırlığıyla aynı büyüklüktedir. Yukarı
+yönde genişleyen kaplarda (b) tabandaki sıvı basınç
+kuvveti sıvının ağırlığından daha küçük, yukarı yönde
+daralan kaplarda (<) tabandaki sıvı basınç kuvveti sıvının
+ağırlığından daha büyüktür.
+
+ 
+
+(a) (b) (c)
+
+Sıvı basınç kuvveti uygulandığı yüzeye daima diktir.
+
+Yan yüzeye uygulanan basınç kuvveti hesaplanırken yan
+yüzeye yapılan ortalama basınç değeri alınır. Bir kabın yan
+yüzeyindeki basınç o yüzeydeki ortalama basınçtır.
+
+Sıvılar, üzerine etki eden basıncı büyüklüğünü
+değiştirmeden sıvı içinde her doğrultu ve yönde dik olarak
+iletir. Bu ilke Fransız bilim insanı Blaise Pascal tarafından
+ortaya konduğu için Pascal Prensibi olarak bilinir. Bileşik kap
+sistemlerinde ve su cenderelerinde Pascal Prensibi kullanılır.
+
+ 
+
+Pascal Prensibi nin Uygulamaları
+Sıvılar yüksek basınçtan
+
+düşük basınca doğru hareket
+eder. Yandaki şekilde iki
+
+farklı seviyedeki sıvı ile dolu U
+borusunda M musluğu açılırsa
+sıvı basıncının yüksek olduğu
+koldan diğer kola sıvı geçişi olur
+ve sıvı seviyeleri eşitlenir.

@@ -1,0 +1,106 @@
+MATEMATİK I.DERECEDEN DENKLEMLER VE EŞİTSİZLİKLER
+
+ 
+
+BİRİNCİ DERECEDEN İKİ BİLİNMEYENLİ DENKLEMLER
+
+
+değişkenler olmak üzere
+ şeklindeki
+denklemlere birinci
+dereceden iki bilinmeyenli
+denklemler adı verilir.
+
+Bu denklemi sağlayan
+(doğrulayan) x ve y gerçek
+sayıları ise  sıralı ikilisi
+olarak yazılır ve bu sıralı
+ikiliye denklemin çözüm
+kümesinin bir elemanı
+denir.
+
+ birinci
+dereceden iki bilinmeyenli
+denkleminin grafiği bir
+doğru belirtir.
+
+Bir doğrunun
+çizilebilmesi için en az iki
+noktasının bilinmesine
+ihtiyaç vardır.
+
+BİRİNCİ DERECEDEN
+İKİ BİLİNMEYENLİ
+DENKLEM SİSTEMLERİ
+
+
+
+şeklinde verilen, aynı
+değişkenden oluşan ve
+birden fazla denklem
+bulunduran ifadelere
+birinci dereceden iki
+bilinmeyenli denklem
+sistemi adı verilir.
+
+Birinci dereceden iki
+
+: eşitliğin bir tarafında yalnız
+: bırakılır ve bu değişkenin
+
+: değeri diğer denklemde
+
+: yerine yazılır. Elde edilen
+
+: 1. dereceden denklem
+
+: çözülür. Bulunan değer,
+
+: denklem sistemindeki
+
+: denklemlerden herhangi
+
+: birinde yerine yazılır ve
+
+: diğer bilinmeyen bulunur.
+
+II. YOK ETME YÖNTEMİ
+Denklem sisteminde
+
+: bilinmeyenlerden
+
+: herhangi birinin katsayısı
+
+: diğer denklemdeki aynı
+
+: bilinmeyenin katsayısıyla
+
+: mutlak değerce eşit, işaret
+: bakımından ters olacak
+
+: şekilde düzenlenir. Taraf
+
+: tarafa toplama yoluyla
+
+: seçilen değişken yok edilir.
+
+GRAFİK YORUMU
+Birinci dereceden iki
+
+: bilinmeyenli bir denklemin
+: çözüm kümesini oluşturan
+: Sıralı ikililer analitik
+
+: düzlemde bir doğru
+
+: belirtir.
+
+Denklem sistemini
+
+: oluşturan denklemlerin
+
+: belirttiği doğruların kesim
+: noktası ya da noktaları bu
+: denklem sisteminin çözüm
+: kümesini oluşturur.
+

@@ -1,0 +1,45 @@
+MATEMATİK - POLİNOM KAVRAMI VE POLİNOMLARLA İŞLEMLER
+
+BİR DEĞİŞKENLİ POLİNOM KAVRAMI
+
+değişken,
+
+ birer gerçek sayı olmak üzere
+
+
+biçimindeki ifadeye gerçek katsayılı ve bir değişkenli polinom (çok
+terimli) adı verilir.
+
+x değişkenine bağlı polinomlar gibi
+ifadelerle gösterilir.
+
+POLİNOMUN DERECESİ, KATSAYILARI VE SABİT TERİMİ
+
+
+ 
+
+
+ifadelerine
+polinomun terimleri denir.
+
+ gerçek sayılarına polinomun
+katsayıları denir.
+
+değişkeninin aldığı en büyük üsse polinomun derecesi
+denir ve  ile gösterilir.
+
+> Bir polinomun en büyük dereceli teriminin katsayısına
+polinomun baş katsayısı denir.
+
+ifadesine polinomun sabit terimi denir.
+
+POLİNOMUN KATSAYILAR TOPLAMI
+
+Bir polinomun katsayıları toplamı, polinomun değişkeninin
+yerine 1 yazılarak bulunur.
+
+POLİNOMUN SABİT TERİMİ
+
+Bir polinomun sabit terimi, polinomun değişkeninin yerine O
+yazılarak bulunur.
+

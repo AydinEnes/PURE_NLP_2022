@@ -1,7 +1,12 @@
-from numpy import full
-from base_path import PROJECT_PATH
-import wikipediaapi
+import sys
+
+sys.path.insert(0, 'D:\Github_Repos\morpa_nlp\PURE_NLP_2022\scripts')
 import os
+from os import path
+
+from numpy import full
+from base_path import base_path
+import wikipediaapi
 import re
 
 import time
@@ -14,8 +19,8 @@ wiki_wiki = wikipediaapi.Wikipedia(
 )
 
 file_path = os.path.dirname(__file__)
-full_path = os.path.join(PROJECT_PATH, "files", "input_wiki_txt", "wiki_bio_texts2.txt")
-full_path_titles = os.path.join(PROJECT_PATH, "files", "input_wiki_txt", "wiki_bio_texts2_titles.txt")
+full_path = os.path.join(base_path.PROJECT_PATH, "files", "input_wiki_txt", "wiki_bio_texts2.txt")
+full_path_titles = os.path.join(base_path.PROJECT_PATH, "files", "input_wiki_txt", "wiki_bio_texts2_titles.txt")
 
 with open(full_path, "w", encoding="utf-8") as f:
     print("file created")

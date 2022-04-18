@@ -1,0 +1,79 @@
+MATEMATİK KÜMELERLE İLGİLİ UYGULAMALAR
+
+ 
+
+KÜMELERDE 
+KESİŞİM İŞLEMİ
+
+A ve B gibi iki kümenin tüm
+ortak elemanlarından oluşan
+kümeye A ve B kümelerinin
+kesişim kümesi denir. Kesişim
+işlemi “ “sembolü ile gösterilir.
+
+olarak ifade edilir.
+
+KUMELERDE
+BİRLEŞİM İŞLEMİ
+A ve B gibi iki kümenin tüm
+elemanlarından oluşan kümeye A
+ve B kümelerinin birleşim kümesi
+denir. Birleşim işlemi
+sembolü ile gösterilir.
+
+
+olarak ifade edilir.
+Dağılma Özelliği
+
+Kümelerde kesişim ve birleşim
+işlemlerinin birbirleri üzerine
+soldan ve sağdan dağılma
+özellikleri vardır.
+birer küme olmak üzere
+
+
+
+olur.
+
+Ave B birer küme olmak
+üzere
+
+
+
+dir.
+
+KÜMELERDE
+FARK İŞLEMİ
+
+A ve B birer küme olmak üzere
+A kümesinde olup B kümesinde
+olmayan tüm elemanların
+
+oluşturduğu
+ veya kümeye
+
+
+
+A kümesinin B kümesinden
+farkı denir.
+ile gösterilir.
+
+BİR KÜMENİN
+TÜMLEYENİ
+
+E evrensel küme, olmak
+üzere evrensel kümede olup A
+kümesinde olmayan elemanların
+
+
+
+kümesine A kümesinin tümleyeni
+denir. A' ile gösterilir.
+A kümesi ile A' kümesinin
+
+
+
+eleman sayılarının toplamı
+evrensel kümenin eleman
+sayısına eşit olur.
+

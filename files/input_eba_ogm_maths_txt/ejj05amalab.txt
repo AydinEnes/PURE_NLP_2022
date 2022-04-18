@@ -1,0 +1,20 @@
+MATEMATİK-BELİRSİZ İNTEGRAL -
+
+F(X) fonksiyonun türevi f(X) olsun. F(X) fonksiyonuna
+f(X) fonksiyonunun ters türevi veya belirsiz integrali denir.
+
+Bir f(X) fonksiyonunun belirsiz integrali If(x)dx biçimin-
+de ifade edilir. Bu f(X) fonksiyonunun belirsiz integrali
+F(X)+C olarak elde edilir. Burada C sabit sayısına integral
+sabiti denir. Bu durumda-"f(X) dX=F(X)+C olur.
+
+
+
+türevi
+
+İNTEGRAL ALMA KURALLARI
+
+
+
+NOT: integral alma işlemi farklı değişkenlere göre de uygu-
+Ianabilir.

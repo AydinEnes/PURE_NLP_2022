@@ -1,0 +1,112 @@
+MATEMATİK-TRİGONOMETRİK DEĞERLER
+
+ 
+
+Birinci Bölgede Olan Açıların
+Trigonometrik Değerleri
+
+Analitik düzlemin birinci
+bölgesinde olan açılar, bir dar
+açının ölçüsü olmak üzere
+
+90° biçiminde ifade
+edilebilir.
+
+Bu açıların trigonometrik
+değerleri oı nın trigonometrik
+değerleri cinsinden yazılabilir.
+
+İki açının ölçüleri toplamı
+90° olduğunda bu açılardan
+birinin sinüs, kosinüs, tanjant ve
+kotanjant değeri diğer açının
+sırasıyla kosinüs, sinüs, kotanjant
+ve tanjant değerine eşittir.
+
+Buna göre o1 nın birimi derece olmak üzere
+
+olur.
+a nın birimi radyan olmak üzere
+
+olur.
+
+İkinci Bölgede Olan Açıların Trigonometrik Değerleri
+
+Analitik düzlemin ikinci bölgesinde olan açılar 180° - OL
+veya 90° + (1 biçiminde ifade edilebilir.
+İki açının ölçüleri toplamı
+180° olduğunda bu açılardan
+birinin kosinüs, tanjant ve
+kotanjant değeri diğer açının
+sırasıyla kosinüs, tanjant ve
+
+ 
+
+Buna göre
+cı nın birimi derece olmak üzere
+
+olur.
+olur.
+
+kotanjant değerinin negatifine
+eşittir.
+
+İki açının ölçüleri toplamı
+180° olduğunda bu açıların
+sinüs değerleri birbirine eşittir.
+
+ 
+
+Buna göre
+birimi derece olmak üzere
+
+ 
+
+ 
+
+ 
+
+olur. birimi radyan olmak üzere
+
+ 
+
+olur.
+
+Üçüncü Bölgede Olan Açıların Trigonometrik
+Değerleri Analitik düzlemin üçüncü bölgesindeki
+açılar180° +0( veya 270°- OL biçiminde ifade edilebilir.
+
+Buna göre
+birimi derece olmak üzere
+
+olur.
+birimi radyan olmak üzere
+
+ 
+
+ 
+
+ 
+
+olur.
+
+Buna göre
+a nın birimi derece olmak üzere
+
+olur.
+a nın birimi radyan olmak üzere
+olur.
+
+Buna göre
+Olur.
+Herhangi bir açının
+trigonometrik değeri dar açı
+cinsinden yazılırken;
+
+180° veya 360° (27)
+
+kullanılırsa trigonometrik
+fonksiyon isim değiştirmez.
+
+kullanılırsa trigonometrik
+fonksiyon isim değiştirir.

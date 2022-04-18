@@ -1,0 +1,45 @@
+MATEMATİK-DOĞRUNUN ANALİTİK İNCELENMESİ-
+ 
+
+ANALİTİK DÜZLEM
+
+Bir düzlemde başlangıç noktaları aynı olan ve dik
+kesişen iki koordinat doğrusunun oluşturduğu sisteme
+koordinat sistemi denir. Koordinat sisteminde yatay eksen
+x ile, düşey eksen y ile gösterilir.
+
+A(x, y) ifadesindeki x, A noktasının apsisi; y, A
+noktasının ordinatıdır.
+
+2, Bölge
+
+3. Bölge
+
+ 
+A(x, y) noktası
+
+1. bölgede ise x > 0, y > 0 (+, +) olur.
+2. bölgede ise x < 0, y > 0 (-, +) olur.
+3. bölgede ise x < 0, y < 0 (-, -) olur.
+4. bölgede ise x > 0, y < 0 (+, -) olur.
+
+ANALİTİK DÜZLEMDE İKİ NOKTA ARASINDAKİ UZAKLIK
+Analitik düzlemde 14051› 371) ve B(x2, 3/2) noktaları
+verilsin. Bu iki nokta arasındaki uzaklık ABC dik üçgeninde
+
+Pisagor Teoremi uygulanarak aşağıdaki gibi hesaplanır.
+
+
+Bir Doğru Parçasını Belli Bir Oranda İçten veya Dıştan
+Bölen Noktanın Koordinatları
+
+A(x1,y1) ve B(x2,y2) olsun. k E R olmak üzere
+[AB] nı k oranında içten bölen nokta P(x,y) ise
+P(x, y) olarak bulunur ve
+
+k=1 seçilirse P noktası orta nokta olur.
+
+A(x1,y1) ve B(x2,y2) olsun. k E R olmak üzere
+[AB] nı k oranında dıştan bölen nokta C(x,y) ise
+
+olarak bulunur.

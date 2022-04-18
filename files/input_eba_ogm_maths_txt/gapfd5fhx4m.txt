@@ -1,0 +1,13 @@
+MATEMATİK-ÜSTEL, LOGARİTMİK DENKLEMLER VE EŞİTSİZLİKLER -
+
+ 
+
+LOGARİTMİK DEN KLEMLER
+
+İçinde bilinmeyenin logaritmasını bulunduran denklemlere Iogaritmik
+denklemler denir. Bu tür denklemlerin çözüm kümelerinin bulunmasında
+logaritma fonksiyonunun özelliklerinden yararlanılır. Logaritmik
+denklemlerde logaritması alınan ifadelerin pozitif olması şartının yanı sıra
+taban x e bağlı bir fonksiyon ise tabanın da pozitif ve 1 den farklı olması
+şartı aranır. Bulunan x değerlerinin bu şartları sağlamasına göre çözüm
+kümesi oluşturulur.

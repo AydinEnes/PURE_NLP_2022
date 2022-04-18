@@ -1,0 +1,23 @@
+MATEMATİK-GERÇEK SAYI DİZİLERİ-
+
+ 
+
+GERÇEK SAYI DİZİLERİ
+SABİT DİZİ
+
+olan diziye sabit dizi denir.
+
+
+EŞİT DİZİLER
+E Z+için = bn oluyorsa (an) ve (bn)
+
+dizilerine eşit diziler denir.
+(21 )=(b..) seklinde gösterilir.
+
+GENEL TERİMİ VEYA İNDİRGEME BAĞINTISI
+VERİLEN BİR SAYI DİZİSİNİN TERİMLERİ
+
+Bir terimi kendinden önceki bir veya birkaç terim
+cinsinden tanımlanabilen dizilere indirgemeli dizi,
+tanımlama bağıntısına da indirgeme bağıntısı denir.
+

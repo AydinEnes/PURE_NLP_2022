@@ -1,0 +1,80 @@
+MATEMATİK-TRİGONOMETRİK DENKLEMLER İLE İLGİLİ SORU ÇÖZÜMLERİ-
+
+ 
+
+TRİGONOMETRİ
+TRİGONOMETRİK DENKLEMLER iLE İLGİLİ SORU
+ÇOZUMLERI
+
+sinx=a DEŞIKLEMİNİN ÇÖZÜM KÜMESİ
+
+-ISasl olmak üzere sinx=a
+denkleminin [0,2n) nda
+
+bir kökü 9 ise denklemin
+çözüm kümesi ;
+
+Ç=[x|x=9+2knv
+
+ 
+
+x=1t-0+2k7r,kEZ}olur.
+
+sin f(X) = sin g(x) DENKLEMİNİN ÇÖZÜM KÜMESİ
+sinf(X) :sin g(x) denkleminin çözüm kümesi olmak
+üzere f(X) :g(x) +2k7c veya f(X) :(7z- g(x)) +2k1t
+denklemlerini sağlayan x değerleridir.
+
+COSX :a DENKLEMİNİN ÇÖZÜM KÜMESİ
+
+-15a51 olmak üzere cosx=a
+denkleminin [0,211) nda
+
+bir kökü 6 ise denklemin çözüm
+kümesi ,-
+
+Ç={x|x=6+2k7tv
+
+ 
+
+x = -9 + 2k1r,k E Z}olur.
+cos f(X) = cos g(x) DENKLEMİNİN çözÜM KÜMESİ
+
+cosf(x) :cosg(X) denkleminin çözüm kümesi olmak
+
+ 
+
+üzere İ(X) :g(x) +2k1t veya RX) :-g(x) +2k1r
+denklemlerini sağlayan x değerleridir.
+tanx=a DENKLEMİNİN ÇÖZÜM KÜMESİ
+
+aE R olmak üzere tanX=a
+
+denkleminin [0,71:) nda bir
+kökü
+
+ ise denklemin
+
+Ç={x|x=9+k-n,kEZ}olur.
+
+çözüm kümesi
+cotX=a DENKLEMİNİN çözÜM KÜMESİ
+
+_ aE R olmak üzere cotX:a
+_1 denkleminin (09“) nda
+
+bir kökü O ise denklemin
+çözüm kümesi
+
+ 
+
+ 
+
+SONUÇ
+tan f(X)ztan g(x) veya cot f(X)zcot g(x) denkleminin
+çözüm kümesi kE Zolmak üzere f(X): g(X)+k-TE
+
+denklemini sağlayan X değerleridir.
+
+Ç={x|x=9+k-7I,kEZ}olur.
+

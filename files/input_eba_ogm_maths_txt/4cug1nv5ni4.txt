@@ -1,0 +1,87 @@
+MATEMATİK - KONU SORU ÇÖZÜMÜ
+
+ 
+
+DENEY: Önceden sonucu bilinmeyen olayların
+gerçekleşme durumlarına ilişkin veri toplama
+sürecine deney adı verilir.
+
+ÇIKTI: Bir deneyde elde edilen sonuçların her
+birine o deneye ait çıktı denir.
+
+ÖRNEK UZAY: Bir deneyin bütün çıktılarının
+kümesine o deneyin örnek uzayı denir.
+Örnek uzay, genellikle "E" ile gösterilir.
+
+OLAY: Örnek uzayın her bir alt kümesine olay
+denir.
+
+BİR OLAYIN TÜMLEYENİ: A olayının çıktılarının
+dışında örnek uzayın bütün çıktılarını içeren olaya
+A olayının tümleyeni denir ve A' ile gösterilir.
+
+
+n tane madeni paranın birlikte atılması deneyi
+ile bir madeni paranın n defa atılması deneyinin
+örnek uzayı aynıdır ve 2n elemanlıdır.
+
+n tane zarın birlikte atılması deneyi ile bir zarın
+n defa atılması deneyinin örnek uzayı aynıdır ve
+6"elemanlıdır.
+
+Aynı örnek uzaydaki bir olaya ait olası
+durumların sayısı başka bir olaya ait olası
+durumların sayısına;
+> Eşit ise bu olaylara eş olası olaylar,
+> Eşit değil ise eş olası olmayan olaylar denir.
+
+KESİN OLAY: Bir deney sonucunda
+gerçekleşmesi mümkün olan tüm durumların
+kümesine kesin olay denir.
+
+Kesin olayların olasılığı 1 dir.
+
+İMKANSIZ OLAY: Bir deney sonucunda
+gerçekleşmesi mümkün olmayan olaya imkânsız
+olay denir.
+
+İmkânsız olayın olasılığı O dır.
+
+Bir E örnek uzayındaki A ve B şeklindeki iki
+olayın ortak elemanı yoksa ya da iki olayın aynı
+anda gerçekleşmesi mümkün değilse bu olaylara
+ayrık olaylar denir.
+
+> A ve B olayları ayrık olaylar ise olur.
+ ise AveB olayları ayrık olmayan olaylardır.
+
+BİR OLAYIN OLASILIĞI
+
+Bir E örnek uzayında A olayının olma olasılığı;
+A kümesinin eleman sayısının E kümesinin eleman
+sayısına bölünmesiyle elde edilir.
+
+
+
+> Bir olayın olma olasılığı daima
+aralığında yer alır.
+
+> İmkansız olayın olma olasılığı O, kesin olayın
+olma olasılığı 1' dir.
+
+
+
+A ve B ayrık iki olay olmak üzere A veya B
+olayının olma olasılığı  dir.
+A ve B ayrık olmayan iki olay olmak
+üzere A veya B olayının olma olasılığı
+ dir.
+
+Örnek uzayın herhangi bir A olayının tümleyeni
+A'olmak üzere olur.
+
+Bir para atma deneyinde elde edilen basit
+olayların olasılıkları eşit ise bu para hilesizdir denir.
+
+Aynı durum zar atma deneyi için de geçerlidir.
+

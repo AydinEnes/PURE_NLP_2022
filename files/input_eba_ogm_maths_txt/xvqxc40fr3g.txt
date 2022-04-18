@@ -1,0 +1,46 @@
+MATEMATİK - FONKSİYON GRAFİKLERİNİ YORUMLAMA
+
+ 
+
+Bir fonksiyonun grafiğine bakarak tanım ve görüntü .Diğer durumlarda grafik bir fonksiyona ait değildir.
+kümelerini bulmak için;
+Fonksiyonun grafiği üzerindeki her noktadan
+ eksenine çizilen paralel doğruların x ekseninde kestiğidenkleminin çözüm kümesinin
+noktalar fonksiyonun tanım kümesini elemanlarından biri X, ise bu fonksiyonun grafiği 
+noktasından geçer ve x eksenini noktasında keser.
+
+BİR FONKSİYONUN SIFIRLARI
+
+(Ix eksenine çizilen paralel doğruların y ekseninde kestiği
+noktalar ise fonksiyonun görüntü kümesini verir.
+
+Grafikte;
+
+olduğundan
+
+ noktaları
+ O denkleminin
+
+DÜŞEY DOĞRU TESTİ Bir grafik verildiğinde bunun
+bir fonksiyona ait olup
+olmadığını belirlemek
+için tanım aralığının her
+
+noktasından y eksenine kökleridir.
+paralel doğrular çizilir.
+Çizilen bu doğrular, grafiği  Bir fonksiyon
+
+grafiğinde grafiğin x
+eksenine teğet olduğu
+
+yalnız bir noktada kesiyorsa
+bu grafik bir fonksiyona aittir.
+
+ 
+
+ 
+
+ 
+
+ 
+

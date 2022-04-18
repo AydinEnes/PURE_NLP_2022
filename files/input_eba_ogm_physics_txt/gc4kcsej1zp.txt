@@ -1,0 +1,133 @@
+FİZİK - ELEKTRİK KONU ÖZETİ -
+
+ 
+
+Bir iletkenin iki ucu
+arasında, elektriksel
+kuvvet etkisiyle
+gerçekleşen düzgün
+yük hareketine
+elektrik akımı denir.
+Katı iletkenlerde
+elektrik akımının
+yönü artı kutuptan
+eksi kutba doğruyken
+elektronların hareket
+yönü eksi kutuptan
+artı kutba doğrudur.
+Sıvı iletkenlerde (iyonik
+çözeltiler) elektrik
+akımını artı ve eksi
+iyonların hareketi
+oluşturur. Elektrik
+akımının yönü artı yük
+iyonlarının hareket
+yönüyle aynıdır. Gazlar
+yalıtkan özellik gösterir
+ancak gazlara yeterli
+enerji verildiğinde
+elektronları atomdan
+koparak serbest
+duruma geçer. Bu
+durumda elektronlar
+ve iyonlar yük taşıyıcısı
+olarak elektrik
+akımını oluşturur.
+İçinde yüksek oranda
+iyonlaşmış gaz
+ortamlara plazma
+adı verilir. Plazmanın
+içindeki çok sayıda
+serbest elektron ve
+iyonların hareketi
+ile yine elektrik
+akımını oluşturur.
+
+Plazmalardaki yük
+taşıyıcılarının bolluğu
+plazmaları katı, sıvı ve
+gazlara göre daha iyi
+iletken yapar.
+
+Bir iletkenin
+kesitinden birim
+zamanda geçen net
+yük miktarına akım
+şiddeti denir. Akım
+şiddeti ampermetre
+ile ölçülür. Birimi
+amperdir ve |
+sembolüyle gösterilir.
+I—g/t bağıntısıyla ifade
+edilir.
+
+Bir iletkenin iki
+ucu arasında elektrik
+alanın dolayısıyla
+elektrik akımının
+oluşmasını sağlayan
+potansiyel farkıdır.
+Potansiyel farkı, yükleri
+hareket ettirmek
+için birim yük başına
+düşen enerji miktarıdır.
+Birimi volttur ve V
+sembolüyle gösterilir.
+İki nokta arasında
+potansiyel farkı
+voltmetre ile ölçülür.
+
+İletken bir maddenin
+elektrik akımına karşı
+gösterdiği zorluğa
+direnç denir. Direnç R
+sembolüyle gösterilir
+ve SI birim sistemindeki
+birimi onmdur (2).
+
+Bir iletkenin direnci
+yapıldığı maddenin
+
+cinsine (özdirenç)
+
+bağlı olup boyu ile
+doğru kesit alanıyla
+ters orantılıdır. Bu ilişki
+R—pL/A bağıntısı ile
+ifade edilir.
+
+Dirençler derede
+seri ve paralel olarak
+farklı şekillerde
+bağlanabilir. Birden
+fazla direncin yerine
+aynı etkiyi sağlayan
+tek bir dirence eşdeğer
+direnç denir. Ayrıca
+devrelerde akımın
+değerini değiştirmek
+için uzunluğu
+değiştirilebilen
+dirençlere reosta adı
+verilir.
+
+Bir elektrik
+devresinde devreye
+uygulanan potansiyel
+fark ile devreden
+geçen akım arasında
+ilişki “Ohm Yadkgmin
+ile açıklanır. Bu
+yasaya göre devreye
+uygulanan ge
+akıma oranı sabittir.
+Bu sabit devrenin
+direncini verir.
+
+Ohm Yasası WI—R
+şeklinde ifade edilir. Bu
+ifadeye göre direncin
+uçlarına uygulanan
+gerilimin arttıkça
+dirençten geçen akım
+şiddeti de artar.

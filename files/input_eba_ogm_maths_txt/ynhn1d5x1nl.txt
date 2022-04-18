@@ -1,0 +1,28 @@
+MATEMATİK KESİR PROBLEMLERİ
+
+DENKLEMLER VE EŞİTSİZLİKLER
+
+KESİR PROBLEMLERİ
+Bir bütünün parçaları üzerinden kurulmuş problemlerdir.
+
+
+X sayısının   olur.
+ÖRNEK
+x sayısının;
+
+Yarısı
+Yarısının 5 fazlası 
+ 7 ünün8 eksiği: 
+4 ü kadar fazlası; 
+
+ kadareksiği; 
+
+ olur.
+
+NOT: Tel uzunluğu ile ilgili problemlerde
+telin orta noktasındaki kayma miktarı, kesilen uzunluğun yarısı kadar olur.
+
+NOT: Bütün birden çok kesirli parçaya bölündüğünde bu bütünün tamamı kesirlerin
+paydalarının EKOK'u olarak seçilirse işlem
+kolaylığı sağlanır.
+

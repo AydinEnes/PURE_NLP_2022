@@ -1,0 +1,40 @@
+FİZİK - İVMELİ HAREKET -
+
+ 
+
+İvme: Hızda, birim zamanda (1 saniyede)
+meydana gelen değişikliğe ivme adı verilir.
+Vektörel bir nicelik olan ivme, â sembolü ile
+gösterilir. İvmenin SI'daki birimi m/s? dir.
+
+Zaman Değişimi 
+
+Hız-zaman grafiğinin eğimi ivmeyi verir.
+
+Hareket Grafiklerinin Yorumlanması: Düzgün
+doğrusal harekette bir grafikteki bilgiler
+kullanılarak diğer bir grafik hakkında yorumda
+bulunulabilir.
+
+Hız-zaman grafiğinin eğimi ivmeyi verir.
+
+Hız (m/s)
+4
+
+ 
+
+ 
+
+Zaman 
+
+İvme — zaman grafiğinin altında kalan alan
+hızdaki değişimi verir.
+
+ 
+
+Grafiğin altında kalan alan hızdaki değişimi verir.
+
+
+Sabit ivmeli hızlanan hareket yapan cismin hızı
+düzgün olarak artar. Hız vektörünün yönü ile
+ivme vektörünün yönü aynıdır.

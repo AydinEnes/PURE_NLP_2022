@@ -1,0 +1,35 @@
+MATEMATİK - POLİNOMLARIN ÇARPANLARA AYRILMASI
+
+ 
+
+KARMA ÖRNEKLERİN ÇÖZÜMÜ
+
+POLİNOMUN KATSAYILAR TOPLAMI
+
+Bir polinomun katsayıları toplamı, polinomun değişkeninin yerine 1
+yazılarak bulunur.
+
+POLİNOMUN SABİT TERİMİ
+Bir polinomun sabit terimi, polinomun değişkeninin yerine O
+yazılarak bulunur.
+
+POLİNOMLARLA TOPLAMA VE ÇIKARMA İŞLEMLERİ
+
+Polinomlarla toplama ya da çıkarma işlemleri yapılırken dereceleri
+aynı olan terimlerin katsayıları toplanır ya da çıkarılır.
+
+olmak üzere P(X) polinomunun bir terimi 
+ polinomunun bir terimi  ise
+
+ polinomunun bir terimi
+ polinomunun bir terimi
+ olur.
+
+POLİNOMLARLA BÖLME İŞLEMİ
+
+Bir P(X) polinomunun  ile bölümünden kalan P(a) dır.
+
+polinomunun bir çarpanıdır.
+
+sayısına, P(x) polinomunun sıfırı (bir kökü) denir.
+

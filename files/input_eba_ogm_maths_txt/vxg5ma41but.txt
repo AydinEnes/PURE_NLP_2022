@@ -1,0 +1,160 @@
+MATEMATİK -BİR FONKSİYONUN BİR NOKTADAKİ LİMİTİ İLE SOLDAN VE SAĞDAN LİMİT KAVRAMLARI-
+
+ 
+
+
+LİMİT VE SÜREKLİLİK
+
+Yaklaşım Kavramı:
+
+x değişkeni bir a sayısına, a dan küçük değerlerle yaklaşıyor-
+sa bu tür yaklaşmaya soldan yaklaşma, a dan büyük değerlerle
+yaklaşıyorsa bu tür yaklaşmaya sağdan yaklaşma denir. x
+değişkeninin a sayısına soldan yaklaşması X -›a_ , sağdan
+yaklaşması X _›a+ şeklinde gösterilir.
+
+Aşağıdaki tabloda x değişkeninin 5 sayısına, 5 ten küçük ve 5
+ten büyük sayılarla yaklaşması gösterilmiştir.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+X 4,5 4,9 4,99 4,999 4,9999 5,0001 5.001 5,01 5,1 5,5
+LİMİT KAVRAMI
+y f(X) fonksiyonunun grafiği incelendiğin-
+yzm de x, a ya soldan yaklaşırken f(X)in 41 in
+t 1,/ gerçek sayısına yaklaştığı görülmektedir.
+ML' fı'fl %1 gerçek sayısına f(x) fonksiyonunun
+/x İ apsisli noktasındaki soldan limiti denir
+, ve 1311 &79:51 şeklinde gösterilir.
+0 *a X x a
+
+f(X) fonksiyonunun grafiği incelendi-
+ğinde x, a ya sağdan yaklaşırken
+f(X)in 52 gerçek sayısına yaklaştığı
+görülmektedir. Ez gerçek sayısına f(x)
+fonksiyonunun x=a apsisli noktasında-
+ki sağdan limiti denir ve 1irrıf(x):é2
+şeklinde gösterilir. H”
+
+ 
+
+f(X) fonksiyonunun grafiği incelen-
+diğinde x, a ya soldan ve sağdan yakla-
+şırken f(X)in g gerçek sayısına yaklaştı-
+ğı görülmektedir. 2 gerçek sayısına
+f(x) fonksiyonunun x=a apsisli nokta-
+sındaki limiti denir ve lim f(X)=E
+biçiminde gösterilir. H”
+
+ 
+
+SONUç:
+
+1-) Bir f(X) fonksiyonunun x=a apsisli noktasında Iimitinin
+olması için bu noktadaki sağdan ve soldan limitleri birbirine
+eşit olmalıdır.
+
+linıf(x):ê lim f(x):E2 ise glzgzzg z› limf(x):Z
+
+1 Ve 4,
+xâa xaa xaa
+2_) 1imf(x) ;t 1imf(x) :> lim f(x) yoktur.
+xaa xâa xâa
+
+3-) Bir fonksiyonun bir noktada Iimitinin olması için fonksiyo-
+nun o noktada tanımlı olma zorunluluğu yoktur.
+
+4-) Bir fonksiyonun bir noktadaki limiti, fonksiyonun o nokta-
+daki değerinden farklı olabilir.
+
+NOT: Bir fonksiyonun grafiği
+üzerindeki kopukluk olan nokta-
+lara kritik noktalar denir. y=f(x)
+fonksiyonunun tanımlı olmadığı
+x=a noktası ile x=b ve x=c apsisli
+noktaları kritik noktalardır. Bu
+:x noktalarda limit araştırılırken
+\ sağdan ve soldan limitler ince-
+
+v=I[x) Ienmelidir. Eğer limit araştırılan
+nokta, kritik nokta değilse fonk-
+siyonun limiti, fonksiyonun o noktadaki değerine eşittir.
+
+LİMİTİN ÖZELLİKLERİ VE UYGULAMALARI
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ÖZELLİK 1:
+
+a,c E Rve f(X)=C sabit fonksiyon olmak üzere
+v lim f(x)=c olur.
+
+ 
+
+f(X)=aan +an_1x“"1+...+alx +30 polinom fonksiyonu olmak
+üzere her c gerçek sayısı için lim f(x)=f(c) olur.
+
+PARÇALI TANIMLI FONKSİYONLARIN LİMİTİ
+
+> Parçalı tanımlı fonksiyonlarda kritik noktanın dışındaki bir
+noktanın limiti araştırılırken o nokta fonksiyonun hangi parçası-
+na dahilse o parçada limit araştırılır.
+
+> Kritik noktada fonksiyonun kuralı değiştiğinden bu nokta-
+da limit araştırılırken sağdan ve soldan limitleri incelenmelidir.
+
+LİMİTTE BELİRSİZLİK DURUMU
+
+Çarpanlarına ayrılabilen gerçek sayılarda tanımlı f(x) ve
+g(X)fonksiyonıarı için 31:? f(X):O ve lim g(x)=0 olması durumunda
+
+lim _ . « › -
+xâa g(X) Iımıtınde 0
+pay ve payda çarpanlarına ayrılır. Pay ve paydadaki çarpanlar
+sadeleştirilerek belirsizlik giderilir.
+
+belirsizliği oluşur. Belirsizliği gidermek için

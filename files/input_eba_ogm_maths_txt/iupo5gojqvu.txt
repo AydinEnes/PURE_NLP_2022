@@ -1,0 +1,62 @@
+MATEMATİK-İKİNCİ DERECEDEN FONKSİYONLAR VE GRAFİKLERİ-
+
+ 
+
+PARABOLÜN DENKLEMİNİ YAZMA
+Parabolün grafiğine bağlı olarak denklem üç farklı
+duruma göre yazılabilir.
+
+1. Biri y ekseni üzerinde olmak üzere
+parabolün herhangi üç noktası
+f(X) = .21X2 + bX + C fonksiyonunda
+yerine yazılarak a, b, c katsayıları bulunur
+ve parabol denklemi elde edilir.
+f(X) = 21X2 + bX + C fonksiyonu için
+f(X) = 0 denkleminin kökleri X1 ve X2
+olsun. Bu durumda parabol denklemi
+y=a-(X- X1)-(X- X2) şeklinde
+yazılır. (X1 , 0) ; (X 2 , 0) noktaları
+dışında parabol üzerinde verilen üçüncü
+bir nokta yardımıyla a değeri bulunur ve
+parabol denklemi elde edilir.
+
+3. Tepe noktasının koordinatları T (1' , k )
+olsun. Parabolün üzerinde tepe noktası
+dışında ikinci bir nokta bilindiğinde
+bunoktalar y=a-(X-r)2 +k
+denkleminde yerine yazılarak a değeri
+bulunur ve parabol denklemi elde edilir.
+
+BİR DOĞRU iLE PARABOLÜN DURUMU
+
+2
+y=aX +bX+C parabolüile y=mX +11
+doğrusunun durumları incelenirken denklemlerin
+
+ortak çözümü yapılır.
+Bunun için her iki denklemde y değerleri birbirine
+eşitlenir.
+
+axf +bx+c=mx+n :> axl+(b-m)x+c-n:0
+
+olur.
+İki denklemin ortak çözümüyle ulaşılan denkleme
+ortak çözüm denklemi denir.
+
+Bulunan ortak çözüm denkleminin diskriminantı
+
+A<O ise ortak çözüm denkleminin kökü
+
+ 
+
+yoktur. O hâlde parabol ile doğru kesişmez.
+
+AZO ise ortak çözüm denkleminin bir-
+birine eşit iki kökü vardır. O hâlde doğru,
+parabole teğettir.
+
+A>0 ise ortak çözüm denkleminin farklı
+iki reel kökü vardır. O hâlde parabol ile
+doğru farklı iki noktada kesişir.
+
+

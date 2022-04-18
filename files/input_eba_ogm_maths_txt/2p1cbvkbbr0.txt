@@ -1,0 +1,41 @@
+MATEMATİK ORAN VE ORANTI PROBLEMLERİ
+
+ 
+
+DENKLEMLER VE EŞİTSİZLİKLER
+
+DOĞRU ORANTI
+
+İki çokluktan biri artarken diğeri de aynı oranda
+artıyor veya biri azalırken diğeri de aynı oranda
+azalıyorsa bu çokluklara doğru orantılı çokluklar (DO)
+
+denir.
+
+ 
+
+
+
+Doğru orantıda içler çarpımı dışlar çarpımına eşittir.
+
+NOT: ifadesindeki bölüm şeklindeki çokluklar
+
+ doğru orantılıdır.
+
+TERS ORANTI
+
+İki çokluktan biri artarken diğeri de aynı oranda
+azalıyor veya biri azalırken diğeri de aynı oranda
+artıyorsa bu çokluklara ters orantılı çokluklar 
+
+denir.
+
+
+ 
+
+ 
+
+Ters orantıda yan çarpımlar eşittir.
+NOT:  ifadesindeki çarpım şeklindeki
+çokluklar  ters orantılıdır.
+

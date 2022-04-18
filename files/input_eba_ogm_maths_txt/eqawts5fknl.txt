@@ -1,0 +1,43 @@
+
+
+MATEMATİK - POLİNOMLARIN ÇARPANLARINA AYRILMASI
+
+ 
+
+Bir polinomun iki ya da daha fazla polinomun çarpımı
+biçiminde yazılması işlemine çarpanlarına ayırma denir.
+ birer polinom olmak üzere
+ şeklinde ifade edilen eşitlikte 
+ve O(X) polinomlarına R(X) polinomunun çarpanları denir. ifadeler denir.
+ÇARPANLARINA AYIRMA YÖNTEMLERİ
+ORTAK ÇARPAN PARANTEZİNE ALMA
+Bir polinomun her teriminde bulunan ortak çarpanın
+paranteze alınması işlemine ortak çarpan parantezine alma
+yoluyla çarpanlara ayırma yöntemi denir.
+ÖRNEK: 
+GRUPLANDIRMA YÖNTEMİ İLE ÇARPANLARINA AYIRMA ui
+Verilen polinomun her teriminde 
+ ortak bir sayı, i
+ ortak bir değişken veya
+ ortak bir terim
+
+; getirilerek gruplandırılır.
+
+: olur.
+
+ 
+
+ 
+
+ 
+
+ 
+
+biçimindeki ifadelere tam kare
+
+bulunmuyor ise ortak çarpanı olan terimler bir araya
+
+
+
+ 
+

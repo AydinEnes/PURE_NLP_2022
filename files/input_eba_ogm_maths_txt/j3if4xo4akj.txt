@@ -1,0 +1,91 @@
+MATEMATİK-İKİNCİ DERECEDEN FONKSİYONLAR VE GRAFİKLERİ-
+
+KARMA ÖRNEKLERİN çözÜMÜ
+
+Parabolde fonksiyonun artan olduğu aralıktan azalan
+olduğu aralığa geçtiği noktaya veya azalan olduğu
+aralıktan artan olduğu aralığa geçtiği noktaya tepe
+noktası denir.
+
+
+BİR PARABOLÜN GRAFİĞİ
+
+fî IR -› [R , f(x)=ax2 +bX+C biçimindeki
+fonksiyonun grafiğini (parabol) çizebilmek için para-
+bolün eksenleri kestiği noktalar ve parabolün tepe
+noktası bulunur. Bu noktalar ardışık birleştirilerek
+parabolün grafiği çizilir.
+
+a >O ise parabolün kolları yukarı,
+a<0 ise parabolün kolları aşağı doğrudur.
+
+Parabolün eksenleri kestiği noktalar
+X=O :>f(0) :C olduğundan parabol, y
+eksenini (0,0) noktasında keser.
+
+y=0 :> ax2+bx+c=0 olur. Bu durumda
+
+A>0 ise parabol x eksenini farklı iki nok-
+tada keser.
+
+A<0 ise parabol x eksenini kesmez.
+
+AzO ise parabol x eksenine teğettir.
+
+PARABOLÜN TEPE NOKTASI
+y= :1x2 + bX +C fonksiyo-
+nunun grafiğinin tepe nok-
+tasının koordinatları T(r,k)
+olmak üzere
+
+
+ 
+
+Tepe noktası T ile gösterilir. olmak üzere fonksiyon
+en küçük ya da en büyük değerini tepe noktasında
+alır. f(x):y=ax2 +bx+c parabolünün tepe
+noktasından geçen ve X eksenine dik olan doğruya
+simetri ekseni denir.
+
+
+PARABOLÜN DENKLEMİNİ YAZMA
+
+Parabolün grafiğine bağlı olarak denklem üç farklı
+
+duruma göre yazılabilir.
+
+1. Biri y ekseni üzerinde olmak üzere parabolün herhangi üç noktası 1°(x)=ax2 +bx+c fonksiyonunda
+yerine yazılarak a, b, c katsayıları bulunur ve parabol denklemi elde edilir.
+
+2_ f(X):aX2+bX+C fonksiyonu için f(X):0 denkleminin kökleri lee X2 olsun. Bu durumda parabol
+denklemi y:a~(X-xı)-(x-X2) şeklinde yazılır.
+(X150) ; (X2,0) noktaları dışında parabol üzerinde
+verilen üçüncü bir nokta yardımıyla a değeri
+bulunur ve parabol denklemi elde edilir.
+
+3. Tepe noktasının koordinatlarıT(r.k) olsun. Parabolün üzerinde tepe noktası dışında ikinci bir nokta
+bilindiğinde bu noktalar yza'(X-r)2+k denkle-
+minde yerine yazılarak a değeri bulunur ve para-
+bol denklemi elde edilir.
+
+BİR DOĞRU iLE PARABOLÜN DURUMU
+
+yîaX2+bx+c parabolü ile y=mx+n doğrusunun
+
+durumları incelenirken denklemlerin ortak çözümü
+
+yapılır. Bunun için her iki denklemde y değerleri birbirine eşitlenir.
+
+ax2+bx+c:mx+n :> ax2+(b-m)x+c-n=0 oıur.
+
+İki denklemin ortak çözümüyle ulaşılan denkleme
+
+ortak çözüm denklemi denir. Bulunan ortak çözüm
+
+denkleminin diskriminantı(A) için
+
+> A<0 ise ortak çözüm denkleminin kökü yoktur. O
+hâlde parabol ile doğru kesişmez.
+
+>A:0 ise ortak çözüm denkleminin birbirine eşit
+iki kökü vardır. O hâlde doğru, parabole teğettir.

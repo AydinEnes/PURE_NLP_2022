@@ -1,0 +1,33 @@
+MATEMATİK-ÜSTEL FONKSİYON-
+
+ 
+
+Üstel Fonksiyon:
+
+a E R*- {1} olmak üzere f: R -› R* ; f(x) = aX fonksiyonuna, tabanı
+”a" olan üstel fonksiyon denir. x bağımsız değişkendir. Üstel fonk-
+siyonlar bütün reel sayılar için tanımlıdır. Fakat görüntü kümeleri
+pozitif reel sayılardır.
+
+f(x) = aX fonksiyonu a < 0 için tanımsızdır.
+
+Bilgi:
+
+Üstel fonksiyonlar; nüfus artışı, yatırım büyümesi, bakteri
+popülasyonu, fosil yaşı, deprem şiddeti vb. hesaplamalarında
+kullanılır.
+
+Örneğin:
+
+f(x) = 2X üstel fonksiyonunu ele alalım. Bu fonksiyonun tabanı
+2 dir. f(x) = 2X fonksiyonunun değerlerinin ne kadar hızlı arttığına
+dikkat edelim.
+
+Bu fonksiyonu, g(x) = x2 fonksiyonu ile karşılaştıralım.
+
+olur. Bu sayının f(20) değerine göre
+çok daha küçük olduğunu görmekteyiz.
+
+Bu da şunu gösterir: Bir değişken üs olduğunda, üsteki küçük bir
+değişiklik fonksiyonun değerinde belirgin bir farklılığa neden ol-
+maktadır.

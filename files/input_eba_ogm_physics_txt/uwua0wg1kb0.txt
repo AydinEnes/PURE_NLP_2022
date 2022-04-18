@@ -1,0 +1,79 @@
+FİZİK - ÖZISI ISI SIĞASI -
+
+ 
+
+Öz ısı: Bir maddenin 1 gramının
+sıcaklığını 19C değiştirmek için maddeye verilmesi yada maddeden alınması
+gereken ısı miktarına öz Isı adı verilir.
+Öz ısı c sembolü ile gösterilir. Birimi
+cal/g!'C ya da J/kg'C şeklindedir. Maddeler için ayırt edici bir özelliktir. Madde
+miktarına bağlı değildir. Suyun öz ısısı
+c-1 cal/g*C'dir. 1 gram suyun sıcaklığını
+1 9C artırmak için suya 1 cal ısı verilmesi
+gerektiğini ifade eder.
+
+
+Öz Isı, ısı alan ya da veren bir maddenin sıcaklığının ne kadar hızlı değiştiğinin
+bir göstergesidir. Öz ısısı yüksek olan
+maddelerin sıcaklık değişimi yavaş, düşük
+olanlarınki daha hızlı gerçekleşir. Kumun
+ve dolayısıyla karaların öz ısısı suyun
+dolayısıyla denizlerin öz ısısından daha
+küçük olduğundan denizler karalardan
+daha geç ısınır ve daha geç soğur.
+
+ 
+
+ 
+
+Deniz esintisi
+
+Hâl değişimi sıcaklığında olmayan saf
+bir madde ısı aldığın-da ya da bu maddeye ısı verdiğinde
+maddenin sıcaklığı
+değişir. Sıcaklıktaki
+bu değişim; ısı miktarına, maddenin
+kütlesine, maddenin
+öz ısısına bağlıdır.
+
+Kara esintisi
+
+Isı Sığası (Isı Kapasitesi): Sıcaklıkları farklı, etkileşim hâlindeki iki sistem
+
+arasında sıcaklığı yüksek olandan düşük
+olana doğru, transfer edilen enerjiye ısı
+denir. Isı sığası (kapasitesi) maddenin
+cinsine ve miktarına bağlıdır. C sembolü
+ile gösterilir. Isı sığasının matematiksel modeli Cxm.c
+şeklindedir. Birimi
+cal/”C ya da J/”C'dir.
+Isı sığası, madde
+miktarına bağlı olduğu için ayırt edici
+bir özellik değildir.
+Isı sığasının madde miktarına bağlı
+değişim grafiği
+verilmiştir. Grafiğin
+eğimi maddenin öz
+ısısını verir.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alınan ya da verilen ısı: O,
+Maddenin kütlesi: m,
+Öz Isı; Cc
+Sıcaklık değişimi: AT
+
+C (Isı sığası)
+
+Eğim — Isı sığası — Öz ısı
+Kütle
+ğ - m (Kütle miktarı)
+
+Isı sığasının madde miktarına
+bağlı değişim grafiği

@@ -1,0 +1,71 @@
+MATEMATİK-TRİGONOMETRİK DENKLEMLER-
+
+ 
+
+tanx=a DENKLEMİNİN çözÜM KÜMESİ
+
+Birim çembere
+göre taneza olur.
+Tanjant fonksiyonu 71;
+periyotlu periyodik bir
+fonksiyon olduğundan
+tan9=tan(0+kv7t) olur.
+Bu durumda tanx:a _1
+denkleminin kökleri
+tan(6 +k ı TE) : tan X
+eşitliğini sağlayan X
+değerleridir.
+
+Buna göre
+
+ 
+
+ 
+
+ 
+
+ 
+
+tan(6+k-1t): tanx :> X=6+k'7t olur.
+
+Sonuç olarak ae R olmak üzere tanx=a denkle-
+minin [0,7t) nda bir kökü O(O±E) ise denklemin
+çözüm kümesi Ç= {x l x = 6 + k - mk 6 Z} olur.
+
+cotx=a DENKLEMİNİN çözÜM KÜMESİ
+
+Birim çembere
+göre cot9=a olur. A
+
+Kotanjant fonksiyonu 
+periyotlu periyodik bir 
+fonksiyon olduğundan f
+cot0=cot(6+k-7t) olur. 9 'X
+
+ 
+
+Bu durumda cotx=a _1 0 1
+denkleminin kökleri ,
+cot(6+k-7t):cotx F'
+
+eşitliğini sağlayanx -1
+değerleridir. Buna göre
+cot(6+k~7t):cotx :> X:6+k~ıt olur.
+
+Sonuç olarak 86 R olmak üzere cotx=a
+denkleminin (O,7t)nda bir kökü 0 ise denklemin
+çözüm kümesi Ç= {x l x = 9 + k - mk E Z} olur.
+
+ 
+
+tan f(X) :tan g(x) VEYA cot f(X) : cot g(X)
+
+DENKLEMLERİNİN çözÜM KÜMESİ
+
+tan f(x) :tan g(x) veya cot f(X) = cot g(X)
+denkleminin çözüm kümesi kE Z olmak üzere
+
+f(x)= g(x)+k-7t denklemini sağlayan x
+değerleridir.
+
+ 

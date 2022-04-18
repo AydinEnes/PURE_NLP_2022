@@ -1,0 +1,59 @@
+MATEMATİK-TRİGONOMETRİ-
+
+ 
+
+TRİGONOMETRİK FONKSİYONLARIN
+BİRİM ÇEMBERİN BÖLGELERİNDEKİ
+İŞARETLERİ
+
+I. bölgede bütün trigonometrik
+fonksiyonlar pozitif değerler alır.
+
+ll. bölgede sinüs fonksiyonu pozitif;
+kosinüs, tanjant ve kotanjant fonksiyonları
+negatif değerler alır.
+
+lll. bölgede sinüs ve kosinüs fonksiyonları
+negatif, tanjant ve kontanjant
+fonksiyonları pozitif değerler alır.
+
+IV. bölgede kosinüs fonksiyonu pozitif;
+sinüs, tanjant ve kotanjant fonksiyonları
+negatif değerler alır
+
+Bir Açının Trigonometrik değerlerinin
+Dar Açı Cinsinden Yazılması
+
+Herhangi bir açının trigonometrik
+değeri dar açı cinsinden yazılırken 180°(1t)
+veya 360°(21t) kullanılırsa trigonometrik
+fonksiyon isim değiştirmez, 900
+(g) veya. 270°(37") kullanılırsa trigonometrik
+fonksiyon isim değiştirir.
+
+TRİGONOMETRİK ÖZDEŞLİKLER
+
+
+KOSİNÜS İÇİN TOPLAM VE FARK
+FORMÜLLERİ
+a ve b gibi iki açının toplamının ve
+farkının kosinüsü
+cos(a+b)=cosa.cosb - sina.sinb
+cos(a-b)=cosa.cosb + sina.sinb
+SİNÜS İÇİN TOPLAM VE
+FARK FORMÜLLERİ
+a ve b gibi iki açının toplamının ve
+farkının sinüsü
+sin(a+b)=sina.cosb + sinb.cosa
+sin(a-b)=sina.cosb - sinb.cosa
+TANJANT VE KOTANJANT İÇİN
+TOPLAM VE FARK FORMÜLLERİ
+
+a ve b gibi iki açının toplamının ve
+farkının kotanjantı
+SİNÜS İKİ KAT AÇI FORMÜLLERİ
+
+KOSİNÜS İKİ KAT AÇI FORMÜLLERİ
+
+TANJANT VE KOTANJANT
+İÇİN İKİ KAT Açı FORMÜLLERİ

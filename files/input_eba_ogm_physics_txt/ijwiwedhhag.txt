@@ -1,0 +1,84 @@
+FİZİK - ISIL DENGE -
+
+ 
+
+Isıl Denge: Etkileşim hâlindeki ve sıcaklıkları birbirinden
+farklı iki sistem arasında alınan ya da verilen enerjiye
+ısı denir. Isı, sıcaklığı yüksek olan sistemden düşük olan
+sisteme aktarılır.
+
+Sıcak Soğuk
+
+ 
+
+Bir sistemdeki atom ve moleküllerin ortalama kinetik
+enerjisinin bir göstergesine sıcaklık denir. Sıcaklık bir enerji
+değildir.
+
+Temas hâlindeki sistemlerden sıcaklığı yüksek olanın
+sıcaklığı azalırken düşük olanın sıcaklığı artar. Bunun
+sebebi ısı enerjisinin, yüksek sıcaklıktaki sistemden düşük
+sıcaklıktaki sisteme doğru akmasıdır.
+
+"Bu sistemlerden hangisi ısıyı alır?” sorusunun cevabı
+“Sıcaklığı düşük olan alır.” “Hangisi ısı verir?” sorusunun
+cevabı ise “Sıcaklığı yüksek olan verir.” şeklindedir. Hâl
+değişimi olmazsa ısı veren sistemin moleküllerinin enerjisi,
+dolayısı ile sıcaklığı düşer. Isı alan sistemin moleküllerinin
+enerjisi artar ve sıcaklığı yükselir. Isı alışverişi her iki sistemin
+
+de sıcaklıkları eşit oluncaya kadar devam eder. Sıcaklığın eşitlenerek ısı aktarımının durmasına ısıl denge denir.
+
+
+Farklı sıcaklıktaki ve temas hâlindeki sistemlerin ısı
+
+alışverişi sonucunda ulaştıkları son sıcaklığa denge sıcaklığı
+adı verilir. Denge sıcaklığı T, ile gösterilir. Denge sıcaklığı,
+sıcaklığı düşük olan sistemden daha düşük ve sıcaklığı yüksek
+olan sistemden daha yüksek olamaz.
+
+Başlangıç sıcaklıkları T, > T, olan iki madde yalıtılmış
+ortamda etkileşmeye bırakılırlarsa ısıl dengeye
+ulaştıklarında denge sıcaklığı (T,) için şöyle bir genelleme
+yapılabilir.
+
+
+Eşitlik hâli ancak en az bir maddenin başlangıçta hâl
+değişimi sıcaklığında olması hâlinde gerçekleşir.
+
+Yalıtılmış ortamda erime sıcaklığındaki buz (0 *C),
+sıcaklığı 10 *C olan suya bırakılırsa denge sıcaklıkları O *C
+olabilir.
+
+ 
+
+Buzu eritmek için gereken ısı suyun O ©C sıcaklığa kadar
+soğumasını sağlayabilir. Denge sıcaklığındaki sistemler, ısıl
+(termal) dengedeki sistemler olarak adlandırılır. Termal
+dengedeki sistemlerin sıcaklıkları birbirine eşittir.
+
+Sıcaklıkları farklı, çevreden izole edilmiş ve birbirleriyle
+temas hâlindeki iki sistemden birinin verdiği ısı, diğerinin
+aldığı ısıya eşittir. Bu durumun matematiksel modeli,
+
+Alınan Isı (0,) — Verilen Isı (O)
+
+şeklindedir.
+
+20 “C sıcaklığındaki yalıtılmış bir odaya içinde 100 “Cc
+sıcaklığında su dolu çaydanlık bırakılmış olsa denge sıcaklığı
+20 “C'den fazla 100 *C'den az olacaktır.
+
+ 
+
+ 
+
+ 
+
+100 <Tij
+Çaydanlık soğumuş, odanın sıcaklığı ise artmış gibi
+
+düşünülebilir. Isı alan sistemlerin iç enerjisi artar. Isı veren
+sistemlerin iç enerjisi azalır.
+
+ 

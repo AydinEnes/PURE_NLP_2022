@@ -1,0 +1,60 @@
+MATEMATİK - EŞKENAR DÖRTGEN, DİKDÖRTGEN VE ÖZELLİKLERİ
+
+ 
+
+DÖRTGENLER VE ÇOKGENLER
+ ÖZEL DÖRTGENLER
+
+Kenar uzunlukları eşit olan
+paralelkenara eşkenar dörtgen denir.
+
+/ Eşkenar dörtgen aynı zamanda
+bir paralelkenardır ve paralelkenarın
+ özelliklerini taşır.
+ Şekilde ABCD eşkenar dörtgeninde
+olur.
+Şekilde eşkenar dörtgeninde
+ köşegenleri
+birbirini dik keser.
+ ve  köşegenleri
+e birbirini ortalar.
+ köşegenleri
+aynı zamanda açı ortaydır.
+Bir kenar uzunluğu ile
+
+ 
+
+ 
+
+Vo A bu kenara ait yüksekliğinin
+A Dİ çarpımı eşkenar dörtgenin
+alanını verir.
+Şekildeki ABCD eşkenar dörtgeninin alanı
+
+ olur.
+
+ eşkenar
+dörtgeninde 
+köşegen olmak üzere
+
+ 
+ olur.
+
+DİKDÖRTGEN VE ÖZELLİKLERİ
+Açılarından birinin ölçüsü  olan
+paralelkenara dikdörtgen denir.
+Dikdörtgen aynı zamanda bir
+paralelkenardır ve paralelkenarın
+özelliklerini taşır.
+Buna göre
+ ve 
+  olur.
+Dikdörtgene ait köşegen
+uzunlukları eşittir.
+
+Şekildeki ABCD dikdörtgeninde,
+
+ olur.
+
+ 
+

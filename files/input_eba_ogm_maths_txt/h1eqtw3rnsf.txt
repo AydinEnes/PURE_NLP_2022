@@ -1,0 +1,48 @@
+MATEMATİK-SİMETRİ DÖNÜŞÜMÜ-
+
+ 
+
+DÖNÜŞÜMLER
+ANALİTİK DÜZLEMDE TEMEL DÖNÜŞÜMLER
+
+Simetri dönüşümü bir şeklin bütün noktalarının bir noktaya
+veya bir doğruya göre eşit uzaklıkta görüntülerinin alınması
+ile oluşan bir dönüşümdür.
+
+Düzlemde P noktasının M noktasına göre simetriği P`noktası
+olsun. M noktasına simetri merkezi denir SM ile gösterilir.
+Eğer simetri dönüşümü bir d doğrusuna göre yapılıyor ise bu
+doğruya simetri ekseni denir ve Sd ile gösterilir.
+
+Düzlemdeki bir nokta ile simetriği olan noktanın simetri
+eksenine uzaklıkları birbirine eşittir.
+
+Simetri dönüşümü noktanın noktaya, noktanın doğruya,
+doğrunun noktaya veya doğrunun doğruya göre simetriği gibi
+farklı biçimlerde yapılabilir.
+
+BİR NOKTANIN BAŞKA BİR NOKTAYA GÖRE SİMETRİĞİ
+
+Bir A noktasının B noktasına göre simetriği A' dır.
+
+
+NOT:
+
+A(X, y) noktasının O(0,0) noktasına (orjin) göre simetriği
+A' (-X,-y) dır.
+
+BİR NOKTANIN x VE y EKSENLERİNE GÖRE SİMETRİĞİ
+
+Y
+
+ 
+
+ 
+
+ 
+
+A(a,b) noktasının
+> xeksenine göre simetriği B(a,-b),
+
+> y eksenine göre simetriği C(- a,b) olur.
+

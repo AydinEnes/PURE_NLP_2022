@@ -1,0 +1,71 @@
+MATEMATİK-ÇEMBERDE Açı-
+
+ 
+
+MERKEZ ACI
+
+Köşesi çemberin merkezinde olan açıya
+çemberin bir merkez açısı denir.
+
+> Bir çemberde bir merkez açının ölçüsü bu merkez açının gördüğü yayın ölçüsüne eşittir.
+
+Şekilde öl-
+çüsü oı derece
+olan AOB açısı bir merkez
+açıdır.
+
+AB yayı,
+AOB açısının
+gördüğü
+yaydır.
+
+ 
+
+Merkezleri 0 olan üç çemberin merkez
+açılarının ölçüsü or derece olsun. or görmüş
+olduğu yay ölçülerine eşittir.
+
+Buna göre dıştaki çembelr`için, oızm (AB)
+ortadaki çember için oızm (CD) ve içteki
+çember için olur.
+
+> Çemberde eş
+kirişlerin belirledi-
+ği yaylar eştir.
+
+ 
+
+> Bir çemberin
+merkezinden
+kirişe indirilen
+dikme bu kirişin
+gördüğü yayı
+ortalar.
+
+ 
+
+ 
+
+ÇEVRE ACI
+
+Köşesi çemberin üzerinde olan ve ke-
+narları çemberi kesen açıya çemberin bir
+çevre açısı denir.
+
+ 
+
+> Şekilde ölçüsü a derece olan BAC açısı
+çevre açıdır.
+
+> BC yayı BAC açısının gördüğü yaydır.
+
+> Bir çemberde çevre açının ölçüsü, bu
+açının gördüğü yayın ölçüsünün yarısına
+eşittir.
+
+> Bir çemberde çevre açının ölçüsü
+aynı yayı gören merkez açının ölçüsünün
+yarısına eşittir.
+
+SONUÇ: Aynı yayı gören çevre açıların
+ölçüleri eşittir.

@@ -1,0 +1,66 @@
+MATEMATİK - İKİ FONKSİYONUN BİLEŞKESİ VE BİR FONKSİYONUN TERSİ
+
+ 
+
+FONKSİYONLARIN BİLEŞKESİ 169) fonksiyonunun tersi de fonksiyon
+
+ boş kümeden farklı birer olur.
+küme olmak üzere olur.
+fonksiyonları verilsin.
+
+A kümesinin elemanlarını f ve g
+fonksiyonları yardımıyla C kümesinin
+
+Bir fonksiyonun tersinin eşleştirme
+kuralını bulmak için
+
+elemanları ile eşleştiren fonksiyona f ile kuralında x yerine  yerine x yazılır.
+
+g fonksiyonlarının bileşke fonksiyonu  Elde edilen eşitlikte y yalnız bırakılır.
+denir.  Son eşitlikte y yerine  yazılır.
+
+ şeklinde gösterilir.
+Uygun tanım aralıklarında verilen
+ fonksiyonlar  için
+
+biçiminde gösterilebilir.
+
+FONKSİYONLARDA BİLEŞKE
+İŞLEMİNİN ÖZELLİKLERİ
+
+1) Bir f fonksiyonunun birim fonksiyon
+
+ile bileşkesi yine f fonksiyonudur. 
+
+
+2) Fonksiyonlarda bileşke işleminin
+değişme özelliği yoktur.
+
+Yani herhangi iki f ve g fonksiyonları
+
+ 
+
+ 
+
+
+
+3) Fonksiyonlarda bileşke işleminin
+birleşme özelliği vardır.
+
+
+
+4) Uygun koşullarda tanımlı f, g ve h
+fonksiyonları için
+
+
+
+BİR FONKSİYONUN TERSİ
+ birebir ve örten
+fonksiyonu verilsin.
+
+
+oluyorsa f “: fonksiyonuna f
+fonksiyonunun tersi denir.
+
+ 
+

@@ -1,0 +1,51 @@
+MATEMATİK-İKİNCİ DERECEDEN İKİ BİLİNMEYENLİ DENKLEM SİSTEMLERİ-
+
+ 
+
+DENKLEM VE ESITSIZLII( SISTEMLERI
+BİRİNCİ DERECEDEN İKİ BİLİNMEYENLİ DENKLEM SİSTEMİ
+
+a, b , C E IR; a ve b sıfırdan farklı, X ve y değişkenler olmak
+üzere ax+ by + c = 0 denklemi birinci dereceden iki bilinmeyenli
+denklemdir.
+
+Birinci dereceden iki bilinmeyenli en az iki denklemin oluştur-
+duğu sisteme birinci dereceden iki bilinmeyenli denklem sistemi
+denir.
+
+Örnek:
+
+2x + 4y = 7
+
+3x - 5y = 8 denklemlerinin oluşturduğu sistem birinci dereceden
+iki bilinmeyenli denklem sistemidir.
+
+İKİNCİ DERECEDEN İKİ BİLİNMEYENLİ DENKLEM SİSTEMLERİ
+
+a,b , C, (1, e, f 6 IR ve a, b, c reel sayılarından en az ikisi
+sıfırdan farklı olmak üzere
+
+ax2+ bxy + cy2+ dx + ey + f = 0 şeklindeki ifadelere ikinci derece-
+den iki bilinmeyenli bir denklem denir.
+
+İki bilinmeyenli en az iki denklemden oluşan sistemin denklem-
+lerinden en az biri İkinci dereceden denklem ise bu sisteme ikinci
+dereceden iki bilinmeyenli denklem sistemi denir.
+
+Denklemlerin ortak çözüm kümesi denklem sisteminin çözüm
+kümesidir.
+
+HATIRLATMA:
+
+a, b , C E IR ve a at 0 için ax2+ bx+ c = 0 ikinci derece
+denklemi verilsin.
+
+Bu durumda AZb2
+
+> A>O İse denklemin iki farklı reel kökü vardır.
+
+-4ac olmak üzere;
+
+> A: 0 ise denklemin çakışık iki reel kökü vardır.
+> A< O ise denklemin reel kökü yoktur.
+

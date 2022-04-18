@@ -1,0 +1,84 @@
+MATEMATİK-BİR FONKSİYONUN BİR NOKTADA VE BİR ARALIKTA TÜREVLENEBİLİRLİĞİ-
+
+ 
+
+BİR FONKSİYONUN BİR NOKTADA VE
+BİR ARALIKTA TÜREVLENEBİLİRLİĞİ
+
+A E R ve f:A -> R ve a EAiçin f sürekli olmak
+üzere
+
+f fonksiyonunun x=a apsisli noktasındaki sağdan
+ve soldan türevleri birbirine eşit ise f fonksiyonu X = a
+apsisli noktasında türevlenebilirdir.
+
+f'(a+)= f'(a_)=k :>f'(a)=k olur.
+
+Bir f fonksiyonu (a,b) ndaki her noktada türevlenebilir
+ise bu fonksiyon (a,b) nda türevlenebilirdir.
+
+Aşağıda verilen y=f(x) fonksiyonunun grafiği
+incelenirse a ya soldan yaklaşırken eğriye çizilen teğetin
+d doğrusu ve a ya sağdan yaklaşırken çizilen teğetin k
+doğrusu olduğu görülür.
+
+
+Bu durumda d doğrusunun eğimi md ve k doğrusunun
+eğimi mk olarak ifade edilirse
+
+f'(a+):mk .İ"(a_):md olur.
+
+Burada md i Ink olduğundan fonksiyonun a
+noktasındaki sağdan ve soldan türevleri farklıdır. O
+hâlde f fonksiyonunun Xza apsisli noktasında türevi
+yoktur. ffonksiyonunun, X :21 apsisli noktasında sürekli
+olmasına rağmen bu noktada türevi yoktur. Bu tür
+noktalara fonksiyonun kırılma noktası denir.
+
+Aşağıda verilen R - {a} kümesinde tanımlı f(X)
+fonksiyonun grafiğini inceleyelim.
+
+
+ 
+
+1) f fonksiyonu tanımlı olduğu aralıkta b ve c apsisli
+noktalarda süreksizdir. Bir fonksiyonun bir noktadaki
+türevi fonksiyonun grafiğine o noktasında çizilen
+teğetinin eğimine eşit olduğundan fonksiyonun b ve c
+noktalarında türevi yoktur.
+
+2) f fonksiyonunun d apsisli noktası fonksiyonun kırılma
+noktası olduğundan fonksiyonun bu noktada da türevi
+yoktur.
+
+SONUÇ:
+
+1) Bir fonksiyon bir Xza apsisli noktada sürekli değilse
+X = a apsisli noktada türevli de değildir.
+
+2) Bir fonksiyon türevli olduğu her noktasında süreklidir.
+
+3) Bir fonksiyonun kırılma noktalarında türevi yoktur.
+
+İKİ FONKSİYONUN TOPLAMININ VE FARKININ TÜREVİ
+f(X) ve g(X) türevlenebilir iki fonksiyon olmak üzere;
+
+
+
+olur.
+
+İKİ FONKSİYONUN ÇARPIMININ
+VE BÖLÜMÜNÜN TÜREVİ
+
+f(X) ve g(X) türevlenebilir iki fonksiyon olmak üzere;
+
+ 
+
+İKİ FONKSİYONUN BİLEŞKESİNİN TÜREVİ
+f(X) fonksiyonu Xnoktasında türevli, g(X) fonksiyonu
+f(X) noktasında türevli ise gOf(X) . fonksiyonu X noktasında
+
+
+
+kuralı denir.
+

@@ -1,0 +1,82 @@
+MATEMATİK-TÜREV LİMİT VE SÜREKLİLİK-
+
+ 
+
+SÜREKLİLİK
+
+A E R vef :A -› R birfonksiyon olsun.
+a &A olmak üzere
+
+lim f(X) :f(a)
+
+eşitliği sağlanıyorsa f fonksiyonu x=a nokta-
+sında süreklidir denir. Eğer f fonksiyonu A kü-
+mesinin her noktasında sürekli ise f fonksiyonu
+A kümesinde süreklidir.
+
+NOT: Polinom fonksiyonlarının en geniş
+tanım kümesi gerçek sayılar kümesi ve her
+noktadaki limiti o noktadaki görüntüsüne eşit
+olduğu için polinom fonksiyonlar her X ger-
+çek sayısı için süreklidir.
+
+NOT: f(X) ve g(X) birer polinom fonksiyon
+
+E (g(X) 7& 0) biçi-
+g(X)
+mindeki fonksiyonlar tanımlı oldukları en geniş
+kümede süreklidir.
+BİR FONKSİYONUN GRAFİĞİ ÜZERİNDE
+SÜREKLİ VE SÜREKSİZ OLDUĞU NOKTALAR
+
+
+ 
+
+Grafiği verilen f fonksiyonu her X gerçek
+sayısı için tanımlı ve her noktadaki limiti fonksi-
+yonun o noktadaki görüntüsüne eşit olacağın-
+dan fonksiyon her X gerçek sayısı için sürekli-
+dir. Bu durumda fonksiyonun sürekli olduğu en
+geniş küme olur.
+
+ 
+
+ 
+
+Grafiği verilen g fonksiyonu X=a nokta-
+
+sında tanımlı ve limite sahip olmasına rağmen
+bu noktadaki limiti görüntüsüne eşit olmadı-
+ğından g fonksiyonu X :21 apsisli noktada sü-
+rekli değildir. Bu durumda fonksiyonun sürekli
+olduğu en geniş küme R olur.
+
+
+Grafiği verilen h fonksiyonu X=a nok-
+tasında tanımlı olmasına rağmen bu noktada
+limiti olmadığından fonksiyon X=a apsisli
+noktasında sürekli değildir. Bu durumda fonksi-
+yonun sürekli olduğu en geniş küme olur.
+
+Grafiği verilen t fonksiyonu X = a apsisli
+noktada tanımlı olmadığından a değeri fonk-
+siyonun sürekli olduğu en geniş kümenin bir
+elemanı olamaz. Bu durumda fonksiyonun
+sürekli olduğu en geniş küme olur.
+
+SONUÇ:
+
+f(X) bir fonksiyon olsun. a EA olmak
+üzere
+
+lim+ f(X):f(a) ise f fonksiyonu X 221
+
+noktasında sağdan süreklidir.
+
+lim f(X)=f(a) ise f fonksiyonu Xza
+nokctâğında soldan süreklidir.
+
+[a,b] nda tanımlı bir fonksiyon (ab) nda
+sürekli, X 2& noktasında sağdan sürekli, X=b
+apsisli noktasında soldan sürekli ise f fonksi-
+yonu [a,b] nda süreklidir.

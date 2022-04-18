@@ -1,0 +1,83 @@
+MATEMATİK-FONKSİYONLARDA UYGULAMALAR
+
+
+
+PARABOLÜN TEPE NOKTASI
+
+y=aX +bX+C fonksiyonunun grafiğinin tepe noktasının
+
+koordinatları T(r,k) olmak üzere
+
+MAKSİMUM VE MİNİMUM NOKTALARI
+
+olur.
+
+ 
+
+   
+
+ 
+
+fnin minimum noktası
+
+ 
+
+A 9 [R olmak üzere f î A -> R bir fonksiyon olsun.
+> Her XGA için f(x)sf(p) olacak
+şekilde bir pe A sayısı varsa (p,f(p)) noktasınaf
+nin maksimum noktası, f(p) ye nin maksimum
+değeri denir.
+> Her X6 A için f(x)Zf(t) olacak şekilde bir te A
+sayısı varsa (t,f(t)) noktasına f nin minimum nok-
+
+tası, f(t) ye f nin minimum değeri denir.
+FONKSİYON DÖNÜŞÜMLERİ
+
+TEK VE ÇİFT FONKSİYONLARIN GRAFİKLERİNİN SİMETRİ
+ÖZELLİKLERİ
+> Çift fonksiyonların grafikleri y eksenine göre
+simetriktir.
+> Tek fonksiyonların grafikleri orijine göre simetriktir.
+
+f (X) +b fonksiyonunun grafiğinde;
+> b>0 ise f(X) fonksiyonunun grafiği b birim
+yukarı,
+
+> b<0 ise f(X) fonksiyonunun grafiği lbl birim
+aşağı ötelenerek y : f (X) + b fonksiyonunun
+grafiği elde edilir.
+f (X - a) fonksiyonunda;
+> a >Ü ise f(X) fonksiyonun grafiği a birim sağa,
+> a<0 ise f(X) fonksiyonu lal birim sola
+ötelenir.
+ORTALAMA DEĞİŞİM HIZI
+> Hava şartları, bir bitkinin büyümesini olumlu ya
+da olumsuz yönde etkiler. Buna göre bir bitkinin
+büyüme hızının birim zamandaki değişimi farklılık
+gösterir.
+> Bir aracın otoyolda belirli bir süre sabit bir hızla
+ilerlediği varsayılsın. Bu aracın deposunda bulunan
+yakıtın miktarındaki azalma hızının birim zamandaki
+değişimi sabit kalır.
+Bir nesnede birim zamanda meydana gelen değişimler (artma,
+azalma vb.) ortalama değişim hızı olarak adlandırılır.
+Fonksiyonların belli bir aralıktaki ortalama değişim hızı
+hesaplarken;
+
+ 
+
+y= f(X) fonksiyonunun [xl ,x2] nda ortalama değişim hızı
+
+olarak tanımlanır.
+AX X2-X1
+
+AX :A dan B ye x değerindeki değişim
+
+Ay : A dan B ye y değerindeki değişim
+
+> Doğrusal fonksiyonların herhangi bir aralıktaki ortalama
+değişim hızı sabittir ve doğrunun eğimine eşittir.
+
+[xı ,962] nda ortalama değişim hızı A(X1,f(X1)) ve
+
+B(X2, f(X2)) noktalarından geçen kesenin eğimine eşittir.

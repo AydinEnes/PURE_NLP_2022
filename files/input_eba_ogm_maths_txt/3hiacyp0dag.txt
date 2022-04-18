@@ -1,0 +1,29 @@
+MATEMATİK-ÜSTEL VE LOGARİTMİK FONKSİYONLAR-
+
+ 
+
+Tabanı 10 olan Iogaritma fonksiyonuna onluk
+Iogaritma fonksiyonu veya bayağı Iogaritma
+fonksiyonu denir.
+
+
+biçiminde gösterilir.
+
+e = 2,718281828459... şeklinde bir irrasyonel
+sayıdır.
+
+e sayısı başta matematik ve ekonomide
+bileşik faiz hesaplamalarında olmak üzere
+birçok bilim dalında sıklıkla kullanılmaktadır.
+e sayısını Leonhard EULER (Leonard Öyler)
+bulmuştur.
+
+DOĞAL LOGARİTMA FONKSİYONU
+
+Tabanı e irrasyonel sayısı olan Iogaritma
+fonksiyonuna doğal Iogaritma fonksiyonu
+denir.
+
+
+biçiminde gösterilir ve
+

@@ -1,0 +1,63 @@
+MATEMATİK - POLİNOM KAVRAMI VE POLİNOMLARLA İŞLEMLER
+
+ 
+
+SABİT POLİNOM
+a, sıfırdan farklı bir gerçek sayı olmak üzere
+P(x)za, ise P(x) polinomuna sabit polinom denir.
+Sabit polinomun derecesi sıfırdır.
+
+
+ polinomları birer sabit polinomdur.
+
+polinomuna sıfır polinomu denir.
+Sıfır polinomunun derecesi belirsizdir.
+
+EŞİT POLİNOMLAR
+
+Dereceleri aynı ve aynı dereceli terimlerinin katsayıları
+karşılıklı olarak
+eşit olan polinomlara eşit polinomlar denir.
+
+
+
+polinomları birbirine eşit ise
+
+olmalıdır.
+
+POLİNOMLARLA TOPLAMA VE ÇIKARMA İŞLEMLERİ
+
+Polinomlarla toplama ya da çıkarma işlemleri yapılırken
+dereceleri aynı olan terimlerin katsayıları toplanır ya da
+çıkarılır.
+
+olmak üzere polinomunun bir terimi
+
+polinomunun bir terimi ise
+
+ polinomunun bir terimi
+
+
+ polinomunun bir terimi
+
+ olur.
+
+Bir  polinomunun derecesi n ise bu durumda 
+ şeklinde gösterilir.
+
+Dereceleri farklı olan iki polinomun toplamının veya
+
+farkının derecesi; derecesi büyük olan polinomun
+derecesine eşittir.
+
+POLİNOMLARLA ÇARPMA İŞLEMİ
+
+P(x) ve O/x) birer polinom olmak üzere
+işlemi yapılırken
+
+P(x) polinomunun her terimi ,polinomunun
+her terimiyle çarpılır ve elde edilen ifadelerin cebirsel
+toplamı x değişkeninin azalan ya da artan kuvvetlerine
+göre sıralanarak yazılır. 
+ olur.
+

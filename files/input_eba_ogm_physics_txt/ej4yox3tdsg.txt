@@ -1,0 +1,160 @@
+
+FİZİK - SU DALGALARINDA KIRILMA -
+
+1) Derinliği şekildeki gibi kaynaktan uzaklaştıkça azalan bir dalga
+leğenindeki dalga kaynağı sabit f
+
+ 
+
+Su Dalgalarında Kırılma: Yay dalgalarında n yarıklı bir stroboskop için
+
+olduğu gibi su dalgalarında da ortamın özel- o Dalga ff —n.f
+likleri değiştikçe su dalgalarının hızı değişir. kaynağı |! Yarık Stroboskop
+Su dalgalarının hızı sadece ortamın derinliği- olur. Bu nedenle
+ne bağlıdır. Ortamın derinliği arttıkça su dal
+
+Dalga Stroboskop
+
+galarının hızı da artar. Su dalgalarının hızının
+
+arttığı ortamda dalga boyu da artar. ifadesiyle dalganın frekansı bulunur.
+
+Su Dalgalarında Kırılma: Su dalgaları,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+derinlikleri farklı ortamların ayırıcı yüzeyine
+Dalga paralel gelirse doğrultularını değiştirmeden
+kaynağı diğer ortama geçer. Derin ortamdan sığ
+ortama geçen doğrusal su dalgalarının hızları
+Sığ ortam Dalga azalır. Dalgaların frekansları değişmediği ve
+kaynağı g4 hızları azaldığı için dalga boyları küçülür.
+Derin ortam 
+Derin ortam ' Sığ ortam
+Su :
+İlerleme yönü 
+As Su dalgalarının hızı sadece ortamın derinliğine bağlıdır. Su dalgalarının frekansı sadece 
+Dalga d, kaynağa bağlıdır. Bu değişikliklerden dalga 
+kaynağı boyuetkilenir'
+
+,Ayırıcı yüzey
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gelen su dalgalarının ilerleme doğrultusu-
+nun ayırma yüzeyinin normali ile yaptığı açıya
+gelme açısı (i), kırılan su dalgalarının ilerleme
+doğrultusunun ayırma yüzeyinin normali ile
+yaptığı açıya da kırılma açısı (r) denir.
+
+Gelen P
+
+Sığ doğrusal Normal Derin
+su :
+
+ortam 7 ortam
+
+
+Derin ortam Sığ ortam A:fv
+Ortam derinliği azaldıkça dalgaların hızı Stroboskop: Dalga
+azalır ve dalga boyu küçülür. leğeninde oluşturulan
+7 | su dalgaları hareketli
+olduklarından frekans Dalgalarını ölçmek için dalgaların
+
+kaynağı
+
+duruyormuş gibi görülmesi
+gerekir. Dalgaların duruyormuş 
+gibi algılanmasını sağlamak için
+kullanılan, üzerinde eşit aralıklarla
+yarıklar bulunan ve kendi ekseni etrafında döndürülebilen deney aletine
+
+  
+   
+     
+
+
+Ayırıcı
+yüzey
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+stroboskop denir. in den yüzey 
+Ri NN Stroboskop kendi ekseni etrafında Kırılan 
+döndürülerek üzerindeki yarıkların doğrusal su Kırıl
+dalga frekansı ile dalgaların frekansı eşitÇi doğrusal su o
+kaynağı lenmeye çalışılır. Frekanslar eşitlendi dalgaları “Sığ ortam
+ğinde dalgalar duruyormuş gibi 
+Sulanır ve böylece dalga boyu ölçülür. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+frekanslı dalgalar oluşturuyor.
+
+     

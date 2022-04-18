@@ -1,0 +1,57 @@
+MATEMATİK - BİR KARMAŞIK SAYININ  BİÇİMİNDE İFADE EDİLMESİ
+
+ 
+
+İKİNCİ DERECEDEN BİR BİLİNMEYENLİ DENKLEMLER
+BİR KARMAŞIK SAYININ  BİÇİMİNDE İFADE
+EDİLMESİ
+
+olmak üzere denkleminde
+
+ ise bu denklemin R de (gerçek sayılarda çözüm kümesi yoktur.
+
+ise bu denklemin gerçek sayılar kümesini de kapsayan yeni bir sayı kümesine ihtiyacı vardır. Bu yeni sayı kümesine
+karmaşık sayılar kümesi denir ve karmaşık sayıların kümesi C ile
+gösterilir.
+
+
+
+ sayı birimi  olmak üzere şeklindeki sayılara karmaşık sayılar, bu sayıların oluşturduğu kümeye ise karmaşık sayılar kümesi
+denir ve C sembolü ile gösterilir. Karmaşık sayılar kümesi
+
+şeklindedir.
+
+
+
+imajiner kısım 
+
+gerçek kısım 
+
+ 
+
+Her gerçek sayı aynı zamanda bir karmaşık sayıdır, Re C olur.
+N—İ —i sayısına sanal sayı birimi denir.
+1 SANAL SAYI BİRİMİNİN KUVVETLERİ
+
+
+
+
+
+şeklinde devam eder. Bu döngü her 4 seferde bir başa döner.
+
+KARMAŞIK SAYININ EŞLENİĞİ
+
+olmak üzere karmaşık sayısının sanal
+kısmının işareti değiştirilerek oluşturulan  karmaşık sayısına abi karmaşık sayısının eşleniği denir ve ile gösterilir.
+
+ÖRNEK:
+
+karmaşık sayısının eşleniği olur.
+
+NOT:  
+ikinci dereceden bir bilinmeyenli denkleminde ise denklemin sanal kökleri vardır.
+
+ ise denklemin sanal köklerinden biri a -bi karmaşık sayısı olduğunda diğer sanal kök bu kökün eşleniği yani
+
+ karmaşık sayısı olur.
+

@@ -1,0 +1,81 @@
+FİZİK - ENERJİ İLETİM YOLLARI VE ENERJİ İLETİM HIZI -
+
+ 
+
+Enerji İletim Yolları: Isının; sıcaklıkları farklı, etkileşim hâlindeki sistemler arasındaki
+iletimi, maddenin cinsine fiziksel hâline göre
+değişiklik gösterir.
+
+Isının İletim Yolu ile Transferi: Moleküllerin birbirlerine çarparak zincirleme olarak
+enerjiyi aktarmalarına iletim yoluyla ısı transferi denir. Isı transferi sıcaklık farkı bulunan
+iki madde arasında gerçekleşiyorsa sıcak
+maddeden soğuk maddeye doğru gerçekleşir. Yemek karıştırırken metal kaşığın sapının
+sıcaklığının artması iletim yoluyla ısı aktarımından kaynaklanır.
+
+Bir madde ısıtıldığında önce ısı kaynağına
+yakın olan atom ve moleküller enerji alır ve
+titreşimleri artar. Bu tanecikler yakınlarındaki taneciklere çarpar ve onların da enerji
+kazanarak titreşmesini sağlar. Bu şekilde ısı
+enerjisi maddenin bir ucundan diğer ucuna
+kadar iletilmiş olur. Sıcak su dolu bardağa
+soğuk metal bir kaşık konulduğunda başlangıçta soğuk
+olan kaşığın sap kısmı, bir
+süre sonra Isınır ve tutulamayacak hâle gelebilir. Bunun sebebi ısının kaşığın bir
+ucundan sapına kadar iletim
+yolu ile yayılmasıdır.
+
+Isının iletim yolu ile yayılması, birbirine çok yakın olan madde atom ve moleküllerinin titreşim
+hareketini birbirine aktarması ile gerçekleşmektedir. Ancak taneciklerin birbirine
+çok yakın olduğu, katı hâldeki maddelerde
+gerçekleşir. Isı iletimi katı maddeler için ayırt
+edici bir özelliktir. Sıvı ve gaz hâldeki maddelerde ısının iletim yoluyla taşınması, ihmal
+edilecek kadar düşük olur.
+
+Isının Konveksiyon Yolu ile Transferi:
+Konveksiyon; sıcaklığı yükselen maddenin,
+aldığı ısıyı, özkütle farkı nedeniyle madde
+akışı yoluyla taşıması olayıdır. Isının konveksiyon yoluyla iletimi ısı enerjisi yüksek
+taneciklerin düşük taneciklerle yer değiştirmesi şeklinde gerçekleşir. Bu olayın sebebi,
+sıcaklığı artan madde moleküllerinin hacminin genişlemesi ve bunun sonucunda da
+özkütlelerinin azalmasıdır.
+
+Atmosferdeki havanın alttan yukarı doğru ısınması, kalorifer radyatöründe yukarı
+yönlü sıcak hava akımı oluşması, ısıtılan su
+içinde döngü oluşması konveksiyon yoluyla
+ısı taşınması nedeniyledir.
+
+Sıcak çayın soğuma sebebi çevresiyle yaptığı ısı alışverişidir. Çevresine göre daha sıcak
+olan çaydan bardağa, bardaktan da havaya
+iletim yolu ile ısı akışı gerçekleşir. Çayı çevreleyen ve ısı alarak genleşen hava yükselir. Yükselen havanın yerini daha
+soğuk, daha yoğun hava alır. Bu alışveriş,
+çayın sıcaklığı çevresiyle eşit oluncaya yani
+çay soğuyuncaya kadar devam eder.
+
+Isının Işıma Yolu ile Transferi: Isının iletim
+ve konveksiyon yolu ile taşınması için maddesel ortama ihtiyaç vardır. Isı enerjisinin
+ışınlarla dalgalar hâlinde yayılması olayına
+ışıma ya da termal ışıma denir. Sıcaklığı mutlak donma noktasından (-273,169C) yüksek
+olan her varlık ışıma yapar. Bu ışımalar elektromanyetik spektrumda kızılötesi bölgesine
+karşılık gelir ve bu bölgedeki ışımalar gözle
+algılanamaz. Işımanın şiddeti, ışıma yapan
+cismin sıcaklığıyla doğru orantılıdır.
+
+Isının, ışıma yolu ile yayılması için hava ya
+da su gibi maddesel bir ortama ihtiyaç yoktur. Bu nedenle ısı ışıma yolu ile boşlukta da
+yayılabilir. Dünya, Güneş'in yaptığı ışımalar
+sayesinde ısınmaktadır ve Güneş, Dünya üzerindeki yaşamın temel enerji kaynağıdır.
+
+Katı Maddelerde Enerji İletim Hızı: Isı
+iletim hızı ya da enerji iletim hızı bir maddede birim zamanda aktarılan ısı miktarıdır. Isı
+iletkenliği ya da ısı iletim katsayısı maddenin
+ısıyı ne kadar iyi iletebildiğini gösteren bir
+özelliktir. Isı iletim hızını etkiler. Isı enerjisi,
+sıcaklığı yüksek olan sistemden
+düşük olan sisteme doğru akar.
+Kendiliğinden gerçekleşen
+bu durum, kimi zaman hayatı
+kolaylaştırırken kimi zaman
+zorlaştırmaktadır. Katı maddelerde ısı iletim hızı, maddede
+ısının iletildiği yüzeyin alanına,
+kalınlığına, iki yüzey arasındaki
+sıcaklık farkına, maddenin cinsine bağlıdır.

@@ -1,0 +1,76 @@
+FİZİK - MEKANİK ENERJİ -
+
+ 
+
+İş ile Enerji Arasındaki İlişki: Günlük hayatta işin yapılması için enerjiye
+ihtiyaç vardır.
+
+* Nefes alma
+
+* Kalbin kan pompalaması
+
+* Isınmak
+
+* Seyahat etmek
+
+Enerji en genel tanımı ile iş yapabilme yeteneğidir. Cisim üzerinde iş
+yapıldığında cisme enerji aktarılır.
+
+W—AE
+
+Cisimlerin hareketinden dolayı sahip oldukları enerji, kinetik enerji
+olarak adlandırılır. Cismin hareketi öteleme şeklindeyse bu enerjiye
+öteleme kinetik enerjisi adı verilir.
+
+Öteleme kinetik enerjisi cismin kütlesi ve hızına bağlı bir niceliktir.
+SI'daki birimi Joule 'dür.
+
+Kinetik enerjinin matematiksel modeli
+
+1
+KE--mw?
+2
+şeklindedir.
+
+Potansiyel Enerji, Fizik biliminde kullanıma hazır enerji olarak
+tanımlanır.
+
+Yer Çekimi Potansiyel Enerjisi
+
+ 
+
+AN
+A
+
+P Hareket
+Yönü
+” |
+Hareket h h
+Yönü DOLİ. a
+
+5
+mg
+
+Yer çekimine karşı yapılan iş O Yer çekiminin yaptığı iş
+
+Yer çekimi potansiyel enerjisi PE ile ifade edilir. SI'daki birimi Joule dür.
+
+Matematiksel modeli
+PE-zm:-g:-h şeklindedir.
+
+Esneklik Potansiyel Enerjisi
+
+Cismin potansiyel enerjisi
+hesaplanırken bir referans noktası
+seçilir. Cismin bulunduğu yer ile
+referans noktası arasındaki yükseklik
+farkına bakılır.
+
+Bir kuvvet etkisinde şekli
+değiştirilen ve kuvvet ortadan
+kaldırıldığında tekrar eski haline geri
+dönebilen cisimlere esnek cisim denir.
+
+Yay gibi esnek sistemler
+gerildiğinde ya da sıkıştırıldığında
+potansiyel enerji kazanır.

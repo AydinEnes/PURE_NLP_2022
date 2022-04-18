@@ -1,0 +1,139 @@
+MATEMATİK-DİK DAİRESEL KONİ ALAN VE HACİM BAĞINTILARI-
+
+ 
+
+Bir düzlem üzerinde kapalı bir k eğrisi
+ve düzlemin dışında bir T noktası verilmiş
+olsun.
+
+T noktasından geçen ve k eğrisini kesen
+doğruların kümesine konisel yüzey denir.
+
+     
+  
+
+tepe noktası (T)
+
+ana doğru
+
+dayanak _eğrisi .(k)
+
+konisel yüzel
+
+» k eğrisine konisel yüzeyin dayanak
+eğrisi,
+
+» T noktasına konisel yüzeyin tepe
+noktası denir.
+
+» T noktasından geçen doğruların her
+birine konisel yüzeyin ana doğrusu denir.
+
+Konisel yüzey bir düzlemle kesildiğinde
+tepe noktası ile kesit arasında kalan cisme
+koni denir.
+
+  
+
+ana doğru
+
+parçaları
+
+dayanak eğrisi
+
+Düzlemsel kesite koninin tabanı, tepenin
+tabana olan uzaklığına koninin yüksekliği
+denir.
+
+Tepeden tabana indirilen dikme, tabanın
+ağırlık merkezinden geçiyorsa bu tür
+konilere dik koni, tabanı daire olan dik
+koniye dik dairesel koni denir.
+
+Şekildeki koni, T
+
+ 
+ 
+   
+ 
+
+ana doğru parçası
+
+eksen
+
+taban yarıçapı B
+H [AB] tabanın bir çapı olmak üzere
+(T,AB) biçiminde gösterilir.
+
+» Koninin tepe noktasından ve tabanın
+ağırlık merkezinden geçen doğruya
+koninin ekseni denir.
+
+» Koninin ana doğru parçalarının
+uzunlukları eşittir.
+
+Dik dairesel koniye dönel koni de denir.
+
+Dönel koni, bir
+dik üçgenin
+
+bir dik kenarı
+etrafında 360°
+döndürülmesiyle
+oluşan konidir.
+
+ 
+
+Şekilde görüldüğü
+gibi bir koni, tepe
+noktasından ve
+tabandan geçen
+bir düzlemle
+kesildiğinde
+oluşan kesit
+ikizkenar üçgendir.
+
+KONİNİN YÜZEY ALANI
+
+Koni yüzeyi, yanal yüzey ve taban yüzeyi
+olmak üzere iki bölümden oluşur.
+
+ 
+ 
+  
+
+Taban
+yarıçapı r,
+ana doğru
+parçasının
+uzunluğu
+13 olan bir
+koninin
+açınımı
+aşağıdaki
+şekildedir.
+
+H Koninin yanal yüzeyi, merkez açısı OL ve
+yarıçapı 1! olan bir daire dilimidir.
+
+» Koninin tabanı, yarıçapı r olan bir
+dairedir.
+
+Koninin taban yarıçapı r, ana doğru
+parçasının uzunluğu 1! olmak üzere koninin
+yanal yüzey alanı YA=1c.r.lî ile bulunur.
+
+Koninin yüzey alanı ise
+
+A=TA+YA=nr2+n.r. 2 ile bulunur.
+
+Kenar sayısını (n) artırdığınızda piramidin
+tabanı çokgenden daireye; piramit, koniye
+dönüşecektir.
+
+   
+
+Piramidin hacmi, piramidin taban alanı
+ile yüksekliğinin çarpımının 1/3 i olduğun-
+dan taban dairesinin yarıçapı r ve yüksekliği
+h olan bir koninin hacmi;

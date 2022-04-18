@@ -1,0 +1,140 @@
+MATEMATİK-ÇEMBERİN ANALİTİK İNCELENMESİ-
+
+ 
+
+ANALİTİK GEOMETRİ
+ÇEMBERİN ANALİTİK İNCELENMESİ
+
+Çember
+B Düzlemde sabit bir noktadan eşit
+uzaklıkta bulunan noktaların küme-
+C sine çember denir. Sabit noktaya
+çemberin merkezi, çember üzer-
+A indeki herhangi bir noktanın çem-
+
+berin merkezine olan uzaklığına ise
+çemberin yarıçapı denir.
+
+Merkezi Ve Yarıçapı Verilen Çemberin Standart
+
+Denklemi
+y Analitik düzlemde M(a, b) mer-
+AL
+P(x,y) kezli ve r yarıçaplı çember üze-
+rinde bir P(x, y) noktası alınırsa
+
+ 
+
+ 
+
+b M(a,b) merkezi ve yarıçapı verilen çem-
+berin standart denklemi
+
+
+BAZI ÖZEL ÇEMBERLERİN DENKLEMLERİ
+
+1) Merkezi Orijinde Olan Çemberin
+Denklemi
+
+Merkezi orijinde ve yarıçapı
+
+r birim olan çemberin standart
+X denklemi
+
+x2 + y2 = r2 şeklindedir.
+
+ 
+
+2) Merkezi X Ekseni Üzerinde Olan
+Çemberin Denklemi
+
+Çemberin yarıçapı r birim
+ise bu çemberin standart
+denklemi
+şeklindedir.
+
+ 
+
+3) Merkezi Y Ekseni Üzerinde Olan
+Çemberin Denklemi
+
+Çemberin yarıçapı r birim
+ise bu çemberin standart
+denklemi
+
+X2+ (y - b)2= r2 şeklindedir.
+
+ 
+
+4) y EKSENİNE TEĞET OLAN ÇEMBERİN
+DENKLEMİ
+
+Çemberin standart denklemi
+M(a.b) K (x-a)2+ (y-b)2= az
+şeklindedir.
+
+ 
+
+ 
+
+î
+
+5)x Eksenine Teğet Olan Çemberin Denklemi
+
+ 
+
+ 
+
+ 
+
+4)( Çemberin standart denklemi
+w-ar+w-br=w
+b M(a b) şeklindedir.
+Ibl=r
+0 a ;x
+
+ 
+
+6)Her İki Eksene De Teğet Olan Çemberin Denklemi
+Çember her iki eksene de teğet ise r =|a|=|b| olur. Bu du-
+rumda eksenlere teğet olan çemberlerin merkezleri y = x
+veya y = -x doğruları üzerinde olacaktır.
+
+ 
+
+ 
+
+Eğer çemberin merkezi;
+
+I. bölgede ise (X - r)2+ (y - r)2= rZ
+
+Il. bölgede ise (x + r)2+ (y - r)2= F2
+
+III. bölgede ise (x + r)2+ (y + r)2= r2
+
+IV. bölgede ise (x - r)2 + (y + r)2= r2 şeklindedir.
+
+ÇEMBERİN GENEL DENKLEMİ
+
+M(a,b) ve yarıçapı r birim olan çemberin standart denklemi
+(x - a)2+ (y - b)2 = r2 şeklindedir.
+. .. . . D E
+Bu ıfade açılıp duzenlenırse merkezı M (- :,-:) ve yarıçapı r
+birim olan çemberin genel denklemi
+
+
+
+Burada çemberin yarıçapı r= ile bulunur.
+
+SONUÇ
+
+D2 + E2 - 4F ifadesi için aşağıdaki durumlar vardır.
+. D2 + E2 - 4F > 0 ise verilen denklem bir çember belirtir.
+- D2 + E2 - 4F = 0 ise verilen denklem bir nokta belirtir.
+Bu nokta M (- ğ-ğ) noktasıdır.
+
+. D2 + E2 - 4F < 0 ise verilen denklem gerçek sayılar
+
+kümesinde bir çember belirtmez.
+
+ 

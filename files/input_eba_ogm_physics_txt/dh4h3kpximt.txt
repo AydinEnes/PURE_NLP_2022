@@ -1,0 +1,66 @@
+FİZİK - KALDIRMA KUVVETİ - 
+ 
+
+Sıvı içine bırakılan bir cisme, yerini değiştirdiği sıvının ağırlığı
+kadar kaldırma kuvvveti etki eder.
+
+e * ; a V
+Kaldırma Sıvı Yer Değiştiren Yerçekimi
+Kuvveti Özkütlesi Sıvı Hacmi İvmesi
+(N) (kg/m?) (m3) (N/kg)
+
+ 
+
+ 
+
+Kaldırma kuvveti sıvı basınç
+kuvvetleri farkı sonucu oluşur.
+
+Sıvı içinde batmayan cisme etki eden kaldırma kuveti, sıvının
+
+miktarına bağlı değildir.
+X
+
+  
+
+1 2 3
+
+Sıvı içinde askıda kalan cisme etki eden kaldırma kuvveti
+cismin derinliğine bağlı değildir.
+
+1 2 3
+
+Sıvı içinde askıda kalan cisimlere etki eden kaldırma kuvveti
+cismin şekline bağlı değildir.
+
+ 
+
+Kaldırma kuvveti cismin sıvı içindeki geometrik merkezine
+etki eder.
+
+ 
+
+ 
+
+KAPTAKİ AĞIRLAŞMA DURUMLARI
+
+Taşma seviyesine kadar sıvı
+dolu kaba sıvıda erimeyen bir Fk g”
+cisim bırakıldığında kaptan sıvı
+taşar. Cisim ve sıvının özkütlesine
+göre kapta ağırlık değişimi
+olabilir. Kaba özkütlesi sıvının
+özkütlesinden büyük bir cisim
+bırakılırsa kabın ağırlığı artar. Bir kapta ağırlaşma olup olmayacağı
+kaba eklenen ağırlık ve kaptan çıkan ağırlığın farkı kadardır.
+
+   
+
+bırakıyor ve Şekil 11 deki
+durumu gözlüyor. Aynı
+yumurtayı 3 hafta sonra suya
+bıraktığında Şekil Ill' teki
+durum gözleniyor. Deneyi
+aynı yumurta ile 2 ay sonra
+tekrar ettiğinde ise Şekil IV”
+teki durumu gözlüyor.

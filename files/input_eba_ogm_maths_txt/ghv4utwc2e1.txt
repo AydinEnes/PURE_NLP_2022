@@ -1,0 +1,10 @@
+MATEMATİK-DİZİLERLE İLGİLİ KARMA ÖRNEKLER-
+
+ 
+
+ 
+
+Fibonacci Dizisi
+
+İlk iki terimi 1 ve bundan sonraki her terimi k < p için ap : 2 k olur. 
+ARİTMETİK DİZİLER VE ÖZELLİKLERİ 

@@ -1,0 +1,41 @@
+MATEMATİK DİK ÜÇGEN VE TRİGONOMETRİ
+
+ 
+
+ÜÇGENLER
+DİK ÜÇGEN VE TRİGONOMETRİ, PİSAGOR TEOREMİ
+
+Bir açısının ölçüsü 90 derece
+olan üçgene dik üçgen denir.
+Dik üçgende ölçüsü 90 derece
+olan açının karşısındaki kenara
+hipotenüs, diğer kenarlara dik
+kenar adı verilir. 
+
+
+
+Bir dik üçgende dik
+kenarların uzunluklarının
+kareleri toplamı hipotenüs A Dik kenar Cc
+uzunluğunun karesine eşittir. b
+
+a-b'*e olur.
+
+KENARLARI TAM SAYI OLAN ÖZEL DİK ÜÇGENLER
+
+
+
+ÖKLİD TEOREMİ
+
+Bir dik üçgende dik
+açının olduğu köşeden
+karşı kenara indirilen
+dikme için
+
+
+
+özdeşlikleri vardır.
+Bu eşitliklere Öklid Teoremi denir.
+
+ 
+

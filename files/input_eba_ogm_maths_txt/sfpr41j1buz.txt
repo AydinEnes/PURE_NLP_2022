@@ -1,0 +1,27 @@
+MATEMATİK - KONU SAYMA VE OLASILIK BİNOM AÇILIMI — Il
+
+
+
+Pascal üçgeni, matematikte  katsayılarını içeren üçgensel bir dizidir.
+
+
+
+Bu eşitliğe Pascal özdeşliği denir
+
+
+ olur.
+Pascal Üçgeni ve Binom Açılımı
+
+olmak üzere
+ifadesinin x in azalan kuvvetlerine göre
+açılımındakin çift sayı ise 
+
+açılımında , ortadaki terim bulunurken
+
+alınır. n, tek sayı ise terim sayısı  tane, yani çift
+sayıda olacağından “ortadaki terim” olmayacaktır.
+
+ 
+
+ 
+

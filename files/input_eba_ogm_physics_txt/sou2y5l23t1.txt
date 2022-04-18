@@ -1,0 +1,27 @@
+FİZİK - VOLTMETRE AMPERMETRE -
+
+ 
+
+ 
+
+Bir iletkenin iki ucu faydalanılır. Voltmetreler Bir iletken üzerinden Ampermetreler iletkene
+arasındaki potansiyel farkını | iletkene paralel bağlanır, geçen akım şiddetini ölçmek ( seri bağlanır, ideal
+ölçmek için voltmetre ideal voltmetrenin iç direnci (o için ampermetre denilen ampermetrenin iç direnci
+denilen araçlardan sonsuz kabul edilir. araçlardan faydalanılır. sıfır kabul edilir.
+
+Ornek Sorular: 2. Şekildeki devre parçasında 3. İç direnci önemsiz üreteçle
+1. İç direnci önemsiz üreteç, ideal ampermetrelerin KU ulmuş şekildeki devrede
+ampermetreler ve ideal voltmetre  değerler sırayla I, ve vo Çz erin gösterdiği değerler
+ile şekildeki elektrik devresi 
+kuruluyor. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

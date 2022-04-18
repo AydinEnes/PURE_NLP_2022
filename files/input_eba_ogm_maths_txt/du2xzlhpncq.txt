@@ -1,0 +1,91 @@
+MATEMATİK-FONKSİYONLARDA UYGULAMALAR-
+
+ 
+
+ 
+
+FONKSİYONUN GRAFİK VE TABLO TEMSİLİNİ
+KULLANARAK PROBLEM ÇÖZME
+
+y = f(x) = ax +b ŞEKLİNDEKİ FONKSİYONLARIN GRAFİKLERİ İLE İLGİLİ
+UYGULAMALAR
+
+Bir bitkinin boyunun zamana göre değişimi, bir aracın yakıt tüketimi, bir
+ürünün alış ve satış fiyatı arasındaki ilişki vb. Olmak üzere y =ax+b
+şeklindeki fonksiyonların grafikleri ile ifade edilebilir.
+
+FONKSİYON GRAFİĞİNİN EKSENLERİ KESTİĞİ NOKTALAR
+
+Polinom fonksiyonların grafiği x veya y eksenini en az bir noktada keser.
+Analitik düzlemde bir fonksiyon grafiğinin eksenleri kestiği noktalar aşağıdaki
+şekillerde bulunur.
+
+> Koordinat sisteminde x ekseni üzerindeki noktaların ordinatları sıfır
+olduğundan bir fonksiyonun grafiğinin x eksenini kestiği noktayı
+bulmak için fonksiyonda y yerine sıfır yazılır ve x değeri veya
+değerleri bulunur.
+
+> Benzer şekilde y ekseni üzerindeki noktaların apsisleri sıfır
+olduğundan fonksiyonun grafiğinin y eksenini kestiği noktayı
+bulmak için fonksiyonda x yerine sıfır yazılır ve y değeri bulunur.
+
+y FONKSİYONUN POZİTİF
+VE NEGATİF OLDUĞU
+ARALIKLAR
+
+Verilen grafikte x1<a ve
+b<X3 <c için sırasıyla
+
+x f(Xl) ve f(X3)
+değerleri pozitiftir.
+
+ 
+
+Grafiğin x ekseninin
+üst kısmında kalan
+bölümlerinde her x değeri
+
+ 
+
+için f(X)>0 olur.
+
+Böylece f(x) fonksiyonunun pozitif değer aldığı aralıkların (-oo,a) ve
+(b,c)olduğu görülür.
+
+Grafikte a<X2<b ve C<X4 için sırasıyla f(X2) ve f(X4) değerleri
+negatiftir.
+
+y=f(x) fonksiyonunun grafiğinin x ekseninin altında kalan bölümlerinde
+her x değeri için f(X)<O Olur.
+
+Böylece f(X) fonksiyonunun negatif değer aldığı aralıkların (a,b) ve
+(C,oo) Olduğu görülür.
+
+Fonksiyonun grafiğinin x eksenini kestiği a, b, c noktaları f(X)=0
+denkleminin kökleridir.
+
+ARTAN VE AZALAN FONKSİYONLAR
+AcR,BcAvef:A-›1R
+
+olacak şekilde birf
+fonksiyonu verilsin.
+
+Bu durumda her
+XI ,X2 G B için
+X1< x2
+
+ 
+
+ 
+
+olduğunda
+f(X1)<f(X2) Olursaf
+fonksiyonuna B de artan
+fonksiyon denir.
+
+Her X1,X2 G B için X1< x2 olduğunda
+
+f(X1)>f(X2) olursa ffonksiyonuna B de azalan fonksiyon denir.
+
+ 
+

@@ -1,0 +1,81 @@
+MATEMATİK-İKİNCİ DERECEDEN İKİ BİLİNMEYENLİ DENKLEM SİSTEMLERİ İLE İLGİLİ ÖRNEKLER-
+
+ 
+
+DENKLEM VE ESITSIZLIK SISTEMLERI
+› İKİNCİ DERECEDEN İKİ BİLİNMEYENLİ DENKLEM
+SİSTEMLERİ iLE İLGİLİ ÖRNEK SORULAR
+
+› BİRİNCİ DERECEDEN İKİ BİLİNMEYENLİ DENKLEM SİSTEMİ
+
+SORULAR
+
+ 
+
+3,1), c e R; 3 ve b sıfırdan
+farklı, x ve y değişkenler olmak
+üzere ax+by+c :O denklemi
+birinci dereceden iki bilinmeyenli
+denklemdir.
+
+Birinci dereceden iki bilinme-
+yenli en az iki denklemin oluştur-
+duğu sisteme birinci dereceden
+iki bilinmeyenli denklem sistemi
+denir.
+
+Örnek:
+
+2x+ 4y :7
+
+3x _5y :8 denklemlerinin
+oluşturduğu sistem birinci dere-
+ceden iki bilinmeyenli denklem
+sistemidir.
+
+İKİNCİ DERECEDEN İKİ
+
+BİLİNMEYENLİ DENKLEM
+
+SİSTEMLERİ
+
+a,b,c,d,e,f E JRve a, b, c
+reel sayılarından en az İki-
+si sıfırdan farklı olmak üzere
+aX2+bxy+cy2 +dx+ey+f=0
+şeklindeki ifadelere ikinci
+dereceden iki bilinmeyenli bir
+denklem denir.
+
+İki bilinmeyenli en az iki denk-
+Iemden oluşan sistemin denk-
+lemlerinden en az birİ İkinci de-
+receden denklem ise bu sisteme
+ikinci dereceden iki bilinmeyenli
+denklem sistemi denir.
+
+Denklemlerin ortak çözüm kü-
+mesi denklem sisteminin çözüm
+kümesidir.
+
+HATIRLATMA:
+
+a,b,c e Rve a±0 için ax2+bx+c :0
+ikinci derece denklemi verilsin.
+
+Bu durumda A=b2-4ac olmak
+üzere;
+> A>O ise denklemin iki
+
+farklı reel kökü vardır.
+> A: 0 ise denklemin çakışık
+
+iki reel kökü vardır.
+> A< 0 ise denklemin reel
+kökü yoktur.
+
+NOT: İkinci dereceden iki
+bilinmeyenli denklem sistemlerini
+çözerken taraf tarafa toplama
+veya yerine koyma metotlarından
+uygun olan seçilip kullanılır.

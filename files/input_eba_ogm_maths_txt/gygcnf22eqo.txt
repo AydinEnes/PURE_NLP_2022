@@ -1,0 +1,34 @@
+MATEMATİK-ARİTMETİK DİZİLER, GEOMETRİK DİZİLER-
+
+ 
+
+Ortak farkı d olan bir aritmetik geometrik dizi denir. genel terirrli
+
+dizinin ilk n terim toplamı Srı Bir (an) geometrik dizisinde al'ı :aı ~r" i ile bulunur.
+ile gösterilirse için 
+
+
+
+olur. r gerçek sayısına (an)
+geometrik dizisinin ortak
+çarpanı denir,
+
+geometrik dizisinde 15k<n
+ve ke 2* olmak üzere
+
+
+olan (an) geometrik dizisinin
+
+Ardışık terimleri arasındaki
+oran sabit olan dizilere
+
+ 
+
+Sonlu bir geometrik dizide
+baştan ve sondan eşit
+
+uzaklıkta bulunan terimlerin
+çarpımı birbirine eşittir
+
+
+dizisinde

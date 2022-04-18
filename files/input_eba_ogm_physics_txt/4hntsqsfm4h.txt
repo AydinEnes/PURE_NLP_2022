@@ -1,0 +1,189 @@
+FİZİK - HAL DEĞİŞİMİ -
+
+Erime
+ 
+
+ 
+
+Hâl Değişimi: Evrende bulunan maddeler fiziksel
+hâllerine göre katı, sıvı, gaz ve plazma olmak üzere
+dörde ayrılmaktadır. Dünya'nın yaklaşık 9071'i sıvı
+(deniz), 9629'u katı (karalar) hâldeki maddelerden
+oluşmaktadır.
+
+Yapısında çok sayıda iyon ve serbest elektron bulunduran iyonize olmuş gaz bulutuna plazma denir.
+Plazma yapılara auroralar, yıldızlar, floresan lambalar , neon ışıklandırmalar örnek olarak verilebilir.
+Evrenin ise yaklaşık 9699'luk kısmını plazma hâlindeki maddeler oluşturur. Maddelerin bulundukları
+fiziksel hâle faz denir. Maddenin bir fazdan diğer
+faza geçişi hâl değişimi olarak tanımlanmaktadır.
+
+Sıvı hâldeki bir maddenin ısı vererek katı hâle
+geçmesi olayına donma denir. Suyun buz hâline
+geçmesi örnek olarak verilebilir. Katı hâldeki bir
+maddenin ısı alarak sıvı hâle geçmesi olayına erime
+denir. Katı çikolatanın erimesi, buzun erimesi bu
+olaya bir örnektir.
+
+Sıvı hâldeki bir maddenin ısı alarak gaz hâline
+geçmesi olayına buharlaşma denir. Suyun gaz hâline geçişine verilebilecek en bilinen örneklerden biri
+çamaşırların kurumasıdır. Buharlaşma her sıcaklıkta
+gerçekleşir. Metal kaşığa soluduğumuzda kaşık
+üzerinde oluşan su damlacıkları, ağzımızdan çıkan
+su buharının yoğuşmasıyla oluşmaktadır. Soğuk
+havalarda camlarımızın buğulanmasının nedeni ev
+içerisindeki su buharının yoğuşmasıdır.
+
+Isı alan katı hâldeki bir maddenin doğrudan gaz
+hâle geçmesi olayına süblimleşme denir. Naftalin
+ve kuru buz katı hâlden gaz hâle geçen maddeler
+arasındadır. Isı veren gaz hâldeki bir maddenin
+doğrudan katı hâle geçmesi olayına kırağılaşma
+denir. Soğuk gecelerde havadaki su buharının doğrudan katı hâle geçerek kırağı oluşturması, uçak
+motorundan çıkan su buharının aniden donarak
+uçağın ardında bir iz bırakıyormuş gibi görünmesi
+bu olaya örnek olarak verilebilir.
+
+Gaz hâlindeki bir maddenin plazma hâline
+geçmesi olayına iyonizasyon denir. Kutup ışıkları
+(auroralar), iyonize olmuş atmosfer gazlarıdır.
+Plazma hâlindeki bir maddenin gaz hâline geçmesi
+olayına deiyonizasyon denir. Yanmakta olan
+bir neon lamba kapatıldığında iyonize hâldeki
+parçacıklar gaz hâline geri döner.
+
+Hal Değişimi: Hâl değişimi için belirli şartların
+sağlanması gerekmektedir. Katı hâldeki saf
+bir maddenin sıvı hâle geçebilmesi için erime
+sıcaklığına ulaşması gerekmektedir. Sıvı hâldeki saf
+bir maddenin kaynayarak gaz hâle geçebilmesi için
+sıcaklığının kaynama sıcaklığına kadar arttırılması
+gerekmektedir.
+
+Erime sıcaklığı donma sıcaklığına, kaynama
+sıcaklığı da yoğuşma sıcaklığına eşittir. Hal değiştirme sıcaklıkları belirli koşullarda maddeler için ayırt
+edicidir. Madde miktarına bağlı değildir.
+
+T.
+
+erime © donma
+
+kaynama > yoğuşma
+
+pe
+
+Sıvı
+
+Süblimleşme
+
+
+Buharlaşma
+
+Gaz
+
+Kırağılaşma
+
+Bazı saf maddelere ait yaklaşık erime-donma
+ve kaynama-yoğuşma sıcaklıkları
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kaynama, buharlaşmanın özel bir durumudur.
+
+Kaynama Buharlaşma
+
+Belirli bir sıcaklıkta Bütün sıcaklıklarda
+gerçekleşir. gerçekleşir.
+
+ 
+
+Dış enerji kaynağına
+ihtiyaç vardır.
+
+Ortamdan alınan ısıyla
+gerçekleşir.
+
+ 
+
+Sıvının tamamında Yalnızca yüzeyde
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+gerçekleşir. gerçekleşen bir olaydır.
+Hızlı ve gürültülü bir Yavaş ve sessiz gerçekleşir.
+süreçtir.
+Sıcaklık sabit kalır. Genellikle sıvının sıcaklığı
+düşer.
+Sıcaklık
+S: Sıvı
+b K: Katı
+Yİ G: Gaz
+Tİ
+
+ 
+ 
+Deiyonizasyon
+
+
+Isı alan ya da veren maddelerin sıcaklıklarındaki
+değişim (AT) maddeye verilen ya da maddeden
+alınan ısıya, maddenin miktarına, maddenin cinsine
+bağlıdır. Erime sıcaklığındaki 1 gram katı maddenin sıvı hâle geçebilmesi için
+maddeye verilmesi gereken
+ısı miktarına erime ısısı denir.
+Erime ısısı Le ile gösterilir. Birimi cal/g'dır. Saf maddeler için ayırt edicidir. Donma sıcaklığındaki 1 gram sıvı maddenin katı hâle
+geçebilmesi için dışarı vermesi gereken ısı miktarına
+donma ısısı denir. Donma ısısı L, ile gösterilir. Birimi
+cal/g'dır. Saf maddeler için ayırt edicidir. Erime
+sıcaklığının donma sıcaklığına eşit olması gibi erime
+ısısı da donma ısısına eşittir.
+
+Kaynama sıcaklığındaki 1
+gram sıvı maddenin gaz hâle geçmesi için maddeye verilmesi gereken ısı miktarına
+buharlaşma ısısı denir. Buharlaşma ısısı Lb ile gösterilir. Birimi cal/g'dır. Saf maddeler için ayırt edicidir.
+Yoğuşma sıcaklığındaki 1 gram gaz maddenin sıvı
+hâle geçmesi için dışarı vermesi gereken ısı miktarına yoğuşma ısısı denir. Yoğuşma ısısı L, ile gösterilir.
+Birimi cal/g'dır. Saf maddeler için ayırt edicidir.
+
+Bazı maddelerin yaklaşık erime-donma ve buharlaşma yoğuşma ısıları
+
+
+ısı, m kütle ve L hâl değiştirme ısısı olmak
+üzere, hâl değişimi için gerekli olan ısının matematiksel modeli O - m.L şeklindedir. Hâl değişimi için
+gerekli olan enerji, hâl değiştirme ısısıyla kütleyle
+doğru orantılıdır.
+
+Hâl değişimi sıcaklık değişiminden daha yüksek enerji
+gerektirmektedir. Örneğin 1 gram suyun sıcaklığını 1 9C
+değiştirmek için suya 1 cal ısı verilmesi yeterliyken, erime
+sıcaklığındaki 1 gram buzu su hâline getirmek için 80
+cal, kaynama sıcaklığındaki 1 gram suyu buhar hâline
+getirmek için 540 cal ısı verilmesi gerekmektedir.
+
+İyonizasyon

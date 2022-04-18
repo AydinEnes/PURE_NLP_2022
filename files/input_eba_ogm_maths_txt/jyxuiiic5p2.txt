@@ -1,0 +1,42 @@
+MATEMATİK - İKİNCİ DERECEDEN BİR BİLİNMEYENLİ DENKLEMLERİN ÇÖZÜMÜ
+
+ 
+
+İKİNCİ DERECEDEN
+DENKLEMLER
+ÇARPANLARA AYIRMA YÖNTEMİ İLE DENKLEM ÇÖZÜMÜ
+Bu yöntemde  denklemini çözerken
+
+Her bir çarpan sıfıra eşitlenerek denklemin kökleri bulunur.
+
+İKİNCİ DERECEDEN BİR BİLİNMEYENLİ DENKLEMİN
+KÖKLERİNİ VEREN FORMÜL VE DİSKRİMİNANT KAVRAMI
+
+ifadesi çarpanlarına ayrılır.
+
+
+, olmak üzere ax  ise
+
+olur. Burada A ya diskriminant denir.
+> A>0 ise denklemin iki reel sayı kökü vardır.
+> A-0 ise denklemin çakışık iki kökü vardır.
+
+> A<0 ise denklemin reel sayı kökü yoktur.
+
+> A>0 durumunda denklemin kökleri x, ve x, olmak
+
+üzere bu kökler;
+
+
+
+ile bulunur.
+
+
+durumunda denklemin kökleri olacaktır. Bu
+
+durumda bu kök ;
+
+
+
+ise denklemin reel sayılarda çözüm kümesi  olur.
+

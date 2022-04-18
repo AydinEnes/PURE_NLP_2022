@@ -1,0 +1,25 @@
+MATEMATİK-TRİGONOMETRİ-
+
+ 
+
+KOSİNÜS VE SİNÜS TEOREMLERİ
+
+KOSİNÜS TEOREMİ
+ABC nin kenar uzunlukları a,b,c
+
+ve bu kenarları gören açılar kuralı vardır. Bu teoreme "Kosinüs Teoremi"
+denir.
+
+SİNÜS TEOREMİ
+
+Bir üçgende her kenarın uzunluğu,
+karşısındaki açının sinüs değeri ile
+doğru orantılıdır.
+ABC üçgeninin kenar uzunlukları a,
+b, c olmak üzere
+
+sinA sinB sinC
+
+Bu teoreme "Sinüs Teoremi" denir.
+
+A bağıntısı vardır.

@@ -1,0 +1,181 @@
+FİZİK - KIRILMA -
+
+ 
+
+Işığın Kırılması:
+
+Gelen Normal
+
+Çay dolu
+Işın
+
+bir bardağa bir
+kaşık konulup
+bakıldığında
+kaşığın bardağın
+içerisinde kalan
+
+ 
+
+kısmı ile dışında Hava
+
+ 
+
+Cam
+kalan kısmı
+
+birbirinden
+
+kopmuş gibi ya
+
+da kırılmış gibi Kırılan
+
+görülür. Işın
+Ortam
+
+değiştiren
+
+ 
+
+ışığın doğrultu değiştirmesine ışığın kırılması denir. Bu
+
+olay derinlikleri farklı ortamlar arasında geçiş yapan
+
+su dalgalarının hızının ortamın cinsine bağlı olarak
+değişmesine ve kırılmasına benzetilebilir. Bir saydam
+ortama giren ışık, ortamın atom ve moleküllerindeki
+elektronlar ile etkileşime girer ve bu nedenle ortamdan
+geçerken gecikmeye uğrar. Bu durum ışığın ortalama hızını,
+buna bağlı olarak da dalga boyunu azaltır.
+
+Gelen ışın ile yüzey normali arasında kalan açıya (i) gelme
+açısı, kırılan ışın ile yüzey normali arasında kalan açıya (r)
+kırılma açısı denir. Bir dalganın hızının büyüklüğü ilerlediği
+ortama bağlıdır.
+
+Işığın boşluktaki hızının (c — 3x108 m/s) herhangi bir
+saydam ortamdaki ortalama hızına (V) oranına o ortamın
+kırılma indisi
+(kırıcılık indisi)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+denir. Kırılma BAZI SAYDAM o.
+indisi, ışığın MADDELERİN KIRILMA İNDİSİ
+ortamdaki Madde Kırılma İndisi
+ortalama hızı
+ve boşluktaki Cam 1,52
+hızıyla ilişkili Elmas 2.419
+bağıl bir
+değişkendir. Buz 1,309
+
+Işık, boşlukta Etil Alkol 1,333
+
+ilerlerken hızı Hava 1,000293
+
+ 
+
+ 
+
+ 
+
+ 
+
+en büyük değerini Gelen Normal
+alır. Işığın herhangi
+bir ortamdaki hızı
+boşluktaki hızından
+küçüktür. Bu nedenle
+boşluktan farklı
+herhangi bir saydam
+
+ 
+
+ortamın kırılma indisi
+1'den büyük olur.
+
+Işığın havadaki
+ilerleme hızı boşluktaki
+ilerleme hızına yakın
+olduğundan havanın
+kırılma indisi yaklaşık
+nz 1 olarak alınabilir. Işın
+
+Az Yoğun Ortamdan
+
+Çok Yoğun Ortama
+
+Geçen Işınlar:
+
+Az yoğun ortamdan çok yoğun ortama geçen ışınlar
+normale yaklaşacak şekilde kırılır.
+
+Yüzeye dik gelen ışınlar doğrultu değiştirmeden diğer
+ortama geçerler.
+
+Çok Yoğun Ortamdan Az Yoğun Ortama Geçen Işınlar:
+Az yoğun ortamdan çok yoğun ortama geçen ışınlar
+normale yaklaşacak şekilde kırılır. Belirli bir açı değerine
+
+kadar az kırıcı ortama geçebilen ışınlar bu değerde iki
+yüzey arasındaki sınırdan geçerler bu açıya sınır açısı denir.
+
+Sınır açısından büyük açı da gelen ışınlar ise tam
+yansımaya uğrarlar.
+
+Kırılan
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Işık kaynağı (n,>n,)
+
+Tam yansımanın etkisi ile oluşan olaylardan biri de serap
+olayıdır.
+
+ 
+
+Yazın güneşli bir günde asfalt bir yol üzerinde ileri
+bakıldığında görülen ama aslında orada olmayan su
+birikintisi görüntüsü serap olayıdır.
+
+Işığın tam yansıması, teknolojide de kullanılan bir
+özelliktir. Işığın bir yerden başka bir yere iletilmesi için
+fiber optik kablolar kullanılır.
+
+Görünür Derinlik: Cisimlerin görülebilmesi için
+cisimden yansıyan ışınların göze gelmesi gerekir. Bu
+nedenle cisimler, ışığın göze geldiği doğrultuda görülür.
+
+N Cisimlerden çıkan ışınlar kırılmaya uğramadan
+# doğrudan göze gelirse cisimler olduğu yerde,
+
+kırılarak gelirse olduklarından farklı yerde
+görülür.
+
+  

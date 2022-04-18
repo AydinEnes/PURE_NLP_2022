@@ -1,0 +1,52 @@
+MATEMATİK-ÇEMBERDE TEĞETİN ÖZELLİKLERİ-
+
+ 
+
+ÇEMBER VE DAİRE, çEMBERDE TEĞET,
+ÇEMBERDE TEGETİN OZELLİKLERİ
+
+> Çemberin merkezi ile teğetin değme
+noktasını birleştiren doğru, teğete diktir.
+
+Teğete değme noktasından çizilen dikme
+çemberin merkezinden geçer.
+
+› Bir çembere çemberin dışındaki
+bir noktadan çizilen teğet parçalarının
+uzunlukları eşittir.
+
+ÜÇGENİN iç TEĞET ÇEMBERİ
+Şekilde yer alan çember ABC üçgenine D,
+E, F noktalarında teğettir.
+
+› Bir üçgenin üç kenarına da teğet olan
+çembere üçgenin iç teğet çemberi denir.
+
+> İç teğet çemberin merkezi üçgenin iç
+açıortaylarının kesim noktasıdır.
+
+Aşağıdaki şekilde çizilen açıortaylar O
+noktasında kesişir.
+
+Açıortay üzerinden kenarlara
+indirilen dikme uzunlukları birbirine eşit
+
+olduğundan
+IODl = IOEI = IOFI = r olur. IADI = lAFI ,
+
+lBDl = lBEl , ICEI = lCFl olur.
+
+ÜÇGENİN DIŞ TEĞET ÇEMBERLERİ
+
+› Üçgenin bir kenarına ve diğer iki
+kenarının uzantısına teğet olan çembere
+bu üçgenin bir dış teğet çemberi denir.
+
+> Bir üçgenin herhangi bir açısının iç
+açıortayı ile diğer iki açısının dış açıortayı
+aynı noktada kesişir.
+
+Aşağıdaki şekilde 0 noktası, ABC
+üçgeninin dış teğet çemberinin
+merkezidir.
+

@@ -1,0 +1,69 @@
+MATEMATİK  KÖKLÜ İFADELER VE DENKLEMLER
+
+ 
+
+şeklindeki üssü rasyonel olan ifadeler
+kök işareti kullanılarak Ya şeklinde
+gösterilir ve “n dereceden kök a” diye
+okunur.
+n ye kökün derecesi, â ya kök içerisindeki
+değer, Ya ya ise köklü ifade denir.
+
+ kökün derecesi
+
+
+kök içerisindeki değer
+
+
+Üssü rasyonel olan 2 sayısı 
+dereceden kök 2” ya da “karekök 
+
+diye okunan 2 köklü sayısıdır. Kökün
+derecesi 2 ise yazılmasına gerek yoktur.
+v2 sayısının karekök 2 olduğu bilinir.
+Üssü rasyonel olan y sayısı 
+dereceden kök  ya da küp kök  diye
+okunan 2 köklü sayısıdır.
+
+Üssü rasyonel olan  sayısı
+dereceden kök diye okunan 
+
+köklü sayısıdır.
+
+eşitliği, köklü sayıların aslında
+üssü rasyonel olan birer üslü sayı
+olduğunu gösterir. 
+Bu durumda  nolur.
+
+KÖKLÜ İFADELERİN TANIM ARALIĞI
+
+ eşitliğini sağlayan x değer-
+lerine anın n. kuvvetten kökü denir
+
+ile gösterilir. x değerlerinin
+
+gerçek bir sayı belirtip belirtmediği n ye
+bağlıdır.
+
+ifadesinden tek tam sayı ise için
+bir gerçek sayıdır.
+
+Örnek:
+ ifadesinden çift tam sayı ise
+
+veya
+olur ve bu sayılar gerçek sayılardır.
+ için X in bir gerçek sayı kökü
+yoktur.
+
+ için  olur.
+
+KÖK İÇİNDEKİ BİR İFADEYİ KÖKTEN
+KURTARMA
+
+
+
+çift ise
+
+olarak kök dışına çıkarılır.
+

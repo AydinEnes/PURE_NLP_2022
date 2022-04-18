@@ -1,0 +1,20 @@
+MATEMATİK- ÜSTEL, LOGARİTMİK DENKLEMLER VE EŞİTSİZLİKLER - 
+
+ 
+
+ 
+
+LOGARİTMİK DENKLEMLER
+
+İçinde bilinmeyenin Iogaritmasını SORULAR
+
+bulunduran denklemlere logaritmik 
+denklemler denir. Bu tür denklemlerin 
+
+çözüm kümelerinin bulunmasında Iogaritma 
+
+fonksiyonunun özelliklerinden yararlanılır.
+
+Logaritmik denklemlerde Iogaritması alınan
+
+ifadelerin pozitif olması şartının yanı sıra

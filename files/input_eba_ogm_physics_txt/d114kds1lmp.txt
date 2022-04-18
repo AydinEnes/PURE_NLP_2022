@@ -1,0 +1,155 @@
+FİZİK - ISI VE SICAKLIK -
+
+ 
+
+İç Enerji: Bir sistemi oluşturan atom ve
+moleküllerin kinetik (titreşim) ve potansiyel
+(bağ) enerjilerinin toplamı, iç enerji olarak
+tanımlanmaktadır. Sistem üzerinde iş yapıldığında
+ya da sisteme enerji aktarıldığında sistemin iç
+enerjisinde değişiklik meydana gelir.
+
+Isı: Sıcaklıkları farklı, etkileşim hâlindeki iki sistem
+arasında sıcaklığı yüksek olandan düşük olana doğru,
+transfer edilen enerjiye ısı denir.
+
+Sıcaklık: Bir sistemdeki atom ve moleküllerin
+ortalama kinetik enerjisinin bir göstergesine sıcaklık
+denir. Sıcaklık bir enerji değildir.
+
+Öz ısı: Bir maddenin 1 gramının sıcaklığını 1 *C
+değiştirmek için maddeye verilmesi yada maddeden
+alınması gereken ısı miktarına öz ısı adı verilir. Öz
+ısı c sembolü ile gösterilir. Birimi cal/g“C ya da J/kg'c
+şeklindedir. Maddeler için ayırt edici bir özelliktir.
+Madde miktarına bağlı değildir. Suyun öz ısısı c-1
+cal/g*C'dir. 1 gram suyun sıcaklığını 1 9C artırmak için
+suya 1 cal ısı verilmesi gerektiğini ifade eder.
+
+Isı Sığası (Isı Kapasitesi): Sıcaklıkları farklı,
+etkileşim hâlindeki iki sistem arasında sıcaklığı
+yüksek olandan düşük olana doğru, transfer edilen
+enerjiye ısı denir. Isı sığası (kapasitesi) maddenin
+cinsine ve miktarına bağlıdır. C sembolü ile gösterilir.
+Isı sığasının matematiksel modeli C-m.c şeklindedir.
+Birimi cal/”C ya da J/”C'dir. Isı sığası, madde miktarına
+bağlı olduğu için ayırt edici bir özellik değildir. Isı
+sığası - kütle grafiğinin eğimi maddenin öz ısısını verir.
+
+Hâl değişimi sıcaklığında olmayan saf bir
+madde ısı aldığında ya da bu maddeye ısı
+verildiğinde maddenin sıcaklığı değişebilir. Sıcaklıktaki bu değişim; ısı miktarına, maddenin kütlesine,
+maddenin öz ısısına bağlıdır.
+
+Alınan ya da
+verilen Isı: O,
+Maddenin kütlesi: m,
+Özisi: c
+Sıcaklık değişimi: AT
+
+Hâl Değişimi: Evrende bulunan maddeler fiziksel
+hâllerine göre katı, sıvı, gaz ve plazma olmak
+üzere dörde ayrılmaktadır. Dünya'nın yaklaşık
+71'i sıvı (deniz), 29'u katı (karalar) hâldeki
+
+O - m.c.AT
+
+maddelerden oluşmaktadır.
+
+Yapısında çok sayıda iyon ve serbest elektron
+bulunduran iyonize olmuş gaz bulutuna plazma
+denir. Plazma yapılara auroralar, yıldızlar, floresan
+lambalar, neon ışıklandırmalar örnek olarak
+verilebilir. Evrenin ise yaklaşık 9099"luk kısmını
+plazma hâlindeki maddeler oluşturur. Maddelerin
+bulundukları fiziksel hâle, faz denir. Maddenin
+bir fazdan diğer faza geçişi hâl değişimi olarak
+tanımlanmaktadır.
+
+Hâl değişimi için belirli şartların sağlanması
+gerekmektedir. Katı hâldeki saf bir maddenin
+sıvı hâle geçebilmesi için erime sıcaklığına
+ulaşması gerekmektedir. Sıvı hâldeki saf bir
+maddenin kaynayarak gaz hâle geçebilmesi için
+sıcaklığının kaynama sıcaklığına kadar arttırılması
+gerekmektedir.
+
+Erime sıcaklığı donma sıcaklığına, kaynama
+sıcaklığı da yoğuşma sıcaklığına eşittir. Hal
+değiştirme sıcaklıkları belirli koşullarda maddeler için
+ayırt edicidir. Madde miktarına bağlı değildir.
+
+
+kaynama © ' yoğuşma
+O ısı, m kütle ve L hâl değiştirme ısısı olmak üzere,
+hâl değişimi için gerekli olan
+ısının matematiksel modeli
+şeklindedir. Hâl değişimi
+için gerekli olan enerji, hâl
+değiştirme ısısıyla ve kütleyle doğru orantılıdır.
+
+Isıl Denge: Etkileşim hâlindeki ve sıcaklıkları
+birbirinden farklı iki sistem arasında alınan ya da
+verilen enerjiye ısı denir. Isı, sıcaklığı yüksek olan
+sistemden düşük olan sisteme aktarılır.
+
+Sıcaklıkları farklı, çevreden izole edilmiş ve
+birbirleriyle temas hâlindeki iki sistemden birinin
+verdiği ısı, diğerinin aldığı ısıya eşittir. Bu durumun
+matematiksel modeli,
+
+erime
+
+O m.L
+
+Alınan 1sı(0,)- Verilen Isı (0)
+
+şeklindedir.
+
+ 
+
+20 “C sıcaklığındaki
+yalıtılmış bir odaya
+içinde 100 *C
+sıcaklığında su dolu
+çaydanlık bırakılmış
+olsa denge sıcaklığı
+20 “C'den fazla
+
+100 “C'den az
+olacaktır.
+
+Çaydanlık soğumuş, odanın sıcaklığı ise artmış gibi
+düşünülebilir. Isı alan sistemlerin iç enerjisi artar. Isı
+veren sistemlerin iç enerjisi azalır.
+
+Enerji İletim Yolları: Isının; sıcaklıkları farklı,
+etkileşim hâlindeki sistemler arasındaki iletimi,
+maddenin cinsine fiziksel hâline göre değişiklik
+gösterir.
+
+
+
+Isının İletim Yolu ile Transferi: Moleküllerin
+birbirlerine çarparak zincirleme olarak enerjiyi
+aktarmalarına iletim yoluyla ısı transferi denir.
+
+Isının Konveksiyon Yolu ile Transferi:
+Konveksiyon; sıcaklığı yükselen maddenin, aldığı
+ısıyı, özkütle farkı nedeniyle madde akışı yoluyla
+taşıması olayıdır. Isının konveksiyon yoluyla iletimi
+ısı enerjisi yüksek taneciklerin düşük taneciklerle yer
+değiştirmesi şeklinde gerçekleşir.
+
+Isının Işıma Yolu ile Transferi: Isının iletim ve
+konveksiyon yolu ile taşınması için maddesel ortama
+ihtiyaç vardır. Isı enerjisinin ışınlarla dalgalar hâlinde
+yayılması olayına ışıma ya da termal ışıma denir.
+Sıcaklığı mutlak donma noktasından (-273,16 *C)
+yüksek olan her varlık ışıma yapar. Bu ışımalar
+elektromanyetik spektrumda kızılötesi bölgesine
+karşılık gelir ve bu bölgedeki ışımalar gözle
+algılanamaz. Işımanın şiddeti, ışıma yapan cismin
+sıcaklığıyla doğru orantılıdır.
+
+Konveksiyon 

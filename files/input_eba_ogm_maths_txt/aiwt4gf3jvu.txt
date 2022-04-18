@@ -1,0 +1,51 @@
+MATEMATİK - İKİ FONKSİYONUN BİLEŞKESİ VE BİR FONKSİYONUN TERSİ
+
+ 
+
+FONKSİYONLARIN BİLEŞKESİ
+
+boş kümeden farklı birer küme olmak üzere
+ fonksiyonları verilsin.
+
+ kümesinin elemanlarını f ve g fonksiyonları yardımıyla
+ kümesinin elemanları ile eşleştiren fonksiyona f ile g
+fonksiyonlarının bileşke fonksiyonu denir.
+
+ şeklinde gösterilir.
+
+Burada f fonksiyonunun değer kümesi ile g fonksiyonunun
+tanım kümesi eşittir.
+
+
+
+
+   
+
+
+
+ fonksiyonu f tanım kümesindeki herhangi bir 
+değerini, gnin değer kümesindeki  biçimindeki bir  ile
+eşler.
+
+Bu ifade sembollerle olmak üzere
+
+
+biçiminde gösterilebilir.
+FONKSİYONLARDA BİLEŞKE İŞLEMİNİN ÖZELLİKLERİ
+
+1) Bir f fonksiyonunun birim fonksiyon ile bileşkesi yine f
+fonksiyonudur.
+
+2) Fonksiyonlarda bileşke işleminin değişme özelliği yoktur.
+Yani herhangi iki f ve g fonksiyonları için f
+
+3) Fonksiyonlarda bileşke işleminin birleşme özelliği vardır.
+
+
+
+ fonksiyonları birebir
+fonksiyonu da birebirdir.
+
+fonksiyonları örten ise
+ fonksiyonu da örtendir.
+

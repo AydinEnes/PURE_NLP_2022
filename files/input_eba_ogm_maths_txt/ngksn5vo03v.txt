@@ -1,0 +1,85 @@
+MATEMATİK KAR- ZARAR PROBLEMLERİ
+
+ 
+
+DENKLEMLER VE EŞİTSİZLİKLER
+
+DENKLEM VE EŞİTSİZLİKLERLE İLGİLİ UYGULAMALAR
+KAR- ZARAR PROBLEMLERİ
+
+Kar zarar problemlerinde aşağıdaki bağıntılardan
+yararlanılır:
+> Kar - Satış fiyatı — Maliyet fiyatı
+Zarar - Maliyet fiyatı — Satış fiyatı
+Kar
+
+
+Maliyet fiyatı
+> Aliralık bir ürüne “o x indirim yapıldığında bu ürünün yeni fiyatı:
+A. 
+100 olur.
+
+
+Aliralık bir ürüne Ye x zam yapıldığında bu ürünün
+
+100
+yeni fiyatı:
+
+100 olur.
+
+
+
+
+> İşlemlerde kolaylık sağlaması açısından genellikle
+
+bir ürünün alış fiyatına 100x denir.
+
+Kar yüzdesi —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ÖRNEK:
+Ürün Alış | Satış
+Ad fiyatı | fiyatı | Kar Zarar Kar Yüzdesi Zarar Yüzdesi
+
+
+Kalem 
+
+
+Gömlek 
+
+. yep
+
+Bere 1
+
+ yag
+Kitap 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

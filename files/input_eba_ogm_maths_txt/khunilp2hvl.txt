@@ -1,0 +1,20 @@
+MATEMATİK-İKİ FONKSİYONUN GRAFİĞİ ARASINDA KALAN SINIRLI BÖLGENİN ALANI-
+
+ 
+
+BELİRLİ İNTEGRAL İLE ALAN HESABI
+
+Aşağıda gösterilen f(x) ve g(x) fonksiyonlarının
+grafikleri ile x=a ve x=b doğruları arasında kalan
+sınırlı bölgenin alanı A1; g(x) fonksiyonunun
+grafiği, x=a ve x=b doğruları ile x ekseni arasında
+
+kalan sınırlı bölgenin alanı Azdir.
+
+ 
+
+
+NOT: f(x) ve g(x) fonksiyonlarının grafikleri
+aşağıdaki gibi verilirse boyalı bölgelerin toplam
+alanı, A1ve A2 alanlarının ayrı ayrı hesaplanarak
+toplanması ile bulunur.

@@ -1,0 +1,49 @@
+MATEMATİK-BİR FONKSİYONUN ARTAN VEYA AZALAN OLDUĞU ARALIKLAR-
+
+
+BİR FONKSİYONUN ARTAN OLDUĞU ARALIKLAR
+
+f:[a,b]-›R olmak üzere VX1 , X2 6 [3,13] için X1< X2 iken f(x1)< f(x2)
+oluyorsa ffonksiyonu [a,b] nda artandır.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+BİR FONKSİYONUN AZALAN OLDUĞU ARALIKLAR
+
+
+oluyorsa f fonksiyonu [ab] nda azalandır.
+
+ 
+
+ 
+
+ 
+
+BİR FONKSİYONUN ARTAN VEYA AZALAN OLDUĞU ARALIKLAR
+
+f fonksiyonu [a,b] nda artan ise bu aralığın her noktasında teğetinin eğimi
+pozitif( Ödar açı), azalan ise teğetinin eğimi negatiftir( Ü geniş açı).
+
+
+ 
+
+(6 dar açı olduğundan m = !an 6 pozitiflir.) (9 geniş açı olduğundan m = tan 8 negatiftir.)
+
+
+SONUÇ:
+f:[a,b]-›R, y=f(x) fonksiyonu (a,b) nda
+türevlenebilir olsun. VXG (a,b) için
+
+f:[a,b]-›R, y=f(X) sabit fonksiyon
+ise m=tan9=0 dır.

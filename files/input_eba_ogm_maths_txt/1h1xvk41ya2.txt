@@ -1,0 +1,134 @@
+MATEMATİK  HAREKET PROBLEMLERİ
+
+ 
+
+DENKLEMLER VE EŞİTSİZLİKLER
+
+DENKLEM VE EŞİTSİZLİKLERLE
+
+İLGİLİ UYGULAMALAR
+
+HAREKET PROBLEMLERİ
+
+Hareket problemleri için kullanılan üç
+ayrı kavram ve bu kavramların sembolleri şu
+
+şekildedir:
+Hareketlinin hızı 
+Aldığı yol 
+
+Hareket süresi 
+Bu kavramlar arasındaki eşitlikler ise;
+
+Yol Yol
+
+Yol Hız-zaman Hız Zaman
+
+
+şeklindedir.
+
+Bir cismin toplam yer değiştirmesinin toplam
+geçen zamana oranı ortalama hızı verir.
+
+Ortalama Hız — Toplam Yol
+Toplam Zaman
+
+Hareket problemlerinde kullanılan birimle-
+rin, sorudaki veriler ile tutarlı olması önemlidir.
+Birimler arası geçişler için
+
+ 
+
+ 
+
+ 
+
+
+eşitliklerinden yararlanılır.
+ÖRNEK:
+
+
+AYNI ANDA ZIT YÖNLÜ HAREKET
+
+ 
+
+Aynı anda A noktasından V, ve B noktasın-
+dan V, hızlarıyla birbirlerine doğru hareket
+eden iki araç, C noktasında karşılaşıyor. Araç-
+ların karşılaşma anına kadar geçen süreye t
+denirse;
+
+ olduğundan
+
+ABİ  elde
+edilir.
+
+ 
+
+AYNI ANDA AYNI YÖNLÜ HAREKET
+
+
+
+
+Aynı anda A noktasından V, ve B noktasın-
+dan V, hızlarıyla (V >V,) hareket eden iki
+araçtan hızlı olan diğerine t saat sonra C nokta-
+sında yetişiyorsa denklemler aşağıdaki gibidir:
+
+olur.
+ olduğundan
+
+elde
+edilir.
+DAİRESEL HAREKET
+
+V AV 1. ZIT YÖNLÜ
+
+PN Hızları V, ve V, olan iki
+araç A noktasından aynı anda
+zıt yönde harekete başlıyor ve
+C noktasında karşılaşıyorlar.
+Karşılaşma anına kadar geçen
+
+süresinde araçların aldıkları
+
+yolların toplamı pistin çevresine eşittir.
+
+
+
+
+ 
+
+
+Dairesel yolun çevresi: bulunur.
+AYNI YÖNLÜ
+
+Hızları V, ve V, olan iki araç
+noktasından aynı anda, aynı
+BU ) yönde harekete başlıyor ve
+ C noktasında karşılaşıyorlar.
+
+Araçlar B noktasında ilk kez
+yan yana geldiklerinde hızlı olan araç diğer
+araçtan bir tur fazla yol almış olur.
+
+ olmak üzere
+
+ Dairesel yolun
+çevresi: bulunur.
+TREN PROBLEMLERİ
+
+
+
+ 
+
+Trenin hızı V, trenin x boyu y birim ve tünelin
+boyu birim olmak üzere trenin tünelden geç-
+mesi için toplam yol, trenle tünelin uzunlukları
+toplamı olarak alınır. Tren sorularında özellikle
+birimlere dikkat edilmelidir. Kullanılan birimle-
+rin sorudaki verilerle tutarlı olması önemlidir.
+
+Trenin tünelden geçme süresine t denirse
+x#yV.t denklemi ile istenilen bulunur.
+

@@ -1,0 +1,148 @@
+FİZİK - DEPREM DALGALARI ELEKTROMANYETİK DALGALAR -
+
+ 
+
+Deprem Dalgaları: Dünya'nın dış kısmında yer kabuğu adı verilen
+bir tabaka vardır. Bu tabakanın altında ise çok sıcak ve akıcı maddelerden oluşan magma tabakası bulunur. Yer kabuğu levhaları magma
+üzerinde sürekli hareket hâlindedir. Bu hareketlilik sırasında yer kabuğunun içinde ani kırılmalar olabilir.
+
+Yer kabuğundaki fay olarak adlandırılan kırıklar üzerinde biriken enerjinin boşalmasıyla meydana gelen titreşimlerin oluşturduğu dalga-
+lara deprem dalgası, bu dalgaların geçtiği ortamları ve yer yüzeyini
+sarsması olayına ise deprem denir. Mekanik dalgalardan olan deprem
+dalgalarından bazıları enine, bazıları da boyuna dalgalardır. Depremler sadece kırılmalar sonucunda değil, volkanik patlamalar ve yer altındaki boşlukların çökmesi sonucunda da oluşabilir.
+
+Depremlerin oluşumunu, deprem ölçü aletlerini ve yöntemlerini,
+deprem dalgalarının yayılmasını ve depremle ilgili konuları inceleyen
+bilim dalına sismoloji, sismoloji alanında çalışan bilim insanına sismolog
+denir. Depremin büyüklüğü, kırılan yüzeyin büyüklüğünü ve ortaya çıkan
+ enerjinin düzeyini belirten bir ölçüdür. Depremin büyüklüğü sismograf
+ adı verilen aletle ölçülür. Yapılan ölçüm Richter Ölçeği denilen
+bir ölçümle tanımlanır. Bu ölçekte deprem dalgalarının büyüklüğü 1 ile
+9 arasındaki rakamlarla ifade edilir. Richter ölçeğinde her birim artış,
+yer sarsıntılarında 10 katlık artışa karşılık gelir.
+
+Depremin şiddeti, herhangi bir derinlikte meydana gelen depremin
+doğa, bina ve insanlar üzerindeki etkilerinin ölçüsüdür. Bu etki, depre-
+min büyüklüğü, uzaklığı ve yapıların depreme karşı gösterdiği dayanık-
+lılığa bağlıdır. Depremin şiddeti, depremin büyüklüğü hakkında doğru
+bilgi vermez. Bir depremin boyutu iki yolla ölçülmektedir. Bunlardan
+biri depremin şiddeti, diğeri ise büyüklüğüdür. Aynı büyüklüğe sahip
+depremler farklı şiddetlerde hissedilebilir. Bu kavramlar birbiri ile karış-
+tırılmamalıdır. Bir depremin büyüklüğü, deprem sırasında açığa çıkan
+enerjinin ölçüsüdür. Richter ölçeği adı verilen bir ölçeğe göre hesapla-
+nır. Depremin şiddeti ise oluşan depremin yeryüzünde hissedildiği böl-
+gede oluşturduğu etkinin ölçüsüdür. Deprem bölgesindeki hasara göre
+belirlenen göreceli bir değerdir. Bir depremin şiddeti, doğada ve bina-
+larda depremler sebebiyle oluşan hasara bakılarak
+
+( Mercalli Ölçeği
+
+DEPREMİN ŞİDDETİ
+
+   
+
+DEPREMİN BÜYÜKLÜĞÜ
+
+N Richter Ölçeği
+
+uzmanlar tarafından hazırlanmış deprem şiddet cetvelleri ile değerlendirilir.
+ Günümüzde Mercalli (MM) ve Medvedev — Sponheur
+- Karnik (MSK) cetvelleri kullanılmaktadır.
+
+Fay hattı
+
+   
+
+Sismik dalgalar Merkez üssü
+
+
+Deprem yerin altında gerçekleşir. Depremin oluştuğu nokta-
+ya deprem odağı adı verilir. Depremin odağına en yakın olan ve
+sarsıntıyı en fazla hisseden yeryüzü bölgesi ise merkez üssüdür.
+Deprem sonucunda yer yüzeyinde meydana gelen kırık ve çatlaklar
+ depremin şiddetini göstermektedir.
+
+ 
+
+Okyanus ya da denizlerde deprem, volkan patlaması, gök taşı
+düşmesi gibi olaylar sonucunda açığa çıkan enerjinin etkisiyle
+oluşan çok büyük genlikli dalgalara tsunami adı verilir. Bu dalgalar
+kıyılara ulaştıklarında yıkıcı etkiler oluşturabilir. Deprem esnasında
+oluşan rezonans olayı, binaların yıkılmasında etkilidir. Deprem dalgalarının frekansı, binanın doğal frekansına eşitlendiğinde bina
+artan genliğe dayanamaz ve yıkılır.
+
+Deprem Kaynaklı Can ve Mal Kayıplarını Önlemeye Yönelik
+Çözüm Önerileri: Türkiye'nin büyük bir bölümü deprem kuşağındadır.
+
+TÜRKİYE DEPREM TEHLİKE HARİTASI
+
+ 
+
+ 
+
+Türkiye'nin büyük bir bölümü deprem kuşağında olması nedeniyle
+ tarih boyunca ülkemizin farklı bölgelerinde büyük depremler
+
+
+meydana gelmiştir. Depremin zamanı önceden bilinemez fakat
+zararlarından korunmak için önlemler alınabilir. Mühendisler tarafından
+ depreme dayanıklı binalar yapılmalı ve mevcut binaların
+dayanıklı olup olmadığı kontrol edilmelidir. Deprem sonrasında
+ise arama kurtarma çalışmalarına katılarak depremzedelerin kurtarılmasına 
+yardımcı olunmalıdır.
+
+Elektromanyetik Dalgalar: Boşlukta ilerleyebilen ve iletilmek
+için maddesel bir ortama ihtiyaç duymayan, enine dalgalar elektromanyetik dalgalardır. 
+Elektromanyetik dalga çeşitlerini dalga
+boylarına göre sıralayan çizelgeye elektromanyetik dalga spektrumu denir.
+
+Radyo
+dalgaları
+
+Görünür (o Morötesi
+ışınlar
+
+Mikrodalgalar Kızılötesi
+radyasyon — şın
+
+X ışınları Gama ışınları
+
+ 
+
+
+
+Radyo dalgaları: Radyo dalgaları, elektromanyetik dalgaların
+en uzun dalga boyuna sahip çeşididir. 103 m ile 0,1 m arasında
+değişen dalga boylarına sahiptir.
+
+Mikrodalgalar: Mikrodalgaların dalga boyları 0,3 m ile 104 m
+arasında değişir. Mikrodalgalar, radyo dalgaları gibi iletken içerisindeki
+ yüklü parçacıkların ivmeli hareket etmesi sonucu oluşur.
+Mikrodalgalar; hava tahminlerinde, radar sistemlerinde, cep telefonlarında ve kablosuz Genel Ağ erişimlerinde kullanılmaktadır.
+
+Kızılötesi (İnfrared) Işınlar: Kızılötesi ışınlar sıcak cisimler tarafından
+ yayılır. Cisimlerden yayılan kızılötesi dalga termal kameralar
+ tarafından algılanarak karanlık ortamlarda bile görüntü
+elde edilebilir. Kızılötesi ışınlar; uzaktan kumanda sistemlerinde, meteoroloji uydularında, bilinmeyen maddelerin içeriğinin
+belirlenmesinde, gıda maddelerinin işlenmesinde, fiber optik
+iletişimde kullanılmaktadır.
+
+Görünür Işık Dalgaları: İnsan gözünün elektromanyetik dalgalar
+içerisinde görebildiği kısmına görünür bölge denir.
+
+Morötesi (Ultraviyole) Işınlar: Kaynağı genellikle Güneş'tir.
+Güneş'ten gelen ultraviyole ışınları ozon tabakası tarafından süzülerek
+ zararlı etkileri azaltılır. Ultraviyole ışınları özellikle dezenfeksiyon
+ için kullanılır. Zararlı ultraviyole ışınların bir kısmı ozon
+tabakasında engellenir.
+
+X Işınları: X-ışınları hızlandırılmış elektronların bir metale
+çarptırılıp durdurulmasıyla veya atomların yörüngelerinde bulunan
+ elektronların geçişleri sonucunda oluşturulur. X-ışınları Alman
+Fizikçi Wilhelm Conrad Röntgen tarafından 1895 yılında keşfedilmiştir.
+ X-ışınları tıpta teşhis ve tedavi amaçlı kullanılır.
+
+Gama (/) Işınları: Gama ışınları, elektromanyetik dalga spektrumunun
+ en küçük dalga boyuna sahiptir. Radyoaktif çekirdeklerin
+nükleer tepkimeleri sırasında yayılır. Astronomide, kanserli hücrelerin
+ yok edilmesinde kullanılır.
