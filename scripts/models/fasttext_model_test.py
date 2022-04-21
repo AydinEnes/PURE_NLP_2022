@@ -12,7 +12,9 @@ Output format:
 """
 import sys
 
-sys.path.insert(0, 'D:\Github_Repos\morpa_nlp\PURE_NLP_2022\scripts')
+# enes path
+sys.path.insert(0, '/Users/aydo/Desktop/pure/PURE_NLP_2022/scripts')
+
 import os
 from os import path
 from base_path import base_path
@@ -23,7 +25,9 @@ start_time = time.time()
 from gensim.models import FastText
 import gensim
 
-model_ted = gensim.models.FastText.load("fasttext_physics_all.model")
+
+#           ////////////////////        change accordingly          ////////////////////
+model_ted = gensim.models.FastText.load("fasttext_chem_all.model")
 
 # print(model_ted.wv.most_similar("bakteri",topn=50))
 # print("\n-------------------------------------------------------------\n")
@@ -80,7 +84,7 @@ def test_model(model, file):
     print(f"Category 1 accuracy: {cat_1_acc}%")
     print(f"Category 2 accuracy: {cat_2_acc}%")
 
-
+#           ////////////////////        change accordingly          ////////////////////
 filename = path.join(base_path.PROJECT_PATH, "files", "test_bio_model.txt")
 test_model(model_ted, filename)
 

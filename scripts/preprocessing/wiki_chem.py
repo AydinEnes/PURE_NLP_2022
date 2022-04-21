@@ -3,7 +3,9 @@
 
 import sys
 
+# enes path
 sys.path.insert(0, '/Users/aydo/Desktop/pure/PURE_NLP_2022/scripts')
+
 import os
 from os import path
 

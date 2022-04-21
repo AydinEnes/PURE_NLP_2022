@@ -12,7 +12,8 @@ Output format:
 """
 import sys
 
-sys.path.insert(0, 'D:\Github_Repos\morpa_nlp\PURE_NLP_2022\scripts')
+# enes path
+sys.path.insert(0, '/Users/aydo/Desktop/pure/PURE_NLP_2022/scripts')
 
 from base_path import base_path
 
@@ -21,6 +22,8 @@ from os import path
 from spacy.lang.tr.stop_words import STOP_WORDS
 import time
 start_time = time.time()
+
+print("Started")
 
 def tokenize(sentence):
     return [token for token in sentence.split() if token not in STOP_WORDS]
@@ -39,17 +42,17 @@ def get_sentences(file_list):
                 sentence_list.append(row)
     return sentence_list
 
-foldername = "model_input_texts\\bio_texts"
-filename="wiki_bio_texts2.txt"
+#           ////////////////////        change for every model         ////////////////////
+
+foldername = "model_input_texts/maths_texts"
+filename="wiki_maths_texts.txt"
 filepath = path.join(base_path.PROJECT_PATH, "files", foldername , filename)
 file_list = [filepath]
-file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "eba_bio_texts.txt"))
-file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "bio_selin_hoca_9.txt"))
-file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "bio_selin_hoca_10.txt"))
-file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "bio_selin_hoca_11.txt"))
-file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "bio_selin_hoca_12.txt"))
+file_list.append(path.join(base_path.PROJECT_PATH, "files", foldername , "eba_maths_texts.txt"))
 sentences=get_sentences(file_list)
 # print(sentences[0])
+
+#           ////////////////////        change for every model         ////////////////////
 
 from gensim.models.phrases import Phrases, Phraser
 def build_phrases(sentences):
@@ -102,5 +105,10 @@ model_ted = FastText(corpus, vector_size =100, window=20, min_count=5,epochs=20,
 # print(model_ted.wv.most_similar("asal_sayılar",topn=50))
 print("--- %s seconds ---" % (time.time() - start_time))
 
+print("Finished")
 
-model_ted.save("fasttext_maths_all.model")
+#           ////////////////////        change for every model         ////////////////////
+
+model_ted.save("fasttext_maths_all.model")    
+
+#           ////////////////////        change for every model         ////////////////////
