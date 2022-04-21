@@ -13,7 +13,8 @@ Output format:
 import sys
 
 # enes path
-sys.path.insert(0, '/Users/aydo/Desktop/pure/PURE_NLP_2022/scripts')
+# sys.path.insert(0, '/Users/aydo/Desktop/pure/PURE_NLP_2022/scripts')
+sys.path.insert(0, 'D:\Github_Repos\morpa_nlp\PURE_NLP_2022\scripts')
 
 import os
 from os import path
@@ -85,7 +86,7 @@ def test_model(model, file):
     print(f"Category 2 accuracy: {cat_2_acc}%")
 
 #           ////////////////////        change accordingly          ////////////////////
-filename = path.join(base_path.PROJECT_PATH, "files", "test_bio_model.txt")
+filename = path.join(base_path.PROJECT_PATH, "files", "tests", "test_chem_model.txt")
 test_model(model_ted, filename)
 
 print("--- %s seconds ---" % (time.time() - start_time))

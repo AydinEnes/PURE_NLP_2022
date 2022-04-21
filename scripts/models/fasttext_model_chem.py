@@ -14,7 +14,9 @@ import sys
 
 
 # enes path
-sys.path.insert(0, '/Users/aydo/Desktop/pure/PURE_NLP_2022/scripts')
+# sys.path.insert(0, '/Users/aydo/Desktop/pure/PURE_NLP_2022/scripts')
+sys.path.insert(0, 'D:\Github_Repos\morpa_nlp\PURE_NLP_2022\scripts')
+
 
 from base_path import base_path
 

@@ -1,0 +1,91 @@
+DIFFICULTY 1 (basic concepts, 5 words)
+yumurta kedi köpek inek tavşan
+araba kulak göz ağız burun
+hava ateş su toprak hava
+ağaç orkide papatya gül karanfil
+kedi orkide papatya gül karanfil
+araba bilgisayar televizyon telefon kulaklık
+kirpi kitap dergi makale mektup
+yeşil kitap kalem kağıt defter
+bebek kırmızı yeşil mavi mor
+gölge siyah beyaz gri mavi
+ses sarı kırmızı turuncu siyah
+
+DIFFICULTY 2 (topic concepts, 5 words)
+kimya metalik_bağ iyonik_bağ kovalent_bağ hidrojen_bağı
+metal hidrojen helyum azot oksijen
+enerji hidrojen helyum azot oksijen
+tepkime hidrojen helyum azot oksijen
+antijen hidrojen helyum azot oksijen
+kayyum hidrojen helyum azot oksijen
+metal hidrojen helyum azot oksijen
+ısı hidrojen helyum azot oksijen
+sıcaklık hidrojen helyum azot oksijen
+madde erime kaynama buharlaşma donma
+kimya erime kaynama buharlaşma donma
+simya erime kaynama buharlaşma donma
+enerji erime kaynama buharlaşma donma
+katı erime kaynama buharlaşma donma
+sıvı erime kaynama buharlaşma donma
+gaz erime kaynama buharlaşma donma
+plazma erime kaynama buharlaşma donma
+azot erime kaynama buharlaşma donma
+ısı erime kaynama buharlaşma donma
+oksijen katı sıvı gaz plazma
+helyum katı sıvı gaz plazma
+lityum katı sıvı gaz plazma
+erime katı sıvı gaz plazma
+buhar katı sıvı gaz plazma
+ışık katı sıvı gaz plazma
+enerji katı sıvı gaz plazma
+madde katı sıvı gaz plazma
+demir aktif_metal amfoter_metal yarı_metal soy_metal yarı_soy_metal
+enerji aktif_metal amfoter_metal yarı_metal soy_metal yarı_soy_metal
+apolar_grup aktif_metal amfoter_metal yarı_metal soy_metal yarı_soy_metal
+element aktif_metal amfoter_metal yarı_metal soy_metal yarı_soy_metal
+elektron aktif_metal amfoter_metal yarı_metal soy_metal yarı_soy_metal
+proton aktif_metal amfoter_metal yarı_metal soy_metal yarı_soy_metal
+tuz sodyum_klorür sodyum_karbonat sodyum_bikarbonat kalsiyum_karbonat
+aktif_metal sodyum_klorür sodyum_karbonat sodyum_bikarbonat kalsiyum_karbonat
+amfoter_metal sodyum_klorür sodyum_karbonat sodyum_bikarbonat kalsiyum_karbonat
+elektron sodyum_klorür sodyum_karbonat sodyum_bikarbonat kalsiyum_karbonat
+demir sodyum_klorür sodyum_karbonat sodyum_bikarbonat kalsiyum_karbonat
+helyum sodyum_klorür sodyum_karbonat sodyum_bikarbonat kalsiyum_karbonat
+karbondioksit sodyum_klorür sodyum_karbonat sodyum_bikarbonat kalsiyum_karbonat
+yanma sodyum_klorür sodyum_karbonat sodyum_bikarbonat kalsiyum_karbonat
+gaz kütle mol_sayısı molekül_sayısı atom_sayısı
+katı kütle mol_sayısı molekül_sayısı atom_sayısı
+aktif_metal kütle mol_sayısı molekül_sayısı atom_sayısı
+tepkime kütle mol_sayısı molekül_sayısı atom_sayısı
+donma kütle mol_sayısı molekül_sayısı atom_sayısı
+bozunma kütle mol_sayısı molekül_sayısı atom_sayısı
+sıcaklık kütle mol_sayısı molekül_sayısı atom_sayısı
+donma sentez analiz yanma asit_baz
+element sentez analiz yanma asit_baz
+oksijen sentez analiz yanma asit_baz
+iyonik_bağ sentez analiz yanma asit_baz
+amfoter_metal sentez analiz yanma asit_baz
+demir sentez analiz yanma asit_baz
+simya biyokimya analitik_kimya organik_kimya anorganik_kimya
+donma biyokimya analitik_kimya organik_kimya anorganik_kimya
+bozunma biyokimya analitik_kimya organik_kimya anorganik_kimya
+biyoloji biyokimya analitik_kimya organik_kimya anorganik_kimya
+gaz biyokimya analitik_kimya organik_kimya anorganik_kimya
+katı biyokimya analitik_kimya organik_kimya anorganik_kimya
+iyonik_bağ biyokimya analitik_kimya organik_kimya anorganik_kimya
+tepkime biyokimya analitik_kimya organik_kimya anorganik_kimya
+kimya beherglas erlenmayer dereceli_silindir pipet
+donma beherglas erlenmayer dereceli_silindir pipet
+ısınma beherglas erlenmayer dereceli_silindir pipet
+tepkime beherglas erlenmayer dereceli_silindir pipet
+metal beherglas erlenmayer dereceli_silindir pipet
+simya beherglas erlenmayer dereceli_silindir pipet
+asit beherglas erlenmayer dereceli_silindir pipet
+element beherglas erlenmayer dereceli_silindir pipet
+oksijen beherglas erlenmayer dereceli_silindir pipet
+gaz beherglas erlenmayer dereceli_silindir pipet
+gaz beherglas erlenmayer dereceli_silindir büret
+donma beherglas erlenmayer dereceli_silindir ayırma_hunisi
+asit beherglas erlenmayer dereceli_silindir balon_joje
+laboratuvar beherglas erlenmayer dereceli_silindir büret
+asit beherglas erlenmayer dereceli_silindir büret

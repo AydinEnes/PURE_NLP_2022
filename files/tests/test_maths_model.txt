@@ -1,0 +1,44 @@
+DIFFICULTY 1 (basic concepts, 5 words)
+yumurta kedi köpek inek tavşan
+araba kulak göz ağız burun
+hava ateş su toprak hava
+ağaç orkide papatya gül karanfil
+kedi orkide papatya gül karanfil
+araba bilgisayar televizyon telefon kulaklık
+kirpi kitap dergi makale mektup
+yeşil kitap kalem kağıt defter
+bebek kırmızı yeşil mavi mor
+gölge siyah beyaz gri mavi
+ses sarı kırmızı turuncu siyah
+
+DIFFICULTY 2 (topic concepts, 5 words)
+açı üçgen dörtgen beşgen altıgen
+açı üçgen dikdörtgen beşgen altıgen
+açı üçgen paralelkenar beşgen altıgen
+açı üçgen paralelkenar deltoid yamuk
+açı üçgen paralelkenar beşgen yamuk
+açı üçgen dörtgen beşgen kare
+kare açı kenar köşe yay
+üçgen açı kenar köşe yay
+paralelkenar açı kenar köşe yay
+kare denklem bilinmeyen eşitlik cebirsel_ifade
+dikdörtgen denklem bilinmeyen eşitlik cebirsel_ifade
+açı denklem bilinmeyen eşitlik cebirsel_ifade
+kenar denklem bilinmeyen eşitlik cebirsel_ifade
+çember denklem bilinmeyen eşitlik cebirsel_ifade
+çarpan denklem bilinmeyen eşitlik cebirsel_ifade
+kenar toplama bölme çıkarma çarpma
+doğru toplama bölme çıkarma çarpma
+denklem toplama bölme çıkarma çarpma
+değişme toplama bölme çıkarma çarpma
+fonksiyon toplama bölme çıkarma çarpma
+açı toplama bölme çıkarma çarpma
+işlem toplama bölme çıkarma çarpma
+açı sinüs kosinüs tanjant kotanjant
+trigonometri sinüs kosinüs tanjant kotanjant
+dik sinüs kosinüs tanjant kotanjant
+kesin sinüs kosinüs tanjant kotanjant
+kenar sinüs kosinüs tanjant kotanjant
+üçgen sinüs kosinüs tanjant kotanjant
+daire sinüs kosinüs tanjant kotanjant
+eşit sinüs kosinüs tanjant kotanjant
