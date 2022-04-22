@@ -89,3 +89,11 @@ donma beherglas erlenmayer dereceli_silindir ayırma_hunisi
 asit beherglas erlenmayer dereceli_silindir balon_joje
 laboratuvar beherglas erlenmayer dereceli_silindir büret
 asit beherglas erlenmayer dereceli_silindir büret
+baz atom elektron proton nötron
+donma atom elektron proton nötron
+oksijen atom elektron proton nötron
+ısınma atom elektron proton nötron
+enerji atom elektron proton nötron
+elektrik atom elektron proton nötron
+amfoter_metal atom elektron proton nötron
+kimya atom elektron proton nötron
