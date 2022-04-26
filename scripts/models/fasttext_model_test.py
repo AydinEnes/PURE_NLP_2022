@@ -28,7 +28,7 @@ import gensim
 
 
 #           ////////////////////        change accordingly          ////////////////////
-model_ted = gensim.models.FastText.load("fasttext_chem_all.model")
+model_ted = gensim.models.FastText.load("fasttext_bio_all.model")
 
 # print(model_ted.wv.most_similar("bakteri",topn=50))
 # print("\n-------------------------------------------------------------\n")
@@ -86,7 +86,7 @@ def test_model(model, file):
     print(f"Category 2 accuracy: {cat_2_acc}%")
 
 #           ////////////////////        change accordingly          ////////////////////
-filename = path.join(base_path.PROJECT_PATH, "files", "tests", "test_chem_model.txt")
+filename = path.join(base_path.PROJECT_PATH, "files", "tests", "test_bio_model.txt")
 test_model(model_ted, filename)
 
 print("--- %s seconds ---" % (time.time() - start_time))
