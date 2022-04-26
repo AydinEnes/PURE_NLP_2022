@@ -1,0 +1,10 @@
+eşeysiz_üreme;sinir_sistemi
+eşeysiz_üreme;eşeyli_üreme
+eşeysiz_üreme;ökaryot_hücre
+eşeysiz_üreme;mayoz
+eşeysiz_üreme;hücre_bölünmesi
+eşeysiz_üreme;hücre_zarı
+eşeysiz_üreme;mitoz
+eşeysiz_üreme;hücre_teorisi
+eşeysiz_üreme;sitoplazma_ve_organeller
+eşeysiz_üreme;canlıların_sınıflandırılması
